@@ -1,0 +1,70 @@
+<footer class="site-footer">
+	
+	<!--<div class="social_bar">
+		<a href="https://www.facebook.com/qftarchitects/" alt="Facebook: Francis Terry and Associates" class="social_facebook" target="_blank">Facebook: Francis Terry and Associates</a>
+		<a href="https://www.instagram.com/francis_terry_architect/" alt="Instagram: Francis Terry Architect" class="social_instagram" target="_blank">Instagram: Francis Terry Architect</a>
+		<a href="https://uk.pinterest.com/francis0735/" alt="Pinterest: Francis Terry" class="social_pinterest" target="_blank">Pinterest: Francis Terry</a>
+	</div>-->
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>{{ site.address }}</li>
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+					<li>{{ site.telephone }}</li>
+          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+					<p>Follow us on...</p>
+          {% if site.facebook_username %}
+          <li class="social-icon">
+            {% include icon-facebook.html username=site.facebook_username %}
+          </li>
+          {% endif %}
+					
+					{% if site.twitter_username %}
+          <li class="social-icon">
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
+
+          {% if site.instagram_username %}
+          <li class="social-icon">
+            {% include icon-instagram.html username=site.instagram_username %}
+          </li>
+          {% endif %}
+					
+					 {% if site.pinterest_username %}
+          <li class="social-icon">
+            {% include icon-pinterest.html username=site.pinterest_username %}
+          </li>
+          {% endif %}
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <p>Francis Terry and Associates are designers of new-build and restorations of classical Georgian style architecture and country houses.</p>
+				<div class="footer-credit">
+					<p><i class="fa fa-copyright" aria-hidden="true"></i>
+					<script type="text/javascript">
+						document.write(new Date().getFullYear());
+					</script>
+					, {{ site.title }} Ltd.</p>
+					<div>
+						<p class="tiny">Francis Terry and Associates Ltd is a Private Ltd company registered in England and Wales.<br/>
+						Registered Company No. 10178768.</p>
+					</div>
+				</div>
+			</div>
+			
+    </div>
+
+  </div>
+
+</footer>

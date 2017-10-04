@@ -1,0 +1,19 @@
+/* == Landing Pages == */
+.landing-content {
+	
+	.landing-hero {
+		margin-bottom: $unit*4;
+		min-width: 100%;
+	}
+}
+
+/* == Book A Taster Day With Francis Terry == */
+.taster-days {
+	background-image: url('/images/practice/francis-terry-4.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

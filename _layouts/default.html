@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    
+    {% if page.comments %}
+    
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=896521203738516";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+    {% endif %}
+
+  {% include header.html %}
+
+    <div class="page-content">
+      <div class="wrapper {% if page.rec == 'L' %}light{% endif %}">
+        {{ content }}
+      </div>			
+    </div>		
+
+    {% include footer.html %}
+		
+		{% include fancybox.html %}
+		
+		{% if page.title == 'Drawings' or page.title == 'Gallery' or page.title == 'Projects' or page.title == 'The Making of the Erechtheion Capital' or page.title == 'Videos' %}
+		
+		<script>
+			$(function(){
+				$.oPageLoader({
+					backgroundColor: '#fff',
+					progressBarColor: '#a1a1a1',
+					fadeLevel: 0.9,
+					percentageColor: '#a1a1a1'
+				});
+			});
+		</script>
+    
+    {% endif %}
+
+  </body>
+
+</html>

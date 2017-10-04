@@ -1,0 +1,31 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Francis Terry and Associates
+address: >
+ Unit 6 Ash House,<br/>
+ Vale View Business Units,<br/>
+ Crown Lane South,<br/>
+ Ardleigh,Colchester,<br/>
+ CO7 7PL
+telephone: 01206 580528
+email: info@ftanda.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+  Francis Terry and Associates are designers of new-build and restorations of classical Georgian style architecture and country houses
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ftanda.co.uk" # the base hostname & protocol for your site
+social_image: /images/social/social-portico.jpg
+facebook_username: ftanda.co.uk
+twitter_username: FTerryArchitect
+instagram_username: francis_terry_architect
+pinterest_username: francis0735
+app: 896521203738516 # Facebook app ID
+
+# Build settings
+markdown: kramdown
+encoding: utf-8

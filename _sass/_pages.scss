@@ -1,0 +1,330 @@
+/* Home Page
+==================== */
+.featurepage {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.background-home {
+	background-size: cover;
+	background-position: center;
+	background-image: url('/images/home/portico.jpg');
+	-webkit-transition: 2s background-image;
+    transition: 2s background-image;
+}	
+.background-home .content:after {
+	content: "";
+	z-index: 1;
+	display: block;
+	position: absolute;
+	height: 100%;
+	top: 0;
+	left: 0;
+	right: 0;
+}
+.background-home .content img {
+	position: relative;
+	z-index: 2;
+}
+.featurepage .site-header {
+	position: absolute;
+    top: 0;
+    left: $unit*1.5;
+    width: calc(100% - (#{$unit} * 3));
+	max-width: -webkit-calc(#{$content-width} - (#{$unit} * 6));
+    max-width:         calc(#{$content-width} - (#{$unit} * 6));
+    margin-right: auto;
+    margin-left: auto;
+    padding-right: 0;
+    padding-left: 0;
+
+    @include media-query($on-laptop) {
+        max-width: -webkit-calc(#{$content-width} - (#{$unit} * 3));
+        max-width:         calc(#{$content-width} - (#{$unit} * 3));
+        padding-right: $unit / 2;
+        padding-left: $unit / 2;
+    }
+}
+.featurepage .site-header img {
+	display: none;
+}
+.featurepage .site-nav {
+    .page-link {
+        color: $white;
+		
+		&:hover {
+			color: $grey-pale;
+		}
+	}
+
+    @include media-query($on-laptop) {
+        background: none;
+		
+		&:hover {
+			background: $grey;
+		}
+
+        .menu-icon {
+            > svg {
+                path {
+                    fill: $white;
+                }
+            }
+        }
+    }
+}
+.featurepage .wrapper {
+	max-width: 100%;
+}
+.featurepage .home {
+	width: 100%;
+	max-width: calc(1809px - (#{$unit} * 6));
+	margin: 0 auto;
+}
+.featurepage img.logo {
+	object-fit: cover;
+}
+
+.featurepage .credit {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    color: $white;
+	font-size: $font-size-small;
+	text-align: center;
+}
+
+/* Practice Page
+==================== */
+.practice img {
+	margin-bottom: $unit*3;
+}
+
+/* Switch FT image to fit responsive layout */
+.practice-ft1 {
+	display: block;
+	
+	@include media-query($on-palm) {
+		display: none;
+	}
+}
+.practice-ft2 {
+	display: none;
+	
+	@include media-query($on-palm) {
+		display: block;
+	}
+}
+
+img.main {
+	float: left;
+	margin: 0 ($unit*3) ($unit*3) 0;
+	width: 33%;
+	
+	@include media-query($on-laptop) {
+	}
+	@include media-query($on-palm) {
+		width: 100%;
+		margin-right: 0;
+	}
+}
+
+/* Publications Page
+==================== */
+ul.publications li {
+	list-style: none;
+	float: none;
+	margin-bottom: $unit*3;
+	@extend %clearfix;
+}
+ul.publications li img {
+	float: left;
+	width: 33%;
+	padding: 0 ($unit*2) ($unit*2) 0;
+	
+	@include media-query ($on-laptop) {
+		width: 44%;
+	}
+	@include media-query ($on-palm) {
+		float: none;
+		width: 100%;
+		padding: 0 0 ($unit*2) 0; 
+	}
+}
+ul.publications p {
+	text-align: justify;
+}
+
+/* Thoughts Page
+==================== */
+ul.thoughts li {
+	list-style: none;
+	float: none;
+	margin-bottom: $unit*3;
+	@extend %clearfix;
+}
+ul.thoughts li img {
+	float: left;
+	width: 33%;
+	padding: 0 ($unit*2) ($unit*2) 0;
+	
+	&.tall {
+		display: block;
+	}	
+	&.wide {
+		display: none;
+	}
+	
+	@include media-query ($on-laptop) {
+		float: none;
+		width: 100%;
+		padding: 0 0 ($unit*2) 0;
+		
+		&.tall {
+			display: none;
+		}	
+		&.wide {
+			display: block;
+		}
+	}
+	
+	@include media-query ($on-palm) {
+		&.tall {
+			display: block;
+		}	
+		&.wide {
+			display: none;
+		}
+	}
+	
+}
+ul.thoughts p {
+	text-align: justify;
+}
+.thoughts-description {
+	width: calc(100% - (33% + (#{$unit}*2)));
+	float: right;
+	
+	@include media-query ($on-laptop) {
+		float: none;
+		width: 100%;
+	}
+}
+
+/* Videos Page
+==================== */
+.video1ext {
+	display: block;
+	
+	@include media-query($on-palm) {
+		display: none;
+	}
+}
+.video1 {
+	display: none;
+	
+	@include media-query($on-palm) {
+		display: block;
+	}
+}
+/* Erechtheion essay */
+.videoWrapper {
+	margin-bottom: $unit*2;
+	position: relative;
+	padding-bottom: 56.25%; /* 16:9 */
+	padding-top: 25px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+.erechtheion-video {
+	background: $black;
+	text-align: center;
+	width: 100%;
+	
+	iframe {
+		margin: 0 auto;
+		height: 360px;
+		width: 640px;
+	}
+	@media screen and (max-width: 640px) {
+		background: none;
+		
+		iframe {
+		width: 100%;
+		}
+	}
+	@media screen and (max-width: 520px) {
+		background: none;
+		height: 293px;
+	}
+	@media screen and (max-width: 400px) {
+		background: none;
+		height: 225px;
+	}
+	@media screen and (max-width: 320px) {
+		background: none;
+		height: 180px;
+	}
+}
+
+/* Recruitment Page
+==================== */
+
+.light {
+	min-height: 100vh;
+	background-position: center top;
+	background-size: cover;
+	background-repeat: no-repeat;
+	padding: $unit*3;
+	color: $white;
+	background-image: url('/images/practice/fta-office.jpg');
+}
+.recruitment-text {
+	width: 50%;
+	
+	@include media-query($on-laptop) {
+		width: initial;
+	}
+	a {
+		color: $white;
+		font-weight: $font-weight-heavy;
+			text-decoration: underline;
+		
+		&:hover {
+			text-decoration: none;
+		}
+	}
+}
+
+/* Contact Page
+==================== */
+.contact-address {
+	margin: ($unit*2) 0;
+}
+.contact-tel {
+	font-size: $font-size*1.2;
+		&::before {
+			content: 'Tel: ';
+		}
+		&::after {
+			font-weight: $font-weight-heavy;
+		}
+}
+.contact-email {
+	font-size: $font-size*1.2;
+		&::before {
+			content: 'Email: ';
+		}
+		&::after {
+			font-weight: $font-weight-heavy;
+		}
+}
