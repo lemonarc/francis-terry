@@ -18,6 +18,7 @@ class: taster-day
 	<input type="hidden" name="_subject" value="Francis Terry and Associates Contact Form" />
 	<input type="text" name="Name" placeholder="Your Name">
 	<input type="email" name="_replyto" placeholder="Your Email">
+	<input id="product-selector" type="products" />
 	<textarea name="Message" placeholder="Your Message"></textarea>
 	<input type="submit" value="Send">
 </form>
@@ -28,3 +29,21 @@ class: taster-day
 	<li class="contact-email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 </ul>
 </div>
+
+<script type="text/javascript">
+  $(function() {
+    var id = 'product-selector';
+    $.get('/api/products', function(products) {
+        $('#' + id).replaceWith(function() {
+          return $("<select></select>").attr("id", id).attr("name", id);
+        });
+        
+        $.each(products, function (i, product) {
+          $('#' + id)
+          .append("<option value='" + product.id + "'>" +
+            product.name + " (£" + (product.price / 100).toFixed(2) + ")"
+          + "</option>");
+        });
+    });
+  });
+</script>
