@@ -23,11 +23,7 @@ $(function() {
     key: 'pk_test_UeSvUeIabOSxYzN6b4QejXoi',
     image: '/apple-touch-icon.png',
     locale: 'auto',
-    token: function(token) {
-      console.log(token);
-      // You can access the token ID with `token.id`.
-      // Get the token ID to your server-side code for use.
-    }
+    token: completeOrder
   });
 
   checkoutButton.click(function(e) {
@@ -47,4 +43,16 @@ $(function() {
   window.addEventListener('popstate', function() {
     handler.close();
   });
+
+  function completeOrder(token) {
+    $.post('/api/orders', {
+      stripeToken: token.id,
+      email: token.email,
+      sku: $("option:selected", $('#product-selector')).val()
+    }, redirectThanks);
+  }
+
+  function redirectThanks() {
+    window.location = '/taster-day-thanks';
+  }
 });
