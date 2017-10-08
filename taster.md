@@ -17,10 +17,10 @@ class: taster-day
 	<input type="hidden" name="_next" value="/contact-success">
 	<input type="hidden" name="_subject" value="Francis Terry and Associates Contact Form" />
 	<input type="text" name="Name" placeholder="Your Name">
-	<input type="email" name="_replyto" placeholder="Your Email">
-	<input id="product-selector" type="products" />
+	<input id="contact-email" type="email" name="_replyto" placeholder="Your Email">
+	<input id="product-selector" type="hidden" />
 	<textarea name="Message" placeholder="Your Message"></textarea>
-	<input type="submit" value="Send">
+	<input id="checkout-button" type="submit" value="Checkout">
 </form>
 
 <ul class="contact-list">
@@ -30,20 +30,5 @@ class: taster-day
 </ul>
 </div>
 
-<script type="text/javascript">
-  $(function() {
-    var id = 'product-selector';
-    $.get('/api/products', function(products) {
-        $('#' + id).replaceWith(function() {
-          return $("<select></select>").attr("id", id).attr("name", id);
-        });
-        
-        $.each(products, function (i, product) {
-          $('#' + id)
-          .append("<option value='" + product.id + "'>" +
-            product.name + " (£" + (product.price / 100).toFixed(2) + ")"
-          + "</option>");
-        });
-    });
-  });
-</script>
+<script src="https://checkout.stripe.com/checkout.js"></script>
+<script src="/js/stripe/index.js" type="text/javascript"></script>
