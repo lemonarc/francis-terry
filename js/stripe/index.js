@@ -54,7 +54,10 @@ $(function() {
       stripeToken: token.id,
       email: token.email,
       sku: $("option:selected", $('#product-selector')).val()
-    }, redirectThanks);
+    }, redirectThanks)
+      .fail(function() {
+        window.location = '/taster-day-fail';
+      });
   }
 
   function redirectThanks() {
