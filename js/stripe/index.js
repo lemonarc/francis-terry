@@ -55,12 +55,14 @@ $(function() {
       email: token.email,
       sku: $("option:selected", $('#product-selector')).val()
     }, redirectThanks)
-      .fail(function() {
-        window.location = '/taster-day-fail';
-      });
+    .fail(redirectFail);
   }
 
   function redirectThanks() {
     window.location = '/taster-day-thanks';
+  }
+
+  function redirectFail() {
+    window.location = '/taster-day-fail';
   }
 });
