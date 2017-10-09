@@ -12,21 +12,18 @@ class: taster-day
 
 <h1>{{ page.title }}</h1>
 <h3>{{ page.excerpt }}</h3>
-<form action="//formspree.io/{{ site.email }}" method="post" id="contact-form">
-	<input type="text" name="_gotcha" style="display:none" />
-	<input type="hidden" name="_next" value="/contact-success">
-	<input type="hidden" name="_subject" value="Francis Terry and Associates Contact Form" />
-	<input type="text" name="Name" placeholder="Your Name">
-	<input id="contact-email" type="email" name="_replyto" placeholder="Your Email">
-	<input id="product-selector" type="hidden" />
-	<textarea name="Message" placeholder="Your Message"></textarea>
-	<input id="checkout-button" type="submit" value="Checkout">
+<form method="post" id="contact-form">
+    <div id="product-selector">Loading Products...</div>
+    <input type="text" name="name" placeholder="Your Name">
+    <input id="contact-email" type="email" placeholder="Your Email">
+    <textarea name="Message" placeholder="Your Message"></textarea>
+    <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">
 </form>
 
 <ul class="contact-list">
-	<li class="contact-address">{{ site.address }}</li>
-	<li class="contact-tel">{{ site.telephone }}</li>
-	<li class="contact-email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+    <li class="contact-address">{{ site.address }}</li>
+    <li class="contact-tel">{{ site.telephone }}</li>
+    <li class="contact-email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 </ul>
 </div>
 

@@ -17,6 +17,11 @@ $(function() {
       }).text(product.name + " (£" + (product.price / 100).toFixed(2) + ")");
       $('#product-selector').append(option);
     });
+
+    checkoutButton.removeAttr('disabled');
+  }).fail(function() {
+    $('#product-selector').text("Could not load products");
+    $('#contact-form').addClass("has-error");
   });
 
   var handler = StripeCheckout.configure({
