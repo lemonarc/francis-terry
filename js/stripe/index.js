@@ -2,7 +2,7 @@ $(function() {
   var productSelector = $('#product-selector');
   var checkoutButton = $('#checkout-button');
 
-  $.get('/api/products', function(products) {
+  $.get(api_url + '/products/', function(products) {
     productSelector.replaceWith(function() {
       return $("<select></select>")
         .attr("id", 'product-selector')
@@ -51,7 +51,7 @@ $(function() {
 
   function completeOrder(token) {
     var productOption = $("option:selected", $('#product-selector'));
-    $.post('/api/orders', {
+    $.post(api_url + '/orders/', {
       stripeToken: token.id,
       email: token.email,
       description: productOption[0].dataset.description,
