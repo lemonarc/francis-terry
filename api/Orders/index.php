@@ -23,7 +23,7 @@ try {
 
     $mailer = new ConfirmationMailer();
 
-    $mailer->send($_POST['name'], $_POST['email'], $_POST['description'], $_POST['message']);
+    $mailer->send($_POST['name'], $_POST['email'], $_POST['phone_number'], $_POST['description'], $_POST['message']);
 
     http_response_code(201);
 } catch (\Exception $error) {

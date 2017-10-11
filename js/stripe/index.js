@@ -33,6 +33,17 @@ $(function() {
 
   checkoutButton.click(function(e) {
     e.preventDefault();
+    var emptyFields = $("input.required").filter(function() {
+      return $.trim(this.value).length === 0;
+    });
+    if (emptyFields.length !== 0) {
+      emptyFields.addClass('required-error');
+      emptyFields.focus(function() {
+        $(this).removeClass('required-error');
+      });
+      return;
+    }
+
     var productOption = $("option:selected", $('#product-selector'));
     // Open Checkout with further options:
     handler.open({
@@ -56,6 +67,7 @@ $(function() {
       email: token.email,
       description: productOption[0].dataset.description,
       name: $('#contact-name').val(),
+      phone_number: $('#contact-telephone').val(),
       message: $('#contact-message').val(),
       sku: productOption.val()
     }, redirectThanks)
