@@ -50,10 +50,13 @@ $(function() {
   });
 
   function completeOrder(token) {
+    var productOption = $("option:selected", $('#product-selector'));
     $.post('/api/orders', {
       stripeToken: token.id,
       email: token.email,
-      sku: $("option:selected", $('#product-selector')).val()
+      description: productOption[0].dataset.description,
+      name: $('#contact-name').val(),
+      sku: productOption.val()
     }, redirectThanks)
     .fail(redirectFail);
   }

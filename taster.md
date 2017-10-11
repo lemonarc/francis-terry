@@ -14,7 +14,7 @@ class: taster-day
 <h3>{{ page.excerpt }}</h3>
 <form method="post" id="contact-form">
     <div id="product-selector">Loading Products...</div>
-    <input type="text" name="name" placeholder="Your Name">
+    <input id="contact-name" type="text" name="name" placeholder="Your Name">
     <input id="contact-email" type="email" placeholder="Your Email">
     <textarea name="Message" placeholder="Your Message"></textarea>
     <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">

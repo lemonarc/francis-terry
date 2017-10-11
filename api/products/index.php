@@ -1,6 +1,10 @@
 <?php
 
-require('../../vendor/autoload.php');
+namespace FrancisTerry\Products;
+
+use Stripe;
+
+require_once '../../vendor/autoload.php';
 
 Stripe\Stripe::setApiKey("sk_test_zKM594Dr7tVA1zuZpFoImFkr");
 
@@ -11,7 +15,7 @@ try {
 
     /** @var \Stripe\Product $product */
     foreach ($products->data as $product) {
-        $productSkus = array_map(function (\Stripe\SKU $sku) use ($product) {
+        $productSkus = array_map(function (Stripe\SKU $sku) use ($product) {
             return [
                 'id' => $sku->id,
                 'name' => $product->name,
