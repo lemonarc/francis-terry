@@ -184,6 +184,7 @@ form {
 	}
 }
 input,
+select,
 textarea {
 	font-family: $font-family;
 	font-size: $font-size;
@@ -196,6 +197,7 @@ textarea {
 textarea {
 	min-height: $unit * 10;
 }
+
 
 /* Smooth transitions
 ==================== */

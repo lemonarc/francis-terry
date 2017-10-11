@@ -14,11 +14,12 @@ class: taster-day
 
 <h1>{{ page.title }}</h1>
 <h3>{{ page.excerpt }}</h3>
-<form method="post" id="contact-form">
-    <div id="product-selector">Loading Products...</div>
+<form method="post" id="contact-form booking-form">
     <input id="contact-name" type="text" name="name" placeholder="Your Name">
     <input id="contact-email" type="email" placeholder="Your Email">
+	<input id="contact-telephone" type="telephone" placeholder="Your Telephone No.">
     <textarea id="contact-message" name="Message" placeholder="Your Message"></textarea>
+	<div id="product-selector">Loading Products...</div>
     <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">
 </form>
 
