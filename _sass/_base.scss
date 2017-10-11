@@ -186,13 +186,17 @@ form {
 input,
 select,
 textarea {
+	border: 1px solid $grey-pale;
+	color: $text-color;
 	font-family: $font-family;
 	font-size: $font-size;
-	border: 1px solid $grey-pale;
-	width: 100%;
+	margin-bottom: $unit * 2;
 	max-width: calc(100% - #{$unit * 2});
 	padding: $unit / 2;
-	margin-bottom: $unit * 2;
+	width: 100%;
+}
+select {
+	max-width: calc(100% - #{$unit * 1});
 }
 textarea {
 	min-height: $unit * 10;

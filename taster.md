@@ -20,7 +20,7 @@ class: taster-day
 	<input id="contact-telephone" type="telephone" placeholder="Your Telephone No.">
     <textarea id="contact-message" name="Message" placeholder="Your Message"></textarea>
 	<div id="product-selector">Loading Products...</div>
-    <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">
+    <input id="checkout-button" disabled="disabled" type="submit" value="Book Now">
 </form>
 
 <div class=".footer-col-wrapper">
