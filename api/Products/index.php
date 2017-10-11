@@ -7,7 +7,7 @@ use Stripe;
 require_once '../../vendor/autoload.php';
 require_once '../env.php';
 
-Stripe\Stripe::setApiKey(getenv('SENDGRID_API_KEY'));
+Stripe\Stripe::setApiKey(getenv('STRIPE_API_SECRET_KEY'));
 
 try {
     $products = Stripe\Product::all();
