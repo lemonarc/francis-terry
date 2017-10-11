@@ -5,8 +5,9 @@ namespace FrancisTerry\Orders;
 use Stripe;
 
 require_once '../../vendor/autoload.php';
+require_once '../env.php';
 
-Stripe\Stripe::setApiKey("sk_test_zKM594Dr7tVA1zuZpFoImFkr");
+Stripe\Stripe::setApiKey(getenv('SENDGRID_API_KEY'));
 
 try {
     $order = Stripe\Order::create(array(

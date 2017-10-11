@@ -2,7 +2,7 @@ $(function() {
   var productSelector = $('#product-selector');
   var checkoutButton = $('#checkout-button');
 
-  $.get(api_url + '/products/', function(products) {
+  $.get(api_url + '/Products/', function(products) {
     productSelector.replaceWith(function() {
       return $("<select></select>")
         .attr("id", 'product-selector')
@@ -25,7 +25,7 @@ $(function() {
   });
 
   var handler = StripeCheckout.configure({
-    key: 'pk_test_UeSvUeIabOSxYzN6b4QejXoi',
+    key: api_stripe_key,
     image: '/apple-touch-icon.png',
     locale: 'auto',
     token: completeOrder
@@ -51,7 +51,7 @@ $(function() {
 
   function completeOrder(token) {
     var productOption = $("option:selected", $('#product-selector'));
-    $.post(api_url + '/orders/', {
+    $.post(api_url + '/Orders/', {
       stripeToken: token.id,
       email: token.email,
       description: productOption[0].dataset.description,

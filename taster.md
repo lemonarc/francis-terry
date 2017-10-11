@@ -27,6 +27,9 @@ class: taster-day
 </ul>
 </div>
 
-<script type="text/javascript">var api_url = '{{ site.data.api.url | default: "https://ftanda.co.uk/api" }}';</script>
+<script type="text/javascript">
+    var api_url = '{{ site.data.api.url | default: "https://ftanda.co.uk/api" }}';
+    var api_stripe_key = '{{ site.data.api.stripe_key | pk_test_UeSvUeIabOSxYzN6b4QejXoi }}';
+</script>
 <script src="https://checkout.stripe.com/checkout.js"></script>
 <script src="/js/stripe/index.js" type="text/javascript"></script>
