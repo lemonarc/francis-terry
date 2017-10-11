@@ -38,4 +38,4 @@ class: taster-day
 
 <script type="text/javascript">var api_url = '{{ site.data.api.url | default: "https://ftanda.co.uk/api" }}';</script>
 <script src="https://checkout.stripe.com/checkout.js"></script>
-<script src="/js/stripe/index.js" type="text/javascript"></script>
+<script src="/js/stripe/index.js?{{ site.time | date: '%s%N' }}" type="text/javascript"></script>
