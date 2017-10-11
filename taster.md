@@ -8,6 +8,8 @@ class: taster-day
 
 <img src="/images/feature/taster-day-hero.jpg" class="landing-hero" alt="Francis Terry" />
 
+<div class="wrapper">
+
 <div class="article">
 
 <h1>{{ page.title }}</h1>
@@ -20,11 +22,18 @@ class: taster-day
     <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">
 </form>
 
+<div class=".footer-col-wrapper">
+
 <ul class="contact-list">
     <li class="contact-address">{{ site.address }}</li>
     <li class="contact-tel">{{ site.telephone }}</li>
     <li class="contact-email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
 </ul>
+
+</div>
+
+</div>
+
 </div>
 
 <script src="https://checkout.stripe.com/checkout.js"></script>
