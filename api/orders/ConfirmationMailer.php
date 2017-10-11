@@ -17,18 +17,20 @@ class ConfirmationMailer {
         $this->email = getenv('TASTER_DAY_STAFF_EMAIL');
     }
 
-    public function send($customerName, $customerEmail, $dayDescription) {
+    public function send($customerName, $customerEmail, $dayDescription, $message) {
         $from = new SendGrid\Email("Francis Terry Website", "noreply@ftanda.co.uk");
         $subject = "Taster Day Booking";
         $to = new SendGrid\Email($this->name, $this->email);
 
-        $content = "New booking from Francis Terry website\r\n";
-        $content .= "\r\n";
-        $content .= "Booking name: " . $customerName . "\r\n";
-        $content .= "Booking email: " . $customerEmail . "\r\n";
-        $content .= "Booking: " . $dayDescription . "\r\n";
+        $content = "<h3>New booking from Francis Terry website</h3>";
+        $content .= "<p>";
+        $content .= "Booking name: " . $customerName . "<br/>";
+        $content .= "Booking email: " . $customerEmail . "<br/>";
+        $content .= "Booking: " . $dayDescription . "<br/>";
+        $content .= "Message: " . $message . "<br/>";
+        $content .= "</p>";
 
-        $content = new SendGrid\Content("text/plain", $content);
+        $content = new SendGrid\Content("text/html", $content);
 
         $mail = new SendGrid\Mail($from, $subject, $to, $content);
 

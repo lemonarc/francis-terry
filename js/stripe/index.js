@@ -56,6 +56,7 @@ $(function() {
       email: token.email,
       description: productOption[0].dataset.description,
       name: $('#contact-name').val(),
+      message: $('#contact-message').val(),
       sku: productOption.val()
     }, redirectThanks)
     .fail(redirectFail);

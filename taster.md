@@ -16,7 +16,7 @@ class: taster-day
     <div id="product-selector">Loading Products...</div>
     <input id="contact-name" type="text" name="name" placeholder="Your Name">
     <input id="contact-email" type="email" placeholder="Your Email">
-    <textarea name="Message" placeholder="Your Message"></textarea>
+    <textarea id="contact-message" name="Message" placeholder="Your Message"></textarea>
     <input id="checkout-button" disabled="disabled" type="submit" value="Checkout">
 </form>
 
