@@ -1,19 +1,55 @@
 ---
 layout: page
 title: Projects
-excerpt: "Images of work by Quinlan and Francis Terry showing their new-build classical Georgian style architecture and country houses"
+excerpt: "Images of work by the Francis Terry and Associates team, showing their new-build classical Georgian style architecture and country houses"
 permalink: /gallery/
 social_image: /images/social/social-projects.jpg
 ---
-<p>Our team's portfolio of projects undertaken while working at Quinlan and Francis Terry</p>
+<p>Our team's portfolio of projects</p>
 
 <ul class="list random">
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes-orig.jpg" title="New 5 bedroom house for Halsbury Homes">
+<img class="lazy" src="/images/projects/thumbs/5-bedroom-house-for-halsbury-homes-orig.jpg" alt="New 5 bedroom house for Halsbury Homes">
+</a>
+</li>
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes.jpg" title="New 5 bedroom house for Halsbury Homes">
 <img class="lazy" src="/images/projects/thumbs/5-bedroom-house-for-halsbury-homes.jpg" alt="New 5 bedroom house for Halsbury Homes">
 </a>
 </li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-01.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-02.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-03.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+</ul>
+
+<p>Our team's portfolio of projects undertaken while working at Quinlan and Francis Terry</p>
+
+<ul class="list random">
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/corinthianvilla4.jpg" title="Corinthian Villa">
@@ -332,30 +368,6 @@ social_image: /images/social/social-projects.jpg
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/highlandspark16.jpg" title="House in Dallas">
 <img class="lazy" src="/images/projects/thumbs/highlandspark16.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-01.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-02.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-03.jpg" alt="House in Norfolk">
 </a>
 </li>
 
