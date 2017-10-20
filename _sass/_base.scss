@@ -240,6 +240,8 @@ textarea {
 ==================== */
 ul.list {
 	margin: 0;
+	
+	@extend %clearfix;
 }
 ul.list li {
 	list-style: none;

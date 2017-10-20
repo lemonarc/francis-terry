@@ -5,8 +5,7 @@ excerpt: "Images of work by the Francis Terry and Associates team, showing their
 permalink: /gallery/
 social_image: /images/social/social-projects.jpg
 ---
-<h2>Current Projects</h2>
-<p>Our team's portfolio of projects</p>
+<h2>Current Work</h2>
 
 <ul class="list random">
 
@@ -23,8 +22,8 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/eastridge-north-elevation-watercolour.jpg" title="Eastridge North Elevation Watercolour">
-<img class="lazy" src="/images/projects/thumbs/eastridge-north-elevation-watercolour.jpg" alt="Eastridge North Elevation Watercolour">
+<a class="fancybox" rel="group" href="/images/projects/house-in-wiltshire-north-elevation.jpg" title="House in Wiltshire North Elevation">
+<img class="lazy" src="/images/projects/thumbs/house-in-wiltshire-north-elevation.jpg" alt="House in Wiltshire North Elevation">
 </a>
 </li>
 
@@ -53,14 +52,32 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire.jpg" title="House in Oxfordshire">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/mundham-house-type.jpg" title="The Mundham House Type">
+<img class="lazy" src="/images/projects/thumbs/mundham-house-type.jpg" alt="The Mundham House Type">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/img2474.jpg" title="">
 <img class="lazy" src="/images/projects/thumbs/img2474.jpg" alt="">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/img2475.jpg" title="">
-<img class="lazy" src="/images/projects/thumbs/img2475.jpg" alt="">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-1.jpg" title="New Orangery in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-1.jpg" alt="New Orangery in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-2.jpg" title="New Orangery in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-2.jpg" alt="New Orangery in Norfolk">
 </a>
 </li>
 

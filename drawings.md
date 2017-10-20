@@ -6,7 +6,7 @@ permalink: /drawings/
 social_image: /images/social/social-drawings.jpg
 ---
 
-<p>All drawn by Francis Terry</p>
+<p>All drawings and paintings by Francis Terry</p>
 
 <ul class="list random">
 
@@ -229,6 +229,30 @@ social_image: /images/social/social-drawings.jpg
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/mount_pleasant_1.jpg">
 <img class="lazy" src="/images/drawings/thumbs/mount_pleasant_1.jpg" alt="Mount Pleasant Circus, 2015. Painted by Francis Terry. Water colour." >
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/house-in-norfolk-00.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/drawings/thumbs/house-in-norfolk-00.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/house-in-norfolk-01.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/drawings/thumbs/house-in-norfolk-01.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/house-in-norfolk-02.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/drawings/thumbs/house-in-norfolk-02.jpg" alt="House in Norfolk">
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/house-in-norfolk-03.jpg" title="House in Norfolk">
+<img class="lazy" src="/images/drawings/thumbs/house-in-norfolk-03.jpg" alt="House in Norfolk">
 </a>
 </li>
 
