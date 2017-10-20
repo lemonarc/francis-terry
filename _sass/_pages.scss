@@ -372,6 +372,10 @@ ul.thoughts p {
 			right: $unit*2;
 			margin-left: auto;
 			margin-right: auto;
+			
+			@include media-query($on-laptop) {
+				bottom: 18%;
+			}
 		}
 	}
 	ul.list {

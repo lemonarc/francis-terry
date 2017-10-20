@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Book a Taster Day with Francis Terry
-excerpt: "Mauris viverra quam vitae lectus sodales fermentum. Maecenas scelerisque tempus imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada."
+excerpt: "Demonstrating the value of choosing Francis Terry & Associates as your architects."
 permalink: /book-a-taster-day-with-francis-terry/
 class: taster-day
 ---
@@ -116,7 +116,8 @@ class: taster-day
 			
 		</div>
 		<div class="block-element sign-off">
-
+			
+			<a id="book"></a>
 			<h2>Experience a day with Francis Terry & Associates</h2>
 			<h3>Discover what it would be like to bring a project to life working with our team</h3>
 			
