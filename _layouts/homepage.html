@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body class="homepage">
+		
+		<div class="featurepage background-full {{ page.background_class }}">
+
+			{% include featureheader.html %}
+
+			<div class="home">
+				{{ content }}
+			</div>
+		
+		</div>
+		
+		{% include prefooter.html %}
+		
+		{% include footer.html %}
+
+  </body>
+
+</html>

@@ -57,6 +57,8 @@ $on-laptop:        	1000px;
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "base",
+        "header",
+        "footer",
         "layout",
         "pages",
         "landing",

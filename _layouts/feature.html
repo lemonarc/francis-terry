@@ -3,15 +3,19 @@
 
   {% include head.html %}
 
-  <body class="featurepage background-home">
+  <body>
+		
+		<div class="featurepage background-full {{ page.background_class }}">
 
-    {% include featureheader.html %}
+			{% include featureheader.html %}
 
-    <div>
-        {{ content }}
-    </div>
-	
-	<!--<script type="text/javascript">
+			<div>
+				{{ content }}
+			</div>
+		
+		</div>
+		
+			<!--<script type="text/javascript">
 function shuffleArray(array) {
     for (var i = array.length - 1; i > 0; i--) {
         var j = Math.floor(Math.random() * (i + 1));

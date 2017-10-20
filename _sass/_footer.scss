@@ -1,0 +1,140 @@
+/* Site footer
+==================== */
+.site-footer {
+    padding: ($unit*2) 0;
+	background: $grey-pale;
+}
+
+.footer-heading {
+    font-size: 18px;
+    margin-bottom: $unit / 2;
+}
+
+.contact-list,
+.social-media-list {
+    list-style: none;
+    margin-left: 0;
+}
+
+.footer-col-wrapper {
+    font-size: 15px;
+    color: $grey-dark;
+    margin-left: -$unit / 2;
+    @extend %clearfix;
+}
+.footer-col-wrapper h2 {
+	color: $grey-dark;
+}
+.footer-col-wrapper a {
+	color: $grey;
+}
+
+.footer-col {
+    float: left;
+    margin-bottom: $unit / 2;
+    padding-left: $unit / 2;
+	@extend %clearfix;
+
+}
+
+.footer-col-1 {
+    width: -webkit-calc(35% - (#{$unit} / 2));
+    width:         calc(35% - (#{$unit} / 2));
+}
+
+.footer-col-2 {
+    width: -webkit-calc(20% - (#{$unit} / 2));
+    width:         calc(20% - (#{$unit} / 2));
+}
+
+.footer-col-3 {
+    width: -webkit-calc(45% - (#{$unit} / 2));
+    width:         calc(45% - (#{$unit} / 2));
+}
+
+@include media-query($on-laptop) {
+    .footer-col-1,
+    .footer-col-2 {
+        width: -webkit-calc(50% - (#{$unit} / 2));
+        width:         calc(50% - (#{$unit} / 2));
+		margin-bottom: $unit*2;
+    }
+
+    .footer-col-3 {
+        width: -webkit-calc(100% - (#{$unit} / 2));
+        width:         calc(100% - (#{$unit} / 2));
+    }
+}
+
+@include media-query($on-palm) {
+    .footer-col {
+        float: none;
+        width: -webkit-calc(100% - (#{$unit} / 2));
+        width:         calc(100% - (#{$unit} / 2));
+    }
+}
+
+/* Social Media
+==================== */
+li.social-icon {
+	float: left;
+	margin: $unit $unit 0 0;
+}
+
+
+.social_bar {
+	height: 40px;
+	width: 180px;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+.social_bar a {
+	margin: 0 10px;
+	float: left;
+	width: 40px;
+	height: 40px;
+	text-indent:-99999px;
+}
+.social_bar a:hover,
+.social_bar a:focus {
+	background-position: -40px;
+}
+.social_facebook {
+	background-image: url(../images/ftanda_facebook.png);
+}
+.social_instagram {
+	background-image: url('../images/ftanda_instagram.png');
+}
+.social_pinterest {
+	background-image: url('../images/ftanda_pinterest.png');
+}
+
+/* Prefooter (Homepage)
+==================== */
+.prefooter {
+	color: $white;
+	
+	a,a:hover,a:focus {
+		color: $white;
+	}
+	ul {
+		margin: $unit*7 0 $unit*4;
+	}
+	.promo {
+		position: relative;
+	}
+	h2 {
+		font-size: 4vw;
+		margin: 0 auto;
+		position: absolute;
+		left: 0;
+		right: 0;
+		text-align: center;
+		text-shadow: 0px 0px 12px $black;
+		top: -33%;
+		
+		@include media-query($on-palm) {
+			font-size: 12vw;
+		}
+	}
+}
