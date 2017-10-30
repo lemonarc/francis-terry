@@ -177,12 +177,14 @@ input[type=submit]:focus {
 	background: $link-hover;
 }
 
-a.cta-button {
-	background: #f26d7d;
+a.cta-button,
+input.cta-button {
+	background: #ed145b;
 	
 	&:hover,
 	&:focus {
-		background: #ed145b;
+	background: #d40045;
+		
 	}
 }
 
@@ -206,15 +208,17 @@ blockquote {
 form {
 	font-size: $font-size;
 	color: $grey-light;
-	background: $white;
-	width: 55%;
+	
+	&#contact-form {
+		width: 55%;
+		
+		@include media-query ($on-laptop) {
+			width: 100%;
+		}
+	}
 	
 	.required-error {
 		background: #ffbbbf;
-	}
-	
-	@include media-query ($on-laptop) {
-		width: 100%;
 	}
 }
 input,

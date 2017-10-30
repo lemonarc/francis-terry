@@ -357,26 +357,26 @@ ul.thoughts p {
 
 /* == Book A Taster Day With Francis Terry == */
 .taster-day {
+	position: relative;
+	
+	.col-1 {
+		h1 {
+			font-size: $unit*3.2;
+		}
+		h2 {
+			background: $text-color;
+			color: $white;
+			font-size: $unit*2.6;
+			padding: $unit*1.2 $unit $unit;
+		}
+		h3 {
+			font-size: $unit*2.1;
+			font-weight: 700;
+			margin-bottom: $unit*2;
+		}
+	}
 	h3 {
 		margin-bottom: $unit;
-	}
-	.title-area {
-		color: $white;
-		position: relative;
-		
-		h2 {
-			bottom: 12%;
-			font-size: 3vw;
-			position: absolute;
-			left: $unit*2;
-			right: $unit*2;
-			margin-left: auto;
-			margin-right: auto;
-			
-			@include media-query($on-laptop) {
-				bottom: 18%;
-			}
-		}
 	}
 	ul.list {
 		display: flex;
@@ -433,9 +433,87 @@ ul.thoughts p {
 			}
 		}
 	}
+	.box {
+		margin: $unit*6 0;
+	}
+}
+.taster-form,
+.taster-form-2 {
+	background: #f26d7d;
+	
+	h3 {
+		color: $white;
+		font-weight: 700;
+		font-size: larger;
+	    margin: 0;
+		padding: $unit;
+	}
 	form {
-		margin: 0 auto;
-		padding: $unit*4 0 $unit*6;
+		max-width: calc(100% - (#{$unit}*2));
+		margin-left: auto;
+	    margin-right: auto;
+		
+		input,select,textarea {
+			margin-bottom: $unit;
+		}
+	}
+	img {
+		@media screen and(max-width:700px) {
+			display: none;
+		}
+	}
+	@media screen and(max-width:700px) {
+		margin-bottom: $unit*2;
+	}
+}
+.taster-form-2 {
+	margin-top: $unit*4;
+	
+	img {
+		display: none;
+		
+		@media screen and(max-width:700px) {
+			display: block;
+		}
+	}
+}
+.taster-day-video {
+	margin-bottom: -2px;
+}
+.drawing-block {
+	background: $text-color;
+	color: $white;
+	display: flex;
+	align-items: stretch;
+	margin: $unit*6 0;
+	
+	.drawing-block-01 {
+		background: url('/images/feature/drawings.jpg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		width: 50%;
+		
+		@include media-query($on-palm) {
+			height: $unit*20;
+			width: 100%;
+		}
+	}
+	.drawing-block-02 {
+		width: 50%;
+		
+		h2 {
+			padding: $unit*2;
+		}
+		p {
+			padding: 0 $unit*2 $unit*2;
+		}
+		@include media-query($on-palm) {
+			width: 100%;
+		}
+	}
+	@include media-query($on-palm) {
+		display: block;
 	}
 }
 h2.promo-large-text {

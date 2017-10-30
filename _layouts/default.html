@@ -6,19 +6,12 @@
   <body>
     
     {% if page.comments %}
-    
-    <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=896521203738516";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-    
+			{% include facebook-script.html %}
     {% endif %}
 
   {% include header.html %}
+	
+	{% if page.featured_image %}<img src="{{ page.featured_image }}" class="page-hero" alt="{{ page.title }}" />{% endif %}
 
     <div class="page-content">
       <div class="wrapper {% if page.rec == 'L' %}light{% endif %}">

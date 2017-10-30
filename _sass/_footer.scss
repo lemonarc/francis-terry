@@ -114,11 +114,19 @@ li.social-icon {
 .prefooter {
 	color: $white;
 	
-	a,a:hover,a:focus {
+	a {
 		color: $white;
+		
+		&:hover,&:focus {
+			color: $white;
+			
+			p {
+				background: $grey-dark;
+			}
+		}
 	}
 	ul {
-		margin: $unit*7 0 $unit*4;
+		margin: $unit*3 0;
 	}
 	.promo {
 		position: relative;
@@ -136,5 +144,13 @@ li.social-icon {
 		@include media-query($on-palm) {
 			font-size: 12vw;
 		}
+	}
+	p {
+		background: $text-color;
+		padding: $unit;
+		width: calc(100% - #{$unit*2});
+	}
+	.wrapper {
+		max-width: 100%;
 	}
 }

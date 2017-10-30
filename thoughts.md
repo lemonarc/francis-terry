@@ -10,6 +10,27 @@ article: article
 <ul class="list thoughts">
 
 <li>
+	<a href="/thoughts/poundbury/">
+		<img src="/images/essays/poundbury/poundbury-tall.jpg" alt="Poundbury" title="Poundbury" class="tall" />
+		<img src="/images/essays/poundbury/poundbury-wide.jpg" alt="Poundbury" title="Poundbury" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/poundbury/">
+			<h2>
+				Poundbury
+			</h2>
+		</a>
+		<h4>October 2017</h4>
+		<p>
+			Poundbury in Dorset is a new town designed by a variety of architects under a master plan by Leon Krier. Earlier this month I was invited there, to guide a tour from the ICAA.
+		</p>
+		<a href="/thoughts/poundbury/" alt="Poundbury">
+			Read more
+		</a>
+	</div>
+</li>
+
+<li>
 	<a href="/thoughts/a-holiday-in-venice/">
 		<img src="/images/essays/venice/venice-tall.jpg" alt="A Holiday in Venice" title="A Holiday in Venice" class="tall" />
 		<img src="/images/essays/venice/venice-wide.jpg" alt="A Holiday in Venice" title="A Holiday in Venice" class="wide" />
