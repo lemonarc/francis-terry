@@ -31,8 +31,8 @@ permalink: /taster-day/
 			<div class="video-form-block-02">
 
 				<div class="taster-form">
-					<h1 class="post-title">{{ page.title }}</h1>
-					<h3>Work with Francis Terry for a day to develop your project</h3>
+					<h1 class="post-title">Book a Taster Day</h1>
+					<h3>Work with Francis Terry for a day and discover what it would be like to bring your project to life working with our team</h3>
 					<form method="post" id="booking-form">
 					    <input class="required" id="contact-name" type="text" name="name" placeholder="Your Name">
 					    <input class="required" id="contact-email" type="email" placeholder="Your Email">
@@ -71,7 +71,6 @@ permalink: /taster-day/
 			</li>
 			<li class="third price">
 				<h3>FULL DAY</h3>
-				<h4>at your home or office</h4>
 				<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
 				<p>10 am - 5pm</p>
 				<p>At your home or office</p>
