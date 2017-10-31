@@ -179,11 +179,12 @@ input[type=submit]:focus {
 
 a.cta-button,
 input.cta-button {
-	background: #ed145b;
+	background: #177666;
+	text-transform: uppercase;
 	
 	&:hover,
 	&:focus {
-	background: #d40045;
+	background: #2d8b7c;
 		
 	}
 }

@@ -389,7 +389,7 @@ ul.thoughts p {
 		}
 		
 		&.price-list {
-			margin-top: $unit*3;
+			margin: $unit*3 0 $unit*2;
 		}
 		lineout {
 			border-color: $white;
@@ -415,14 +415,6 @@ ul.thoughts p {
 				}
 			}
 		}
-		li.third-to-half
-		li.two-thirds-to-half {
-			margin-bottom: 0;
-			
-			@include media-query($on-palm) {
-				margin-bottom: $unit*3;
-			}
-		}
 		li.half .cta {
 			padding: $unit*2;
 			position: absolute;
@@ -441,12 +433,19 @@ ul.thoughts p {
 .taster-form-2 {
 	background: #f26d7d;
 	
-	h3 {
+	h1 {
 		color: $white;
 		font-weight: 700;
-		font-size: larger;
+		font-size: xx-large;
+		letter-spacing: 0;
 	    margin: 0;
 		padding: $unit;
+	}
+	h3 {
+		color: $white;
+		font-size: large;
+	    margin: 0;
+		padding: 0 $unit $unit;
 	}
 	form {
 		max-width: calc(100% - (#{$unit}*2));
@@ -456,10 +455,8 @@ ul.thoughts p {
 		input,select,textarea {
 			margin-bottom: $unit;
 		}
-	}
-	img {
-		@media screen and(max-width:700px) {
-			display: none;
+		#product-selector {
+			margin-bottom: $unit*3;
 		}
 	}
 	@media screen and(max-width:700px) {
@@ -469,16 +466,52 @@ ul.thoughts p {
 .taster-form-2 {
 	margin-top: $unit*4;
 	
-	img {
-		display: none;
-		
-		@media screen and(max-width:700px) {
-			display: block;
-		}
+	h3 {
+		font-size: larger;
+		margin: $unit*2 0;
 	}
 }
 .taster-day-video {
 	margin-bottom: -2px;
+}
+.video-form-block {
+	display: flex;
+	align-items: stretch;
+	margin-bottom: $unit*3;
+	
+	.video-form-block-01 {
+		background: $text-color;
+		color: $white;
+		width: 67%;
+		
+		h2 {
+			font-size: $unit*3;
+			padding: $unit;
+		}
+		@media screen and(max-width:799px) {
+			width: 100%;
+		}
+	}
+	.video-form-block-02 {
+		background: #f26d7d;
+		display: flex;
+		align-items: center;
+		width: 33%;
+		
+		.taster-form {
+			
+		}
+		@media screen and(max-width:799px) {
+			width: 100%;
+		}
+	}
+	@media screen and(max-width:799px) {
+		display: block;
+	}
+}
+.focus-text {
+	font-weight: 700;
+	text-align: center;
 }
 .drawing-block {
 	background: $text-color;
