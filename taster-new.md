@@ -7,9 +7,7 @@ permalink: /taster-day/
 <div class="wrapper taster-day">
 
 	<div class="article">
-	
-		
-		
+			
 		<div class="video-form-block">
 		
 			<div class="video-form-block-01">	
@@ -49,7 +47,7 @@ permalink: /taster-day/
 				
 		<h2>A Taster Day to fit your schedule</h2>
 		<p>
-			Your time is precious - and no doubt short. This is why we offer 3 options for the Taster Day and model the agenda around your desired output. Choose the type of day you would like and place your booking. Francis will get in touch to to schedule the session at a time that fits best into your busy schedule.  
+			Your time is precious - and no doubt short. This is why we offer 3 options for the Taster Day and model the agenda around your desired output. Choose the type of day you would like and place your booking. Francis will get in touch to schedule the session at a time that fits best into your busy schedule.  
 		</p>
 
 		<ul class="list price-list">
@@ -71,9 +69,9 @@ permalink: /taster-day/
 			</li>
 			<li class="third price">
 				<h3>FULL DAY</h3>
+				<h4>at your home or office</h4>
 				<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
 				<p>10 am - 5pm</p>
-				<p>At your home or office</p>
 				<lineout></lineout>
 				<p>£1800</p>
 			</li>
