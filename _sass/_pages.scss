@@ -425,13 +425,21 @@ ul.thoughts p {
 			}
 		}
 	}
+	a.cta-button,
+	input.cta-button {
+	background: #0e143c;
+		&:hover,
+		&:focus {
+			background: #222a5c;
+		}		
+	}
 	.box {
 		margin: $unit*6 0;
 	}
 }
 .taster-form,
 .taster-form-2 {
-	background: #f26d7d;
+	background: #66849e;
 	
 	h1 {
 		color: $white;
@@ -493,7 +501,7 @@ ul.thoughts p {
 		}
 	}
 	.video-form-block-02 {
-		background: #f26d7d;
+		background: #66849e;
 		display: flex;
 		align-items: center;
 		width: 33%;
