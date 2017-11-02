@@ -92,7 +92,7 @@
               Booking reference:
             </column>
             <column class="value">
-              null
+              {{booking_reference}}
             </column>
           </row>
           <row>
@@ -100,7 +100,7 @@
               Type of Taster Day:
             </column>
             <column class="value">
-              null
+              {{type_taster}}
             </column>
           </row>
           <row>
@@ -108,7 +108,7 @@
               Booking Total:
             </column>
             <column class="value">
-              £0.00
+              {{booking_total}}
             </column>
           </row>
       </row>

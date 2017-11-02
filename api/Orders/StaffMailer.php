@@ -3,24 +3,26 @@
 namespace FrancisTerry\Orders;
 
 use SendGrid;
+use FrancisTerry\Orders\MailProvider;
 
 require_once '../../vendor/autoload.php';
 require_once '../env.php';
 
-class ConfirmationMailer {
-    private $name;
-    private $email;
+class StaffMailer {
+    private $recipientName;
+    private $recipientEmail;
+    private $mailer;
 
-    public function __construct()
+    public function __construct(MailProvider $mailer)
     {
-        $this->name = getenv('TASTER_DAY_STAFF_NAME');
-        $this->email = getenv('TASTER_DAY_STAFF_EMAIL');
+        $this->recipientName = getenv('TASTER_DAY_STAFF_NAME');
+        $this->recipientEmail = getenv('TASTER_DAY_STAFF_EMAIL');
+        $this->mailer = $mailer;
     }
 
     public function send($customerName, $customerEmail, $customerPhone, $dayDescription, $message) {
-        $from = new SendGrid\Email("Francis Terry Website", "noreply@ftanda.co.uk");
         $subject = "Taster Day Booking";
-        $to = new SendGrid\Email($this->name, $this->email);
+        $to = new SendGrid\Email($this->recipientName, $this->recipientEmail);
 
         $content = "<h3>New booking from Francis Terry website</h3>";
         $content .= "<p>";
@@ -33,11 +35,6 @@ class ConfirmationMailer {
 
         $content = new SendGrid\Content("text/html", $content);
 
-        $mail = new SendGrid\Mail($from, $subject, $to, $content);
-
-        $apiKey = getenv('SENDGRID_API_KEY');
-        $sendgrid = new \SendGrid($apiKey);
-
-        return $sendgrid->client->mail()->send()->post($mail);
+        return $this->mailer->send($to, $subject, $content);
     }
 }
