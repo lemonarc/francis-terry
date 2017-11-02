@@ -9,6 +9,8 @@ require_once '../env.php';
 
 Stripe\Stripe::setApiKey(getenv('STRIPE_API_SECRET_KEY'));
 
+session_start();
+
 try {
     $order = Stripe\Order::create(array(
         "currency" => "gbp",
@@ -19,7 +21,8 @@ try {
         ]],
     ));
 
-    $order->pay(["source" => $_POST['stripeToken']]);
+    $order = $order->pay(["source" => $_POST['stripeToken']]);
+    $_SESSION['order'] = json_encode($order);
 
     $mailer = new ConfirmationMailer();
 

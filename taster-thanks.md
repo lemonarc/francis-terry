@@ -20,16 +20,16 @@ class: taster-day
 <div class="block-element">
 	<div class="box">
 		<h4>Booking Information, for your records:</h4>
-		<p>Booking number: { booking.number }</p>
-		<p>Type of Taster Day: { product.type }</p>
-		<p>Booking Total: { total }</p>
-		<p>Payment: { payent.type }</p>
+		<div id="booking-details"></div>
 	</div>
 </div>
 
 <h2>Discover more about Francis Terry and Associates</h2>
 
-
+<script type="text/javascript">
+    var api_url = '{{ site.data.api.url | default: "https://ftanda.co.uk/api" }}';
+</script>
+<script src="/js/stripe/thank-you.js?{{ site.time | date: '%s%N' }}" type="text/javascript"></script>
 
 
 {% include prefooter-discover.html %}

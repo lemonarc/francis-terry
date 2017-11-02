@@ -118,15 +118,6 @@ permalink: /taster-day/
 			
 		<div class="taster-form-2">
 			<img src="/images/feature/taster-hero.jpg" />
-			<h3>Work with Francis Terry for a day to develop your project</h3>
-			<form method="post" id="booking-form">
-			    <input class="required" id="contact-name" type="text" name="name" placeholder="Your Name">
-			    <input class="required" id="contact-email" type="email" placeholder="Your Email">
-				<input class="required" id="contact-telephone" type="telephone" placeholder="Your Telephone No.">
-			    <textarea id="contact-message" name="Message" placeholder="Your Message"></textarea>
-				<div id="product-selector">Loading Products...</div>
-			    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
-			</form>
 		</div>
 			
 	</div>
