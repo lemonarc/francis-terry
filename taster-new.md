@@ -25,9 +25,9 @@ permalink: /taster-day/
 				</div>
 			
 			</div>
+				<a id="book"></a>
 			
 			<div class="video-form-block-02">
-
 				<div class="taster-form">
 					<h1 class="post-title">Book a Taster Day</h1>
 					<h3>Work with Francis Terry for a day and discover what it would be like to bring your project to life working with our team</h3>
@@ -115,6 +115,7 @@ permalink: /taster-day/
 		<a id="book"></a>
 			<h2>Experience a day with Francis Terry & Associates</h2>
 			<h3>Discover what it would be like to bring a project to life working with our team</h3>
+			<a href="#book" class="button cta-button scroll">Book a Taster Day</a>
 			
 		<div class="taster-form-2">
 			<img src="/images/feature/taster-hero.jpg" />

@@ -1,0 +1,137 @@
+<heml>
+	<head>
+		<subject>Thank you for booking a Taster Day</subject>
+			<style>
+				body {
+          color: #999999;
+          line-height: 1.4;
+        }
+        .order-details {
+          border: 1px solid #999999;
+          margin: 60px auto;
+        }
+        .order-details h3 {
+          text-align: center;
+        }
+        .order-details column row column {
+          padding: 10px;
+        }
+        .attribute {
+          font-weight: 700;
+          text-align: right;
+        }
+        .header img {
+          margin: 30px auto;
+        }
+        .footer p {
+          font-size: small;
+          text-align: center;
+        }
+        .footer p.smallprint {
+          font-size: x-small;
+        }
+        .footer img {
+          margin: 0 auto 20px;
+        }
+        .footer a {
+          color: #999999;
+          text-decoration: none;
+        }
+        .footer a:hover,
+        .footer a:focus {
+          color: #66849e!important;
+        }
+        @media only screen and (max-width: 600px) {
+          .content {
+            margin-left: 20px!important;
+            margin-right: 20px!important;
+          }
+          .order-details,
+          .attribute,
+          .value {
+            text-align: center!important;
+          }
+        }
+      </style>
+  </head>
+  <body>
+    <container class="header">
+      <row class="content">
+        <column>
+	      <img src="https://ftanda.co.uk/images/email/fta-logo.png" alt="Francis Terry & Associates" />
+        </column>
+      </row>
+    </container>
+    <container>
+      <row>
+        <column>
+          <img src="https://ftanda.co.uk/images/feature/taster-hero.jpg" alt="Francis Terry & Associates" />
+        </column>
+      </row>
+      <row class="content">
+        <column>
+          <h1>Thank you</h1>
+          <p>
+            Thank you for booking a Taster Day. This is a fantastic opportunity to progress your project. I very much look forward to these days. They are always focused, productive and incredibly enjoyable.
+          </p><p>
+            I'll be in contact to discuss dates in order to get a time that fits into your busy schedule.
+          </p><p>
+            <img src="https://ftanda.co.uk/images/email/ft-sig-grey.png" alt="Francis Terry" />
+          </p><p>
+            Francis Terry
+          </p>
+        </column>
+      </row>
+    </container>
+    <container>
+      <row class="content order-details">
+        <column>
+          <h3>Booking Information, for your reference</h3>
+          <row>
+            <column class="attribute">
+              Booking reference:
+            </column>
+            <column class="value">
+              null
+            </column>
+          </row>
+          <row>
+            <column class="attribute">
+              Type of Taster Day:
+            </column>
+            <column class="value">
+              null
+            </column>
+          </row>
+          <row>
+            <column class="attribute">
+              Booking Total:
+            </column>
+            <column class="value">
+              £0.00
+            </column>
+          </row>
+      </row>
+    </container>
+    <container class="footer">
+		<row class="content">
+		    <column>
+			    <img src="https://ftanda.co.uk/images/email/fta-logo-small.png" alt="Francis Terry & Associates" />
+			</column>
+		</row>
+		<row class="content">
+			<column>
+		        <p>
+			        Unit 6 Ash House<br />Vale View Business Units<br />Crown Lane South<br />Ardleigh,Colchester, CO7 7PL
+			    </p><p>
+				    tel: 01206 561912
+				</p><p>
+					<a href="https://ftanda.co.uk" alt="Francis Terry & Associates" class="contact">website</a> | <a href="mailto:info@ftanda.co.uk" class="contact">email</a>
+				</p><p class="smallprint">
+					Confidentiality Note: This email may contain confidential and/or private information.<br />If you received this email in error please delete and notify sender.
+				</p>
+	        </column>
+	    </row>
+    </container>
+  </body>
+</heml>
