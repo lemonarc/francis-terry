@@ -2,7 +2,8 @@
     "require": {
         "stripe/stripe-php": "^5.2",
         "sendgrid/sendgrid": "^6.0",
-        "vlucas/phpdotenv": "^2.4"
+        "vlucas/phpdotenv": "^2.4",
+        "xamin/handlebars.php": "dev-master"
     },
     "autoload": {
         "psr-4": {
