@@ -1,3 +1,8 @@
+img.desaturate,
+.desaturate img {
+	filter: grayscale(100%);
+}
+
 /* Set max-width
 ==================== */
 header,
@@ -7,9 +12,10 @@ header,
 	margin-right: auto;
 }
 .site-footer .wrapper {
-	max-width: calc((#{$unit} * 160) - (#{$unit} * 6));
+	max-width: $unit*160;
 	margin-left: auto;
 	margin-right: auto;
+	width: calc(100% - (#{$unit} * 6));
 }
 
 /* Columns

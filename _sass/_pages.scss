@@ -1,46 +1,197 @@
-/* Home Page
+/* Splash Page - full background
 ==================== */
-.homepage {
-	background: $black;
-	
-	.home {
-		text-align: center;
-	}
-	img.logo {
-		max-width: 90%;
-	}
-	.banner {
-		height: 75vh;
-		background-position: bottom;
-	}
-}
-.featurepage {
-	width: 100%;
-	height: 100vh;
+.splash-page {
+	background-size: cover;
+	background-position: center;
 	display: flex;
     flex-direction: column;
     justify-content: center;
-}
-.background-full {
-	background-size: cover;
-	background-position: center;
+	width: 100%;
+	height: 100vh;
 	-webkit-transition: 2s background-image;
     transition: 2s background-image;
-}	
-.background-full .content:after {
-	content: "";
-	z-index: 1;
-	display: block;
-	position: absolute;
-	height: 100%;
-	top: 0;
-	left: 0;
-	right: 0;
+
+	img.logo {
+		object-fit: cover;
+	}
+	.content:after {
+		content: "";
+		display: block;
+		position: absolute;
+		height: 100%;
+		left: 0;
+		right: 0;
+		top: 0;
+		z-index: 1;
+	}
+	.content img {
+		position: relative;
+		z-index: 2;
+	}
+	.credit {
+		bottom: 0;
+		color: $white;
+		font-size: $font-size-small;
+		left: 0;
+		right: 0;
+		position: absolute;
+		text-align: center;
+	}
+	.site-header {
+		margin-right: auto;
+		margin-left: auto;
+		max-width: -webkit-calc(#{$content-width} - (#{$unit} * 6));
+		max-width: calc(#{$content-width} - (#{$unit} * 6));
+		left: $unit*1.5;
+		padding-right: 0;
+		padding-left: 0;
+		position: absolute;
+		top: 0;
+		width: calc(100% - (#{$unit} * 3));
+		
+			img {
+				display: none;
+			}
+		    @include media-query($on-laptop) {
+		        padding-right: $unit / 2;
+		        padding-left: $unit / 2;
+		        max-width: -webkit-calc(#{$content-width} - (#{$unit} * 3));
+		        max-width:         calc(#{$content-width} - (#{$unit} * 3));
+		    }
+	}
+	.site-nav {
+	    .page-link {
+	        color: $white;
+		
+			&:hover {
+				color: $grey-pale;
+			}
+		}
+		@include media-query($on-laptop) {
+			background: none;
+		
+			&:hover {
+				background: $grey;
+			}
+
+			.menu-icon {
+			    > svg {
+			        path {
+			            fill: $white;
+			        }
+			    }
+			}
+		}
+	}
+	.wrapper {
+		max-width: 100%;
+	}
 }
-.background-full .content img {
-	position: relative;
-	z-index: 2;
+
+/* Blank Page
+==================== */
+.blank-page {
+	
+	.site-header {
+		
+			img {
+				display: none;
+			}
+	}
+	.site-nav {
+	    .page-link {
+	        color: $white;
+		
+			&:hover {
+				color: $grey-pale;
+			}
+		}
+		@include media-query($on-laptop) {
+			background: none;
+			z-index: 1;
+		
+			&:hover {
+				background: $grey;
+			}
+
+			.menu-icon {
+			    > svg {
+			        path {
+			            fill: $white;
+			        }
+			    }
+			}
+		}
+	}
 }
+
+
+
+/* Home Page
+==================== */
+.home-page {
+	background: $black;
+	
+	.splash-page {
+		height: 66vh;
+		min-height: 500px;
+		
+		.home {
+			margin: 0 auto;
+			max-width: calc(1809px - (#{$unit} * 6));
+			position: relative;
+			width: 100%;
+			
+			.title-area {
+				max-width: 800px;
+				position: inherit;
+				left: 0;
+				right: 0;
+				top: $unit*10;
+				margin-left: auto;
+				margin-right: auto;
+				
+				h2 {
+					color: $white;
+					letter-spacing: 6px;
+					margin: $unit*6 auto;
+					text-align: center;
+					text-transform: uppercase;
+				
+					@include media-query($on-palm) {
+						font-size: 1.2em;
+					}
+				}
+			}
+		}
+	}
+	.blank-page {
+		
+		.home-blank {
+			.logo {
+				display: block;
+				margin: $unit*4 auto;
+				max-width: 90%;
+				position: inherit;
+			}
+			h2 {
+				color: $white;
+				letter-spacing: 6px;
+				margin: $unit*6 auto;
+				text-align: center;
+				text-transform: uppercase;
+				
+				@include media-query($on-palm) {
+					font-size: 1.2em;
+				}
+			}
+		}
+	}
+}
+.office-home {
+	background-image: url('/images/practice/fta-office-condensed.jpg');		
+}
+
 .background-office {
 	background-image: url('/images/practice/fta-office.jpg');	
 }
@@ -55,74 +206,7 @@
 	height: 20px;
 	width: 100%;
 }
-.featurepage .site-header {
-	position: absolute;
-    top: 0;
-    left: $unit*1.5;
-    width: calc(100% - (#{$unit} * 3));
-	max-width: -webkit-calc(#{$content-width} - (#{$unit} * 6));
-    max-width:         calc(#{$content-width} - (#{$unit} * 6));
-    margin-right: auto;
-    margin-left: auto;
-    padding-right: 0;
-    padding-left: 0;
 
-    @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$unit} * 3));
-        max-width:         calc(#{$content-width} - (#{$unit} * 3));
-        padding-right: $unit / 2;
-        padding-left: $unit / 2;
-    }
-}
-.featurepage .site-header img {
-	display: none;
-}
-.featurepage .site-nav {
-    .page-link {
-        color: $white;
-		
-		&:hover {
-			color: $grey-pale;
-		}
-	}
-
-    @include media-query($on-laptop) {
-        background: none;
-		
-		&:hover {
-			background: $grey;
-		}
-
-        .menu-icon {
-            > svg {
-                path {
-                    fill: $white;
-                }
-            }
-        }
-    }
-}
-.featurepage .wrapper {
-	max-width: 100%;
-}
-.featurepage .home {
-	width: 100%;
-	max-width: calc(1809px - (#{$unit} * 6));
-	margin: 0 auto;
-}
-.featurepage img.logo {
-	object-fit: cover;
-}
-
-.featurepage .credit {
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    color: $white;
-	font-size: $font-size-small;
-	text-align: center;
-}
 
 /* Practice Page
 ==================== */
