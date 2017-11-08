@@ -28,13 +28,12 @@
 		}
         .footer p {
           font-size: small;
-          text-align: center;
         }
         .footer p.smallprint {
           font-size: x-small;
         }
         .footer img {
-          margin: 0 auto 20px;
+          margin: 0 auto 0 0;
         }
         .footer a {
           color: #999999;

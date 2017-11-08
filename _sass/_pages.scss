@@ -157,6 +157,7 @@
 					letter-spacing: 6px;
 					margin: $unit*6 auto;
 					text-align: center;
+					text-shadow: 0 0 16px $black;
 					text-transform: uppercase;
 				
 					@include media-query($on-palm) {

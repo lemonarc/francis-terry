@@ -39,7 +39,7 @@ permalink: /taster-day/
 						<div id="product-selector">Loading Products...</div>
 					    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
 					</form>
-					<small>* All prices include VAT</small>
+					<small>All prices include VAT</small>
 				</div>
 				
 			</div>
@@ -59,6 +59,7 @@ permalink: /taster-day/
 				<p>10 am - 5 pm</p>
 				<lineout></lineout>
 				<p>£1200</p>
+				<small>Includes VAT</small>
 			</li>
 			<li class="third price">
 				<h3>PART DAY</h3>
@@ -67,6 +68,7 @@ permalink: /taster-day/
 				<p>10am - 2pm</p>
 				<lineout></lineout>
 				<p>£840</p>
+				<small>Includes VAT</small>
 			</li>
 			<li class="third price">
 				<h3>FULL DAY</h3>
@@ -75,10 +77,9 @@ permalink: /taster-day/
 				<p>10 am - 5pm</p>
 				<lineout></lineout>
 				<p>£1800</p>
+				<small>Includes VAT</small>
 			</li>
 		</ul>
-		
-		<small>* All prices include VAT</small>
 			
 		<p class="box focus-text">Develop your scheme and experience what it would be like to bring a project to life working with our team</p>
 		
