@@ -20,12 +20,13 @@ class StaffMailer {
         $this->mailer = $mailer;
     }
 
-    public function send($customerName, $customerEmail, $customerPhone, $dayDescription, $message) {
+    public function send($customerName, $customerEmail, $customerPhone, $dayDescription, $bookingReference, $message) {
         $subject = "Taster Day Booking";
         $to = new SendGrid\Email($this->recipientName, $this->recipientEmail);
 
         $content = "<h3>New booking from Francis Terry website</h3>";
         $content .= "<p>";
+        $content .= "Booking reference: " . $bookingReference . "<br/>";
         $content .= "Booking name: " . $customerName . "<br/>";
         $content .= "Booking email: " . $customerEmail . "<br/>";
         $content .= "Booking telephone: " . $customerPhone . "<br/>";
