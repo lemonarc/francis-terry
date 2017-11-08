@@ -27,7 +27,7 @@ try {
     $mailProvider = new MailProvider();
 
     $staffMailer = new StaffMailer($mailProvider);
-    $staffMailer->send($_POST['name'], $_POST['email'], $_POST['phone_number'], $_POST['description'], $_POST['message']);
+    $staffMailer->send($_POST['name'], $_POST['email'], $_POST['phone_number'], $_POST['description'], $order->created, $_POST['message']);
 
     $customerMailer = new CustomerMailer($mailProvider);
     $customerMailer->send($_POST['name'], $_POST['email'], $order->created, $_POST['description'], $order->amount);
