@@ -116,6 +116,7 @@ li.social-icon {
 	
 	a {
 		color: $white;
+		display: block;
 		
 		&:hover,&:focus {
 			color: $white;
@@ -132,15 +133,19 @@ li.social-icon {
 	.promo {
 		position: relative;
 	}
+	.prefooter-text {
+		width: 100%;
+	}
 	h2 {
 		font-size: 4vw;
-		margin: 0 auto;
+		margin-left: auto;
+		margin-right: auto;
 		position: absolute;
 		left: 0;
 		right: 0;
 		text-align: center;
 		text-shadow: 0px 0px 12px $black;
-		top: -33%;
+		top: 33%;
 		
 		@include media-query($on-palm) {
 			font-size: 12vw;

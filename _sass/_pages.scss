@@ -522,6 +522,11 @@ ul.thoughts p {
 			background: #222a5c;
 		}		
 	}
+	a.scroll {
+		color: #66849e;
+		font-weight: $font-weight-bold;
+		text-transform: uppercase;
+	}
 	.box {
 		margin: $unit*6 0;
 	}
@@ -542,6 +547,11 @@ ul.thoughts p {
 		color: $white;
 		font-size: large;
 	    margin: 0;
+		padding: 0 $unit $unit;
+	}
+	small {
+		color: $white;
+		line-height: 3;
 		padding: 0 $unit $unit;
 	}
 	form {

@@ -13,16 +13,16 @@ permalink: /taster-day/
 			<div class="video-form-block-01">	
 				
 				<h2>Demonstrating the value of choosing Francis Terry & Associates as your architects</h2>
-				<script src="https://fast.wistia.com/embed/medias/2d7ivxc6cm.jsonp" async></script>
+				<script src="https://fast.wistia.com/embed/medias/uouaeq5z83.jsonp" async></script>
 				<script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
 				<div>
 					<div class="wistia_responsive_padding taster-day-video" style="padding:56.25% 0 0 0;position:relative;">
 						<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;bottom:0;width:100%;">
-							<div class="wistia_embed wistia_async_2d7ivxc6cm videoFoam=true" style="height:100%;width:100%">&nbsp;
+							<div class="wistia_embed wistia_async_uouaeq5z83 videoFoam=true" style="height:100%;width:100%">&nbsp;
 							</div>
 						</div>
 					</div>
-				</div>
+				</div>				
 			
 			</div>
 				<a id="book"></a>
@@ -39,6 +39,7 @@ permalink: /taster-day/
 						<div id="product-selector">Loading Products...</div>
 					    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
 					</form>
+					<small>* All prices include VAT</small>
 				</div>
 				
 			</div>
@@ -76,6 +77,8 @@ permalink: /taster-day/
 				<p>£1800</p>
 			</li>
 		</ul>
+		
+		<small>* All prices include VAT</small>
 			
 		<p class="box focus-text">Develop your scheme and experience what it would be like to bring a project to life working with our team</p>
 		
@@ -115,7 +118,7 @@ permalink: /taster-day/
 		<a id="book"></a>
 			<h2>Experience a day with Francis Terry & Associates</h2>
 			<h3>Discover what it would be like to bring a project to life working with our team</h3>
-			<a href="#book" class="button cta-button scroll">Book a Taster Day</a>
+			<a href="#book" class="scroll">Book a Taster Day</a>
 			
 		<div class="taster-form-2">
 			<img src="/images/feature/taster-hero.jpg" />

@@ -8,7 +8,7 @@
         }
         .order-details {
           border: 1px solid #999999;
-          margin: 60px auto;
+          margin: 20px auto;
         }
         .order-details h3 {
           text-align: center;
@@ -23,6 +23,9 @@
         .header img {
           margin: 30px auto;
         }
+		.footer {
+			margin-top: 60px;
+		}
         .footer p {
           font-size: small;
           text-align: center;
@@ -72,13 +75,7 @@
         <column>
           <h1>Thank you</h1>
           <p>
-            Thank you for booking a Taster Day. This is a fantastic opportunity to progress your project. I very much look forward to these days. They are always focused, productive and incredibly enjoyable.
-          </p><p>
-            I'll be in contact to discuss dates in order to get a time that fits into your busy schedule.
-          </p><p>
-            <img src="https://ftanda.co.uk/images/email/ft-sig-grey.png" alt="Francis Terry" />
-          </p><p>
-            Francis Terry
+            Thank you for booking a Taster Day. I very much enjoy these sessions and look forward to meeting you and working with you on the day. Here is your booking summary: 
           </p>
         </column>
       </row>
@@ -113,6 +110,25 @@
           </row>
       </row>
     </container>
+	<container>
+      <row class="content">
+        <column>
+          <p>
+			I will call you to schedule a date that fits well in your calendar.
+          </p><p>
+			In the meantime, please do start to think about any specific outcomes that you would like from the day. Could you please send any relevant plans, photos and sketches you have done so we can start to understand your project in preparation for your visit.
+          </p><p>
+			When we speak, we can discuss the agenda for the Taster Day.
+          </p><p>
+			Best Wishes
+          </p><p>
+            <img src="https://ftanda.co.uk/images/email/ft-sig-grey.png" alt="Francis Terry" />
+          </p><p>
+            Francis Terry
+          </p>
+        </column>
+      </row>
+    </container>	
     <container class="footer">
 		<row class="content">
 		    <column>
