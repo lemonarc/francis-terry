@@ -9,20 +9,17 @@ require_once '../../vendor/autoload.php';
 require_once '../env.php';
 
 class StaffMailer {
-    private $recipientName;
-    private $recipientEmail;
+    private $recipients;
     private $mailer;
 
     public function __construct(MailProvider $mailer)
     {
-        $this->recipientName = getenv('TASTER_DAY_STAFF_NAME');
-        $this->recipientEmail = getenv('TASTER_DAY_STAFF_EMAIL');
+        $this->recipients = explode(',', getenv('TASTER_DAY_STAFF_EMAIL'));
         $this->mailer = $mailer;
     }
 
     public function send($customerName, $customerEmail, $customerPhone, $dayDescription, $bookingReference, $message) {
         $subject = "Taster Day Booking";
-        $to = new SendGrid\Email($this->recipientName, $this->recipientEmail);
 
         $content = "<h3>New booking from Francis Terry website</h3>";
         $content .= "<p>";
@@ -36,6 +33,9 @@ class StaffMailer {
 
         $content = new SendGrid\Content("text/html", $content);
 
-        return $this->mailer->send($to, $subject, $content);
+        foreach ($this->recipients as $email) {
+            $to = new SendGrid\Email(null, $email);
+            $this->mailer->send($to, $subject, $content);
+        }
     }
 }
