@@ -9,11 +9,11 @@ social_image: /images/social/social-projects.jpg
 
 <ul class="list random">
 
-<li class="third">
+<!--<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes-orig.jpg" title="New 5 bedroom house for Halsbury Homes">
 <img class="lazy" src="/images/projects/thumbs/5-bedroom-house-for-halsbury-homes-orig.jpg" alt="New 5 bedroom house for Halsbury Homes">
 </a>
-</li>
+</li>-->
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes.jpg" title="New 5 bedroom house for Halsbury Homes">
@@ -58,6 +58,18 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
+<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-f.jpg" title="Late Georgian House">
+<img class="lazy" src="/images/projects/thumbs/late-georgian-house-f.jpg" alt="Late Georgian House">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/mundham-house-type.jpg" title="The Mundham House Type">
 <img class="lazy" src="/images/projects/thumbs/mundham-house-type.jpg" alt="The Mundham House Type">
 </a>
@@ -93,11 +105,11 @@ social_image: /images/social/social-projects.jpg
 </a>
 </li>
 
-<li class="third">
+<!--<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/west-hampstead.jpg" title="West Hampstead proposal">
 <img class="lazy" src="/images/projects/thumbs/west-hampstead.jpg" alt="West Hampstead proposal">
 </a>
-</li>
+</li>-->
 
 </ul>
 
@@ -194,12 +206,6 @@ social_image: /images/social/social-projects.jpg
 </a>
 </li>
 -->
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-f.jpg" title="Late Georgian House">
-<img class="lazy" src="/images/projects/thumbs/late-georgian-house-f.jpg" alt="Late Georgian House">
-</a>
-</li>
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/late-georgian-house-r.jpg" title="Late Georgian House">
@@ -423,12 +429,6 @@ social_image: /images/social/social-projects.jpg
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/highlandspark16.jpg" title="House in Dallas">
 <img class="lazy" src="/images/projects/thumbs/highlandspark16.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
 </a>
 </li>
 

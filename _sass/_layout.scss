@@ -189,9 +189,17 @@ ul.post-list li img {
 	max-width: 1280px;
 	margin: 0 auto;
 	
+	h2, h3, p {
+		margin-bottom: $unit*3;
+	}
 	.single-image {
 		margin-top: $unit*3;
 		margin-bottom: $unit*3;
+	}
+	.thoughts-description {
+		h2, h3, p {
+			margin-bottom: $unit*1;
+		}
 	}
 }
 

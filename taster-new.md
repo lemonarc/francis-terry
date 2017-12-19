@@ -67,7 +67,7 @@ permalink: /taster-day/
 				<p>Enjoy a productive session with Francis Terry & Associates developing your scheme, yet get away early.</p>
 				<p>10am - 2pm</p>
 				<lineout></lineout>
-				<p>£840</p>
+				<p>£900</p>
 				<small>Includes VAT</small>
 			</li>
 			<li class="third price">

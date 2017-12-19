@@ -3,7 +3,7 @@ layout: page
 title: 'Where does your Chicken Cross the Road?'
 excerpt: "Francis Terry has taken on the chairmanship of the Traditional Architecture Group (TAG), and shares his thoughts on the society"
 permalink: /thoughts/chicken/
-social_image: /images/social/chicken.jpg
+social_image: /images/essays/chicken/chicken-social.jpg
 article: article
 comments: yes
 ---

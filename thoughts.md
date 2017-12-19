@@ -10,6 +10,27 @@ article: article
 <ul class="list thoughts">
 
 <li>
+	<a href="/thoughts/berlin/">
+		<img src="/images/essays/berlin/berlin-tall.jpg" alt="Berlin" title="Berlin" class="tall" />
+		<img src="/images/essays/berlin/berlin-wide.jpg" alt="Berlin" title="Berlin" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/berlin/">
+			<h2>
+				Berlin
+			</h2>
+		</a>
+		<h4>November 2017</h4>
+		<p>
+			Berlin is a great place to visit for a few days. The city is a manageable scale full of fascinating museums, superb architecture and hundreds of lovely and varied restaurants.
+		</p>
+		<a href="/thoughts/berlin/" alt="Berlin">
+			Read more
+		</a>
+	</div>
+</li>
+
+<li>
 	<a href="/thoughts/poundbury/">
 		<img src="/images/essays/poundbury/poundbury-tall.jpg" alt="Poundbury" title="Poundbury" class="tall" />
 		<img src="/images/essays/poundbury/poundbury-wide.jpg" alt="Poundbury" title="Poundbury" class="wide" />
@@ -53,8 +74,8 @@ article: article
 
 <li>
 	<a href="/thoughts/chicken/">
-		<img src="/images/essays/chicken/chicken-tall.jpg" alt="Where does your Chicken cross the Road?" title="Where does your chicken cross the road?" class="tall" />
-		<img src="/images/essays/chicken/chicken-wide.jpg" alt="Where does your Chicken cross the Road?" title="Where does your chicken cross the road?" class="wide" />
+		<img src="/images/essays/chicken/chicken-tall-1.jpg" alt="Where does your Chicken cross the Road?" title="Where does your chicken cross the road?" class="tall" />
+		<img src="/images/essays/chicken/chicken-wide-1.jpg" alt="Where does your Chicken cross the Road?" title="Where does your chicken cross the road?" class="wide" />
 	</a>
 	<div class="thoughts-description">
 		<a href="/thoughts/chicken/">

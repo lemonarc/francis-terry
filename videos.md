@@ -44,12 +44,16 @@ social_image: /images/social/social-video.jpg
 </a>
 </li>
 
-<!--
+<li class="half">
+<a class="fancybox" href="https://www.youtube.com/embed/IbFiJtczBxc?rel=0&autoplay=1">
+<img class="lazy" src="/images/videos/video6.jpg" alt="Francis Terry paints Dedham Constable Style!" >
+</a>
+</li>
+
 <li class="half">
 <a class="fancybox" href="https://www.youtube.com/embed/y6XbJ-MRJIA?rel=0&autoplay=1">
 <img class="lazy" src="/images/videos/video7.jpg" alt="High Speed Drawing" >
 </a>
 </li>
--->
 
 </ul>

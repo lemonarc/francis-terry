@@ -41,10 +41,6 @@ Copying a capital from a temple to gods who are no longer worshipped or believed
 Francis Terry
 </h2>
 
-<div class="videoWrapper">
-	<iframe src="https://www.youtube.com/embed/8LJ8HcDkTHE" frameborder="0" allowfullscreen></iframe>
-</div>
-
 <ul class="list">
 <li class="half">
 <a class="fancybox" rel="group" href="/images/essays/erechtheion-capital/full-size-drawing-of-capital-by-francis-terry.jpg" title="Full size drawing of capital by Francis Terry">
@@ -140,31 +136,8 @@ Francis Terry
 
 <div class="clearfix"></div>
 
-
-<img src="/images/essays/erechtheion-capital/erechtheion-capital-video.jpg" data-video="https://sms.cam.ac.uk/media/2505947/embed/">
-<script>
-	$('img').click(function(){
-    var video = '<iframe src="'+ $(this).attr('data-video') +'" frameborder="0" scrolling="no" allowfullscreen></iframe>';
-    $(this).replaceWith('<div class="iframe-container">', video, '</div>');
-});
-</script>
-
-<!--
-
-
-
-<div class="iframe-container">
-    <iframe src="https://sms.cam.ac.uk/media/2505947/embed/" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/8LJ8HcDkTHE" frameborder="0" allowfullscreen></iframe>
 </div>
-
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" href="https://sms.cam.ac.uk/media/2505947?rel=0&autoplay=1">
-			<img class="lazy" src="/images/essays/erechtheion-capital/erechtheion-capital-video.jpg" alt="The Erechtheum Portico, from ancient Greece to Downing and beyond - Francis Terry" >
-		</a>
-	</li>
-</ul>
-
--->
 
 <div class="fb-comments" data-href="https://ftanda.co.uk/thoughts/erechtheion-capital/" data-width="100%" data-numposts="12"></div>
