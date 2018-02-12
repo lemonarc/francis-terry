@@ -1,5 +1,6 @@
 ---
-layout: page
+layout: full-page
+pageclass: recruitmentpage
 title: Recruitment
 excerpt: "Francis Terry and Associates is always interested to hear from talented individuals who feel they would enjoy working at the practice."
 permalink: /recruitment/

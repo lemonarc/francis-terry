@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Martyn Winney - Senior Associate
+title: Martyn Winney
+subtitle: Senior Associate
 excerpt: "Martyn Winney - Senior Associate at Francis Terry and Associates"
 permalink: /practice/martyn-winney/
 social_image: /images/social/social-office.jpg

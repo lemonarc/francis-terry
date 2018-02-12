@@ -7,15 +7,15 @@ img.desaturate,
 ==================== */
 header,
 .page-content {
-	max-width: $unit*160;
-	margin-left: auto;
-	margin-right: auto;
+  max-width: $unit*160;
+  margin-left: auto;
+  margin-right: auto;
 }
 .site-footer .wrapper {
-	max-width: $unit*160;
-	margin-left: auto;
-	margin-right: auto;
-	width: calc(100% - (#{$unit} * 6));
+  max-width: $unit*160;
+  margin-left: auto;
+  margin-right: auto;
+  width: calc(#{$content-width} - (#{$unit} * 6));
 }
 
 /* Columns
@@ -60,8 +60,9 @@ header,
 /* Page content
 ==================== */
 .page-content {
-    padding: 0 0 ($unit*6) ;
+	margin: 0 auto $unit*6;
 	min-height: 56vh;
+	width: $on-full;
 }
 
 .page-heading {
@@ -89,16 +90,20 @@ header,
 .desktop-header {
 	display: block;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: none;
 	}
 }
 .mobile-header {
 	display: none;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: block;
 	}
+}
+.quote-box {
+	background: $text-color;
+    color: $white;
 }
 
 /* Posts
@@ -174,7 +179,7 @@ ul.post-list li img {
 		}
 	}
 	
-	@include media-query ($on-palm) {
+	@include media-query ($on-mobile) {
 		&.tall {
 			display: block;
 		}	
@@ -183,6 +188,64 @@ ul.post-list li img {
 		}
 	}
 	
+}
+
+/* Blog style pages
+==================== */
+ul.blog {
+
+	p {
+		text-align: justify;
+	}
+	li {
+		list-style: none;
+		float: none;
+		margin-bottom: $unit*3;
+		@extend %clearfix;
+
+		img {
+			float: left;
+			width: 33%;
+			padding: 0 ($unit*2) ($unit*2) 0;
+
+			&.tall {
+				display: block;
+			}	
+			&.wide {
+				display: none;
+			}
+		
+			@include media-query ($on-tablet) {
+				float: none;
+				width: 100%;
+				padding: 0 0 ($unit*2) 0;
+		
+				&.tall {
+					display: none;
+				}	
+				&.wide {
+					display: block;
+				}
+			}
+			@include media-query ($on-mobile) {
+				&.tall {
+					display: block;
+				}	
+				&.wide {
+					display: none;
+				}
+			}
+		}	
+	}
+	.blog-text {
+		width: calc(100% - (33% + (#{$unit}*2)));
+		float: right;
+	
+		@include media-query ($on-laptop) {
+			float: none;
+			width: 100%;
+		}
+	}
 }
 
 .article {
@@ -233,7 +296,7 @@ ul.tiles {
 		@include media-query($on-laptop) {
 			width: 33.3333333333%;
 		}
-		@include media-query($on-palm) {
+		@include media-query($on-mobile) {
 			width: 100%;
 		}
 	}

@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Aaron Eagle - Associate
+title: Aaron Eagle
+subtitle: Associate
 excerpt: "Aaron Eagle - Associate at Francis Terry and Associates"
 permalink: /practice/aaron-eagle/
 social_image: /images/social/social-office.jpg

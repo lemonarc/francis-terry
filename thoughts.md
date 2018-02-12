@@ -10,21 +10,42 @@ article: article
 <ul class="list thoughts">
 
 <li>
+	<a href="/thoughts/pantheon/">
+		<img src="/images/essays/pantheon/pantheon-tall.jpg" alt="The Pantheon - The Greatest Building in the World" title="The Pantheon - The Greatest Building in the World" class="tall" />
+		<img src="/images/essays/pantheon/pantheon-wide.jpg" alt="The Pantheon - The Greatest Building in the World" title="The Pantheon - The Greatest Building in the World" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/pantheon/">
+			<h2>
+				The Pantheon - The Greatest Building in the World
+			</h2>
+		</a>
+		<h4>January 2018</h4>
+		<p>
+			When asked what I view as the greatest building in the world, I say 'The Pantheon' - without a shadow of a doubt. It is an amazing survivor from the ancient world, which still has the power to move almost everyone who stands under its 'most majestic canopy.'
+		</p>
+		<a href="/thoughts/pantheon/" alt="Berlin">
+			Read more
+		</a>
+	</div>
+</li>
+
+<li>
 	<a href="/thoughts/berlin/">
-		<img src="/images/essays/berlin/berlin-tall.jpg" alt="Berlin" title="Berlin" class="tall" />
-		<img src="/images/essays/berlin/berlin-wide.jpg" alt="Berlin" title="Berlin" class="wide" />
+		<img src="/images/essays/berlin/berlin-tall-2.jpg" alt="Berlin and Potsdam" title="Berlin and Potsdam" class="tall" />
+		<img src="/images/essays/berlin/berlin-wide-2.jpg" alt="Berlin and Potsdam" title="Berlin and Potsdam" class="wide" />
 	</a>
 	<div class="thoughts-description">
 		<a href="/thoughts/berlin/">
 			<h2>
-				Berlin
+				Berlin and Potsdam
 			</h2>
 		</a>
 		<h4>November 2017</h4>
 		<p>
 			Berlin is a great place to visit for a few days. The city is a manageable scale full of fascinating museums, superb architecture and hundreds of lovely and varied restaurants.
 		</p>
-		<a href="/thoughts/berlin/" alt="Berlin">
+		<a href="/thoughts/berlin/" alt="Berlin and Potsdam">
 			Read more
 		</a>
 	</div>

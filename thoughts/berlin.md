@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Berlin'
+title: Berlin and Potsdam
 excerpt: "Berlin is a great place to visit for a few days. The city is a manageable scale full of fascinating museums, superb architecture and hundreds of lovely and varied restaurants."
 permalink: /thoughts/berlin/
 social_image: /images/essays/berlin/social.jpg

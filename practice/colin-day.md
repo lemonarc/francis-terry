@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Colin Day - Associate
+title: Colin Day
+subtitle: Associate
 excerpt: "Colin Day - Associate at Francis Terry and Associates"
 permalink: /practice/colin-day/
 social_image: /images/social/social-office.jpg

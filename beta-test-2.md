@@ -10,13 +10,21 @@ nofollow: hide
 
 <ul class="list">
 <li class="full">
-<a class="fancybox" rel="group" href="/images/essays/erechtheion-capital/erichtheion-capital-from-british-museum.jpg" alt="Erichtheion capital from British Museum">
+<a class="fancybox" rel="group" href="/images/essays/erechtheion-capital/erichtheion-capital-from-british-museum.jpg" alt="Erichtheion capital from British Museum" title="Mauris viverra quam vitae lectus sodales fermentum. Maecenas scelerisque tempus imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis eget placerat dui.">
 <img src="/images/essays/erechtheion-capital/thumbs/erichtheion-capital-from-british-museum.jpg" alt="Erichtheion capital from British Museum" />
 </a>
 </li>
 </ul>
 
 Mauris viverra quam vitae lectus sodales fermentum. Maecenas scelerisque tempus imperdiet. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis eget placerat dui. Sed commodo egestas diam, sed venenatis justo rhoncus sed. Quisque sagittis, dui eget rutrum euismod, dolor eros lobortis ipsum, et consectetur erat dolor at dolor. Maecenas turpis lacus, pretium ac tempus id, bibendum eu quam. Donec feugiat adipiscing metus, vitae blandit augue venenatis ut.
+
+<ul class="list">
+<li class="full">
+<a class="fancybox" rel="group" href="/images/essays/erechtheion-capital/erichtheion-capital-from-british-museum.jpg" alt="Erichtheion capital from British Museum">
+<img src="/images/essays/erechtheion-capital/thumbs/erichtheion-capital-from-british-museum.jpg" alt="Erichtheion capital from British Museum" />
+</a>
+</li>
+</ul>
 
 Nunc nisi tortor, sollicitudin eget aliquet nec, dapibus id felis. Cras ac dui eget lorem commodo ornare ac vel orci. Sed dignissim, nunc quis placerat gravida, risus felis egestas nisi, vel vulputate tortor lorem ac nibh. Donec quis mollis orci. Etiam eget enim vel.
 

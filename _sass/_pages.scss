@@ -160,7 +160,7 @@
 					text-shadow: 0 0 16px $black;
 					text-transform: uppercase;
 				
-					@include media-query($on-palm) {
+					@include media-query($on-mobile) {
 						font-size: 1.2em;
 					}
 				}
@@ -183,7 +183,7 @@
 				text-align: center;
 				text-transform: uppercase;
 				
-				@include media-query($on-palm) {
+				@include media-query($on-mobile) {
 					font-size: 1.2em;
 				}
 			}
@@ -212,24 +212,51 @@
 
 /* Practice Page
 ==================== */
-.practice img {
-	margin-bottom: $unit*3;
+.practice-page {
+	lineout {
+		margin-top: 2rem;
+	}
+	ul {
+		h2 {
+			margin-bottom: $unit;
+		}
+		h4 {
+			margin-bottom: $unit*2;
+		}
+		img {
+			margin-bottom: $unit*3;
+			
+			@include media-query($on-tablet) {
+				margin-bottom: 0;
+			}
+		}
+		li {
+			margin-bottom: 0;
+			
+			@include media-query($on-tablet) {
+				margin-bottom: $unit*2;
+			}
+		}
+	}
 }
 
 /* Switch FT image to fit responsive layout */
 .practice-ft1 {
 	display: block;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: none;
 	}
 }
 .practice-ft2 {
 	display: none;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: block;
 	}
+}
+.article .profiles h3 {
+	margin-bottom: 0; /* Remove spacing between names and positions */
 }
 
 img.main {
@@ -239,9 +266,261 @@ img.main {
 	
 	@include media-query($on-laptop) {
 	}
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		width: 100%;
 		margin-right: 0;
+	}
+}
+
+/* Profile pages */
+
+.profilepage .post-header {
+	display: none;	
+}
+.profile-head {
+	position: relative;
+	width: 100%;
+	@extend %clearfix;
+}
+.profile-image {
+}
+.profile-title {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+	color: $white;
+	
+	@include media-query ($on-mobile) {
+		background: $text-color;
+		position: initial;
+		padding: 20px;
+	}
+	h3 {
+		margin-bottom: 0;
+	}
+}
+.profile-info {
+	display: flex;
+	align-items: stretch;
+	margin: $unit*6 0;
+	
+	&.greybox {
+		background: $text-color;
+		color: $white;
+		
+		.profile-info-right {
+			@include media-query($on-tablet) {
+			padding: $unit*3;
+			}
+		}
+	}
+	
+	.profile-info-left {
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		width: 50%;
+		
+		&.profile-info-ft {
+			background-image: url('/images/practice/francis-terry.jpg');
+			background-position: top center;
+			
+			img {
+				display: none;
+				
+				@include media-query($on-tablet) {
+					display: block;
+				}
+			}
+			
+			@include media-query($on-tablet) {
+				background: none;
+			}
+		}
+		&.profile-info-mt {
+			background-image: url('/images/practice/miranda-terry.jpg');
+		}
+		@include media-query($on-tablet) {
+			width: 100%;
+		}
+	}
+	.profile-info-right {
+		padding: $unit*3;
+		width: 50%;
+		
+		p {
+			padding-bottom: $unit*2;
+		}
+		lineout {
+			border-color: $white;
+			margin: 0 0 $unit*2;
+		}
+		@include media-query($on-tablet) {
+			padding: $unit*3 0;
+			width: auto;
+		}
+	}
+	@include media-query($on-tablet) {
+		display: block;
+	}
+}
+.award {
+	margin: $unit*12 auto;
+	text-align: center;
+	
+	h2 {
+		margin-bottom: $unit*4;
+	}
+	ul {
+		margin: 0 auto $unit*4;
+	}
+	.award-text {
+		display: flex;
+		font-size: $unit*1.6;
+		
+		div {
+			font-family: 'Cantata One', serif;
+			
+			&.award-first {
+				padding-right: 3%;
+		
+				@include media-query($on-mobile) {
+					padding: 0 0 30px;
+				}
+			}
+			&.award-second {
+				border-left: 1px solid $text-color;
+				border-right: 1px solid $text-color;
+				border-top: none;
+				border-bottom: none;
+				padding: 0 3%;
+		
+				@include media-query($on-mobile) {
+					border-left: none;
+					border-right: none;
+					border-top: 1px solid $text-color;
+					border-bottom: 1px solid $text-color;
+					padding: 30px 0;
+				}
+			}
+			&.award-third {
+				padding-left: 3%;
+		
+				@include media-query($on-mobile) {
+					padding: 30px 0 0;
+				}
+			}
+		}
+		@include media-query($on-mobile) {
+			display: block;
+		}
+	}
+	.award-image {
+		margin: 0 auto $unit;
+		height: 110px;
+		width: auto;
+	}
+}
+
+.projectflow {
+	margin: $unit*6 auto;
+	text-align: center;
+	
+	h2 {
+		margin-bottom: $unit*4;
+	}
+	p {
+		margin: 0 auto $unit;
+		width: calc(100% - 80px);
+		
+		@include media-query($on-tablet) {
+		width: 100%;
+		}
+	}
+	.projectflow-images {
+		display: flex;
+		flex-direction: row;
+		@extend %clearfix;
+		
+		&.projectflow-bottom {
+			margin-bottom: $unit*4;
+		}
+		.projectflow-image {
+			position: relative;
+			
+			img {
+				opacity: 0.5;
+			}
+			h3 {
+				color: #999999;
+				margin: 0;
+				padding: 10px;
+				position: absolute;
+				left: 0;
+				right: 0;
+			    top: 36%;
+				
+				&.active {
+				}
+				
+				@include media-query($on-tablet) {
+			    top: 45%;
+				}
+			}
+		}
+		
+		.projectflow-spacer,
+		.projectflow-spacer img {
+			flex-grow: 0;
+			flex-shrink: 0;
+			margin: auto;
+			width: 40px;
+			
+			&.row-out {
+				
+				@include media-query($on-tablet) {
+					display: none;
+				}
+			}
+		
+			@include media-query($on-tablet) {
+				transform: rotate(45deg);
+			}
+		}
+		&.projectflow-first {
+			margin-bottom: 40px;
+			
+			@include media-query($on-tablet) {
+			margin-bottom: 0;
+			}
+		}
+		
+		@include media-query($on-tablet) {
+			display: block;
+			margin-left: auto;
+			margin-right: auto;
+			max-width: 600px;
+		}
+	}
+	.projectflow-divider {
+		background-image: url('/images/elements/projectflow-line.png');
+		background-position: center;
+		background-repeat: repeat-x;
+		margin: 20px 0;
+		height: 40px;
+		width: 100%;
+		
+		img {
+			height: 40px;
+			width: 40px;
+		}
+		img.flow-in {
+			float: right;
+			transform: rotate(90deg);
+		}
+		img.flow-out {
+			float: left;
+		}
 	}
 }
 
@@ -261,7 +540,7 @@ ul.publications li img {
 	@include media-query ($on-laptop) {
 		width: 44%;
 	}
-	@include media-query ($on-palm) {
+	@include media-query ($on-mobile) {
 		float: none;
 		width: 100%;
 		padding: 0 0 ($unit*2) 0; 
@@ -304,7 +583,7 @@ ul.thoughts li img {
 		}
 	}
 	
-	@include media-query ($on-palm) {
+	@include media-query ($on-mobile) {
 		&.tall {
 			display: block;
 		}	
@@ -332,14 +611,14 @@ ul.thoughts p {
 .video1ext {
 	display: block;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: none;
 	}
 }
 .video1 {
 	display: none;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: block;
 	}
 }
@@ -392,14 +671,15 @@ ul.thoughts p {
 /* Recruitment Page
 ==================== */
 
-.light {
-	min-height: 100vh;
-	background-position: center top;
-	background-size: cover;
-	background-repeat: no-repeat;
-	padding: $unit*3;
-	color: $white;
+.recruitmentpage {
 	background-image: url('/images/practice/fta-office.jpg');
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: $white;
+	margin-bottom: 0;
+	min-height: 100vh;
+	padding-top: $unit*3;
 }
 .recruitment-text {
 	width: 50%;
@@ -474,7 +754,7 @@ ul.thoughts p {
 		justify-content: space-between;
 		
 		@extend %clearfix;
-		@include media-query($on-palm) {
+		@include media-query($on-mobile) {
 			display: block;
 		}
 		
@@ -495,11 +775,11 @@ ul.thoughts p {
 				color: $white;
 				padding: $unit*2;
 				
-				@include media-query($on-palm) {
+				@include media-query($on-mobile) {
 					margin-bottom: $unit*3;
 				}
 			}
-			@include media-query($on-palm) {
+			@include media-query($on-mobile) {
 				img {
 					margin-bottom: $unit*2;
 				}
@@ -635,7 +915,7 @@ ul.thoughts p {
 		background-size: cover;
 		width: 50%;
 		
-		@include media-query($on-palm) {
+		@include media-query($on-mobile) {
 			height: $unit*20;
 			width: 100%;
 		}
@@ -649,18 +929,18 @@ ul.thoughts p {
 		p {
 			padding: 0 $unit*2 $unit*2;
 		}
-		@include media-query($on-palm) {
+		@include media-query($on-mobile) {
 			width: 100%;
 		}
 	}
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		display: block;
 	}
 }
 h2.promo-large-text {
 	font-size: $unit*4;
 	
-	@include media-query($on-palm) {
+	@include media-query($on-mobile) {
 		font-size: 1.5em;
 	}
 }

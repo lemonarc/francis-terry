@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Les Canham - Senior Associate
+title: Les Canham
+subtitle: Senior Associate
 excerpt: "Les Canham - Senior Associate at Francis Terry and Associates"
 permalink: /practice/les-canham/
 social_image: /images/social/social-office.jpg

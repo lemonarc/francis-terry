@@ -5,6 +5,13 @@
 	background: $grey-pale;
 }
 
+.site-footer .wrapper {
+	max-width: $unit*160;
+	margin-left: auto;
+	margin-right: auto;
+	width: calc(100% - (#{$unit} * 6));
+}
+
 .footer-heading {
     font-size: 18px;
     margin-bottom: $unit / 2;
@@ -66,7 +73,7 @@
     }
 }
 
-@include media-query($on-palm) {
+@include media-query($on-mobile) {
     .footer-col {
         float: none;
         width: -webkit-calc(100% - (#{$unit} / 2));
@@ -147,7 +154,7 @@ li.social-icon {
 		text-shadow: 0px 0px 12px $black;
 		top: 33%;
 		
-		@include media-query($on-palm) {
+		@include media-query($on-mobile) {
 			font-size: 12vw;
 		}
 	}

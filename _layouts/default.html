@@ -3,7 +3,9 @@
 
   {% include head.html %}
 
+{% if page.pageclass == 'profilepage' %}<body class="newfont">{% else %}
   <body>
+{% endif %}
     
     {% if page.comments %}
 			{% include facebook-script.html %}
@@ -13,10 +15,10 @@
 	
 	{% if page.featured_image %}<img src="{{ page.featured_image }}" class="page-hero" alt="{{ page.title }}" />{% endif %}
 
-    <div class="page-content">
-      <div class="wrapper {% if page.rec == 'L' %}light{% endif %}">
-        {{ content }}
-      </div>			
+    <div class="page-content {% if page.pageclass %}{{ page.pageclass }}{% endif %}">
+				<div class="wrapper">
+					{{ content }}
+				</div>
     </div>		
 
     {% include footer.html %}

@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Ian Rowland - Architectural Technician
+title: Ian Rowland
+subtitle: Architectural Technician
 excerpt: "Ian Rowland - Architectural Technician at Francis Terry and Associates"
 permalink: /practice/ian-rowland/
 social_image: /images/social/social-office.jpg

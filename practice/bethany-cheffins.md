@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Bethany Cheffins - Architectural Technician
+title: Bethany Cheffins
+subtitle: Architectural Technician
 excerpt: "Bethany Cheffins - Architectural Technician at Francis Terry and Associates"
 permalink: /practice/bethany-cheffins/
 social_image: /images/social/social-office.jpg

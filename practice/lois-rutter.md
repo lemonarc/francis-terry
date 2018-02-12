@@ -1,6 +1,7 @@
 ---
 layout: profile
-title: Lois Rutter - Architectural Technician
+title: Lois Rutter
+subtitle: Architectural Technician
 excerpt: "Lois Rutter - Architectural Technician at Francis Terry and Associates"
 permalink: /practice/lois-rutter/
 social_image: /images/social/social-office.jpg

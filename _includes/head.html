@@ -18,13 +18,18 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
   <link href='//fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Cantata+One|Raleway" rel="stylesheet">
   <link rel='stylesheet' id='font-awesome-css'  href='//maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=4.5.3' type='text/css' media='all' />
   
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
   <script type="text/javascript" src="/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
   <link rel="stylesheet" href="/js/fancybox/source/jquery.fancybox.css?v=2.1.5?{{ site.time | date: '%s%N' }}" type="text/css" media="screen" />
+  {% if page.title == 'Test page 2' %}
+  <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.edit.js?v=2.1.5"></script>
+  {% else %}
   <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+  {% endif %}
   <!-- Optionally add helpers - button, thumbnail and/or media -->
   <link rel="stylesheet" href="/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />
   <script type="text/javascript" src="/js/fancybox/source/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
