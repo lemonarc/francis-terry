@@ -83,9 +83,22 @@
 
 /* Social Media
 ==================== */
+.social-media-list {
+	li {
+		margin-bottom: 10px;
+	}
+	p {
+		margin-bottom: 5px;
+	}
+}
 li.social-icon {
 	float: left;
-	margin: $unit $unit 0 0;
+	margin: 0 $unit 0 0;
+	
+	img {
+		height: 30px;
+		width: 30px;
+	}
 }
 
 

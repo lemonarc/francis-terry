@@ -99,13 +99,17 @@
 							this.title += '<li class="social-overlay">';
 							
 							// Add FaceBook button
-							this.title += '<a href="https://facebook.com/sharer.php?u=' + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" /></a>';
+							this.title += '<a href="https://facebook.com/sharer.php?u=' + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" class="social-wide" /><img src="/images/social/social-sharing-icon-fb-share.png" alt="Share on Facebook" class="social-narrow" /></a>';
 							
 							// Add tweet button
-							this.title += '<a href="https://twitter.com/share" class="sharing-image-fancybox tweet" data-count="none" data-url="' + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" /></a>';
+							this.title += '<a href="https://twitter.com/share" class="sharing-image-fancybox tweet" data-count="none" data-url="' + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" class="social-wide" /><img src="/images/social/social-sharing-icon-tweet.png" alt="Share on Twitter" class="social-narrow" /></a>';
 							
 							// Add Google+ button
-							this.title += '<a href="https://plus.google.com/share?url=' + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" /></a>';
+							this.title += '<a href="https://plus.google.com/share?url=' + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" class="social-wide" /><img src="/images/social/social-sharing-icon-plus.png" alt="Share on Google+" class="social-narrow" /></a>';
+							
+							// Add Pinterest button
+							//<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"></a>
+							this.title += '<a href="http://pinterest.com/pin/create/button/?url=' + this.href + '" class="sharing-image-fancybox pin last" rel="nofollow" target="_blank" title="Share on Pinterest"><img src="/images/social/social-sharing-button-pin.png" alt="Share on Pinterest" class="social-wide" /><img src="/images/social/social-sharing-icon-pin.png" alt="Share on Pinterest" class="social-narrow" /></a>';
 							
 							//Close social-overlay div and fancybox-title div
 							this.title += '</li></ul></div><div class="clearfix"></div>';

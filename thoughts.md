@@ -1,5 +1,6 @@
 ---
 layout: page
+pageclass: thoughts-page
 title: Blog
 excerpt: "A series of essays by Francis Terry about different aspects of architecture ranging for sketching, Palladio, Collaboration in architecture and Washington DC"
 permalink: /thoughts/
@@ -8,6 +9,27 @@ article: article
 ---
 
 <ul class="list thoughts">
+
+<li>
+	<a href="/thoughts/temple-of-ilissus/">
+		<img src="/images/essays/temple-of-ilissus/temple-of-ilissus-tall.jpg" alt="The Temple of Ilissus" title="The Temple of Ilissus" class="tall" />
+		<img src="/images/essays/temple-of-ilissus/temple-of-ilissus-wide.jpg" alt="The Temple of Ilissus" title="The Temple of Ilissus" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/temple-of-ilissus/">
+			<h2>
+				The Temple of Ilissus
+			</h2>
+		</a>
+		<h4>February 2018</h4>
+		<p>
+			This year, a client commissioned me to draw an ionic capital. Doing a drawing of this scale is something I rarely have time to do and it was fortunate to be given the opportunity.
+		</p>
+		<a href="/thoughts/temple-of-ilissus/" alt="Berlin">
+			Read more
+		</a>
+	</div>
+</li>
 
 <li>
 	<a href="/thoughts/pantheon/">

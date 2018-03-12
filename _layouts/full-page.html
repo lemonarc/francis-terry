@@ -1,24 +1,32 @@
----
-layout: default
----
-<article class="post">
+<!DOCTYPE html>
+<html>
 
-  <header class="post-header">
-    {% if page.profile %}    
-      <div class="profile-head">
-        <img src="/images/practice/{{ page.profile }}" class="profile-image" alt="{{ page.title }}" />
-        <div class="profile-title">
-          <h1 class="post-title">{{ page.title }}</h1>
-          <h3>{{ page.subtitle }}</h3>
-        </div>
-      </div>
-    {% else %}
-    <h1 class="post-title">{{ page.title }}</h1>
-    {% endif %}
-  </header>
+  {% include head.html %}
 
-  <div class="post-content">
-    {{ content }}
-  </div>
+  {% if page.bodyclass %}
+		<body class="{{ page.bodyclass }}">
+	{% else %}
+		<body>
+	{% endif %}
+		
+		<div class="full-page {{ page.splash-background }}">
 
-</article>
+			{% include header.html %}
+
+			<div>
+				{{ content }}
+			</div>
+		
+		</div>
+		
+		{% if page.prefooter %}
+			<div class="wrapper {% if page.prefooter == 'mono' %}desaturate{% endif %}">
+				{% include prefooter.html %}				
+			</div>
+		{% endif %}
+		
+		{% include footer.html %}
+
+  </body>
+
+</html>

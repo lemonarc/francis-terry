@@ -3,11 +3,15 @@
 
   {% include head.html %}
 
-  <body {% if page.pagetype %}class="{{ page.pagetype }}"{% endif %}>
+  {% if page.bodyclass %}
+		<body class="{{ page.bodyclass }}">
+	{% else %}
+		<body>
+	{% endif %}
 		
 		<div class="splash-page {{ page.splash-background }}">
 
-			{% include homepage-header.html %}
+			{% include header.html %}
 
 			<div>
 				{{ content }}
@@ -20,6 +24,7 @@
 				{% include prefooter.html %}				
 			</div>
 		{% endif %}
+		
 		{% include footer.html %}
 		
 			<!--<script type="text/javascript">

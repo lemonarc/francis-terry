@@ -3,13 +3,17 @@
 
   {% include head.html %}
 
-{% if page.pageclass == 'profilepage' %}<body class="newfont">{% else %}
-  <body>
-{% endif %}
+	{% if page.bodyclass == 'profilepage' %}
+		<body class="{{ page.bodyclass }} newfont">
+  {% elsif page.bodyclass %}
+		<body class="{{ page.bodyclass }}">
+	{% else %}
+		<body>
+	{% endif %}
     
-    {% if page.comments %}
-			{% include facebook-script.html %}
-    {% endif %}
+  {% if page.comments %}
+		{% include facebook-script.html %}
+  {% endif %}
 
   {% include header.html %}
 	

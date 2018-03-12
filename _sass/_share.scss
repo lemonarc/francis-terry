@@ -22,9 +22,10 @@
 	width: auto;
 	float: left;
 	border-radius: 3px;
+	margin: 0 10px 0 0;
 	
-	&.tweet {
-		margin: 0 10px;
+	&.last {
+		margin: 0;
 	}
 }
 a.fb img {
@@ -48,14 +49,24 @@ a.gplus img {
 		background-color: $link;
 	}
 }
+a.pin img {
+	background-color: #C1272D;
+	
+	&:hover {
+		background-color: $link;
+	}
+}
 .fancybox-title ul {	
     list-style: none;
     margin-left: 0;
 	
 	.fancybox-title-content {
 		float: left;
-		width: calc(100% - 207px);
+		width: calc(100% - 260px);
 		
+		@include media-query ($on-tablet) {
+			width: calc(100% - 136px);
+		}
 		@include media-query ($on-mobile) {
 			float: none;
 			width: 100%;
@@ -64,15 +75,47 @@ a.gplus img {
 	.social-overlay {
 		float: right;
 		margin: 0;
-		width: 197px;
+		width: 250px;
 		
+		@include media-query ($on-tablet) {
+			width: 126px;
+		}
 		@include media-query ($on-mobile) {
 			float: none;
 			margin: 10px 0 0;
+			width: 250px;
+		}
+		@include media-query ($on-palm) {
+			width: 126px;
 		}
 	}
 }
-
+.social-wide {
+	display: block;
+	
+	@include media-query ($on-tablet) {
+		display: none;
+	}
+	@include media-query ($on-mobile) {
+		display: block;
+	}
+	@include media-query ($on-palm) {
+		display: none;
+	}
+}
+.social-narrow {
+	display: none;
+	
+	@include media-query ($on-tablet) {
+		display: block;
+	}
+	@include media-query ($on-mobile) {
+		display: none;
+	}
+	@include media-query ($on-palm) {
+		display: block;
+	}
+}
 
 .fancybox-social-3 {
 	position: absolute;

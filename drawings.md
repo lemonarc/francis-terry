@@ -1,5 +1,6 @@
 ---
 layout: page
+pageclass: drawings-page
 title: Drawings
 excerpt: "Drawings by Francis Terry showing his classical buildings and architectural details, drawn by hand using pencil, pen and ink, watercolour and oil paint"
 permalink: /drawings/
@@ -9,6 +10,12 @@ social_image: /images/social/social-drawings.jpg
 <p>All drawings and paintings by Francis Terry</p>
 
 <ul class="list random">
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/ionic-capital-by-francis-terry.jpg">
+<img class="lazy" src="/images/drawings/thumbs/ionic-capital-by-francis-terry.jpg" alt="Ionic capital by Francis Terry" >
+</a>
+</li>
 
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/00s_image1.jpg">

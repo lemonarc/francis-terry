@@ -1,6 +1,6 @@
 ---
 layout: page
-pageclass: profilepage
+bodyclass: profilepage
 title: Francis Terry
 subtitle: MA (Cantab), Architect <br />Chairman of RIBA’s Traditional Architecture Group (TAG)
 excerpt: "Director at Francis Terry and Associates"

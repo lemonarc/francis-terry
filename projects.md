@@ -1,5 +1,6 @@
 ---
 layout: page
+pageclass: projects-page
 title: Projects
 excerpt: "Images of work by the Francis Terry and Associates team, showing their new-build classical Georgian style architecture and country houses"
 permalink: /gallery/
@@ -76,20 +77,20 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/img2474.jpg" title="">
-<img class="lazy" src="/images/projects/thumbs/img2474.jpg" alt="">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-1.jpg" title="New Orangery in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-1.jpg" alt="New Orangery in Norfolk">
-</a>
-</li>
-
-<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-2.jpg" title="New Orangery in Norfolk">
 <img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-2.jpg" alt="New Orangery in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-3.jpg" title="New Orangery in Norfolk">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-3.jpg" alt="New Orangery in Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-4.jpg">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-4.jpg" alt="Norfolk">
 </a>
 </li>
 
