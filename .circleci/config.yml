@@ -2,7 +2,7 @@ version: 2
 jobs:
   build:
     docker:
-      - image: lemonarc/ruby-php-circleci:1.1
+      - image: lemonarc/ruby-php-circleci:1.2
     steps:
       - checkout
       - run: composer install -n
