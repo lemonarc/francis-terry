@@ -8,6 +8,7 @@ jobs:
       - run: gem install jekyll -v 3.5.0
       - run: sed -e 's|{{stripe_key}}|'$STRIPE_API_PUBLISHABLE_KEY'|g' -e 's|{{api_url}}|'$API_URL'|g' _data/api.yml.example > _data/api.yml 
       - run: jekyll build
+      - run: cat _data/api.yml
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
