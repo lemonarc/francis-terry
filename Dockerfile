@@ -1,6 +1,6 @@
 FROM circleci/ruby:2.5
 
-RUN sudo apt install php7.0 php7.0-zip
+RUN sudo apt install php7.0 php7.0-zip php7.0-curl
 
 ENV COMPOSER_ALLOW_SUPERUSER 1
 ENV COMPOSER_HOME /tmp
