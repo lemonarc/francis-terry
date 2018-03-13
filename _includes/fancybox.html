@@ -82,23 +82,6 @@
 		
 		{% if page.title == 'Test page 2' %}
 		
-		<script>window.twttr = (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0],
-    t = window.twttr || {};
-  if (d.getElementById(id)) return t;
-  js = d.createElement(s);
-  js.id = id;
-  js.src = "https://platform.twitter.com/widgets.js";
-  fjs.parentNode.insertBefore(js, fjs);
-
-  t._e = [];
-  t.ready = function(f) {
-    t._e.push(f);
-  };
-
-  return t;
-}(document, "script", "twitter-wjs"));</script>
-		
 		<script type="text/javascript">
 			$(document).ready(function() {
 				$(".fancybox")
@@ -119,7 +102,7 @@
 							this.title += '<a href="https://facebook.com/sharer.php?u=' + window.location.origin + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" class="social-wide" /><img src="/images/social/social-sharing-icon-fb-share.png" alt="Share on Facebook" class="social-narrow" /></a>';
 							
 							// Add tweet button
-							this.title += '<a href="https://twitter.com/share" class="sharing-image-fancybox tweet" data-count="none" data-url="' + window.location.origin + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" class="social-wide" /><img src="/images/social/social-sharing-icon-tweet.png" alt="Share on Twitter" class="social-narrow" /></a>';
+							this.title += '<a href="https://twitter.com/intent/tweet?url=' + encodeURI(window.location.origin + this.href) + '" class="sharing-image-fancybox tweet" data-count="none"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" class="social-wide" /><img src="/images/social/social-sharing-icon-tweet.png" alt="Share on Twitter" class="social-narrow" /></a>';
 							
 							// Add Google+ button
 							this.title += '<a href="https://plus.google.com/share?url=' + window.location.origin + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" class="social-wide" /><img src="/images/social/social-sharing-icon-plus.png" alt="Share on Google+" class="social-narrow" /></a>';
@@ -131,10 +114,6 @@
 							//Close social-overlay div and fancybox-title div
 							this.title += '</li></ul></div><div class="clearfix"></div>';
       
-					},
-					afterShow: function() {
-            // Render tweet button
-            twttr.widgets.load();
 					},
 					helpers : {
 						title : {

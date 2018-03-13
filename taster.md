@@ -2,7 +2,7 @@
 layout: landing
 title: Book a Taster Day with Francis Terry
 excerpt: "Demonstrating the value of choosing Francis Terry & Associates as your architects."
-permalink: /book-a-taster-day-with-francis-terry-old-dont-use/
+permalink: /book-a-taster-day-with-francis-terry-OLD-DONT-USE/
 class: taster-day
 ---
 

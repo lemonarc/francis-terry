@@ -233,14 +233,21 @@
     min-height: 100vh;
 	z-index: -100;
 }
-
+.videoContainer {
+	background-image: url('/images/videos/francis-drawing-grab.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: -101;
+}
 .videoContent {
-    position: fixed;
-    bottom: 0;
-    background: rgba(0, 0, 0, 0.5);
-    color: #f1f1f1;
-    width: 100%;
-    padding: 20px;
+	display: block;
+	
+	@include media-query($on-tablet) {
+		display: none;
+	}
 }
 
 

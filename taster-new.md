@@ -56,7 +56,7 @@ permalink: /taster-day/
 				<h3>FULL DAY</h3>
 				<h4>Francis Terry & Associates offices</h4>
 				<p>Enjoy a focussed day with Francis Terry & Associates in their offices, developing the bones of your scheme.</p>
-				<p>10 am - 5 pm</p>
+				<p>10am - 4pm</p>
 				<lineout></lineout>
 				<p>£1200</p>
 				<small>Includes VAT</small>
@@ -65,7 +65,7 @@ permalink: /taster-day/
 				<h3>PART DAY</h3>
 				<h4>Francis Terry & Associates offices</h4>
 				<p>Enjoy a productive session with Francis Terry & Associates developing your scheme, yet get away early.</p>
-				<p>10am - 2pm</p>
+				<p>10am - 1pm</p>
 				<lineout></lineout>
 				<p>£900</p>
 				<small>Includes VAT</small>
@@ -74,7 +74,7 @@ permalink: /taster-day/
 				<h3>FULL DAY</h3>
 				<h4>at your home or office</h4>
 				<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
-				<p>10 am - 5pm</p>
+				<p>10am - 4pm</p>
 				<lineout></lineout>
 				<p>£1800</p>
 				<small>Includes VAT</small>
