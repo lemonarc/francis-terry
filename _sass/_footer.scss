@@ -180,7 +180,9 @@ li.social-icon {
 		max-width: 100%;
 	}
 }
-.visual {
+body.visual {
+	background: $white;
+	
 	.wrapper {
 		max-width: calc(100% - 60px);
 		width: calc(100% - 60px);
