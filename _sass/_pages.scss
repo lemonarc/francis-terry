@@ -224,7 +224,11 @@
 
 /* Video Home Page
 ==================== */
-
+body.videoIndex {
+	.title-area {
+		max-width: calc(1200px - 40px)!important;
+	}
+}
 #homeVideo {
     position: fixed;
     right: 0;
