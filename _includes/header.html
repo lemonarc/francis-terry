@@ -1,13 +1,9 @@
-{% if page.url == '/index.html' %}
-<header class="site-header homepage-header">
-{% else %}
 <header class="site-header">
-{% endif %}
 
   <div class="wrapper">
 		
-		{% if page.url == "/index.html" or page.url == '/videoindex/' %}
-			{% include navigation.html %}
+		{% if page.url == "/" %}
+			{% include navigation-short.html %}
 		{% else %}
 			<a class="site-title" href="{{ site.baseurl }}/" alt="{{ site.title }} | {{ site.description }}"><img src="/images/FTandA_logo_sml_grey.png"></a>
 			{% include navigation.html %}

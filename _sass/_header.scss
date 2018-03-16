@@ -5,6 +5,9 @@ header {
 	margin-left: auto;
 	margin-right: auto;
 }
+.videoIndex header {
+	z-index: 200;
+}
 
 .site-header {
 	padding: $unit*3 0;
