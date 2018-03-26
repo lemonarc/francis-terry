@@ -11,6 +11,27 @@ article: article
 <ul class="list thoughts">
 
 <li>
+	<a href="/thoughts/designing-for-the-wingless/">
+		<img src="/images/essays/wingless/wingless-tall.jpg" alt="Designing for the Wingless" title="Designing for the Wingless" class="tall" />
+		<img src="/images/essays/wingless/wingless-wide.jpg" alt="Designing for the Wingless" title="Designing for the Wingless" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/designing-for-the-wingless/">
+			<h2>
+				Designing for the Wingless
+			</h2>
+		</a>
+		<h4>March 2018</h4>
+		<p>
+			The gull sees a site plan, but the human sees a setting for their life carried out on the ground. Seeing from both points of view is a daily challenge for any architect or master planner.
+		</p>
+		<a href="/thoughts/designing-for-the-wingless/" alt="Designing for the Wingless">
+			Read more
+		</a>
+	</div>
+</li>
+
+<li>
 	<a href="/thoughts/temple-of-ilissus/">
 		<img src="/images/essays/temple-of-ilissus/temple-of-ilissus-tall.jpg" alt="The Temple of Ilissus" title="The Temple of Ilissus" class="tall" />
 		<img src="/images/essays/temple-of-ilissus/temple-of-ilissus-wide.jpg" alt="The Temple of Ilissus" title="The Temple of Ilissus" class="wide" />
@@ -25,7 +46,7 @@ article: article
 		<p>
 			This year, a client commissioned me to draw an ionic capital. Doing a drawing of this scale is something I rarely have time to do and it was fortunate to be given the opportunity.
 		</p>
-		<a href="/thoughts/temple-of-ilissus/" alt="Berlin">
+		<a href="/thoughts/temple-of-ilissus/" alt="The Temple of Ilissus">
 			Read more
 		</a>
 	</div>

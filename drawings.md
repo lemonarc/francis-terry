@@ -264,6 +264,12 @@ social_image: /images/social/social-drawings.jpg
 </li>
 
 <li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/house-in-oxfordshire.jpg" title="House in Oxfordshire">
+<img class="lazy" src="/images/drawings/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire">
+</a>
+</li>
+
+<li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/hyde-park-barracks-dec-2014.jpg">
 <img class="lazy" src="/images/drawings/thumbs/hyde-park-barracks-dec-2014.jpg" alt="Prosed new development at Hyde Park Barracks, December 2014." >
 </a>

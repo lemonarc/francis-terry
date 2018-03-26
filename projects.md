@@ -59,8 +59,8 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire-2.jpg" title="House in Oxfordshire">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire-2.jpg" alt="House in Oxfordshire">
 </a>
 </li>
 
@@ -430,6 +430,12 @@ social_image: /images/social/social-projects.jpg
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/highlandspark16.jpg" title="House in Dallas">
 <img class="lazy" src="/images/projects/thumbs/highlandspark16.jpg" alt="Highlands Park House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
+<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
 </a>
 </li>
 
