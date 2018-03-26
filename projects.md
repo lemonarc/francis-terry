@@ -29,6 +29,12 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-hampshire.jpg" title="House in Hampshire">
+<img class="lazy" src="/images/projects/thumbs/house-in-hampshire.jpg" alt="House in Hampshire">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="House in Norfolk">
 <img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="House in Norfolk">
 </a>
@@ -53,6 +59,12 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
+<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire.jpg" title="House in Oxfordshire">
 <img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire">
 </a>
@@ -67,6 +79,12 @@ social_image: /images/social/social-projects.jpg
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/late-georgian-house-f.jpg" title="Late Georgian House">
 <img class="lazy" src="/images/projects/thumbs/late-georgian-house-f.jpg" alt="Late Georgian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-r.jpg" title="Late Georgian House">
+<img class="lazy" src="/images/projects/thumbs/late-georgian-house-r.jpg" alt="Late Georgian House">
 </a>
 </li>
 
@@ -207,12 +225,6 @@ social_image: /images/social/social-projects.jpg
 </a>
 </li>
 -->
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-r.jpg" title="Late Georgian House">
-<img class="lazy" src="/images/projects/thumbs/late-georgian-house-r.jpg" alt="Late Georgian House">
-</a>
-</li>
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/hanoverlodge1a.jpg" title="Hanover Lodge">
@@ -430,12 +442,6 @@ social_image: /images/social/social-projects.jpg
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/highlandspark16.jpg" title="House in Dallas">
 <img class="lazy" src="/images/projects/thumbs/highlandspark16.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
 </a>
 </li>
 

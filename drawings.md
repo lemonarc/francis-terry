@@ -347,11 +347,13 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<!--
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/dec15_02.jpg">
 <img class="lazy" src="/images/drawings/thumbs/dec15_02.jpg" alt="Oil painting by Francis Terry." />
 </a>
 </li>
+-->
 
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/dec15_20.jpg">
@@ -359,6 +361,7 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<!--
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/dec15_24.jpg">
 <img class="lazy" src="/images/drawings/thumbs/dec15_24.jpg" alt="Oil painting by Francis Terry." />
@@ -370,6 +373,7 @@ social_image: /images/social/social-drawings.jpg
 <img class="lazy" src="/images/drawings/thumbs/dec15_34.jpg" alt="Oil painting by Francis Terry." />
 </a>
 </li>
+-->
 
 <li class="quarter">
 <a class="fancybox" rel="group" href="/images/drawings/dec15_35.jpg">
