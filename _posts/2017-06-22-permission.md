@@ -3,12 +3,11 @@ layout: post
 title: New house granted planning permission under NPPF paragraph 55
 excerpt: "We have just been granted planning consent for a new Palladian house in south Norfolk, passed by committee with a unanimous vote."
 date: 2017-06-22
-categories: news
+categories: [news]
 permalink: /news/june-2017-permission/
 social_image: /images/news/jun-2017/jun-2017-4-social.jpg
 tall_image: /jun-2017/jun-2017-4-tall.jpg
 wide_image: /jun-2017/jun-2017-4-wide.jpg
-article: article
 preview: We have just been granted planning consent for a new Palladian house in south Norfolk ... passed by committee with a unanimous vote from the councillors.
 ---
 

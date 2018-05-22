@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Francis Terry
 subtitle: MA (Cantab), Dip Arch, RIBA <br />Director
 excerpt: "Director at Francis Terry and Associates"

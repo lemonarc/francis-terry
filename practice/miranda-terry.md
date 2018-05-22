@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Miranda Terry
 subtitle: MA (Cantab), Dip Arch, MSc (Lon), RIBA <br />Director
 excerpt: "Director at Francis Terry and Associates"

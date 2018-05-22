@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Les Canham
 subtitle: Senior Associate
 excerpt: "Les Canham - Senior Associate at Francis Terry and Associates"

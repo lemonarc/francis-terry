@@ -3,6 +3,17 @@ img.desaturate,
 	filter: grayscale(100%);
 }
 
+.half-inset {
+	float: left;
+	margin: 0 3% $unit*3 0;
+	width: 48.5%;
+	
+	@include media-query($on-mobile) {
+		width: 100%;
+		margin-right: 0;
+	}
+}
+
 /* Set max-width
 ==================== */
 header,
@@ -248,7 +259,8 @@ ul.blog {
 	}
 }
 
-.article {
+.article,
+article {
 	max-width: 1280px;
 	margin: 0 auto;
 	
@@ -259,7 +271,7 @@ ul.blog {
 		margin-top: $unit*3;
 		margin-bottom: $unit*3;
 	}
-	.thoughts-description {
+	.blog-text {
 		h2, h3, p {
 			margin-bottom: $unit*1;
 		}

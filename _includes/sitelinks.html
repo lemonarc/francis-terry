@@ -1,0 +1,57 @@
+<h4>You might also like...</h4>
+
+<ul class="list">
+
+	{% if page.categories contains "news" %}
+
+		{% for post in site.categories.news limit:4 %}
+      {% unless post.url == page.url %}
+
+        {% include sitelinkcontent.html %}
+
+      {% endunless %}            
+    {% endfor %}
+
+	{% elsif page.categories contains "annecdotes" %}
+  
+    {% for post in site.categories.annecdotes limit:4 %}
+      {% unless post.url == page.url %}
+
+        {% include sitelinkcontent.html %}
+
+      {% endunless %}            
+    {% endfor %}
+  
+	{% elsif page.categories contains "history" %}
+  
+    {% for post in site.categories.history limit:4 %}
+      {% unless post.url == page.url %}
+
+        {% include sitelinkcontent.html %}
+
+      {% endunless %}            
+    {% endfor %}
+  
+	{% elsif page.categories contains "places" %}
+  
+    {% for post in site.categories.places limit:4 %}
+      {% unless post.url == page.url %}
+
+        {% include sitelinkcontent.html %}
+
+      {% endunless %}            
+    {% endfor %}
+  
+	{% elsif page.categories contains "theory" %}
+	
+    {% for post in site.categories.theory limit:4 %}
+      {% unless post.url == page.url %}
+
+        {% include sitelinkcontent.html %}
+
+      {% endunless %}            
+    {% endfor %}
+  
+	{% endif %}
+	
+</ul>

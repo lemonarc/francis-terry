@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Lois Rutter
 subtitle: Architectural Technician
 excerpt: "Lois Rutter - Architectural Technician at Francis Terry and Associates"

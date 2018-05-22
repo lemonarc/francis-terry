@@ -6,7 +6,6 @@ date: 2017-12-20
 categories: news
 permalink: /news/december-2017-christmas-party/
 social_image: /images/news/dec-2017/dec-2017-social-2.jpg
-article: article
 tall_image: dec-2017/dec-2017-tall-2.jpg
 wide_image: dec-2017/dec-2017-wide-2.jpg
 preview: This year's office party was at Mimosa in Colchester. It was a lovely occasion and great to have time to meet up with everyone's partners whose support is essential to the smooth running of the practice.

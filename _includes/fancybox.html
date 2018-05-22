@@ -39,48 +39,7 @@
 		
 		{% endif %}
 		
-		{% if page.title == 'Test page' %}
-		
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$(".fancybox")
-				.attr('rel', 'gallery')
-				.fancybox({
-					beforeShow: function () {
-						if (this.title) {
-							// New line
-							this.title += '<br />';
-						} else {
-							this.title = '';
-						}
-                
-							
-							// Open div and add FaceBook button
-							this.title += '<div class="fancybox-social"><a href="https://facebook.com/sharer.php?u=' + this.href + '" class="sharing-image fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" /></a>';
-                
-							// Add tweet button
-							this.title += '<a href="https://twitter.com/share" class="sharing-image tweet" data-count="none" data-url="' + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" /></a>';
-                
-							// Add Google+ button and close div
-							this.title += '<a href="https://plus.google.com/share?url=' + this.href + '" class="sharing-image gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" /></a></div><div class="clearfix"></div>';
-      
-					},
-					afterShow: function() {
-            // Render tweet button
-            twttr.widgets.load();
-					},
-					helpers : {
-						title : {
-                type: 'inside'
-            }
-					}  
-				});
-			});
-		</script>
-		
-		{% endif %}
-		
-		{% if page.title == 'Test page 2' %}
+		{% unless page.pageclass == 'videos-page' or page.title == 'Projects' %}
 		
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -124,86 +83,6 @@
 			});
 		</script>
 		
-		{% endif %}
+		{% endunless %}
 		
-		{% if page.title == 'Test page 3' %}
 		
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$(".fancybox")
-				.attr('rel', 'gallery')
-				.fancybox({
-					beforeShow: function () {
-						if (this.title) {
-							// New line
-							this.title += '<br />';
-						} else {
-							this.title = '';
-						}
-                
-							
-							// Open div and add FaceBook button
-							this.title += '<div class="fancybox-social-3"><a href="https://facebook.com/sharer.php?u=' + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" /></a>';
-                
-							// Add tweet button
-							this.title += '<a href="https://twitter.com/share" class="sharing-image-fancybox tweet" data-count="none" data-url="' + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" /></a>';
-                
-							// Add Google+ button and close div
-							this.title += '<a href="https://plus.google.com/share?url=' + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" /></a></div><div class="clearfix"></div>';
-      
-					},
-					afterShow: function() {
-            // Render tweet button
-            twttr.widgets.load();
-					},
-					helpers : {
-						title : {
-                type: 'inside'
-            }
-					}  
-				});
-			});
-		</script>
-		
-		{% endif %}
-		
-		{% if page.title == 'Test page 4' %}
-		
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$(".fancybox")
-				.attr('rel', 'gallery')
-				.fancybox({
-					beforeShow: function () {
-						if (this.title) {
-							// New line
-							this.title += '<br />';
-						} else {
-							this.title = '';
-						}
-                
-							
-							// Open div and add FaceBook button
-							this.title += '<div class="fancybox-social-4"><a href="https://facebook.com/sharer.php?u=' + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" /></a>';
-                
-							// Add tweet button
-							this.title += '<a href="https://twitter.com/share" class="sharing-image-fancybox tweet" data-count="none" data-url="' + this.href + '"><img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" /></a>';
-                
-							// Add Google+ button and close div
-							this.title += '<a href="https://plus.google.com/share?url=' + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" /></a></div><div class="clearfix"></div>';
-      
-					},
-					afterShow: function() {
-            // Render tweet button
-            twttr.widgets.load();
-					},
-					helpers : {
-						title : {
-                type: 'inside'
-            }
-					}  
-				});
-			});
-		</script>
-		
-		{% endif %}

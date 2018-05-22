@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Aaron Eagle
 subtitle: Associate
 excerpt: "Aaron Eagle - Associate at Francis Terry and Associates"

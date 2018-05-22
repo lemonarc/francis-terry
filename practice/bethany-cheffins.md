@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Bethany Cheffins
 subtitle: Architectural Technician
 excerpt: "Bethany Cheffins - Architectural Technician at Francis Terry and Associates"

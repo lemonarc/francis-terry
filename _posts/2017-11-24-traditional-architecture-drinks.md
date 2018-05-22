@@ -2,11 +2,10 @@
 layout: post
 title: Traditional Architecture Group Drinks
 excerpt:  On 14th November Francis Terry as chairman of the RIBA’s Traditional Architecture Group hosted a reception at the Art Workers’ Guild. The occasion was well attended by both architects and practitioners in related fields.
-date: 2017-11-24
-categories: news
+date: 2017-11-30
+categories: [news]
 permalink: /news/november-2017-traditional-architecture-drinks/
 social_image: /images/news/nov-2017/nov-2017-social.jpg
-article: article
 tall_image: nov-2017/nov-2017-tall.jpg
 wide_image: nov-2017/nov-2017-wide.jpg
 preview: On 14th November Francis Terry as chairman of the RIBA’s Traditional Architecture Group hosted a reception at the Art Workers’ Guild. The occasion was well attended by both architects and practitioners in related fields.

@@ -3,12 +3,11 @@ layout: post
 title: Francis Terry visit to Dallas and Fort Worth
 excerpt: "Francis Terry and Associates News: Francis Terry visit to Dallas and Fort Worth"
 date:   2017-02-24
-categories: news
+categories: [news]
 permalink: /news/february-2017-fort-worth/
 social_image: /images/news/news-feb-17-social.jpg
 tall_image: news-feb-17-tall.jpg
 wide_image: news-feb-17-tall.jpg
-article: article
 preview: Francis has recently attended the American Institute of Classical Architecture's (ICAA) board retreat in Dallas, Texas. This was a great opportunity to meet and exchange ideas with the most eminent classical architects of America. As part of the event Francis carried out a large architectural drawing, over the course of a day, with fellow architects, Larry Boerder and Daniel Heath.
 ---
 

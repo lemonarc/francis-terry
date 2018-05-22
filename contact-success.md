@@ -1,5 +1,6 @@
 ---
 layout: page
+pageclass: contactpage
 title: Success
 excerpt: "Thanks for contacting the team at Francis Terry and Associates"
 permalink: /contact-success/

@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Colin Day
 subtitle: Associate
 excerpt: "Colin Day - Associate at Francis Terry and Associates"

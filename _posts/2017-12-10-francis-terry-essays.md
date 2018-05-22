@@ -1,12 +1,11 @@
 ---
 layout: post
+categories: [news]
 title: Small Book of Francis Terry’s Essays published
 excerpt:  A small book of Francis Terry’s essays entitled Glad to be Pastiche has just been published. All the essays are written with a certain degree of humour reflecting Francis’ unconventional way of seeing architecture. 
 date: 2017-12-10
-categories: news
 permalink: /news/december-2017-francis-terry-essays/
 social_image: /images/news/dec-2017/dec-2017-social.jpg
-article: article
 tall_image: dec-2017/dec-2017-tall.jpg
 wide_image: dec-2017/dec-2017-wide.jpg
 preview: A small book of Francis Terry’s essays entitled Glad to be Pastiche has just been published. All the essays are written with a certain degree of humour reflecting Francis’ unconventional way of seeing architecture.

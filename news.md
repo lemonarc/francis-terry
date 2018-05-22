@@ -2,7 +2,7 @@
 layout: page
 title: News
 excerpt: "The latest news and updates from the team at Francis Terry and Associates"
-permalink: /news/
+permalink: /news2/
 social_image: /images/social/social-surrey.jpg
 article: article
 ---

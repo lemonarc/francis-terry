@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Martyn Winney
 subtitle: Senior Associate
 excerpt: "Martyn Winney - Senior Associate at Francis Terry and Associates"

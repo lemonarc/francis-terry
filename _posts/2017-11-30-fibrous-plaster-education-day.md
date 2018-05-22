@@ -6,7 +6,6 @@ date: 2017-11-30
 categories: news
 permalink: /news/november-2017-fibrous-plaster-education-day/
 social_image: /images/news/nov-2017/nov-2017-social-2.jpg
-article: article
 tall_image: nov-2017/nov-2017-tall-2.jpg
 wide_image: nov-2017/nov-2017-wide-2.jpg
 preview: As part of our continual professional development, we spent a day with the fibrous plaster firm Locker and Riley. We were given an introduction to every part of making fibrous plaster.

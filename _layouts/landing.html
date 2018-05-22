@@ -5,6 +5,9 @@ layout: default
 
   <div class="post-content">
     {{ content }}
+    {% unless page.pageclass == 'practice-page' or page.pageclass == 'staffprofile' or page.pageclass == 'contactpage' %}
+    {% include sharing.html %}
+    {% endunless %}
   </div>
 
 </article>

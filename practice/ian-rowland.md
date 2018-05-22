@@ -1,5 +1,6 @@
 ---
 layout: profile
+pageclass: staffprofile
 title: Ian Rowland
 subtitle: Architectural Technician
 excerpt: "Ian Rowland - Architectural Technician at Francis Terry and Associates"

@@ -11,6 +11,27 @@ article: article
 <ul class="list thoughts">
 
 <li>
+	<a href="/thoughts/natural-architecture/">
+		<img src="/images/essays/natural-architecture/natural-architecture-tall.jpg" alt="Designing for the natural-architecture" title="Natural food, Natural clothes... Natural architecture?" class="tall" />
+		<img src="/images/essays/natural-architecture/natural-architecture-wide.jpg" alt="Designing for the natural-architecture" title="Natural food, Natural clothes... Natural architecture?" class="wide" />
+	</a>
+	<div class="thoughts-description">
+		<a href="/thoughts/natural-architecture/">
+			<h2>
+				Natural food, Natural clothes... Natural architecture?
+			</h2>
+		</a>
+		<h4>April 2018</h4>
+		<p>
+			A good pair of brogues will last decades. Trainers will not. Nylon, as used in sports clothing, seems to be the 'go-to' fabric nowadays, unless you are a reactionary architect who peddles nostalgia - like me.
+		</p>
+		<a href="/thoughts/natural-architecture/" alt="Natural food, Natural clothes... Natural architecture?">
+			Read more
+		</a>
+	</div>
+</li>
+
+<li>
 	<a href="/thoughts/designing-for-the-wingless/">
 		<img src="/images/essays/wingless/wingless-tall.jpg" alt="Designing for the Wingless" title="Designing for the Wingless" class="tall" />
 		<img src="/images/essays/wingless/wingless-wide.jpg" alt="Designing for the Wingless" title="Designing for the Wingless" class="wide" />

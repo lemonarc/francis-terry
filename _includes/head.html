@@ -25,11 +25,11 @@
   <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
   <script type="text/javascript" src="/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
   <link rel="stylesheet" href="/js/fancybox/source/jquery.fancybox.css?v=2.1.5?{{ site.time | date: '%s%N' }}" type="text/css" media="screen" />
-  {% if page.title == 'Test page 2' %}
+  {% if page.pageclass == 'practice-page' or page.pageclass == 'staffprofile' or page.pageclass == 'contactpage' or page.pageclass == 'videos-page' or page.title == 'Projects' %}
+  <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script
+  {% else %}
   <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.edit.js?v=2.1.5"></script>
   <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
-  {% else %}
-  <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
   {% endif %}
   <!-- Optionally add helpers - button, thumbnail and/or media -->
   <link rel="stylesheet" href="/js/fancybox/source/helpers/jquery.fancybox-buttons.css?v=1.0.5" type="text/css" media="screen" />

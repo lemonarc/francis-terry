@@ -317,6 +317,40 @@ img.main {
 	}
 }
 
+.practice-page-new {
+	ul li {
+		position: relative;
+		
+		img {
+			float: left;
+			margin-right: 10px;
+			max-height: 200px;
+			width: auto;
+			
+			@media screen and (max-width:1076px) {
+				float: none;
+				max-height: initial;
+			}
+		}
+		h2,h3,h4,h5 {
+			margin-bottom: 5px;
+		}
+		.profile-info {
+			background: rgba(255,255,255,0.7);
+			display: none;
+			padding: 20px;
+			position: absolute;
+			z-index: 100;
+		}
+	}
+	ul li:hover {
+		.profile-info {
+			display: block;
+		}
+	}
+	
+}
+
 /* Profile pages */
 
 .profilepage .post-header {
@@ -593,62 +627,6 @@ ul.publications li img {
 }
 ul.publications p {
 	text-align: justify;
-}
-
-/* Thoughts Page
-==================== */
-ul.thoughts li {
-	list-style: none;
-	float: none;
-	margin-bottom: $unit*3;
-	@extend %clearfix;
-}
-ul.thoughts li img {
-	float: left;
-	width: 33%;
-	padding: 0 ($unit*2) ($unit*2) 0;
-	
-	&.tall {
-		display: block;
-	}	
-	&.wide {
-		display: none;
-	}
-	
-	@include media-query ($on-laptop) {
-		float: none;
-		width: 100%;
-		padding: 0 0 ($unit*2) 0;
-		
-		&.tall {
-			display: none;
-		}	
-		&.wide {
-			display: block;
-		}
-	}
-	
-	@include media-query ($on-mobile) {
-		&.tall {
-			display: block;
-		}	
-		&.wide {
-			display: none;
-		}
-	}
-	
-}
-ul.thoughts p {
-	text-align: justify;
-}
-.thoughts-description {
-	width: calc(100% - (33% + (#{$unit}*2)));
-	float: right;
-	
-	@include media-query ($on-laptop) {
-		float: none;
-		width: 100%;
-	}
 }
 
 /* Videos Page

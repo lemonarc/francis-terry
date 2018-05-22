@@ -1,0 +1,22 @@
+---
+layout: page
+article: article
+---
+<ul class="list blog">
+  {% for post in site.categories[page.category] %}
+    <li>
+      <a href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>
+        <img src="{% if post.tall_image %}/images/news/{{ post.tall_image }}{% else %}{{ post.image_tall }}{% endif %}" alt="{{ post.title }}" class="tall" />
+        <img src="{% if post.wide_image %}/images/news/{{ post.wide_image }}{% else %}{{ post.image_wide }}{% endif %}" alt="{{ post.title }}" class="wide" />
+      </a>
+      <div class="blog-text">
+        <h2>
+          <a class="post-link" href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>{{ post.title }}</a>
+        </h2>
+        <h4>{% if post.date %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.post_date }}{% endif %}</h4>
+        <p>{{ post.preview }}</p>
+        <p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>{% endif %}</p>
+      </div>
+    </li>
+  {% endfor %}
+</ul>

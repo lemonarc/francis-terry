@@ -3,12 +3,11 @@ layout: post
 title: Opponents of a new development in West Hampstead have commissioned Francis Terry to produce an alternative design
 excerpt: "Francis Terry and Associates News: Opponents of a new development in West Hampstead have commissioned Francis Terry to produce an alternative design"
 date:   2016-12-02
-categories: news
+categories: [news]
 permalink: /news/december-2016-west-hampstead/
 social_image: /images/news/news-dec-16-social.jpg
 tall_image: news-dec-16-tall.jpg
 wide_image: news-dec-16-wide.jpg
-article: article
 preview: 'Jonathan Prynn reports in the Evening Standard 1st December 2016: <em>"Campaigners including Downton Abbey star Jim Carter who are opposed to "flawed" plans for "vast housing blocks" on council-owned land in north London have drawn up a "more sensitive" alternative proposal. They have commissioned classical architect Francis Terry to create designs for the redevelopment of the site in West Hampstead based on "traditional red-brick mansion style buildings in keeping with the local area"."</em>'
 ---
 

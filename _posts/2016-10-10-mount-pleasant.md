@@ -3,12 +3,11 @@ layout: post
 title: Mount Pleasant Community Right to Build Order submitted to Camden Council
 excerpt: "Francis Terry and Associates News: Mount Pleasant Community Right to Build Order submitted to Camden Council"
 date: 2016-10-10
-categories: news
+categories: [news]
 permalink: /news/october-2016-mount-pleasant/
 social_image: /images/social/social-drawings.jpg
 tall_image: news-oct-16-tall.jpg
 wide_image: news-oct-16-wide.jpg
-article: article
 preview: "Our proposal for Mount Pleasant, London has been submitted for what, if successful will be Britain's largest Community Right to Build Order. The community has been working on the proposal for the sorting office since 2014 as an alternative to what they viewed as an unsympathetic scheme for the city."
 ---
 

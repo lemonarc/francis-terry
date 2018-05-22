@@ -3,12 +3,11 @@ layout: post
 title: Proposal for Mount Pleasant, London wins INTBAU Award
 excerpt: "Francis Terry and Associates News: Proposal for Mount Pleasant, London wins INTBAU Award"
 date: 2016-11-14
-categories: news
+categories: [news]
 permalink: /news/november-2016-mount-pleasant/
 social_image: /images/news/news-nov-16-social.jpg
 tall_image: news-nov-16-tall.jpg
 wide_image: news-nov-16-wide.jpg
-article: article
 preview: "Our design for a community led proposal for a large site at Mount Pleasant, London has won an award for Community Engagement from the International Network for Traditional Buildings, Architecture and Urbanism (INTBAU). The scheme is an alternative design drawn up in consultation with local residents and is Britain's largest Community Right to Build Order ever submitted for planning."
 ---
 
