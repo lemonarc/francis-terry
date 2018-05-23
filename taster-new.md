@@ -1,5 +1,6 @@
 ---
 layout: landing
+pageclass: taster-page
 title: Book a Taster Day with Francis Terry
 excerpt: "Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team."
 permalink: /taster-day/
@@ -31,12 +32,13 @@ permalink: /taster-day/
 				<div class="taster-form">
 					<h1 class="post-title">Book a Taster Day</h1>
 					<h3>Work with Francis Terry for a day and discover what it would be like to bring your project to life working with our team</h3>
-					<form method="post" id="booking-form">
+					<form method="post" id="booking-form" onsubmit="if(document.getElementById('agree').checked) { return true; } else { alert('Please indicate that you have read and agree to the Privacy Policy'); return false; }">
 					    <input class="required" id="contact-name" type="text" name="name" placeholder="Your Name">
 					    <input class="required" id="contact-email" type="email" placeholder="Your Email">
 						<input class="required" id="contact-telephone" type="telephone" placeholder="Your Telephone No.">
 					    <textarea id="contact-message" name="Message" placeholder="Your Message"></textarea>
 						<div id="product-selector">Loading Products...</div>
+						<div id="consent"><input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></div>
 					    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
 					</form>
 					<small>All prices include VAT</small>

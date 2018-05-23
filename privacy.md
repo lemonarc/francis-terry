@@ -2,79 +2,93 @@
 layout: page
 pageclass: privacy-policy
 title: Privacy Policy
-excerpt: 'This Privacy Policy describes how your personal information is collected, used, and shared when you visit https://ftanda.co.uk (the "Site").'
+excerpt: 'This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by your access or use of ftanda.co.uk (the "Site") or otherwise as a result of your interactions with us.'
 permalink: /privacy/
 article: article
 ---
-<p>
-	<strong>Privacy Policy for Francis Terry and Associates Ltd</strong>
-</p>
-<p>
-	This Privacy Policy describes how your personal information is collected, used, and shared when you visit https://ftanda.co.uk (the "Site").
-</p>
-<h4>Personal Information We Collect</h4>
-<p>
-	When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as “Device Information.”
-<p><p>
-	We collect Device Information using the following technologies:
-</p><p>
-	- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-</p><p>
-	- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-</p><p>
-	Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, email address, and phone number.  We refer to this information as “Order Information.”
-</p><p>
-	When we talk about “Personal Information” in this Privacy Policy, we are talking both about Device Information and Order Information.
-</p>
 
-<h4>How Do We Use Your Personal Information?</h4>
+<p><strong>Privacy Policy for Francis Terry and Associates Ltd</strong></p>
 
 <p>
-	We use the Order Information that we collect generally to fulfill any orders placed through the Site (including providing you with order confirmations).  Additionally, we use this Order Information to communicate with you;
+	This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by your access or use of ftanda.co.uk (the "Site") or otherwise as a result of your interactions with us. By visiting this Site directly or through another site, you accept the terms and conditions of this Policy. This Policy applies to this Site. We are not responsible for the content or privacy practices on any website not operated by us to which this Site links or that links to this Site.
+</p>
+<h3>Information Collection</h3>
+<p>
+	We collect information from you in several different ways on this Site.
+</p>
+<h4>The Contact Form</h4>
+<p>
+	In order to contact us digitally, you will be required to complete an online contact form. During completion, you will be asked to provide to us certain personal information, including but not limited to your name and email address. These kinds of personal information are used only to communicate with you about your enquiry. This personal information will not be used for marketing purposes.
+</p>
+<h4>Booking a Taster Day</h4>
+<p>
+	During the process to book a Taster Day, you may be required to complete an online booking form. During completion, you will be asked to provide to us certain personal information, including but not limited to your name, email address and telephone number. These kinds of personal information are used to communicate with you about your booking. If we encounter a problem when processing your booking, your personal information may be used to contact you. This personal information will not be used for marketing purposes.
+</p>
+<h4>Information We Collect Automatically</h4>		
+<p>
+	We may use cookies, web beacons, and other tracking technologies to collect information about you and your interaction with this Site, including information about your browsing behavior and other engagement with the Services. We use this information in one or more of the ways described in the "Information use and Disclosure" section below. Most web browsers are set to accept cookies by default, but you can usually change your browser settings to remove or reject cookies.
+</p>
+<h3>Information Use and Disclosure</h3>
+<p>
+	<h4>Internal Use</h4>
+	<p>
+		We use your personal information to provide you with customer service. We may internally use your personal information to improve this Site’s content and layout, and to determine general marketplace information about visitors to this Site.
+	</p>
+	<h4>Communications with you</h4>
+	<p>
+		We will use your personal information to communicate with you about this Site and your bookings and enquiries. Also, we may send you a confirmation email when you register with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Because we have to communicate with you about bookings that you choose to place, you cannot opt out of receiving emails related to your bookings.
+	</p>
+	<h4>Sharing your Information</h4>
+	<p>
+		Except as otherwise set forth below, we do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone.
+	</p><p>
+		We may disclose information to third parties that perform specific functions on Our behalf. However, we will only disclose the information that is necessary for them to perform their service. These third parties include:
+	</p><p>
+		<strong>Stripe</strong> - in order to process online booking payment.<br />
+		You will need to consent to the use of your personal data in order to complete a booking.<br />
+		<a href="https://stripe.com/gb/privacy" alt="Stripe Privacy Policy" rel="noopener" target="_blank">Read more about how Stripe uses your personal information</a>.
+	</p><p>
+		<strong>Google Analytics</strong> - in order to improve the Site.<br />
+		We do not log IP addresses when collecting analytical data, ensuring that any information collected does not directly personally identify you or any user.
+	</p><p>
+		<strong>Wistia</strong> - in order to view the Taster Day video.<br />
+		<a href="https://wistia.com/privacy" alt="Wistia Privacy Policy" rel="noopener" target="_blank">Read more about how Wistia uses your personal information</a>.
+	</p><p>
+		<strong>YouTube</strong> - in order to view videos.<br />
+		<a href="https://www.youtube.co.uk/t/privacy" alt="YouTube Privacy Policy" rel="noopener" target="_blank">Read more about how YouTube uses your personal information</a>.
+	</p><p>
+		We may disclose personal information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use this Site for illegal reasons or to commit fraud.
+	</p>
+</p>
+<h3>Security</h3>
+<p>
+	We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, taking into account the risks involved in the processing and the nature of the personal information.
 </p><p>
-	We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site).
+	Sensitive and private data exchange between the Site and its users happens over an SSL secured communication channel and is encrypted and protected with digital signatures.
 </p>
-	
-<h4>Sharing Your Personal Information</h4>
+<h3>Data Security</h3>
 <p>
-	We share your Personal Information with third parties to help us use your Personal Information, as described above.  For example, we use Stripe to process online payments. You can read more about how Stripe uses your Personal Information here: <a href="https://stripe.com/gb/privacy" alt="Stripe Privacy Policy" rel="noopenner" target="_blank">https://stripe.com/gb/privacy</a>.  We also use Google Analytics to help us understand how our customers use the Site - you can read more about how Google uses your Personal Information here: <a href="https://www.google.com/intl/en/policies/privacy/" alt="Google Privacy Policy" rel="noopenner" target="_blank">https://www.google.com/intl/en/policies/privacy/</a>. You can also opt-out of Google Analytics here: <a href="https://tools.google.com/dlpage/gaoptout" alt="Analytics Opt Out" rel="noopenner" target="_blank">https://tools.google.com/dlpage/gaoptout</a>.
+	We take reasonable measures, including administrative, technical, and physical safeguards, to protect information about you from loss, theft, misuse, unauthorized access, disclosure, alteration, and destruction.
+</p>
+<h3>Opt Out / Corrections</h3>
+<p>
+	Upon your request, we will (a) correct or update your personal information; (b) erase your personal information altogether. You can make these requests by using the contact details at the bottom of this page.
+</p>
+<h3>Offline Collection Use and Disclosure</h3>
+<p>
+	We also may collect information offline. We will treat any information collected offline in a manner that is consistent with this Policy. One example involves someone calling us to ask questions. When someone calls, we will ask only for the personal information we need in order to answer the question. When we need to store information (such as client information), we will enter it into our database.
+</p>
+<h3>Updates to this Policy</h3>
+<p>
+	If we change or update this Privacy Policy, we will post changes and updates on the Site so that you will always be aware of what information we collect, use and disclose. We encourage you to review this Policy from time to time so you will know if the Privacy Policy has been changed or updated. If you have any questions about the Policy, please contact us using the details below.
 </p><p>
-	Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-</p>
-
-<h4>Do Not Track</h4>
-<p>
-	Please note that we do not alter our Site’s data collection and use practices when we see a Do Not Track signal from your browser.
-</p>
-
-<h4>Your Rights</h4>
-<p>
-	If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+<h3>Contact Information</h3>
+<ul class="contact-list">
+	<li><h4>{{ site.title }}</h4></li>
+	<li class="contact-address">{{ site.address }}</li>
+	<li>Email: <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+</ul>
 </p><p>
-	Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
-</p>
-
-<h4>Data Retention</h4>
-<p>
-	When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
-</p>
-
-<h4>Changes</h4>
-<p>
-	We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
-</p>
-
-<h4>Contact Us</h4>
-<p>
-	For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e-mail at <a href="mailto:info@ftanda.co.uk" alt="Email us">info@ftanda.co.uk</a> or by mail using the details provided below:
-</p><p>
-	Francis Terry and Associates Ltd<br />
-	Unit 6 Ash House<br />
-	Vale View Business Units<br />
-	Crown Lane South<br />
-	Ardleigh<br />
-	Colchester<br />
-	Essex<br />
-	CO7 7PL<br />
-	United Kingdom<br />
+	<lineout></lineout>
+	<small>Last Updated: May 22 2018</small>
 </p>

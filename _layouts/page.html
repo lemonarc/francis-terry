@@ -14,7 +14,7 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-    {% unless page.pageclass == 'practice-page' or page.pageclass == 'staffprofile' or page.pageclass == 'contactpage' or page.pageclass == 'privacy-policy' or page.pageclass == 'cookies-page' or page.title == 'Projects' or page.nofollow %}
+    {% unless page.pageclass == 'practice-page' or page.pageclass == 'staffprofile' or page.pageclass == 'contactpage' or page.pageclass == 'terms-page' or page.pageclass == 'privacy-policy' or page.pageclass == 'cookies-page' or page.title == 'Projects' or page.nofollow %}
     {% include sharing.html %}
     {% endunless %}
   </div>

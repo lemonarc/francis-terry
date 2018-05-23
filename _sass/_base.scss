@@ -278,6 +278,9 @@ textarea {
 	padding: $unit / 2;
 	width: 100%;
 }
+input[type="checkbox" i] {
+	width: auto;
+}
 select {
 	max-width: calc(100% - #{$unit * 1});
 }

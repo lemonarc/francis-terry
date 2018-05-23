@@ -867,7 +867,18 @@ ul.publications p {
 			margin-bottom: $unit;
 		}
 		#product-selector {
-			margin-bottom: $unit*3;
+			margin-bottom: $unit;
+		}
+		#consent {
+			color: $white;
+			font-size: smaller;
+			line-height: 0.8;
+			margin-bottom: $unit;
+			
+			a {
+				color: $white;
+				text-decoration: underline;
+			}
 		}
 	}
 	@media screen and(max-width:700px) {
@@ -881,9 +892,6 @@ ul.publications p {
 		font-size: larger;
 		margin: $unit*2 0;
 	}
-}
-.taster-day-video {
-	margin-bottom: -2px;
 }
 .video-form-block {
 	display: flex;
@@ -899,7 +907,7 @@ ul.publications p {
 			font-size: $unit*3;
 			padding: $unit;
 		}
-		@media screen and(max-width:799px) {
+		@media screen and(max-width:899px) {
 			width: 100%;
 		}
 	}
@@ -912,11 +920,11 @@ ul.publications p {
 		.taster-form {
 			
 		}
-		@media screen and(max-width:799px) {
+		@media screen and(max-width:899px) {
 			width: 100%;
 		}
 	}
-	@media screen and(max-width:799px) {
+	@media screen and(max-width:899px) {
 		display: block;
 	}
 }
