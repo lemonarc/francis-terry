@@ -8,7 +8,7 @@ post_date: January 2017
 permalink: /thoughts/physics-envy/
 image_tall: /images/essays/physics-envy/pretty-buildings-800x600.jpg
 image_wide: /images/essays/physics-envy/pretty-buildings-800x400.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/physics-envy/social.jpg
 article: article
 comments: /thoughts/how-palladian/
 ---

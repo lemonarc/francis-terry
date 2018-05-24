@@ -8,7 +8,7 @@ post_date: March 2017
 permalink: /thoughts/erechtheion-capital/
 image_tall: /images/essays/erechtheion-capital/erechtheion-capital-800x600.jpg
 image_wide: /images/essays/erechtheion-capital/erechtheion-capital-800x400.jpg
-social_image: /images/essays/erechtheion-capital/erichtheion-capital-social.jpg
+social_image: /images/essays/erechtheion-capital/social.jpg
 comments: /thoughts/erechtheion-capital/
 ---
 <ul class="list">

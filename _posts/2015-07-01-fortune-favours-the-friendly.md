@@ -8,7 +8,7 @@ post_date: July 2015
 permalink: /thoughts/fortune-favours-the-friendly/
 image_tall: /images/essays/collaboration/collaboration-800x600.jpg
 image_wide: /images/essays/collaboration/collaboration-800x400.jpg
-social_image: /images/essays/collaboration/collaboration-social.jpg
+social_image: /images/essays/collaboration/social.jpg
 comments: /thoughts/collaboration-in-architecture/
 ---
 

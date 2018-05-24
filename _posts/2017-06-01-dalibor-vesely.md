@@ -8,7 +8,7 @@ post_date: June 2017
 permalink: /thoughts/dalibor-vesely/
 image_tall: /images/essays/dalibor-vesely/dalibor-vesely-tall.jpg
 image_wide: /images/essays/dalibor-vesely/dalibor-vesely-wide.jpg
-social_image: /images/social/dalibor-vesely.jpg
+social_image: /images/essays/dalibor-vesely/social.jpg
 comments: /thoughts/dalibor-vesely/
 ---
 

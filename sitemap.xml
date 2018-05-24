@@ -9,257 +9,277 @@
 
 <url>
   <loc>https://ftanda.co.uk/</loc>
-  <lastmod>2018-03-26T10:43:21+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:43+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/</loc>
-  <lastmod>2018-03-16T03:08:42+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:57+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/gallery/</loc>
-  <lastmod>2018-03-26T10:43:00+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:53+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://ftanda.co.uk/thoughts/</loc>
-  <lastmod>2018-03-22T16:25:24+00:00</lastmod>
+  <loc>https://ftanda.co.uk/category/blog</loc>
+  <lastmod>2018-05-24T14:33:50+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/contact/</loc>
-  <lastmod>2018-03-16T03:08:35+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:51+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/taster-day/</loc>
-  <lastmod>2018-03-16T03:08:46+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ftanda.co.uk/terms-and-conditions/</loc>
+  <lastmod>2018-05-24T14:34:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://ftanda.co.uk/privacy/</loc>
+  <lastmod>2018-05-24T14:34:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/drawings/</loc>
-  <lastmod>2018-03-26T10:42:41+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:52+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://ftanda.co.uk/news/</loc>
-  <lastmod>2018-03-26T12:27:59+00:00</lastmod>
+  <loc>https://ftanda.co.uk/category/news</loc>
+  <lastmod>2018-05-24T14:33:50+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/book/</loc>
-  <lastmod>2018-03-16T03:08:34+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:48+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/videos/</loc>
-  <lastmod>2018-03-16T03:08:55+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:14+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/francis-terry/</loc>
-  <lastmod>2018-03-16T03:08:43+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:58+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/miranda-terry/</loc>
-  <lastmod>2018-03-16T03:08:45+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:00+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/les-canham/</loc>
-  <lastmod>2018-03-16T03:08:44+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/martyn-winney/</loc>
-  <lastmod>2018-03-16T03:08:44+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:59+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/colin-day/</loc>
-  <lastmod>2018-03-16T03:08:43+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:58+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/aaron-eagle/</loc>
-  <lastmod>2018-03-16T03:08:42+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:58+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/bethany-cheffins/</loc>
-  <lastmod>2018-03-16T03:08:43+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:58+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/practice/lois-rutter/</loc>
-  <lastmod>2018-03-16T03:08:44+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://ftanda.co.uk/thoughts/natural-architecture/</loc>
+  <lastmod>2018-05-24T14:34:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/designing-for-the-wingless/</loc>
-  <lastmod>2018-03-22T16:27:45+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/temple-of-ilissus/</loc>
-  <lastmod>2018-03-16T03:08:54+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/pantheon/</loc>
-  <lastmod>2018-03-16T03:08:52+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/berlin/</loc>
-  <lastmod>2018-03-16T03:08:48+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/poundbury/</loc>
-  <lastmod>2018-03-16T03:08:53+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/a-holiday-in-venice/</loc>
-  <lastmod>2018-03-16T03:08:47+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:06+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/chicken/</loc>
-  <lastmod>2018-03-16T03:08:48+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/tag-chairmanship/</loc>
-  <lastmod>2018-03-16T03:08:54+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/dalibor-vesely/</loc>
-  <lastmod>2018-03-16T03:08:49+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:07+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/treasures-of-the-va-1/</loc>
-  <lastmod>2018-03-16T03:08:54+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:13+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/fort-worth/</loc>
-  <lastmod>2018-03-16T03:08:50+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/erechtheion-capital/</loc>
-  <lastmod>2018-03-16T03:08:49+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:08+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/glad-to-be-pastiche/</loc>
-  <lastmod>2018-03-16T03:08:50+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/physics-envy/</loc>
-  <lastmod>2018-03-16T03:08:53+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/how-palladian-were-palladians/</loc>
-  <lastmod>2018-03-16T03:08:51+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/my-kind-of-town/</loc>
-  <lastmod>2018-03-16T03:08:51+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/fortune-favours-the-friendly/</loc>
-  <lastmod>2018-03-16T03:08:50+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:09+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/palladio/</loc>
-  <lastmod>2018-03-16T03:08:52+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:11+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/thoughts/sketching-with-my-father/</loc>
-  <lastmod>2018-03-16T03:08:53+00:00</lastmod>
+  <lastmod>2018-05-24T14:34:12+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
+  <loc>https://ftanda.co.uk/news/april-2018-new-country-house/</loc>
+  <lastmod>2018-05-24T14:33:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
   <loc>https://ftanda.co.uk/news/december-2017-christmas-party/</loc>
-  <lastmod>2018-03-26T12:27:49+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:54+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/december-2017-francis-terry-essays/</loc>
-  <lastmod>2018-03-26T12:27:50+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:54+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/november-2017-fibrous-plaster-education-day/</loc>
-  <lastmod>2018-03-26T12:27:51+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/november-2017-traditional-architecture-drinks/</loc>
-  <lastmod>2018-03-16T03:08:41+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/september-2017-empress-place/</loc>
-  <lastmod>2018-03-16T03:08:42+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/june-2017-permission/</loc>
-  <lastmod>2018-03-16T03:08:40+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/june-2017-associates/</loc>
-  <lastmod>2018-03-16T03:08:39+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/june-2017-riba/</loc>
-  <lastmod>2018-03-16T03:08:40+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/june-2017-boat-trip/</loc>
-  <lastmod>2018-03-16T03:08:39+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:55+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/may-2017-notre-dame/</loc>
-  <lastmod>2018-03-16T03:08:40+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/february-2017-fort-worth/</loc>
-  <lastmod>2018-03-16T03:08:39+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:54+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/december-2016-west-hampstead/</loc>
-  <lastmod>2018-03-16T03:08:38+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:53+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/november-2016-mount-pleasant/</loc>
-  <lastmod>2018-03-16T03:08:40+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:56+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://ftanda.co.uk/news/october-2016-mount-pleasant/</loc>
-  <lastmod>2018-03-16T03:08:41+00:00</lastmod>
+  <lastmod>2018-05-24T14:33:57+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 

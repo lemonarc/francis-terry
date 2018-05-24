@@ -10,7 +10,7 @@ post_date: September 2016
 permalink: /thoughts/my-kind-of-town/
 image_tall: /images/essays/my-kind-of-town/my-kind-of-town-800x600.jpg
 image_wide: /images/essays/my-kind-of-town/my-kind-of-town-800x400.jpg
-social_image: /images/essays/my-kind-of-town/my-kind-of-town-social.jpg
+social_image: /images/essays/my-kind-of-town/social.jpg
 comments: /thoughts/my-kind-of-town/
 ---
 

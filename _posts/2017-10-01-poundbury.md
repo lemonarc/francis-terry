@@ -8,7 +8,7 @@ post_date: October 2017
 permalink: /thoughts/poundbury/
 image_tall: /images/essays/poundbury/poundbury-tall.jpg
 image_wide: /images/essays/poundbury/poundbury-wide.jpg
-social_image: /images/essays/poundbury/poundbury-social.jpg
+social_image: /images/essays/poundbury/social.jpg
 comments: /thoughts/poundbury/
 ---
 

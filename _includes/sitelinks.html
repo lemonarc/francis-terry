@@ -3,54 +3,52 @@
 <ul class="list">
 
 	{% if page.categories contains "news" %}
+		{% assign recentPosts = site.categories.news | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
 
-		{% for post in site.categories.news limit:4 %}
-      {% unless post.url == page.url %}
+			{% include sitelinkcontent.html %}
 
-        {% include sitelinkcontent.html %}
-
-      {% endunless %}            
-    {% endfor %}
-
-	{% elsif page.categories contains "annecdotes" %}
+		{% endfor %}
   
-    {% for post in site.categories.annecdotes limit:4 %}
-      {% unless post.url == page.url %}
+	{% elsif page.categories contains "annecdotes" %}
+		{% assign recentPosts = site.categories.annecdotes | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
 
-        {% include sitelinkcontent.html %}
+			{% include sitelinkcontent.html %}
 
-      {% endunless %}            
-    {% endfor %}
+		{% endfor %}
   
 	{% elsif page.categories contains "history" %}
-  
-    {% for post in site.categories.history limit:4 %}
-      {% unless post.url == page.url %}
+		{% assign recentPosts = site.categories.history | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
 
-        {% include sitelinkcontent.html %}
+			{% include sitelinkcontent.html %}
 
-      {% endunless %}            
-    {% endfor %}
-  
+		{% endfor %}
+ 
 	{% elsif page.categories contains "places" %}
-  
-    {% for post in site.categories.places limit:4 %}
-      {% unless post.url == page.url %}
+		{% assign recentPosts = site.categories.places | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
 
-        {% include sitelinkcontent.html %}
+			{% include sitelinkcontent.html %}
 
-      {% endunless %}            
-    {% endfor %}
+		{% endfor %}
+ 
+	{% elsif page.categories contains "places" %}
+		{% assign recentPosts = site.categories.places | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
+
+			{% include sitelinkcontent.html %}
+
+		{% endfor %}
   
 	{% elsif page.categories contains "theory" %}
-	
-    {% for post in site.categories.theory limit:4 %}
-      {% unless post.url == page.url %}
+		{% assign recentPosts = site.categories.theory | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
 
-        {% include sitelinkcontent.html %}
+			{% include sitelinkcontent.html %}
 
-      {% endunless %}            
-    {% endfor %}
+		{% endfor %}
   
 	{% endif %}
 	

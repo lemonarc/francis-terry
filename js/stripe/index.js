@@ -43,6 +43,11 @@ $(function() {
       });
       return;
     }
+	// Consent checkbox
+    if ($('#consent #agree').is(':checked') === false) {
+      alert('Please indicate that you have read and agree to the Privacy Policy');
+      return false;
+    }
 
     var productOption = $("option:selected", $('#product-selector'));
     // Open Checkout with further options:

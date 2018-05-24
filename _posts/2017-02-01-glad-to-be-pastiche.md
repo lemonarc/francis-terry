@@ -8,7 +8,7 @@ post_date: February 2017
 permalink: /thoughts/glad-to-be-pastiche/
 image_tall: /images/essays/pastiche/pastiche-800x600.jpg
 image_wide: /images/essays/pastiche/pastiche-800x400.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/pastiche/social.jpg
 comments: /thoughts/glad-to-be-pastiche/
 ---
 

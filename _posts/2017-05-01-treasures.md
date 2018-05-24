@@ -8,7 +8,7 @@ post_date: May 2017
 permalink: /thoughts/treasures-of-the-va-1/
 image_tall: /images/essays/treasures-1/treasures-of-the-va-1-800x600.jpg
 image_wide: /images/essays/treasures-1/treasures-of-the-va-1-800x400.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/treasures-1/social.jpg
 comments: /thoughts/treasures-of-the-va-1/
 ---
 

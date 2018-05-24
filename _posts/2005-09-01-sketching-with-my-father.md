@@ -8,7 +8,7 @@ post_date: 2005
 permalink: /thoughts/sketching-with-my-father/
 image_tall: /images/essays/sketching-with-my-father/sketching-with-my-father-800x600.jpg
 image_wide: /images/essays/sketching-with-my-father/sketching-with-my-father-800x400.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/sketching-with-my-father/social.jpg
 comments: /thoughts/sketching-with-my-father/
 ---
 

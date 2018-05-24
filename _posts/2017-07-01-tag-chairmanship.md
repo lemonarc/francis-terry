@@ -8,7 +8,7 @@ post_date: July 2017
 permalink: /thoughts/tag-chairmanship/
 image_tall: /images/essays/tag-chairmanship/tag-chairmanship-tall.jpg
 image_wide: /images/essays/tag-chairmanship/tag-chairmanship-wide.jpg
-social_image: /images/social/tag-chairmanship.jpg
+social_image: /images/essays/tag-chairmanship/social.jpg
 comments: /thoughts/tag-chairmanship/
 ---
 

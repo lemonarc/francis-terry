@@ -3,7 +3,7 @@ layout: page
 pageclass: privacy-policy
 title: Privacy Policy
 excerpt: 'This Privacy Policy ("Policy") explains how information about you is collected, used, and disclosed by your access or use of ftanda.co.uk (the "Site") or otherwise as a result of your interactions with us.'
-permalink: /privacy/
+permalink: /cookie-example/
 article: article
 ---
 
@@ -44,31 +44,18 @@ article: article
 	</p><p>
 		We may disclose information to third parties that perform specific functions on Our behalf. However, we will only disclose the information that is necessary for them to perform their service. These third parties include:
 	</p><p>
-		<strong>Stripe</strong> - in order to process Taster Day booking payment. You will need to consent to the use of your personal data in order to complete a booking.
-	</p><p>
-		To function, Stripe installs the following cookies: __stripe_mid, __stripe_sid, __stripe_orig_props, cid, checkout-live-session, country, nsr.
-	</p><p>
+		<strong>Stripe</strong> - in order to process online booking payment.<br />
+		You will need to consent to the use of your personal data in order to complete a booking.<br />
 		<a href="https://stripe.com/gb/privacy" alt="Stripe Privacy Policy" rel="noopener" target="_blank">Read more about how Stripe uses your personal information</a>.
 	</p><p>
-		<strong>Wistia</strong> - in order to use the Taster Day video player.
+		<strong>Google Analytics</strong> - in order to improve the Site.<br />
+		We do not log IP addresses when collecting analytical data, ensuring that any information collected does not directly personally identify you or any user.
 	</p><p>
-		To function, Wistia installs the following cookies: wistia-http2-push-disabled
-	</p><p>
+		<strong>Wistia</strong> - in order to view the Taster Day video.<br />
 		<a href="https://wistia.com/privacy" alt="Wistia Privacy Policy" rel="noopener" target="_blank">Read more about how Wistia uses your personal information</a>.
 	</p><p>
-		<strong>YouTube</strong> - in order to view videos.
-	</p><p>
-		To function, YouTube installs the following cookies: APISID, CONSENT, HSID, LOGIN_INFO, PREF, SAPISID, SID, SSID, VISITOR_INFO1_LIVE, YSC, remote_sid, requests.
-	</p><p>
+		<strong>YouTube</strong> - in order to view videos.<br />
 		<a href="https://www.youtube.co.uk/t/privacy" alt="YouTube Privacy Policy" rel="noopener" target="_blank">Read more about how YouTube uses your personal information</a>.
-	</p><p>
-		<strong>Facebook</strong> - in order to comment on blog posts.
-	</p><p>
-		To function, Facebook installs the following cookies: c_user, datr, fr, pl, presence, sb, wd, xs.
-	</p><p>
-		<a href="https://www.facebook.com/policy.php" alt="Facebook Privacy Policy" rel="noopener" target="_blank">Read more about how Facebook uses your personal information</a>.
-	</p><p>
-		<strong>Google Analytics</strong> - in order to improve the Site. We do not log IP addresses when collecting analytical data, ensuring that any information collected does not directly personally identify you or any user.
 	</p><p>
 		We may disclose personal information in response to requests from law enforcement officials conducting investigations; subpoenas; a court order; or if we are otherwise required to disclose such information by law. We also will release personal information where disclosure is necessary to protect our legal rights, enforce our agreements, or to protect ourselves or others. For example, we may share information to reduce the risk of fraud or if someone uses or attempts to use this Site for illegal reasons or to commit fraud.
 	</p>

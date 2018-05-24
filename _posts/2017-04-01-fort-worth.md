@@ -8,7 +8,7 @@ post_date: April 2017
 permalink: /thoughts/fort-worth/
 image_tall: /images/essays/fort-worth/fort-worth-800x600-a.jpg
 image_wide: /images/essays/fort-worth/fort-worth-800x400-a.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/fort-worth/social.jpg
 comments: /thoughts/fort-worth/
 ---
 

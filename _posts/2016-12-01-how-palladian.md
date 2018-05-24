@@ -8,7 +8,7 @@ post_date: December 2016
 permalink: /thoughts/how-palladian-were-palladians/
 image_tall: /images/essays/how-palladian/how-palladian-800x600.jpg
 image_wide: /images/essays/how-palladian/how-palladian-800x400.jpg
-social_image: /images/social/social-ft.jpg
+social_image: /images/essays/how-palladian/social.jpg
 comments: /thoughts/how-palladian-were-palladians/
 ---
 <h2>The use of the Scamozzi ionic in Georgian Architecture</h2>

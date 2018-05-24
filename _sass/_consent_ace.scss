@@ -1,0 +1,38 @@
+.cc-revoke,
+.cc-grower {
+    background-color: #23282d;
+    color: #a0a5aa;
+}
+.cc-message {
+   font-size: smaller;
+   
+   a.cc-link {
+      color: $white;
+      text-decoration: none;
+      
+      &:hover {
+         text-decoration: underline;
+      }
+   }
+}
+a.cc-btn.cc-allow {
+	background-color: #00cc00!important;
+   border-color: transparent;
+   color: $white!important;
+   min-width: 140px;
+   
+   &:hover {
+      background-color: #26f226!important;
+      text-decoration: none!important;
+   }
+}
+a.cc-btn.cc-dismiss {
+	background-color: #cc0000!important;
+   color: $white!important;
+   min-width: 140px;
+   
+   &:hover {
+      background-color: #ff0000!important;
+      text-decoration: none!important;
+   }
+}
