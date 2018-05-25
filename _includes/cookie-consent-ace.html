@@ -2,23 +2,24 @@
 <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
 <script>
 window.addEventListener("load", function(){
-window.cookieconsent.initialise({
-  "position": "top",
-  "static": true,
-  "type": "opt-in",
-  "content": {
-    "message": "We use cookies to operate our site and improve our services. Find out more:",
-    "dismiss": "Disable cookies",
-    "deny": "Show Me How To Disable Cookies",
-    "link": "Cookie Policy",
-    "href": "https://acecomics.co.uk/cookies/",
-  },
-  "onStatusChange": function(status, chosenBefore) {
-    var type = this.options.type;
-    var didConsent = this.hasConsented();
-    if (type == 'opt-out' && !didConsent) {
-      window.location.assign('https://cookies.insites.com/disable-cookies/');
+  window.cookieconsent.initialise({
+    "position": "top",
+    "static": true,
+    "type": "opt-out",
+    "content": {
+      "message": "We use cookies to operate our site and improve our services. Find out more:",
+      "dismiss": "Allow",
+      "deny": "Disable",
+      "link": "Cookie Policy",
+      "href": "https://acecomics.co.uk/cookies/"
+    },
+    "onStatusChange": function(status, chosenBefore) {
+      var type = this.options.type;
+      var didConsent = this.hasConsented();
+      if (type == 'opt-out' && !didConsent) {
+        window.open('https://cookies.insites.com/disable-cookies/','_blank');
+      }
     }
-  },
 })});
 </script>
+

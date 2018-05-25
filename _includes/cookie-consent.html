@@ -5,43 +5,21 @@ window.addEventListener("load", function(){
   window.cookieconsent.initialise({
     "position": "top",
     "static": true,
-    "type": "opt-in",
+    "type": "opt-out",
     "content": {
       "message": "We use cookies to operate our site and improve our services. Find out more:",
-      "dismiss": "Disable cookies",
+      "dismiss": "Allow cookies",
       "deny": "Disable cookies",
       "link": "Privacy Policy",
       "href": "/privacy/"
     },
-    "onInitialise": function (status) {
-      var type = this.options.type;
-      var didConsent = this.hasConsented();
-      if (type == 'opt-in' && didConsent) {
-        // enable cookies
-      }
-      if (type == 'opt-out' && !didConsent) {
-        window.location = 'https://cookies.insites.com/disable-cookies/';
-      }
-    },
     "onStatusChange": function(status, chosenBefore) {
       var type = this.options.type;
       var didConsent = this.hasConsented();
-      if (type == 'opt-in' && didConsent) {
-        // enable cookies
-      }
       if (type == 'opt-out' && !didConsent) {
-        window.location = 'https://cookies.insites.com/disable-cookies/';
-      }
-    },
-    "onRevokeChoice": function() {
-      var type = this.options.type;
-      if (type == 'opt-in') {
-        window.location = 'https://cookies.insites.com/disable-cookies/';
-      }
-      if (type == 'opt-out') {
-        // enable cookies
+        window.open('https://cookies.insites.com/disable-cookies/','_blank');
       }
     }
-  })
-});
+})});
 </script>
+

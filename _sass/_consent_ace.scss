@@ -1,38 +1,39 @@
 .cc-revoke,
 .cc-grower {
-    background-color: #23282d;
-    color: #a0a5aa;
+    background-color: #001c32 !important;
+    color: #0096ff !important;
 }
 .cc-message {
-   font-size: smaller;
+   font-size: smaller !important;
    
    a.cc-link {
-      color: $white;
-      text-decoration: none;
+      color: #0096ff !important;
+	  opacity: 1 !important;
+      text-decoration: none !important;
       
       &:hover {
-         text-decoration: underline;
+         color: #99d2ff !important;
       }
    }
 }
-a.cc-btn.cc-allow {
-	background-color: #00cc00!important;
-   border-color: transparent;
+a.cc-btn.cc-dismiss {
+	background-color: #00cc00 !important;
+   border-color: transparent !important;
    color: $white!important;
-   min-width: 140px;
+   min-width: 60px !important;
    
    &:hover {
-      background-color: #26f226!important;
-      text-decoration: none!important;
+      background-color: #26f226 !important;
+      text-decoration: none !important;
    }
 }
-a.cc-btn.cc-dismiss {
-	background-color: #cc0000!important;
-   color: $white!important;
-   min-width: 140px;
+a.cc-btn.cc-deny {
+	background-color: #cc0000 !important;
+   color: $white !important;
+   min-width: 60px !important;
    
    &:hover {
-      background-color: #ff0000!important;
-      text-decoration: none!important;
+      background-color: #ff0000 !important;
+      text-decoration: none !important;
    }
 }
