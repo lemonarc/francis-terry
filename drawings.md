@@ -393,4 +393,22 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/peters-hill.jpg">
+<img class="lazy" src="/images/drawings/thumbs/peters-hill.jpg" alt="Peter's Hill" />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/st-pauls-elevation.jpg">
+<img class="lazy" src="/images/drawings/thumbs/st-pauls-elevation.jpg" alt="St Paul's Elevation" />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/fantasy-bridge-design.jpg">
+<img class="lazy" src="/images/drawings/thumbs/fantasy-bridge-design.jpg" alt="Fantasty bridge design" />
+</a>
+</li>
+
 </ul>

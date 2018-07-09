@@ -24,6 +24,20 @@ article: article
 	</li>
 	
 	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/Gft1RbURauA?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
+			<img src="/images/videos/wide/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>An Introduction to the Architecture of the Italian Renaissance</h2>
+			<h4>June 2018</h4>
+			<p>
+				An ‘in house’ office lecture about the Italian Renaissance, covering one of the greatest outbursts of creativity in the history of western art and architecture.
+			</p>
+		</div>
+	</li>
+	
+	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/8chcjfBHUSY?rel=0&autoplay=1">
 			<img src="/images/videos/tall/video4.jpg" alt="At Bloomberg for TEDx by Two Classicists, 2012" class="tall" />
 			<img src="/images/videos/wide/video4.jpg" alt="At Bloomberg for TEDx by Two Classicists, 2012" class="wide" />

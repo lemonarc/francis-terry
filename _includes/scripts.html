@@ -36,7 +36,7 @@
 	{% endif %}
   
   {% unless page.categories contains "news" %}
-	{% if page.categories or page.pageclass == 'videos-page'  %}
+	{% if page.categories-REMOVED or page.pageclass == 'videos-page'  %}
 		{% include cookie-consent.html %}
 	{% endif %}
   {% endunless %}

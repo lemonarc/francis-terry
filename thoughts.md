@@ -10,6 +10,23 @@ article: article
 
 <ul class="list thoughts">
 
+    <li>
+      <a href="/thoughts/italian-renaissance/" alt="An Introduction to the Architecture of the Italian Renaissance" >
+        <img src="/images/essays/italian-renaissance/da-vinci-tall.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
+        <img src="/images/essays/italian-renaissance/da-vinci-wide.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
+      </a>
+      <div class="blog-text">
+        <h2>
+          <a href="/thoughts/italian-renaissance/" alt="An Introduction to the Architecture of the Italian Renaissance" >An Introduction to the Architecture of the Italian Renaissance</a>
+        </h2>
+        
+        <h4>May 2018</h4>
+        
+        <p>In this video, Francis Terry gives an introductory lecture on the architecture of the Italian Renaissance.</p>
+        <a href="/thoughts/italian-renaissance/">Read more</a>
+      </div>
+    </li>
+
 <li>
 	<a href="/thoughts/natural-architecture/">
 		<img src="/images/essays/natural-architecture/natural-architecture-tall.jpg" alt="Designing for the natural-architecture" title="Natural food, Natural clothes... Natural architecture?" class="tall" />
