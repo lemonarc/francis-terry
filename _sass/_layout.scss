@@ -269,6 +269,9 @@ article {
 	margin: 0 auto;
 	
 	h2, h3, p {
+		margin-bottom: $unit*1.5;
+	}
+	.bottom {
 		margin-bottom: $unit*3;
 	}
 	.single-image {

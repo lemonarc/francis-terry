@@ -64,12 +64,12 @@ article: article
 			<img src="/images/practice/jo-knights-b.jpg" alt="Jo Knights" class="wide" />
 		
 		<div class="blog-text">
-			
+			<a href="/practice/jo-knights/">
 				<h2>Jo Knights</h2>
-				<h4>Finance Manager</h4>
-			
+				<h4>Finance / Office Manager</h4>
+			</a>
 			<p>
-				
+				Jo Knights’ job title may say Finance Manager, but her role at Francis Terry and Associates is astonishingly diverse. In fact, it’s her ability to shift seamlessly between unpredictable tasks that makes her so critical. Quietly and diligently making sure all numbers make sense and taking care of everything the business needs to ensure client projects run smoothly as well as the office.
 			</p>
 		</div>
 	</li>
