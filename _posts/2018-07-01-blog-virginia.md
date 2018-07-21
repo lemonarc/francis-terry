@@ -33,17 +33,26 @@ comments: /thoughts/university-of-virginia/
 </p>
 
 <ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-06.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-06.jpg" alt="{{ page.title }}" />
+		</a>
+	</li>
+</ul>
+
+<ul class="list">
 	<li class="half">
 		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-02.jpg">
 			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-02.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-06.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-06.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-12.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-12.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
+
 <ul class="list">
 	<li class="third">
 		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-03.jpg">
@@ -95,6 +104,11 @@ comments: /thoughts/university-of-virginia/
 		</a>
 	</li>
 </ul>
+
+<p>
+	Pavilion II is based on the Roman temple of Fortuna Virilis, as drawn by Palladio on plates XXXI to XXXIII of Book Four. Jefferson has even given it the awkward corner capitals, which Palladio shows in such in such detail. The distinctive swag frieze has also been faithfully reproduced.
+</p>
+
 <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-11.jpg">
@@ -102,18 +116,14 @@ comments: /thoughts/university-of-virginia/
 		</a>
 	</li>
 </ul>
+
 <ul class="list">
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-12.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-12.jpg" alt="{{ page.title }}" />
+	<li class="half">
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-16.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-16.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-14.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-14.jpg" alt="{{ page.title }}" />
-		</a>
-	</li>
-	<li class="third">
+	<li class="half">
 		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-13.jpg">
 			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-13.jpg" alt="{{ page.title }}" />
 		</a>
@@ -126,21 +136,20 @@ comments: /thoughts/university-of-virginia/
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-16.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-16.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-14.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-14.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
 
 <p>
-	Pavilion II is based on the Roman temple of Fortuna Virilis, as drawn by Palladio on plates XXXI to XXXIII of Book Four. Jefferson has even given it the awkward corner capitals, which Palladio shows in such in such detail. The distinctive swag frieze has also been faithfully reproduced.
+	Pavilion III is my favourite, I love the use of Corinthian on an otherwise modest building. What is distinctive about the portico is the tight column spacing, which I would see as a direct reference to Palladio’s Corinthian temple in Pula as shown on plate LXXIX of his Book Four. 
 </p>
-
 
 <ul class="list">
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-17.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-17.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-19.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-19.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
@@ -149,14 +158,14 @@ comments: /thoughts/university-of-virginia/
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-19.jpg">
-			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-19.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/university-of-virginia/university-of-virginia-17.jpg">
+			<img src="/images/essays/university-of-virginia/thumbs/university-of-virginia-17.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
 
 <p>
-	Pavilion III is my favourite, I love the use of Corinthian on an otherwise modest building. What is distinctive about the portico is the tight column spacing, which I would see as a direct reference to Palladio’s Corinthian temple in Pula as shown on plate LXXIX of his Book Four. 
+	Pavilion X is based on Palladio’s Doric in Book One plates XII to XV. Unusually this Doric has no base, but Palladio does render a baseless Doric on plate XII. It is a quirky looking building with the two sizes of similar columns fighting for attention while the heaviness of the portico has a Hawksmoorian character. 
 </p>
 
 <ul class="list">
@@ -180,11 +189,9 @@ comments: /thoughts/university-of-virginia/
 </ul>
 
 <p>
-	Pavilion X is based on Palladio’s Doric in Book One plates XII to XV. Unusually this Doric has no base, but Palladio does render a baseless Doric on plate XII. It is a quirky looking building with the two sizes of similar columns fighting for attention while the heaviness of the portico has a Hawksmoorian character. 
-</p><p>
 	This pavilion has been restored, perhaps controversially, using a stone colour which Jefferson would have originally used for the architectural elements rather than white. The university now has a dilemma whether to go with what Jefferson intended or continue with the white which the alumni know and love from their student days. If I had the choice, I would continue with the stone colour. At this building they have also reinstated the parapet above the pediment which was a feature of some of the other pavilions as well.
 </p><p>
-	The University of Virginia is a testament to the genius of Palladio and the sound judgment of Jefferson. With few resources and simple craftsmanship, the use of Palladio can turn base metal into gold. One of the strengths of classical architecture is that it allows the architects themselves to be of modest ability yet produce the most beautiful work. You do not need to be a genius to be a classical architect and I should know! Just follow a few simple rules with taste and judgment...it’s almost too easy. 
+	The University of Virginia is a testament to the genius of Palladio and the sound judgment of Jefferson. With few resources and simple craftsmanship, the use of Palladio can turn base metal into gold. One of the strengths of classical architecture is that it allows the architects themselves to be of modest ability yet produce the most beautiful work. You do not need to be a genius to be a classical architect and I should know! Just follow a few simple rules with taste and judgment... it’s almost too easy. 
 </p>
 <h2>
 	Francis Terry
