@@ -17,7 +17,7 @@ article: article
 <lineout></lineout>
 
 <ul class="list blog">
-	<li>
+	<li id="francis_terry">
 		<a href="/practice/francis-terry/">
 			<img src="/images/practice/francis-terry-5.jpg" alt="Francis Terry" class="tall" />
 			<img src="/images/practice/francis-terry-5-b.jpg" alt="Francis Terry" class="wide" />
@@ -33,11 +33,13 @@ article: article
 				After briefly working for Allan Greenburg Architects in Washington DC, Francis spent over 20 years working for his father the eminent classical architect Quinlan Terry with whom he became a partner in 2004.  As a partner he developed his own reputation as an independent architect winning competitions and working on his own commissions.  As a consequence, he has recently formed his own practice in order to continue his own creative path. 
 			</p><p>
 				Alongside his architectural interests Francis is a keen artist and uses his talent to draw schemes and paint watercolours of his proposals.  Francis has won the Winsor and Newton Young Artist Award from the Royal Society of Oil Painters and the Silver Medal from the Royal Society of Portrait Painters both in 1997. He also regularly exhibits drawings in the Royal Academy Summer Exhibition and won the Worshipful Company of Architects Prize for Architectural Drawing in 2002. 
+			</p><p>
+				<a href="/practice/francis-terry/">Read full profile</a>
 			</p>
 		</div>
 	</li>
 	
-	<li>
+	<li id="miranda_terry">
 		<a href="/practice/miranda-terry/">
 			<img src="/images/practice/miranda-terry.jpg" alt="Miranda Terry" class="tall" />
 			<img src="/images/practice/miranda-terry-b.jpg" alt="Miranda Terry" class="wide" />
@@ -49,6 +51,8 @@ article: article
 			</a>
 			<p>
 				Miranda studied architecture at Cambridge University qualifying in 1994 and has subsequently taken an MSc at King’s College in Construction Law. She now runs the part 3 course at the Faculty of Architecture, Cambridge University. Her recent experience has involved a number of listed properties and she is a Conservation Registrant.
+			</p><p>
+				<a href="/practice/miranda-terry/">Read full profile</a>
 			</p>
 		</div>
 	</li>
@@ -58,18 +62,20 @@ article: article
 
 <ul class="list blog">
 
-	<li>
-		
-			<img src="/images/practice/jo-knights.jpg" alt="Jo Knights" class="tall" />
-			<img src="/images/practice/jo-knights-b.jpg" alt="Jo Knights" class="wide" />
-		
+	<li id="jo_bunch">
+		<a href="/practice/jo-bunch/">
+			<img src="/images/practice/jo-bunch.jpg" alt="Jo Bunch" class="tall" />
+			<img src="/images/practice/jo-bunch-b.jpg" alt="Jo Bunch" class="wide" />
+		</a>
 		<div class="blog-text">
-			<a href="/practice/jo-knights/">
-				<h2>Jo Knights</h2>
-				<h4>Finance / Office Manager</h4>
+			<a href="/practice/jo-bunch/">
+				<h2>Jo Bunch</h2>
+				<h4>Finance Manager</h4>
 			</a>
 			<p>
-				Jo Knights’ job title may say Finance Manager, but her role at Francis Terry and Associates is astonishingly diverse. In fact, it’s her ability to shift seamlessly between unpredictable tasks that makes her so critical. Quietly and diligently making sure all numbers make sense and taking care of everything the business needs to ensure client projects run smoothly as well as the office.
+				Jo Bunch’s job title may say Finance Manager, but her role at Francis Terry and Associates is astonishingly diverse. In fact, it’s her ability to shift seamlessly between unpredictable tasks that makes her so critical. Quietly and diligently making sure all numbers make sense and taking care of everything the business needs to ensure client projects run smoothly as well as the office.
+			</p><p>
+				<a href="/practice/jo-bunch/">Read full profile</a>
 			</p>
 		</div>
 	</li>
@@ -79,7 +85,7 @@ article: article
 
 <ul class="list blog">
 
-	<li>
+	<li id="les_canham">
 		<a href="/practice/les-canham/">
 			<img src="/images/practice/les-canham.jpg" alt="Les Canham" class="tall" />
 			<img src="/images/practice/les-canham-b.jpg" alt="Les Canham" class="wide" />
@@ -91,11 +97,13 @@ article: article
 			</a>
 			<p>
 				Les is a designer with vast experience of architecture and its execution.  He has worked with Francis for over twenty years while at their previous practice.  Les is a key player in ensuring the designs are not only built well but also that the drawn information is of the highest quality.  He has a keen interest in computer technology and is in charge of sustaining and developing the practice's IT component.  While at QFT, Les ran the project at Tedworth House for Help for Heroes as well as dozens of country houses.
+			</p><p>
+				<a href="/practice/les-canham/">Read full profile</a>
 			</p>
 		</div>
 	</li>
 	
-	<li>
+	<li id="martyn_winney">
 		<a href="/practice/martyn-winney/">
 			<img src="/images/practice/martyn-winney.jpg" alt="Martyn Winney" class="tall" />
 			<img src="/images/practice/martyn-winney-b.jpg" alt="Martyn Winney" class="wide" />
@@ -107,11 +115,13 @@ article: article
 			</a>
 			<p>
 				Martyn is a designer with a wealth of experience in architecture and has worked with Francis for over twenty years while at their previous practice (QFT).  He has a critical role within the office ensuring that the designs are not only well built but also that the drawn information is of the highest quality.  While at QFT, Martyn ran many projects including all buildings at Poundbury for the Duchy of Cornwall; 264-267 Tottenham Court Road, London; Ferne Park, Dorset, Old Garden, Twickenham and many other major developments.
+			</p><p>
+				<a href="/practice/martyn-winney/">Read full profile</a>
 			</p>
 		</div>
 	</li>
 	
-	<li>
+	<li id="colin_day">
 		<a href="/practice/colin-day/">
 			<img src="/images/practice/colin-day.jpg" alt="Colin Day" class="tall" />
 			<img src="/images/practice/colin-day-b.jpg" alt="Colin Day" class="wide" />
@@ -123,11 +133,13 @@ article: article
 			</a>
 			<p>
 				Colin has a degree in Building Surveying and a HNC in Building Studies. He joined Francis's previous practice in 1987 as a junior draftsman until he left in 1998. Colin worked for two further architectural practices for 14 years building up experience working on housing, retail, leisure, industrial and nursing home projects along with moving from drawing boards to CAD. Colin has been working with Francis since 2012.
+			</p><p>
+				<a href="/practice/colin-day/">Read full profile</a>
 			</p>
 		</div>
 	</li>
 	
-	<li>
+	<li id="aaron_eagle">
 		<a href="/practice/aaron-eagle/">
 			<img src="/images/practice/aaron-eagle.jpg" alt="Aaron Eagle" class="tall" />
 			<img src="/images/practice/aaron-eagle-b.jpg" alt="Aaron Eagle" class="wide" />
@@ -139,6 +151,8 @@ article: article
 			</a>
 			<p>
 				Aaron has a CHE in Construction Management and a NC in Building and Construction. He joined Francis's previous practice (QFT) in 2005 as a junior draftsman and is now an Associate.  During this time he had gained a good knowledge of construction and experience on site, as well as working on both drawing board and CAD. Aaron has been working with Francis for over ten years.
+			</p><p>
+				<a href="/practice/aaron-eagle/">Read full profile</a>
 			</p>
 		</div>
 	</li>
@@ -148,7 +162,7 @@ article: article
 
 <ul class="list blog">	
 	
-	<li>
+	<li id="bethany_cheffins">
 		<a href="/practice/bethany-cheffins/">
 			<img src="/images/practice/bethany-cheffins.jpg" alt="Bethany Cheffins" class="tall" />
 			<img src="/images/practice/bethany-cheffins-b.jpg" alt="Bethany Cheffins" class="wide" />
@@ -160,12 +174,14 @@ article: article
 			</a>
 			<p>
 				Bethany studied commercial and residential design as a foundation degree before furthering her education at Writtle School of Design where she obtained her degree in Interior Architecture and Design in 2014. With a broad range of interior and architectural knowledge Bethany went on to be a technician at Retail Design Solutions where she worked on a variety of different retail projects. She has been working with Francis since 2015. 
+			</p><p>
+				<a href="/practice/bethany-cheffins/">Read full profile</a>
 			</p>
 		</div>
 	</li>
 	
 		
-	<li>
+	<li id="lois_rutter">
 		<a href="/practice/lois-rutter/">
 			<img src="/images/practice/lois-rutter.jpg" alt="Lois Rutter" class="tall" />
 			<img src="/images/practice/lois-rutter-b.jpg" alt="Lois Rutter" class="wide" />
@@ -177,6 +193,8 @@ article: article
 			</a>
 			<p>
 				Lois is a CAD technician who studied at Suffolk College and Birmingham University before qualifying with a BA Honours in Interior Design in 2014. Whilst studying she developed her skills in interior and architectural drawing both two dimensional and three dimensional. With a years' worth of experience with Francis at his previous practice, Lois began designing models using SketchUp and AutoCAD to aid clients visualising their designs.
+			</p><p>
+				<a href="/practice/lois-rutter/">Read full profile</a>
 			</p>
 		</div>
 	</li>

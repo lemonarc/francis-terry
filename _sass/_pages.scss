@@ -317,41 +317,97 @@ img.main {
 	}
 }
 
-.practice-page-new {
-	ul li {
-		position: relative;
-		
-		img {
-			float: left;
-			margin-right: 10px;
-			max-height: 200px;
-			width: auto;
-			
-			@media screen and (max-width:1076px) {
-				float: none;
-				max-height: initial;
-			}
-		}
-		h2,h3,h4,h5 {
-			margin-bottom: 5px;
-		}
-		.profile-info {
-			background: rgba(255,255,255,0.7);
-			display: none;
-			padding: 20px;
-			position: absolute;
-			z-index: 100;
-		}
+.profile-promo-container {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+.profile-promo {
+	background: $text-color;
+	color: $white;
+	display: flex;
+	align-items: stretch;
+	margin-bottom: $unit*3;
+	min-width: 32%;
+	
+	@include media-query($on-laptop) {
+		min-height: 160px;
+		min-width: 48%;
 	}
-	ul li:hover {
-		.profile-info {
-			display: block;
-		}
+	@include media-query($on-tablet) {
+		min-width: 100%;
 	}
 	
+	.profile-thumb {
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		min-width: 50%;
+		width: 50%;
+		
+		
+		@include media-query($on-tablet) {
+			height: $unit*30;
+			width: 100%;
+		}
+		@include media-query($on-mobile) {
+		}
+	}
+	.profile-intro {
+		padding: $unit*2;
+		width: 50%;
+		
+		h3,h4 {
+			margin-bottom: 0;
+		}
+		a {
+			color: $white;
+			&:hover {
+				text-decoration: underline;
+			}
+		}
+		@include media-query($on-mobile) {
+			width: 100%;
+		}
+	}
+	@include media-query($on-mobile) {
+		display: block;
+	}
+}
+.profile-thumb-ft {
+	background-image: url(/images/practice/francis-terry-5-b.jpg);
+}
+.profile-thumb-mt {
+	background-image: url(/images/practice/miranda-terry-b.jpg);
+}
+.profile-thumb-jb {
+	background-image: url(/images/practice/jo-bunch-b.jpg);
+}
+.profile-thumb-mw {
+	background-image: url(/images/practice/martyn-winney-b.jpg);
+}
+.profile-thumb-lc {
+	background-image: url(/images/practice/les-canham-b.jpg);
+}
+.profile-thumb-aa {
+	background-image: url(/images/practice/aaron-eagle-b.jpg);
+}
+.profile-thumb-bc {
+	background-image: url(/images/practice/bethany-cheffins-b.jpg);
+}
+.profile-thumb-cd {
+	background-image: url(/images/practice/colin-day-b.jpg);
+}
+.profile-thumb-lr {
+	background-image: url(/images/practice/lois-rutter-b.jpg);
 }
 
 /* Profile pages */
+
+.staffprofile em {
+	font-family: 'times new roman', serif;
+	font-style: italic;
+}
 
 .profilepage .post-header {
 	display: none;	
