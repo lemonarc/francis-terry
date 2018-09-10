@@ -6,7 +6,7 @@ excerpt: "Images of work by the Francis Terry and Associates team, showing their
 permalink: /gallery/
 social_image: /images/social/social-projects.jpg
 ---
-<h2>Current Work</h2>
+<h2>Recent Work</h2>
 
 <ul class="list random">
 
@@ -23,56 +23,74 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-wiltshire-north-elevation.jpg" title="House in Wiltshire North Elevation">
-<img class="lazy" src="/images/projects/thumbs/house-in-wiltshire-north-elevation.jpg" alt="House in Wiltshire North Elevation">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-09.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-09.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-hampshire.jpg" title="House in Hampshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-hampshire.jpg" alt="House in Hampshire">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-13.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-13.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="House in Norfolk">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-19.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-19.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-01.jpg" alt="House in Norfolk">
+<a class="fancybox" rel="group" href="/images/projects/house-in-wiltshire-north-elevation.jpg" title="Stone Country House North Elevation">
+<img class="lazy" src="/images/projects/thumbs/house-in-wiltshire-north-elevation.jpg" alt="Stone Country House North Elevation">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-02.jpg" alt="House in Norfolk">
+<a class="fancybox" rel="group" href="/images/projects/house-in-hampshire.jpg" title="Arts and Crafts House">
+<img class="lazy" src="/images/projects/thumbs/house-in-hampshire.jpg" alt="Arts and Crafts House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-03.jpg" alt="House in Norfolk">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="Georgian House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="House In Surrey">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-01.jpg" alt="Georgian House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire.jpg" title="House in Oxfordshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-02.jpg" alt="Georgian House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire-2.jpg" title="House in Oxfordshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire-2.jpg" alt="House in Oxfordshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-03.jpg" alt="Georgian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="French Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="French Classical House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire.jpg" title="Palladian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire.jpg" alt="Palladian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire-2.jpg" title="Palladian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire-2.jpg" alt="Palladian House">
 </a>
 </li>
 
@@ -94,15 +112,15 @@ social_image: /images/social/social-projects.jpg
 </a>
 </li>
 
-<li class="third">
-<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-2.jpg" title="New Orangery in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-2.jpg" alt="New Orangery in Norfolk">
+<!--<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-2.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-2.jpg" alt="Queen Ann Style Orangery">
 </a>
-</li>
+</li>-->
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-3.jpg" title="New Orangery in Norfolk">
-<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-3.jpg" alt="New Orangery in Norfolk">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-3.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-3.jpg" alt="Queen Ann Style Orangery">
 </a>
 </li>
 
@@ -113,18 +131,42 @@ social_image: /images/social/social-projects.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/projects/queen-ann-style-orangery.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/queen-ann-style-orangery.jpg" alt="Queen Ann Style Orangery">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/empress-gate.jpg" title="Empress Gate proposal">
 <img class="lazy" src="/images/projects/thumbs/empress-gate.jpg" alt="Empress Gate proposal">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/south-perspective.jpg" title="Proposal painting">
-<img class="lazy" src="/images/projects/thumbs/south-perspective.jpg" alt="Proposal painting">
+<a class="fancybox" rel="group" href="/images/projects/south-perspective.jpg" title="Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/south-perspective.jpg" alt="Stone Country House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/south-range-downing-visual-squared.jpg" title="Imaginary proposal for the South Grange, Downing College, Cambridge">
+<img class="lazy" src="/images/projects/thumbs/south-range-downing-visual-squared.jpg" alt="Imaginary proposal for the South Grange, Downing College, Cambridge">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/eastridge.jpg" title="A Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/eastridge.jpg" alt="A Stone Country House">
 </a>
 </li>
 
 <!--<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/stone-country-house.jpg" title="A Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/stone-country-house.jpg" alt="A Stone Country House">
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/west-hampstead.jpg" title="West Hampstead proposal">
 <img class="lazy" src="/images/projects/thumbs/west-hampstead.jpg" alt="West Hampstead proposal">
 </a>
@@ -145,15 +187,15 @@ social_image: /images/social/social-projects.jpg
 
 <!--
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/eastridgehousewiltshire1.jpg" title="CGI Proposal">
+<a class="fancybox" rel="group" href="/images/projects/eastridgehousewiltshire1.jpg" title="Regency House">
 <img class="lazy" src="/images/projects/thumbs/eastridgehousewiltshire1.jpg" alt="Eastridge House, Wiltshire">
 </a>
 </li>
 -->
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/cgi-proposal.jpg" title="CGI Proposal">
-<img class="lazy" src="/images/projects/thumbs/cgi-proposal.jpg" alt="CGI Proposal">
+<a class="fancybox" rel="group" href="/images/projects/cgi-proposal.jpg" title="Regency House">
+<img class="lazy" src="/images/projects/thumbs/cgi-proposal.jpg" alt="Regency House">
 </a>
 </li>
 
@@ -227,112 +269,112 @@ social_image: /images/social/social-projects.jpg
 -->
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge1a.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge1a.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge1a.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge1a.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge4.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge4.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge4.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge4.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge5.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge5.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge5.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge5.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge6.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge6.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge6.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge6.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge7.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge7.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge7.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge7.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge8.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge8.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge8.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge8.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge9.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge9.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge9.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge9.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge10.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge10.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge10.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge10.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge11.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge11.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge11.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge11.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <!--
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge12.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge12.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge12.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge12.jpg" alt="Classical Villa">
 </a>
 </li>
 -->
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge13.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge13.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge13.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge13.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge14.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge14.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge14.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge14.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge15.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs/hanoverlodge15.jpg" alt="Hanover Lodge">
+<a class="fancybox" rel="group" href="/images/projects/hanoverlodge15.jpg" title="Classical Villa">
+<img class="lazy" src="/images/projects/thumbs/hanoverlodge15.jpg" alt="Classical Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-01.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-01.jpg" alt="House in Buckinghamshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-01.jpg" title="Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-01.jpg" alt="Classical House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-02.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-02.jpg" alt="House in Buckinghamshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-02.jpg" title="Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-02.jpg" alt="Classical House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-03.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-03.jpg" alt="House in Buckinghamshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-03.jpg" title="Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-03.jpg" alt="Classical House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-04.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-04.jpg" alt="House in Buckinghamshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-04.jpg" title="Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-04.jpg" alt="Classical House">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-05.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-05.jpg" alt="House in Buckinghamshire">
+<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-05.jpg" title="Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-buckinghamshire-05.jpg" alt="Classical House">
 </a>
 </li>
 
@@ -447,8 +489,8 @@ social_image: /images/social/social-projects.jpg
 
 <!--
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/houseinsurrey1.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs/houseinsurrey1.jpg" alt="House In Surrey">
+<a class="fancybox" rel="group" href="/images/projects/houseinsurrey1.jpg" title="French Classical House">
+<img class="lazy" src="/images/projects/thumbs/houseinsurrey1.jpg" alt="French Classical House">
 </a>
 </li>
 
@@ -572,20 +614,20 @@ social_image: /images/social/social-projects.jpg
 
 <!--
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/locustonfarmkentucky1.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs/locustonfarmkentucky1.jpg" alt="Locuston Farm Kentucky">
+<a class="fancybox" rel="group" href="/images/projects/locustonfarmkentucky1.jpg" title="Palladian Villa">
+<img class="lazy" src="/images/projects/thumbs/locustonfarmkentucky1.jpg" alt="Palladian Villa">
 </a>
 </li>-->
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-f.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs/locuston-farm-kentucky-f.jpg" alt="Locuston Farm Kentucky">
+<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-f.jpg" title="Palladian Villa">
+<img class="lazy" src="/images/projects/thumbs/locuston-farm-kentucky-f.jpg" alt="Palladian Villa">
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-r.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs/locuston-farm-kentucky-r.jpg" alt="Locuston Farm Kentucky">
+<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-r.jpg" title="Palladian Villa">
+<img class="lazy" src="/images/projects/thumbs/locuston-farm-kentucky-r.jpg" alt="Palladian Villa">
 </a>
 </li>
 
@@ -657,15 +699,39 @@ social_image: /images/social/social-projects.jpg
 </a>
 </li>
 
-<li class="third">
+<!--<li class="third">
 <a class="fancybox" rel="group" href="/images/projects/strathmore1.jpg" title="Strathmore House, Poundbury">
 <img class="lazy" src="/images/projects/thumbs/strathmore1.jpg" alt="Strathmore House, Poundbury">
 </a>
-</li>
+</li>-->
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/projects/strathmore2.jpg" title="Strathmore House, Poundbury">
 <img class="lazy" src="/images/projects/thumbs/strathmore2.jpg" alt="Strathmore House, Poundbury">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/strathmore-house-poundbury-01.jpg" title="Strathmore House, Poundbury">
+<img class="lazy" src="/images/projects/thumbs/strathmore-house-poundbury-01.jpg" alt="Strathmore House, Poundbury">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/strathmore-house-poundbury-02.jpg" title="Strathmore House, Poundbury">
+<img class="lazy" src="/images/projects/thumbs/strathmore-house-poundbury-02.jpg" alt="Strathmore House, Poundbury">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/strathmore-house-poundbury-03.jpg" title="Pub/Restaurant, Poundbury">
+<img class="lazy" src="/images/projects/thumbs/strathmore-house-poundbury-03.jpg" alt="Pub/Restaurant, Poundbury">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/strathmore-house-poundbury-04.jpg" title="Pub/Restaurant, Poundbury">
+<img class="lazy" src="/images/projects/thumbs/strathmore-house-poundbury-04.jpg" alt="Pub/Restaurant, Poundbury">
 </a>
 </li>
 

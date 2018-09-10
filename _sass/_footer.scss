@@ -1,3 +1,20 @@
+/* Site prefooter
+==================== */
+.prefooter {
+	border-top: 1px solid $grey-pale;
+	padding: $unit*4;
+	
+	div {
+		align-items: center;
+		display: flex;
+		margin: 0 auto;
+		max-width: 983px;
+	}
+	img {
+		max-height: 50px;
+		width: auto;
+	}
+}
 /* Site footer
 ==================== */
 .site-footer {

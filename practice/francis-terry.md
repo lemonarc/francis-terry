@@ -6,7 +6,7 @@ subtitle: MA (Cantab), Dip Arch, RIBA <br />Director
 excerpt: "Director at Francis Terry and Associates"
 permalink: /practice/francis-terry/
 social_image: /images/social/social-ft.jpg
-image: francis-terry-5
+image: francis-terry-1
 ---
 <p>
 	<em>'A master draughtsman with tremendous experience and empathy for the neo-Classical tradition'</em>

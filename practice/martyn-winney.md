@@ -6,7 +6,7 @@ subtitle: Senior Associate
 excerpt: "Martyn Winney - Senior Associate at Francis Terry and Associates"
 permalink: /practice/martyn-winney/
 social_image: /images/social/social-office.jpg
-image: martyn-winney
+image: martyn-winney-1
 ---
 
 <p>

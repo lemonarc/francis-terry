@@ -6,16 +6,16 @@ excerpt: "Francis Terry has taken on the chairmanship of the Traditional Archite
 preview: "“Why did the chicken cross the road?” is not a great joke. What interests me more is where the chicken crosses the road in people’s minds. When asked the question, what do you imagine?"
 post_date: August 2017
 permalink: /thoughts/chicken/
-image_tall: /images/essays/chicken/chicken-tall-1.jpg
-image_wide: /images/essays/chicken/chicken-wide-1.jpg
+image_tall: /images/essays/chicken/tall.jpg
+image_wide: /images/essays/chicken/wide.jpg
 social_image: /images/essays/chicken/social.jpg
 comments: /thoughts/chicken/
 ---
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/chicken/chicken.jpg" title="Where does your chicken cross the road?">
-			<img src="/images/essays/chicken/chicken.jpg" alt="Where does your chicken cross the road?" />
+		<a class="fancybox" rel="group" href="/images/essays/chicken/mika.jpg" title="Where does your chicken cross the road?">
+			<img src="/images/essays/chicken/mika.jpg" alt="Where does your chicken cross the road?" />
 		</a>
 	</li>
 </ul>

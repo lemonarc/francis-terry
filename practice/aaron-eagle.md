@@ -6,7 +6,7 @@ subtitle: CHE Construction Management & NC Building & Construction, Associate
 excerpt: "Aaron Eagle - Associate at Francis Terry and Associates"
 permalink: /practice/aaron-eagle/
 social_image: /images/social/social-office.jpg
-image: aaron-eagle
+image: aaron-eagle-1
 ---
 
 <p>
@@ -28,8 +28,6 @@ image: aaron-eagle
 </p>
 
 <lineout></lineout>
-
-<p>
  
 <h2 class="bottom">About Aaron Eagle</h2>
 <h3>Associate, Francis Terry and Associates</h3>

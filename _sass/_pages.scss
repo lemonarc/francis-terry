@@ -136,6 +136,10 @@
 	
 	.full-page {
 		height: 100vh;
+		
+		@media only screen and (max-height: 400px) {
+			height: auto;
+		}
 	}
 	.splash-page {
 		height: 66vh;
@@ -150,14 +154,21 @@
 			width: 100%;
 			
 			.title-area {
-				max-width: 800px;
 				position: inherit;
 				left: 0;
 				right: 0;
 				top: $unit*10;
 				margin-left: auto;
 				margin-right: auto;
+				max-width: calc(1200px - 40px);
 				
+				@include media-query($on-tablet) {
+					max-width: 90%;
+				}
+				@media only screen and (max-height: 400px) {
+					padding: 50px 0 1px;
+					position: initial;
+				}
 				h2 {
 					color: $white;
 					letter-spacing: 6px;
@@ -168,6 +179,9 @@
 				
 					@include media-query($on-mobile) {
 						font-size: 1.2em;
+					}
+					@media only screen and (max-height: 400px) {
+						margin: $unit*3 auto;
 					}
 				}
 			}
@@ -224,9 +238,34 @@
 
 /* Video Home Page
 ==================== */
-body.videoIndex {
-	.title-area {
-		max-width: calc(1200px - 40px)!important;
+
+.videoIndex .full-page {
+	
+	background: none;
+	background-position: center;
+	background-size: cover;
+		
+	@include media-query($on-tablet) {
+		background-image: url('/images/videos/francis-drawing-grab.jpg');
+	}
+	@media only screen and (max-height: 400px) {
+		background-image: url('/images/videos/francis-drawing-grab.jpg');
+	}
+}
+.videoContainer {
+	background-image: url('/images/videos/francis-drawing-grab.jpg');
+	background-position: center;
+	background-size: cover;
+	height: 100%;
+	width: 100%;
+	position: absolute;
+	z-index: -101;
+	
+	@include media-query($on-tablet) {
+		display: none;
+	}
+	@media only screen and (max-height: 400px) {
+		display: none;
 	}
 }
 #homeVideo {
@@ -237,20 +276,38 @@ body.videoIndex {
     min-height: 100vh;
 	z-index: -100;
 }
-.videoContainer {
-	background-image: url('/images/videos/francis-drawing-grab.jpg');
-	background-position: center;
-	background-size: cover;
-	height: 100%;
-	width: 100%;
-	position: absolute;
-	z-index: -101;
+
+/* Home Page Visual
+==================== */
+
+.filter {
+    align-items: center;
+	background-color: rgba(0,0,0,0.5);
+	display: flex;
+	height: -webkit-fill-available;
 }
-.videoContent {
-	display: block;
-	
-	@include media-query($on-tablet) {
-		display: none;
+
+.home-page-visual {
+	h2 {
+		margin: 3rem auto 6rem;
+		text-shadow: none;
+		
+		@media only screen and (max-height: 400px) {
+			margin: $unit*4 auto;
+		}
+	}
+	h4 {		
+		border: 1px solid #fff;
+		color: #fff;
+		margin: 0 auto;
+		max-width: 496px;
+		padding: 16px 24px;
+		text-align: center;
+    	
+		&:hover {
+			border-color: #d1d1d1;
+			color: #d1d1d1;
+		}
 	}
 }
 
@@ -322,13 +379,22 @@ img.main {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
-.profile-promo {
+a.profile-promo {
 	background: $text-color;
 	color: $white;
 	display: flex;
 	align-items: stretch;
 	margin-bottom: $unit*3;
 	min-width: 32%;
+	
+	&:hover,
+	&:focus {
+		background: #66849e;
+		
+		.profile-thumb {
+			background-position: -99999px, center;			
+		}
+	}
 	
 	@include media-query($on-laptop) {
 		min-height: 160px;
@@ -339,8 +405,8 @@ img.main {
 	}
 	
 	.profile-thumb {
-		background-position: center;
-		background-repeat: no-repeat;
+		background-position: center, center;
+		background-repeat: no-repeat, no-repeat;
 		background-size: cover;
 		min-width: 50%;
 		width: 50%;
@@ -360,11 +426,8 @@ img.main {
 		h3,h4 {
 			margin-bottom: 0;
 		}
-		a {
-			color: $white;
-			&:hover {
-				text-decoration: underline;
-			}
+		small:hover {
+			text-decoration: underline;
 		}
 		@include media-query($on-mobile) {
 			width: 100%;
@@ -375,31 +438,31 @@ img.main {
 	}
 }
 .profile-thumb-ft {
-	background-image: url(/images/practice/francis-terry-5-b.jpg);
+	background-image: url(/images/practice/francis-terry-b.jpg), url(/images/practice/francis-terry-a.jpg);
 }
 .profile-thumb-mt {
-	background-image: url(/images/practice/miranda-terry-b.jpg);
+	background-image: url(/images/practice/miranda-terry-b.jpg), url(/images/practice/miranda-terry-a.jpg);
 }
 .profile-thumb-jb {
-	background-image: url(/images/practice/jo-bunch-b.jpg);
+	background-image: url(/images/practice/jo-bunch-b.jpg), url(/images/practice/jo-bunch-a.jpg);
 }
 .profile-thumb-mw {
-	background-image: url(/images/practice/martyn-winney-b.jpg);
+	background-image: url(/images/practice/martyn-winney-b.jpg), url(/images/practice/martyn-winney-a.jpg);
 }
 .profile-thumb-lc {
-	background-image: url(/images/practice/les-canham-b.jpg);
+	background-image: url(/images/practice/les-canham-b.jpg), url(/images/practice/les-canham-a.jpg);
 }
 .profile-thumb-aa {
-	background-image: url(/images/practice/aaron-eagle-b.jpg);
+	background-image: url(/images/practice/aaron-eagle-b.jpg), url(/images/practice/aaron-eagle-a.jpg);
 }
 .profile-thumb-bc {
-	background-image: url(/images/practice/bethany-cheffins-b.jpg);
+	background-image: url(/images/practice/bethany-cheffins-b.jpg), url(/images/practice/bethany-cheffins-a.jpg);
 }
 .profile-thumb-cd {
-	background-image: url(/images/practice/colin-day-b.jpg);
+	background-image: url(/images/practice/colin-day-b.jpg), url(/images/practice/colin-day-a.jpg);
 }
 .profile-thumb-lr {
-	background-image: url(/images/practice/lois-rutter-b.jpg);
+	background-image: url(/images/practice/lois-rutter-b.jpg), url(/images/practice/lois-rutter-a.jpg);
 }
 
 /* Profile pages */

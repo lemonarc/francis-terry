@@ -2,14 +2,14 @@
 layout: profile
 pageclass: staffprofile
 title: Jo Bunch
-subtitle: Finance / Office Manager
-excerpt: "Jo Bunch - Finance / Office Manager at Francis Terry and Associates"
+subtitle: Office Manager
+excerpt: "Jo Bunch - Office Manager at Francis Terry and Associates"
 permalink: /practice/jo-bunch/
 social_image: /images/social/social-office.jpg
-image: jo-bunch
+image: jo-bunch-1
 ---
 <p>
-	Jo Bunch’s job title may say Finance Manager, but her role at Francis Terry and Associates is astonishingly diverse. In fact, it’s her ability to shift seamlessly between unpredictable tasks that makes her so critical. Quietly and diligently making sure all numbers make sense and taking care of everything the business needs to ensure client projects run smoothly as well as the office.
+	Jo Bunch’s job title may say Office Manager, but her role at Francis Terry and Associates is astonishingly diverse. In fact, it’s her ability to shift seamlessly between unpredictable tasks that makes her so critical. Quietly and diligently making sure all numbers make sense and taking care of everything the business needs to ensure client projects run smoothly as well as the office.
 </p><p>
 	Like everyone else on the team, Jo is a remarkable talent with a pencil. But where others put theirs to work on tracing paper, Jo is always scribbling on the wealth of sticky notes that decorate her desk. 
 </p><p>
@@ -27,7 +27,7 @@ image: jo-bunch
 <lineout></lineout>
 
 <h2 class="bottom">About Jo Bunch</h2>
-<h3>Finance / Office Manager, Francis Terry & Associates</h3>
+<h3>Office Manager, Francis Terry & Associates</h3>
 <p>
 	After working with Francis for more than a decade, Jo joined FTA from its formation.
 </p><p class="bottom">
