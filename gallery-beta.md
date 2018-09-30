@@ -1,592 +1,180 @@
 ---
 layout: page
-title: Gallery Beta
-excerpt: "Images of work by Quinlan and Francis Terry showing their new-build classical Georgian style architecture and country houses"
+title: Projects Visual
+excerpt: ""
 permalink: /gallery-beta/
 social_image: /images/social/social-projects.jpg
+nofollow: example
 ---
-<p>Our team's portfolio of projects undertaken while working at Quinlan and Francis Terry</p>
 
-<ul class="list random tiles">
+<ul class="list random">
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes.jpg" title="New 5 bedroom house for Halsbury Homes">
-<img class="lazy" src="/images/projects/thumbs2/5-bedroom-house-for-halsbury-homes.jpg" alt="New 5 bedroom house for Halsbury Homes">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/corinthianvilla4.jpg" title="Corinthian Villa">
-<img class="lazy" src="/images/projects/thumbs2/corinthianvilla4.jpg" alt="Corinthian Villa">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/eastridgehousewiltshire1.jpg" title="CGI Proposal">
-<img class="lazy" src="/images/projects/thumbs2/eastridgehousewiltshire1.jpg" alt="Eastridge House, Wiltshire">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/cgi-proposal.jpg" title="CGI Proposal">
-<img class="lazy" src="/images/projects/thumbs2/cgi-proposal.jpg" alt="CGI Proposal">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark5.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark5.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark6.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark6.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark7.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark7.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark8.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark8.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark9.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark9.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark10.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark10.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark11.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark11.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark12.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark12.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark13.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark13.jpg" alt="Fearne Park">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/fearnepark14.jpg" title="Ferne Park">
-<img class="lazy" src="/images/projects/thumbs2/fearnepark14.jpg" alt="Fearne Park">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hamwood1.jpg" title="Late Georgian House">
-<img class="lazy" src="/images/projects/thumbs2/hamwood1.jpg" alt="Late Georgian House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-f.jpg" title="Late Georgian House">
-<img class="lazy" src="/images/projects/thumbs2/late-georgian-house-f.jpg" alt="Late Georgian House">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-r.jpg" title="Late Georgian House">
-<img class="lazy" src="/images/projects/thumbs2/late-georgian-house-r.jpg" alt="Late Georgian House">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge1a.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge1a.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge4.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge4.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge5.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge5.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge6.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge6.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge7.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge7.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge8.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge8.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge9.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge9.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge10.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge10.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge11.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge11.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge12.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge12.jpg" alt="Hanover Lodge">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge13.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge13.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge14.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge14.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/hanoverlodge15.jpg" title="Hanover Lodge">
-<img class="lazy" src="/images/projects/thumbs2/hanoverlodge15.jpg" alt="Hanover Lodge">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-01.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs2/house-in-buckinghamshire-01.jpg" alt="House in Buckinghamshire">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-02.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs2/house-in-buckinghamshire-02.jpg" alt="House in Buckinghamshire">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-03.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs2/house-in-buckinghamshire-03.jpg" alt="House in Buckinghamshire">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-04.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs2/house-in-buckinghamshire-04.jpg" alt="House in Buckinghamshire">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-buckinghamshire-05.jpg" title="House in Buckinghamshire">
-<img class="lazy" src="/images/projects/thumbs2/house-in-buckinghamshire-05.jpg" alt="House in Buckinghamshire">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark1.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark1.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark2.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark2.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark3.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark3.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark4.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark4.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark5.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark5.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark6.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark6.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark7.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark7.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark8.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark8.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark9.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark9.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark10.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark10.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark11.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark11.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark12.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark12.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark13.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark13.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark14.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark14.jpg" alt="Highlands Park House">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark15.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark15.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/highlandspark16.jpg" title="House in Dallas">
-<img class="lazy" src="/images/projects/thumbs2/highlandspark16.jpg" alt="Highlands Park House">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs2/house-in-norfolk-00.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs2/house-in-norfolk-01.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs2/house-in-norfolk-02.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="House in Norfolk">
-<img class="lazy" src="/images/projects/thumbs2/house-in-norfolk-03.jpg" alt="House in Norfolk">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs2/house-in-surrey.jpg" alt="House In Surrey">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/houseinsurrey1.jpg" title="House in Surrey">
-<img class="lazy" src="/images/projects/thumbs2/houseinsurrey1.jpg" alt="House In Surrey">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/howardbuilding1.jpg" title="Howard Building">
-<img class="lazy" src="/images/projects/thumbs2/howardbuilding1.jpg" alt="Howard Building">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/howardbuilding3.jpg" title="Howard Building">
-<img class="lazy" src="/images/projects/thumbs2/howardbuilding3.jpg" alt="Howard Building">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/howardbuilding4.jpg" title="Howard Building">
-<img class="lazy" src="/images/projects/thumbs2/howardbuilding4.jpg" alt="Howard Building">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/howardbuilding5.jpg" title="Howard Building">
-<img class="lazy" src="/images/projects/thumbs2/howardbuilding5.jpg" alt="Howard Building">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/howardtheatre1.jpg" title="Howard Theatre">
-<img class="lazy" src="/images/projects/thumbs2/howardtheatre1.jpg" alt="Howard Theatre">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy8.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy8.jpg" alt="Kilboy">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy9.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy9.jpg" alt="Kilboy">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy10.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy10.jpg" alt="Kilboy">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy11.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy11.jpg" alt="Kilboy">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy12.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy12.jpg" alt="Kilboy">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy13.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy13.jpg" alt="Kilboy">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy14.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy14.jpg" alt="Kilboy">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy15.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy15.jpg" alt="Kilboy">
-</a>
-</li>
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy16.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy16.jpg" alt="Kilboy">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy17.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy17.jpg" alt="Kilboy">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy18.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy18.jpg" alt="Kilboy">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy19.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy19.jpg" alt="Kilboy">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/kilboy20.jpg" title="House in Ireland">
-<img class="lazy" src="/images/projects/thumbs2/kilboy20.jpg" alt="Kilboy">
-</a>
-</li>
-
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/locustonfarmkentucky1.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs2/locustonfarmkentucky1.jpg" alt="Locuston Farm Kentucky">
+<!--<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes-orig.jpg" title="New 5 bedroom house for Halsbury Homes">
+<img class="lazy" src="/images/projects/thumbs/5-bedroom-house-for-halsbury-homes-orig.jpg" alt="New 5 bedroom house for Halsbury Homes">
 </a>
 </li>-->
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-f.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs2/locuston-farm-kentucky-f.jpg" alt="Locuston Farm Kentucky">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/5-bedroom-house-for-halsbury-homes.jpg" title="New 5 bedroom house for Halsbury Homes">
+<img class="lazy" src="/images/projects/thumbs/5-bedroom-house-for-halsbury-homes.jpg" alt="New 5 bedroom house for Halsbury Homes">
 </a>
 </li>
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/locuston-farm-kentucky-r.jpg" title="Locuston Farm Kentucky">
-<img class="lazy" src="/images/projects/thumbs2/locuston-farm-kentucky-r.jpg" alt="Locuston Farm Kentucky">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-09.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-09.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden6.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden6.jpg" alt="Old Garden">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-13.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-13.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden7.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden7.jpg" alt="Old Garden">
-</a>
-</li>
--->
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden8.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden8.jpg" alt="Old Garden">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden9.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden9.jpg" alt="Old Garden">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/eastridge-summer-house-19.jpg" title="Classical Summerhouse">
+<img class="lazy" src="/images/projects/thumbs/eastridge-summer-house-19.jpg" alt="Classical Summerhouse">
 </a>
 </li>
 
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden10.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden10.jpg" alt="Old Garden">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/colonial-house-cgi.jpg" title="Colonial Style House">
+<img class="lazy" src="/images/projects/thumbs/colonial-house-cgi.jpg" alt="Colonial Style House">
 </a>
 </li>
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/oldgarden11.jpg" title="House in Twickenham">
-<img class="lazy" src="/images/projects/thumbs2/oldgarden11.jpg" alt="Old Garden">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/phoenix-centre.jpg" title="Phoenix Centre, Tedworth">
-<img class="lazy" src="/images/projects/thumbs2/phoenix-centre.jpg" alt="Phoenix Centre, Tedworth">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-wiltshire-north-elevation.jpg" title="Stone Country House North Elevation">
+<img class="lazy" src="/images/projects/thumbs/house-in-wiltshire-north-elevation.jpg" alt="Stone Country House North Elevation">
 </a>
 </li>
 
-<!--
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/tedworth1.jpg" title="Phoenix Centre, Tedworth">
-<img class="lazy" src="/images/projects/thumbs2/tedworth1.jpg" alt="Phoenix Centre, Tedworth">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-hampshire.jpg" title="Arts and Crafts House">
+<img class="lazy" src="/images/projects/thumbs/house-in-hampshire.jpg" alt="Arts and Crafts House">
 </a>
 </li>
 
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/tedworth2.jpg" title="Phoenix Centre, Tedworth">
-<img class="lazy" src="/images/projects/thumbs2/tedworth2.jpg" alt="Phoenix Centre, Tedworth">
-</a>
-</li>
--->
-
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/tedworth3.jpg" title="Phoenix Centre, Tedworth">
-<img class="lazy" src="/images/projects/thumbs2/tedworth3.jpg" alt="Phoenix Centre, Tedworth">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-00.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-00.jpg" alt="Georgian House">
 </a>
 </li>
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/strathmore1.jpg" title="Strathmore House, Poundbury">
-<img class="lazy" src="/images/projects/thumbs2/strathmore1.jpg" alt="Strathmore House, Poundbury">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-01.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-01.jpg" alt="Georgian House">
 </a>
 </li>
 
-<li class="sixth">
-<a class="fancybox" rel="group" href="/images/projects/strathmore2.jpg" title="Strathmore House, Poundbury">
-<img class="lazy" src="/images/projects/thumbs2/strathmore2.jpg" alt="Strathmore House, Poundbury">
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-02.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-02.jpg" alt="Georgian House">
 </a>
 </li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-norfolk-03.jpg" title="Georgian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-norfolk-03.jpg" alt="Georgian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-surrey.jpg" title="French Classical House">
+<img class="lazy" src="/images/projects/thumbs/house-in-surrey.jpg" alt="French Classical House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire.jpg" title="Palladian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire.jpg" alt="Palladian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/house-in-oxfordshire-2.jpg" title="Palladian House">
+<img class="lazy" src="/images/projects/thumbs/house-in-oxfordshire-2.jpg" alt="Palladian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-f.jpg" title="Late Georgian House">
+<img class="lazy" src="/images/projects/thumbs/late-georgian-house-f.jpg" alt="Late Georgian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/late-georgian-house-r.jpg" title="Late Georgian House">
+<img class="lazy" src="/images/projects/thumbs/late-georgian-house-r.jpg" alt="Late Georgian House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/mundham-house-type.jpg" title="The Mundham House Type">
+<img class="lazy" src="/images/projects/thumbs/mundham-house-type.jpg" alt="The Mundham House Type">
+</a>
+</li>
+
+<!--<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-2.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-2.jpg" alt="Queen Ann Style Orangery">
+</a>
+</li>-->
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-3.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-3.jpg" alt="Queen Ann Style Orangery">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/orangery-in-norfolk-4.jpg">
+<img class="lazy" src="/images/projects/thumbs/orangery-in-norfolk-4.jpg" alt="Norfolk">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/queen-ann-style-orangery.jpg" title="Queen Ann Style Orangery">
+<img class="lazy" src="/images/projects/thumbs/queen-ann-style-orangery.jpg" alt="Queen Ann Style Orangery">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/empress-gate.jpg" title="Empress Gate proposal">
+<img class="lazy" src="/images/projects/thumbs/empress-gate.jpg" alt="Empress Gate proposal">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/south-perspective.jpg" title="Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/south-perspective.jpg" alt="Stone Country House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/south-range-downing-visual-squared.jpg" title="Imaginary proposal for the South Grange, Downing College, Cambridge">
+<img class="lazy" src="/images/projects/thumbs/south-range-downing-visual-squared.jpg" alt="Imaginary proposal for the South Grange, Downing College, Cambridge">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/eastridge.jpg" title="A Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/eastridge.jpg" alt="A Stone Country House">
+</a>
+</li>
+
+<!--<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/stone-country-house.jpg" title="A Stone Country House">
+<img class="lazy" src="/images/projects/thumbs/stone-country-house.jpg" alt="A Stone Country House">
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/projects/west-hampstead.jpg" title="West Hampstead proposal">
+<img class="lazy" src="/images/projects/thumbs/west-hampstead.jpg" alt="West Hampstead proposal">
+</a>
+</li>-->
 
 </ul>

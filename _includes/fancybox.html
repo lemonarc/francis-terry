@@ -1,4 +1,4 @@
-		{% if page.article or page.title == 'Drawings' or page.title == 'Gallery' or page.title == 'Projects' %}
+		{% if page.article or page.title == 'Drawings' or page.title == 'Projects Visual' or page.title == 'Projects' %}
 
 		<script type="text/javascript">
 			$(document).ready(function() {
@@ -39,7 +39,7 @@
 		
 		{% endif %}
 		
-		{% unless page.pageclass == 'videos-page' or page.title == 'Projects' %}
+		{% unless page.pageclass == 'videos-page' or page.title == 'Projects' or page.title == 'Projects Visual' %}
 		
 		<script type="text/javascript">
 			$(document).ready(function() {
