@@ -6,17 +6,18 @@ excerpt: "An analysis of the term 'pastiche' and it's place in architecture by F
 preview: "The definition of Pastiche is 'an artistic work in a style that imitates that of another work, artist, or period.' I imitate historic buildings, rather than inventing new styles, and with this in mind, it may seem fair game to direct the word at my work..."
 post_date: February 2017
 permalink: /thoughts/glad-to-be-pastiche/
-image_tall: /images/essays/pastiche/pastiche-800x600.jpg
-image_wide: /images/essays/pastiche/pastiche-800x400.jpg
+image_tall: /images/essays/pastiche/tall.jpg
+image_wide: /images/essays/pastiche/wide.jpg
 social_image: /images/essays/pastiche/social.jpg
 comments: /thoughts/glad-to-be-pastiche/
 ---
 
 <ul class="list">
 <li class="full">
-<a class="fancybox" rel="group" href="/images/essays/pastiche/cambridge.jpg" title="">
-<img src="/images/essays/pastiche/thumbs/cambridge.jpg" alt="Cambridge" />
+<a class="fancybox" rel="group" href="/images/essays/pastiche/amy-winehouse.jpg" title="Amy Winehouse (Kary Stewart @karyignite)">
+<img src="/images/essays/pastiche/thumbs/amy-winehouse.jpg" alt="Amy Winehouse (Kary Stewart @karyignite)" />
 </a>
+<p><small>Photo: Kary Stewart @karyignite</small></p>
 </li>
 </ul>
 
