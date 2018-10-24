@@ -2,6 +2,11 @@
 layout: page
 article: article
 ---
+
+{% if page.category == "projects" %}
+{% include projects-head.html %}
+{% endif %}
+
 <ul class="list blog">
   {% for post in site.categories[page.category] %}
     <li>

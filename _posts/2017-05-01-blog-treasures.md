@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, history, places]
-title: 'Treasures of the V&A #1'
+title: 'Treasures of the V&A'
 excerpt: "Francis Terry looks at some tremendous architectural work done in Forth Worth, a city in North Central Texas"
 preview: "The V & A is, without a doubt, my favourite museum.  I enjoy wandering around with no particular purpose, looking at whatever objects catch my eye. Sometimes I find new gems; other times I enjoy returning to familiar pieces..."
 post_date: May 2017

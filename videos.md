@@ -4,7 +4,7 @@ pageclass: videos-page
 title: Videos
 excerpt: "Some videos of Francis Terry speaking at a TED talk at Bloomberg also drawing classical architecture at the RIBA and painting graffiti in Banksy's Tunnel"
 permalink: /videos/
-social_image: /images/videos/videosocial/social-video.jpg
+social_image: /images/videos/social.jpg
 article: article
 ---
 
@@ -131,6 +131,20 @@ article: article
 			<h4>April 2014</h4>
 			<p>
 				The Architecture Club held an event to compare the relative merits of hand drawing and computer aided design. As part of this, Francis Terry and George Saumarez Smith were asked to draw for a few hours to show the potential of hand drawing. 
+			</p>
+		</div>
+	</li>
+	
+	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/2H3F0NPKUHs?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video11.jpg" alt="The Erechtheum Portico, from ancient Greece to Downing and beyond" class="tall" />
+			<img src="/images/videos/wide/video11.jpg" alt="The Erechtheum Portico, from ancient Greece to Downing and beyond" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>The Erechtheum Portico, from ancient Greece to Downing and beyond</h2>
+			<h4>March 2017</h4>
+			<p>
+				Part of 'Catalysized: Outcomes of Catalysis' at the Seventh Catalysis Conference, 24-26 March 2017, Downing College, Cambridge.
 			</p>
 		</div>
 	</li>
