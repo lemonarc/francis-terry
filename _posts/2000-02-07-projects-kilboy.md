@@ -32,8 +32,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/22.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/22.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/37.jpg">
+			<img src="/images/projects/kilboy/images/thumbs/37.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -267,14 +267,9 @@ social_image: /images/projects/kilboy/images/social.jpg
 </p>
 
 <ul class="list">
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/32.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/32.jpg" alt="{{ page.title }}" />
-		</a>
-	</li>
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/33.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/33.jpg" alt="{{ page.title }}" />
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/36.jpg">
+			<img src="/images/projects/kilboy/images/thumbs/36.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
