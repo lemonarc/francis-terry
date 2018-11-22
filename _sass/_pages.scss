@@ -872,6 +872,13 @@ ul.publications p {
 .projects-head {
 	margin-bottom: $unit*4;
 }
+ul.list li.dorset-12 {
+	margin-bottom: 5%;
+	
+	@include media-query($on-mobile) {
+		margin-bottom: $unit*3;
+	}
+}
 
 /* Promo pages
 ==================== */
