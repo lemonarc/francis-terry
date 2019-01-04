@@ -9,11 +9,22 @@ article: article
 <ul class="list publications">
 
 	<li>
-		<img src="/images/publications/glad_to_be_pastiche.jpg">
-		<h3>Glad to be Pastiche and other essays</h3>
+		<img src="/images/publications/greatest-building-in-the-world.jpg">
+		<h3>The Greatest Building in the World and other Essays</h3>
 		<h4>Francis Terry</h4>
 		<p>
-			Glad to be Pastiche is a collection of short essays about architecture by Francis Terry, originally published on his blog. The subjects range from reflections on living in Washington D.C, to memories of his tutor Dalibor Vesely, as well as more academic studies, like his observations of English Palladian detailing. All the essays are written with a certain degree of humour reflecting Francis’ unconventional way of seeing the world.
+			<strong>The Greatest Building in the World and other Essays</strong> is a collection of short articles about architecture by Francis Terry, originally published on his blog. The first essay is about the Pantheon which he considers to be the greatest building in the world. The other essays cover architecturally interesting places, including Poundbury, Berlin, Potsdam, and the University of Virginia, as well as theoretical essays about the use of geometry in garden design and sustainable materials. All the essays were written in 2018 and reflecting Francis' unconventional way of understanding architecture.
+		</p><p>
+			You can purchase this book from our office for £10.00 plus postage and packaging.
+		</p>
+	</li>
+	
+	<li>
+		<img src="/images/publications/glad_to_be_pastiche.jpg">
+		<h3>Glad to be Pastiche and other Essays</h3>
+		<h4>Francis Terry</h4>
+		<p>
+			<strong>Glad to be Pastiche</strong> is a collection of short essays about architecture by Francis Terry, originally published on his blog. The subjects range from reflections on living in Washington D.C, to memories of his tutor Dalibor Vesely, as well as more academic studies, like his observations of English Palladian detailing. All the essays are written with a certain degree of humour reflecting Francis’ unconventional way of seeing the world.
 		</p><p>
 			You can purchase this book from our office for £10.00 plus postage and packaging.
 		</p>

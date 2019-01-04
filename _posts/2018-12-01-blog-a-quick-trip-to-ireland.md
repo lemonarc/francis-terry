@@ -43,7 +43,7 @@ comments: /thoughts/a-quick-trip-to-ireland/
 </ul>
 
 <p>
-	Some hours later I staggered to bed. When I awoke the intense green of my room became evident. When I say green, I don’t mean some tasteful grey/green from a Farrow and Ball paint chart, I mean proper green, like the green from Barbar the King of the Elephants’ suit. The Irish have a taste for these extreme colours. A fashion started perhaps by Mariga Guinness who famously painted the Knight of Glin’s drawing room a dark inky blue.  These colours appear so confident and unselfconscious, nowadays highly paid interior decorators presumably earn a fortune specifying this rather outré palette but I imagine (and hope) that this particular green was chosen during a hurried trip to a nearby hardware store and this was the only shade they had.
+	Some hours later I staggered to bed. When I awoke the intense green of my room became evident. When I say green, I don’t mean some tasteful grey/green from a Farrow and Ball paint chart, I mean proper green, like the green from Babar the King of the Elephants’ suit. The Irish have a taste for these extreme colours. A fashion started perhaps by Mariga Guinness who famously painted the Knight of Glin’s drawing room a dark inky blue.  These colours appear so confident and unselfconscious, nowadays highly paid interior decorators presumably earn a fortune specifying this rather outré palette but I imagine (and hope) that this particular green was chosen during a hurried trip to a nearby hardware store and this was the only shade they had.
 </p>
 
 <ul class="list">
