@@ -6,15 +6,15 @@ excerpt: "This great house recreated by Quinlan and Francis Terry for a client i
 preview: "This new house, completed in 2013, was designed by Quinlan and Francis Terry – their last collaborative project before Francis set up an independent practice – and constructed on the site of a late 18thCentury house, in a fine, mature landscape park. In 2015 it was awarded the Georgian Group’s inaugural Diaphoros Award for original, transcendent Classical design."
 post_date: 2000-02-07
 permalink: /projects/house-in-ireland/
-image_tall: /images/projects/kilboy/images/tall.jpg
-image_wide: /images/projects/kilboy/images/wide.jpg
-social_image: /images/projects/kilboy/images/social.jpg
+image_tall: /images/projects/house-in-ireland/images/tall.jpg
+image_wide: /images/projects/house-in-ireland/images/wide.jpg
+social_image: /images/projects/house-in-ireland/images/social.jpg
 ---
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/01.jpg">
-			<img src="/images/projects/kilboy/images/main.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/01.jpg">
+			<img src="/images/projects/house-in-ireland/images/main.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -27,13 +27,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/21.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/21.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/21.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/21.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/37.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/37.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/37.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/37.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -46,8 +46,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 	Designed as his principal work by William Leeson, a local landowner and gentleman architect, this house in Ireland had originally been built in the 1760s on an ambitious scale, five bays square, and four storeys high, including the substantial rusticated basement. The imposing east entrance front, eighty-four feet wide and seventy feet high was articulated with a giant order of four engaged Doric columns with a pediment over the central three bays, containing an oeil-de-boeuf window. The full Doric entablature with metope and triglyph frieze ran the whole length of this front and was supported at either end by coupled Doric pilasters or antae. The use of the stern Doric order, rather than the softer Ionic or Corinthian, gave the house an unusual gravitas.
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/kilboy/images/23.jpg">
-	<img src="/images/projects/kilboy/images/thumbs/23.jpg" alt="{{ page.title }}" class="half-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/23.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/23.jpg" alt="{{ page.title }}" class="half-inset" />
 </a>
 
 <p>
@@ -66,8 +66,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/03.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/03.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/03.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/03.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -80,8 +80,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 	When they first met in 2004, the client showed Quinlan Terry views and photographs of the house as built by William Leeson of which all that remained was the greater part of the basement and the thirty-two foot wide flight of steps up to the front door. He wanted Terry to reconstruct a version of the main east elevation, but to improve the plain, stuccoed north and south fronts. The giant Doric columns and massive stones of the towering entrance front which Quinlan Terry rebuilt gave it a cyclopean scale and a strength, recalling the monumental language of Vanbrugh, Hawksmoor, or Ledoux. To emphasise mass rather than ornament, it was decided not to reinstate the coupled pilasters at the ends of the façade in the original house. The uncompromising masculinity is in harmony with the traditional origin of the Doric order which, according to Vitruvius, lay in the proportions of the male body. 
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/kilboy/images/24.jpg">
-	<img src="/images/projects/kilboy/images/thumbs/24.jpg" alt="{{ page.title }}" class="third-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/24.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/24.jpg" alt="{{ page.title }}" class="third-inset" />
 </a>
 
 <p>
@@ -92,13 +92,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/09.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/09.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/09.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/09.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/06.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/06.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/06.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/06.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -111,8 +111,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 	Some of the new rooms are vaulted in rough stone but the central space was to be a more sophisticated octagon with a plain octagonal vault in smooth ashlar. At a meeting on site in 2008, the client asked Quinlan Terry if the horizontal arches of these vaults could be arched. The answer was that they could be if he were prepared to echo the ambitious model of centralised vaulted spaces such as the Water Court Vestibule at Hadrian’s Villa at Tivoli (AD 117-38). An inventive architect himself, Hadrian once criticised a work by Trajan’s architect, Apollodorus of Damascus, who supposedly replied rashly, ‘be off, and draw your pumpkins’, a reference to the design of the complex umbrella vaults at Tivoli which was sometimes attributed to Hadrian.
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/kilboy/images/08.jpg">
-	<img src="/images/projects/kilboy/images/thumbs/08.jpg" alt="{{ page.title }}" class="half-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/08.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/08.jpg" alt="{{ page.title }}" class="half-inset" />
 </a>
 
 <p>
@@ -125,8 +125,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/25.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/25.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/25.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/25.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -139,13 +139,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/12.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/12.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/12.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/12.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/11.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/11.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/11.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/11.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -154,8 +154,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 	The keystones of the three, round-headed arches on the west wall take the form of massive lion heads which support the entablature. With flowing manes and mouths grasping garlands of Irish flowers which they are presumably eating, these exuberant heads were designed by Francis Terry and carved from a clay model by Tim Lees in his Somerset workshop. They owe something to the lion heads in the hall at Castletown, Co. Kildare, begun in 1722 as the first great Palladian mansion in Ireland from designs by the Florentine architect, Alessandro Galilei, under the direction of Sir Edward Lovett Pearce. While working on the designs for the house in Ireland, the Terrys and the client visited Castletown, not to be confused with Castletown Cox, Co. Kilkenny, which, as we have seen, they also visited.
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/kilboy/images/26.jpg">
-	<img src="/images/projects/kilboy/images/thumbs/26.jpg" alt="{{ page.title }}" class="third-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/26.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/26.jpg" alt="{{ page.title }}" class="third-inset" />
 </a>
 
 <p>
@@ -166,13 +166,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/27.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/27.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/27.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/27.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/28.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/28.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/28.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/28.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -183,8 +183,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/29.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/29.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/29.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/29.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -199,13 +199,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/14.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/14.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/14.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/14.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/10.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/10.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/10.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/10.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -214,8 +214,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 	Quinlan and Francis Terry had designed many coffered domes but that at the house in Ireland was the first to be executed. Elliptical domes have long interested Quinlan Terry as they formed a substantial part of his Sir Herbert Baker Scholarship of 1974 from the Royal Academy to study unreinforced dome construction in Persian and Roman buildings. Francis had himself long been inspired by the elliptical glazed dome in the Marble Saloon of 1775-88 at his school, Stowe, Buckinghamshire.
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/kilboy/images/05.jpg">
-	<img src="/images/projects/kilboy/images/thumbs/05.jpg" alt="{{ page.title }}" class="half-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/05a.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/05a.jpg" alt="{{ page.title }}" class="half-inset" />
 </a>
 
 <p>
@@ -228,8 +228,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/15.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/15.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/15.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/15.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -246,18 +246,18 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/30.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/30.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/30.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/30.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/16.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/16.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/16.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/16.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/31.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/31.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/31.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/31.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -268,8 +268,8 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/36.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/36.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/36.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/36.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -280,18 +280,18 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/17.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/17.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/17.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/17.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/19.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/19.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/19.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/19.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/34.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/34.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/34.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/34.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -302,13 +302,13 @@ social_image: /images/projects/kilboy/images/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/35.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/35.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/35.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/35.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/kilboy/images/18.jpg">
-			<img src="/images/projects/kilboy/images/thumbs/18.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/18.jpg">
+			<img src="/images/projects/house-in-ireland/images/thumbs/18.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>

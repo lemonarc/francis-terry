@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, theory, sustainability]
-title: Natural food, Natural clothes... Natural architecture?
+title: 'Natural Food, Natural Clothes... - Sustainable Building Materials'
 excerpt: "A good pair of brogues will last decades. Trainers will not. Nylon, as used in sports clothing, seems to be the 'go-to' fabric nowadays, unless you are a reactionary architect who peddles nostalgia - like me."
 preview: "A good pair of brogues will last decades. Trainers will not. Nylon, as used in sports clothing, seems to be the 'go-to' fabric nowadays, unless you are a reactionary architect who peddles nostalgia - like me."
 post_date: April 2018

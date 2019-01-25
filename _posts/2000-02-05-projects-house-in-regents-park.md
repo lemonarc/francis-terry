@@ -2,19 +2,19 @@
 layout: post
 categories: [projects]
 title: House in Regent's Park, London
-excerpt: "This magnificent new mansion, built in 2003-10 from designs by Quinlan and Francis Terry for Lord Bagri, began as a simple classical villa built by Decimus Burton in 1827."
-preview: "This magnificent new mansion, built in 2003-10 from designs by Quinlan and Francis Terry for Lord Bagri, began as a simple classical villa built by Decimus Burton in 1827."
+excerpt: "This magnificent new mansion, built in 2003-10 from designs by Quinlan and Francis Terry, began as a simple classical villa built by Decimus Burton in 1827 as part of John Nash’s plans for his Picturesque layout of Regent’s Park."
+preview: "This magnificent new mansion, built in 2003-10 from designs by Quinlan and Francis Terry, began as a simple classical villa built by Decimus Burton in 1827 as part of John Nash’s plans for his Picturesque layout of Regent’s Park."
 post_date: 2000-02-05
 permalink: /projects/house-in-regents-park/
-image_tall: /images/projects/hanover-lodge/tall.jpg
-image_wide: /images/projects/hanover-lodge/wide.jpg
-social_image: /images/projects/hanover-lodge/social.jpg
+image_tall: /images/projects/house-in-regents-park/tall.jpg
+image_wide: /images/projects/house-in-regents-park/wide.jpg
+social_image: /images/projects/house-in-regents-park/social.jpg
 ---
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/01.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/01.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/01.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/01.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -27,13 +27,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/02.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/02.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/02.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/02.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/03.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/03.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/03.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/03.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -44,13 +44,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/04.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/04.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/04.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/04.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/05.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/05.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/05.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/05.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -65,13 +65,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/06.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/06.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/06.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/06.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/07.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/07.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/07.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/07.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -82,8 +82,8 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/08.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/08.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/08.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/08.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -100,8 +100,8 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/09.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/09.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/09.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/09.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -112,13 +112,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/10.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/10.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/10.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/10.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/11.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/11.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/11.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/11.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -139,8 +139,8 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/12.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/12.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/12.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/12.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -153,18 +153,18 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/13.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/13.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/13.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/13.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/14.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/14.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/14.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/14.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="third">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/15.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/15.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/15.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/15.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -175,13 +175,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/16.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/16.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/16.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/16.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/17.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/17.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/17.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/17.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -196,13 +196,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/18.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/18.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/18.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/18.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/19.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/19.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/19.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/19.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -213,13 +213,13 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/20.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/20.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/20.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/20.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/21.jpg">
-			<img src="/images/projects/hanover-lodge/thumbs/21.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/21.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/21.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -239,8 +239,8 @@ social_image: /images/projects/hanover-lodge/social.jpg
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/hanover-lodge/22.jpg">
-			<img src="/images/projects/hanover-lodge/22.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/22.jpg">
+			<img src="/images/projects/house-in-regents-park/22.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>

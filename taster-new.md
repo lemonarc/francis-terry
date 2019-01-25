@@ -41,7 +41,6 @@ permalink: /taster-day/
 						<div id="consent"><input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></div>
 					    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
 					</form>
-					<small>All prices include VAT</small>
 				</div>
 				
 			</div>
@@ -60,8 +59,7 @@ permalink: /taster-day/
 				<p>Enjoy a focussed day with Francis Terry & Associates in their offices, developing the bones of your scheme.</p>
 				<p>10am - 4pm</p>
 				<lineout></lineout>
-				<p>£1200</p>
-				<small>Includes VAT</small>
+				<p>£1200 excluding VAT and expenses</p>
 			</li>
 			<li class="third price">
 				<h3>PART DAY</h3>
@@ -69,8 +67,7 @@ permalink: /taster-day/
 				<p>Enjoy a productive session with Francis Terry & Associates developing your scheme, yet get away early.</p>
 				<p>10am - 1pm</p>
 				<lineout></lineout>
-				<p>£900</p>
-				<small>Includes VAT</small>
+				<p>£900 excluding VAT and expenses</p>
 			</li>
 			<li class="third price">
 				<h3>FULL DAY</h3>
@@ -78,8 +75,7 @@ permalink: /taster-day/
 				<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
 				<p>10am - 4pm</p>
 				<lineout></lineout>
-				<p>£1800</p>
-				<small>Includes VAT</small>
+				<p>£1800 excluding vat and expenses</p>
 			</li>
 		</ul>
 			

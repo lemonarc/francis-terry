@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, theory]
-title: A Taste for Colour, Ornament and Pineapples
+title: A Taste for Colour, Ornament and Pineapples – What Informs Architectural Taste
 excerpt: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."
 preview: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."
 post_date: November 2018

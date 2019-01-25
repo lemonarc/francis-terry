@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, theory]
-title: Rotonda in Cheese
+title: 'Rotonda in Cheese – What Is More Important Materials or Form?'
 excerpt: "Palladio's villas in the Veneto are made from render which is a cheaper alternative to stone, but it looks similar from a distance ... I think even if the Villa Rotonda was made of cheese, it would still look splendid from afar."
 preview: "Palladio's villas in the Veneto are made from render which is a cheaper alternative to stone, but it looks similar from a distance ... I think even if the Villa Rotonda was made of cheese, it would still look splendid from afar."
 post_date: September 2018

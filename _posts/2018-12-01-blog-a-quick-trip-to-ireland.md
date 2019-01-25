@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, places]
-title: A quick trip to Ireland
+title: A Quick Trip to Ireland
 excerpt: "A few weeks ago I was asked to show an ICAA tour around a house in Ireland. I caught a late flight to Ireland on a Sunday night. I then had to hire a car and drove for over an hour. Eventually, I arrived at Roundwood House."
 preview: "A few weeks ago I was asked to show an ICAA tour around a house in Ireland. I caught a late flight to Ireland on a Sunday night. I then had to hire a car and drove for over an hour. Eventually, I arrived at Roundwood House."
 post_date: December 2018

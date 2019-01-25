@@ -1,11 +1,9 @@
 ---
 layout: post
-categories: [projects]
 title: Queen Mother Square
 excerpt: "Quinlan and Francis Terry were honoured to receive this commission because they have long admired the Prince of Wales for his courage in establishing and continually supporting Poundbury."
 preview: "Quinlan and Francis Terry were honoured to receive this commission because they have long admired the Prince of Wales for his courage in establishing and continually supporting Poundbury."
 post_date: 2000-02-03
-permalink: /projects/queen-mother-square/
 image_tall: /images/projects/poundbury/tall.jpg
 image_wide: /images/projects/poundbury/wide.jpg
 social_image: /images/projects/poundbury/social.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, history, theory]
-title: 'How Palladian were Palladians?'
+title: 'How Palladian Were Palladians? – The Use of Scamozzi Ionic in Georgian Architecture'
 excerpt: "How Palladian were the English Palladians? An analysis by Francis Terry based on their choice of Ionic capital."
 preview: "As a practicing classical architect, I have had a number of clients who have wanted their houses to look like the work of the English Palladians of the Georgian era rather than Palladio himself. From this I started to notice that the work of the English Palladians..."
 post_date: December 2016
