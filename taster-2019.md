@@ -3,7 +3,7 @@ layout: landing
 pageclass: taster-page
 title: Book a Taster Day with Francis Terry
 excerpt: "Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team."
-permalink: /taster-day/
+permalink: /taster-day-2019/
 ---
 <div class="wrapper taster-day">
 
@@ -41,7 +41,7 @@ permalink: /taster-day/
 						<div id="consent"><input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></div>
 					    <input id="checkout-button" class="cta-button" disabled="disabled" type="submit" value="Book Now">
 					</form>
-					<small>All prices include VAT</small>
+					<small>Excludes VAT and expenses</small>
 				</div>
 				
 			</div>
@@ -61,7 +61,7 @@ permalink: /taster-day/
 				<p>10am - 4pm</p>
 				<lineout></lineout>
 				<p>£1200</p>
-				<small>Includes VAT</small>
+				<small>Excluding VAT and expenses</small>
 			</li>
 			<li class="third price">
 				<h3>PART DAY</h3>
@@ -70,7 +70,7 @@ permalink: /taster-day/
 				<p>10am - 1pm</p>
 				<lineout></lineout>
 				<p>£900</p>
-				<small>Includes VAT</small>
+				<small>Excluding VAT and expenses</small>
 			</li>
 			<li class="third price">
 				<h3>FULL DAY</h3>
@@ -79,7 +79,7 @@ permalink: /taster-day/
 				<p>10am - 4pm</p>
 				<lineout></lineout>
 				<p>£1800</p>
-				<small>Includes VAT</small>
+				<small>Excluding VAT and expenses</small>
 			</li>
 		</ul>
 			
