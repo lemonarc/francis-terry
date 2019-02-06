@@ -6,9 +6,9 @@ excerpt: "A good pair of brogues will last decades. Trainers will not. Nylon, as
 preview: "A good pair of brogues will last decades. Trainers will not. Nylon, as used in sports clothing, seems to be the 'go-to' fabric nowadays, unless you are a reactionary architect who peddles nostalgia - like me."
 post_date: April 2018
 permalink: /thoughts/natural-architecture/
-image_tall: /images/essays/natural-architecture/tall.jpg
-image_wide: /images/essays/natural-architecture/wide.jpg
-social_image: /images/essays/natural-architecture/social-00.jpg
+image_tall: /images/essays/natural-architecture/tall2.jpg
+image_wide: /images/essays/natural-architecture/wide2.jpg
+social_image: /images/essays/natural-architecture/social2.jpg
 comments: /thoughts/natural-architecture/
 ---
 

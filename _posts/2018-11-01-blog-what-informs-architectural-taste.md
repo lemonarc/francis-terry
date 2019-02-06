@@ -5,10 +5,13 @@ title: "What Informs Architectural Taste?"
 excerpt: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."
 preview: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."
 post_date: November 2018
-permalink: /thoughts/a-taste-for-pineapples/
-image_tall: /images/essays/a-taste-for-pineapples/tall.jpg
-image_wide: /images/essays/a-taste-for-pineapples/wide.jpg
-social_image: /images/essays/a-taste-for-pineapples/social.jpg
+permalink: /thoughts/what-informs-architectural-taste/
+redirect_from:
+  - /thoughts/a-taste-for-pineapples
+  - /thoughts/a-taste-for-pineapples/
+image_tall: /images/essays/a-taste-for-pineapples/tall2.jpg
+image_wide: /images/essays/a-taste-for-pineapples/wide2.jpg
+social_image: /images/essays/a-taste-for-pineapples/social2.jpg
 comments: /thoughts/a-taste-for-pineapples/
 ---
 

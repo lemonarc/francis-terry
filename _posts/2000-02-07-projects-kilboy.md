@@ -214,8 +214,8 @@ social_image: /images/projects/house-in-ireland/images/social.jpg
 	Quinlan and Francis Terry had designed many coffered domes but that at the house in Ireland was the first to be executed. Elliptical domes have long interested Quinlan Terry as they formed a substantial part of his Sir Herbert Baker Scholarship of 1974 from the Royal Academy to study unreinforced dome construction in Persian and Roman buildings. Francis had himself long been inspired by the elliptical glazed dome in the Marble Saloon of 1775-88 at his school, Stowe, Buckinghamshire.
 </p>
 
-<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/05a.jpg">
-	<img src="/images/projects/house-in-ireland/images/thumbs/05a.jpg" alt="{{ page.title }}" class="half-inset" />
+<a class="fancybox" rel="group" href="/images/projects/house-in-ireland/images/05.jpg">
+	<img src="/images/projects/house-in-ireland/images/thumbs/05b.jpg" alt="{{ page.title }}" class="quarter-inset" />
 </a>
 
 <p>
