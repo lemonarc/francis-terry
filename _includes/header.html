@@ -2,7 +2,7 @@
 
   <div class="wrapper">
 		
-		{% if page.url == "/" %}
+		{% if page.url == "/" or  page.url == "/indexvideo2/" %}
 			{% include navigation-short.html %}
 		{% else %}
 			<a class="site-title" href="{{ site.baseurl }}/" alt="{{ site.title }} | {{ site.description }}"><img src="/images/FTandA_logo_sml_grey.png"></a>

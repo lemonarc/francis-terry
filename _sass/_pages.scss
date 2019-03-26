@@ -276,6 +276,17 @@
     min-height: 100vh;
 	z-index: -100;
 }
+.videoIndex2 .full-page {		
+	@include media-query($on-tablet) {
+		background-image: url('/images/videos/francis-drawing-grab-2.jpg');
+	}
+	@media only screen and (max-height: 400px) {
+		background-image: url('/images/videos/francis-drawing-grab-2.jpg');
+	}
+}
+.videoIndex2 .videoContainer {
+	background-image: url('/images/videos/francis-drawing-grab-2.jpg');
+}
 
 /* Home Page Visual
 ==================== */

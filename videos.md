@@ -24,6 +24,20 @@ article: article
 	</li>
 	
 	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/DLuUuJahflE?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video12.jpg" alt="An Introduction to Baroque Architecture" class="tall" />
+			<img src="/images/videos/wide/video12.jpg" alt="An Introduction to Baroque Architecture" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>An Introduction to Baroque Architecture</h2>
+			<h4>February 2019</h4>
+			<p>
+				This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism.
+			</p>
+		</div>
+	</li>
+	
+	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/Gft1RbURauA?rel=0&autoplay=1">
 			<img src="/images/videos/tall/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
 			<img src="/images/videos/wide/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />

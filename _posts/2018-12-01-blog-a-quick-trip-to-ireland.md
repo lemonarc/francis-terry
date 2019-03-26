@@ -235,3 +235,5 @@ comments: /thoughts/a-quick-trip-to-ireland/
 <h2>
 	Francis Terry
 </h2>
+
+{% include_relative kilboy-gallery.md %}
