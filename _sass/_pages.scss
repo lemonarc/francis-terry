@@ -1039,10 +1039,41 @@ ul.list li.dorset-12 {
 		margin: $unit*2 0;
 	}
 }
+a.booking-link {
+	color: #66849e;
+	font-size: 18px;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: 1px solid #66849e;
+    margin: 2rem 0;
+    padding: 2rem;
+    display: inline-block;
+}
+a.booking-link:hover,
+a.booking-link:focus {
+	border-color: #999999;
+	color: #999999;
+}
+a.booking-link-2 {
+	border: none;
+	font-size: initial;
+	padding: 0;
+}
 .video-form-block {
 	display: flex;
 	align-items: stretch;
 	margin-bottom: $unit*3;
+	
+	.video-form-block-00 {
+		background: $text-color;
+		color: $white;
+		width: 100%;
+		
+		h2 {
+			font-size: $unit*3;
+			padding: $unit;
+		}
+	}
 	
 	.video-form-block-01 {
 		background: $text-color;
@@ -1072,6 +1103,22 @@ ul.list li.dorset-12 {
 	}
 	@media screen and(max-width:899px) {
 		display: block;
+	}
+}
+.video-taster-block {
+	display: flex;
+	align-items: stretch;
+	margin-bottom: $unit*3;
+	
+	.video {
+		background: $text-color;
+		color: $white;
+		width: 100%;
+		
+		h2 {
+			font-size: $unit*3;
+			padding: $unit;
+		}
 	}
 }
 .focus-text {
