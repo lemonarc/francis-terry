@@ -371,4 +371,40 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/new-house-in-hampshire-francis-terry-2017.jpg" title="Elevations of proposed new house in Hampshire, drawn by Francis Terry, 2017.">
+<img class="lazy" src="/images/drawings/thumbs/new-house-in-hampshire-francis-terry-2017.jpg" alt="Elevations of proposed new house in Hampshire, drawn by Francis Terry, 2017." />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/news/2018/04/weild-wood-estate-main-house-watercolour.jpg" title="Country house in Hampshire. Watercolour by Francis Terry, 2017.">
+<img class="lazy" src="/images/drawings/thumbs/weild-wood-estate-main-house-watercolour.jpg" alt="Country house in Hampshire. Watercolour by Francis Terry, 2017." />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/news/2018/06/watercolour.jpg" title="Country house in Wiltshire. Watercolour by Francis Terry, 2018.">
+<img class="lazy" src="/images/drawings/thumbs/watercolour.jpg" alt="Country house in Wiltshire. Watercolour by Francis Terry, 2018." />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/news/2019/04/2019-04-08.jpg" title="Country house in Berkshire. Watercolour by Francis Terry, 2018.">
+<img class="lazy" src="/images/drawings/thumbs/2019-04-08.jpg" alt="Country house in Berkshire. Watercolour by Francis Terry, 2018." />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/2019-04-26-01.jpg">
+<img class="lazy" src="/images/drawings/thumbs/2019-04-26-01.jpg" alt="" />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/2019-04-26-02.jpg">
+<img class="lazy" src="/images/drawings/thumbs/2019-04-26-02.jpg" alt="" />
+</a>
+</li>
+
 </ul>
