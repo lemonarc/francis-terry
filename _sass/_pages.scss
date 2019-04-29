@@ -268,6 +268,16 @@
 		display: none;
 	}
 }
+.home-quote {
+    bottom: 10px;
+	color: #fff;
+	font-weight: 400;
+	position: absolute;
+    left: 0;
+    right: 0;
+    text-align: center;
+    text-shadow: 0 0 16px #000;
+}
 #homeVideo {
     position: fixed;
     right: 0;
@@ -275,6 +285,19 @@
     min-width: 100vw; 
     min-height: 100vh;
 	z-index: -100;
+}
+.videoContentNew #homeVideo {
+	min-width: 140vw;
+	left: -200px;
+    top: -160px;
+    right: auto;
+    bottom: auto;
+	min-height: calc(100vh + 100px);
+}
+.videoContentNew .homeShade {
+	background-color: rgba(0,0,0,0.4);
+    height: 100vh;
+	width: 100vw;
 }
 .videoIndex2 .full-page {		
 	@include media-query($on-tablet) {
