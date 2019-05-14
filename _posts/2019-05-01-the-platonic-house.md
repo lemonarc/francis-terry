@@ -6,9 +6,9 @@ excerpt: "Many award-winning houses and those seen on ‘Grand Designs’ often 
 preview: "Many award-winning houses and those seen on ‘Grand Designs’ often look like space ships or abstract sculpture, which I am sure are worthy in their own way, but they do not look like houses. Is this a problem?"
 post_date: April 2019
 permalink: /thoughts/the-platonic-house/
-image_tall: /images/essays/the-platonic-house/tall.jpg
-image_wide: /images/essays/the-platonic-house/wide.jpg
-social_image: /images/essays/the-platonic-house/social.jpg
+image_tall: /images/essays/the-platonic-house/tall-1.jpg
+image_wide: /images/essays/the-platonic-house/wide-1.jpg
+social_image: /images/essays/the-platonic-house/social-1.jpg
 comments: /thoughts/the-platonic-house/
 ---
 <h2>What should a house look like?</h2>
@@ -81,8 +81,8 @@ It is as if this idea of a house is somehow hard-wired into our brain. The Ancie
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/the-platonic-house/12.jpg">
-			<img src="/images/essays/the-platonic-house/thumbs/12.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/the-platonic-house/12a.jpg">
+			<img src="/images/essays/the-platonic-house/thumbs/12a.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
