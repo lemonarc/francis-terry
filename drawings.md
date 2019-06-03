@@ -407,4 +407,10 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/draw-190601.jpg" title="Plasterwork design of Griffin by Francis Terry, 1990.">
+<img class="lazy" src="/images/drawings/thumbs/draw-190601.jpg" alt="Plasterwork design of Griffin by Francis Terry, 1990." />
+</a>
+</li>
+
 </ul>
