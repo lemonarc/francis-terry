@@ -413,4 +413,10 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/20190601.jpg" title="Place lle-de-Beaute, Nice. Watercolour by Francis Terry, 2019.">
+<img class="lazy" src="/images/drawings/thumbs/20190601.jpg" alt="Place lle-de-Beaute, Nice. Watercolour by Francis Terry, 2019." />
+</a>
+</li>
+
 </ul>
