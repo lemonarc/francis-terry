@@ -6,9 +6,9 @@ excerpt: "This is a lecture I gave to the office about the baroque movement in a
 preview: "This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism."
 post_date: February 2019
 permalink: /thoughts/an-introduction-to-baroque-architecture/
-image_tall: /images/essays/an-introduction-to-baroque-architecture/tall.jpg
-image_wide: /images/essays/an-introduction-to-baroque-architecture/wide.jpg
-social_image: /images/essays/an-introduction-to-baroque-architecture/social.jpg
+image_tall: /images/essays/an-introduction-to-baroque-architecture/tall-1.jpg
+image_wide: /images/essays/an-introduction-to-baroque-architecture/wide-1.jpg
+social_image: /images/essays/an-introduction-to-baroque-architecture/social-1.jpg
 comments: /thoughts/an-introduction-to-baroque-architecture/
 ---
 

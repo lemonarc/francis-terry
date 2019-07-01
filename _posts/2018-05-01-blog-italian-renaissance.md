@@ -6,9 +6,9 @@ excerpt: "Instead of a blog this month, I have posted a video of my ‘in house�
 preview: "Instead of a blog this month, I have posted a video of my ‘in house’ office lecture about the Italian Renaissance. This lecture covers one of the greatest outbursts of creativity in the history of western art and architecture."
 post_date: May 2018
 permalink: /thoughts/italian-renaissance/
-image_tall: /images/essays/italian-renaissance/tall-2.jpg
-image_wide: /images/essays/italian-renaissance/wide-2.jpg
-social_image: /images/essays/italian-renaissance/social-3.jpg
+image_tall: /images/essays/italian-renaissance/tall-4.jpg
+image_wide: /images/essays/italian-renaissance/wide-4.jpg
+social_image: /images/essays/italian-renaissance/social-4.jpg
 comments: /thoughts/italian-renaissance/
 ---
 <p>
