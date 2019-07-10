@@ -1024,6 +1024,58 @@ ul.list li.dorset-12 {
 		margin: $unit*6 0;
 	}
 }
+
+.taster-20190701 {
+	
+	ul.list {
+		display: flex;
+		align-items: stretch;
+		justify-content: space-between;
+		
+		@extend %clearfix;
+		@include media-query($on-600) {
+			display: block;
+		}
+		
+		&.price-list {
+			margin: $unit*3 0 $unit*2;
+		}
+		lineout {
+			border-color: $white;
+			margin: $unit 0;
+			padding: $unit 0;
+		}	
+		li.third {
+			margin-bottom: 0;
+			max-width: fit-content;
+			
+			&.price {
+				background: $text-color;
+				color: $white;
+				padding: $unit*2;
+				
+				@include media-query($on-600) {
+					margin-bottom: $unit*3;
+				}
+			}
+			@include media-query($on-600) {
+				img {
+					margin-bottom: $unit*2;
+				}
+			}
+		}
+		li.half .cta {
+			padding: $unit*2;
+			position: absolute;
+			bottom: 0;
+			
+			h3 {
+				margin-bottom: $unit*2;
+			}
+		}
+	}
+}
+
 .taster-form,
 .taster-form-2 {
 	background: #66849e;
@@ -1148,10 +1200,60 @@ a.booking-link-2 {
 		display: block;
 	}
 }
+
+.taster-book {
+	border: 2px solid #177666;
+	margin: 100px auto;
+	padding: 60px;
+	
+	h2,h3 {
+		color: #177666;
+		text-align: center;
+	}
+	small {
+		display: block;
+		text-align: center;		
+	}
+	.taster-book-content {
+		margin: 0 auto;
+		max-width: 66%;
+		
+		@include media-query($on-mobile) {
+			max-width: 100%;
+		}
+	}
+	.booking-options {
+		margin: 20px auto;
+		text-align: center;
+		
+		span, a, a:hover, a:focus {
+			color: #177666;
+		}
+	}
+}
+.form-201907 {	
+	
+	input,textarea {
+		border: none;
+		border-bottom: 1px solid #177666;
+	}
+	select {
+		border: 1px solid #177666;
+	}
+	#submit-button {
+		display: block;
+		margin: 20px auto;
+		text-align: center;
+	}
+		
+	@media screen and(max-width:899px) {
+		width: 100%;
+	}
+}
+
 .video-taster-block {
 	display: flex;
 	align-items: stretch;
-	margin-bottom: $unit*3;
 	
 	.video {
 		background: $text-color;
