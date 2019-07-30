@@ -1227,7 +1227,7 @@ a.booking-link-2 {
 		text-align: center;
 		
 		span, a, a:hover, a:focus {
-			color: #177666;
+			color: #66849e;
 		}
 	}
 }
@@ -1240,10 +1240,16 @@ a.booking-link-2 {
 	select {
 		border: 1px solid #999999;
 	}
-	#submit-button {
+	#submit-button.cta-button {
 		display: block;
+		background: #66849e;
 		margin: 20px auto;
 		text-align: center;
+		
+		&:hover,
+		&:focus {
+			background: #222a5c;			
+		}
 	}
 		
 	@media screen and(max-width:899px) {
