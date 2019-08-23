@@ -10,12 +10,21 @@
 	{% endif %}
 		
 		<div class="full-page {{ page.splash-background }}">
+			
+			{% if page.splash-background == "projectBackground" %}
+				<div class="fadeshade">
+			{% endif %}
+			
 
 			{% include header.html %}
 
 			<div>
 				{{ content }}
 			</div>
+			
+			{% if page.url == "/index20190810.html" %}
+				</div>
+			{% endif %}
 		
 		</div>
 		

@@ -2,7 +2,7 @@
 layout: page
 pageclass: taster-page
 title: Thank You
-excerpt: "Thank you for booking a taster day, we will be in touch shortly."
+excerpt: "Thank you for booking a Taster Day, we will be in touch shortly."
 permalink: /taster-day-thanks/
 article: article
 nofollow: nofollow
@@ -17,7 +17,8 @@ nofollow: nofollow
 </p>
 <h3>Francis</h3>
 
-<h2>Discover more about Francis Terry and Associates</h2>
+<lineout>
 
+<h2>Discover more about Francis Terry and Associates</h2>
 
 {% include prefooter-discover.html %}

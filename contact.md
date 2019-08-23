@@ -11,10 +11,10 @@ article: article
 	<input type="text" name="_gotcha" style="display:none" />
 	<input type="hidden" name="_next" value="/contact-success">
 	<input type="hidden" name="_subject" value="Francis Terry and Associates Contact Form" />
-	<input type="text" name="Name" placeholder="Your Name">
-	<input type="email" name="_replyto" placeholder="Your Email">
-	<textarea name="Message" placeholder="Your Message"></textarea>
-	<p><input type="checkbox" name="checkbox" value="check" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></p>
+	<input type="text" name="Name" placeholder="Your Name" required>
+	<input type="email" name="_replyto" placeholder="Your Email" required>
+	<textarea name="Message" placeholder="Your Message" required></textarea>
+	<p><input type="checkbox" name="checkbox" value="check" id="agree" required /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></p>
 	<input type="submit" value="Send">
 </form>
 
