@@ -240,7 +240,10 @@
 	
 	.projectBackground {
 		background-image: url('/images/home/201908ES.jpg');
-	
+		
+		.site-header {
+			z-index: 10;
+		}
 		.home {
 			align-items: center;
 			display: flex;
