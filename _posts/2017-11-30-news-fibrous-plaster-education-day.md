@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Fibrous Plaster Education Day
 excerpt:  As part of our continual professional development, we spent a day with the fibrous plaster firm Locker and Riley. We were given an introduction to every part of making fibrous plaster.
 date: 2017-11-30

@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: New Country House granted planning permission in Berkshire
 excerpt:  Francis Terry and Associates have been granted planning permission to build a new country house with outbuildings in Berkshire with a planning team managed by RBA Project Solutions Ltd.
 date: 2019-04-08

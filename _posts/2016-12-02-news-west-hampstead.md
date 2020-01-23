@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Opponents of a new development in West Hampstead have commissioned Francis Terry to produce an alternative design
 excerpt: "Francis Terry and Associates News: Opponents of a new development in West Hampstead have commissioned Francis Terry to produce an alternative design"
 date:   2016-12-02

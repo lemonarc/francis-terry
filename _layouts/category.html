@@ -18,6 +18,7 @@ article: article
         <h2>
           <a class="post-link" href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>{{ post.title }}</a>
         </h2>
+        {% if post.subtitle %}<h3>{{ post.subtitle }}</h3>{% endif %}
         {% unless post.categories contains "projects" %}
         <h4>{% if post.date %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.post_date }}{% endif %}</h4>
         {% endunless %}

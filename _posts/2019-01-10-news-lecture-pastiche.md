@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Glad to be Pastiche Lecture
 excerpt: On Wednesday April 24th 2019 at 6.30pm, Francis Terry will be giving a lecture titled 'Glad to be Pastiche' at Brunswick House in Vauxhall, London.
 date: 2019-01-10

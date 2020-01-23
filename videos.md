@@ -24,9 +24,23 @@ article: article
 	</li>
 	
 	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/LzwJhQL8K6Y?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video15.jpg" alt="An Introduction to 18th Century Architecture from Rococo to Neo Classicism" class="tall" />
+			<img src="/images/videos/wide/video15.jpg" alt="An Introduction to 18th Century Architecture from Rococo to Neo Classicism" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>An Introduction to 18th Century Architecture from Rococo to Neo Classicism</h2>
+			<h4>November 2019</h4>
+			<p>
+				Following on from the Renaissance and Baroque lectures, this lecture was given to the office about 18th century classical architecture. This covers the transition starting with Rococo, through Chinoiserie, Gothick and culminating with neo Classicism in its many and varied forms.
+			</p>
+		</div>
+	</li>
+	
+	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/DLuUuJahflE?rel=0&autoplay=1">
-			<img src="/images/videos/tall/video12.jpg" alt="An Introduction to Baroque Architecture" class="tall" />
-			<img src="/images/videos/wide/video12.jpg" alt="An Introduction to Baroque Architecture" class="wide" />
+			<img src="/images/videos/tall/video14.jpg" alt="An Introduction to Baroque Architecture" class="tall" />
+			<img src="/images/videos/wide/video14.jpg" alt="An Introduction to Baroque Architecture" class="wide" />
 		</a>
 		<div class="blog-text">
 			<h2>An Introduction to Baroque Architecture</h2>
@@ -39,8 +53,8 @@ article: article
 	
 	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/Gft1RbURauA?rel=0&autoplay=1">
-			<img src="/images/videos/tall/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
-			<img src="/images/videos/wide/video10.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
+			<img src="/images/videos/tall/video13.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
+			<img src="/images/videos/wide/video13.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
 		</a>
 		<div class="blog-text">
 			<h2>An Introduction to the Architecture of the Italian Renaissance</h2>

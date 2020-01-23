@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Francis Terry and Associates' Christmas Party
 excerpt:  This year's office party was at Mimosa in Colchester. It was a lovely occasion and great to have time to meet up with everyone's partners whose support is essential to the smooth running of the practice.
 date: 2017-12-20

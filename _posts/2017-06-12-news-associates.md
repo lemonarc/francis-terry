@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Colin Day and Aaron Eagle become Associates
 excerpt: "In recognition of the great work Colin and Aaron have done for the practice, we have decided to make them Associates"
 date: 2017-06-12

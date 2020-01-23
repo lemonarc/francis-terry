@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Francis Terry interview in the Observer
 excerpt: "Francis Terry is striking out on his own. He tells Rowan Moore of the Observer why pastiche is no bad thing."
 date:   2017-04-24

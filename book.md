@@ -1,12 +1,25 @@
 ---
 layout: page
 title: Books
-excerpt: "The Practice of Classical Architecture: The Architecture of Quinlan and Francis Terry, 2005-2015 by David Watkin Published by Rizzoli"
+excerpt: "A numbers of books available about and by Francis Terry including The Practice of Classical Architecture, Glad to be Pastiche and other Essays, The Greatest Building in the World and other Essays, and Recent Work and Essays"
 permalink: /book/
 social_image: /images/social/social-kilboy.jpg
 article: article
 ---
 <ul class="list publications">
+
+	<li>
+		<img src="/images/publications/recent-work-and-essays.jpg">
+		<h3>Recent Work and Essays</h3>
+		<h4>Francis Terry</h4>
+		<p>
+			<strong>Recent Work and Essays</strong> is the third publication from Francis Terry, highlighting some of his most recent projects and featuring some of his 2019 essays.  These include architectural taste, trips to Ireland and France, a eulogy on Sir Edwin Lutyens and a step back to his own childhood. The essays have previously been published on his blog.
+		</p><p>
+			As always these stories highlight the idiosyncratic thinking of Francis, whether the essay is educational, thought provoking or humorous. Illustrations include photographs of completed projects, working elevations, copies of Francis’s watercolours and paintings from his teenage years.
+		</p><p>
+			You can purchase this book from our office for £15.00 plus postage and packaging.
+		</p>
+	</li>
 
 	<li>
 		<img src="/images/publications/greatest-building-in-the-world.jpg">

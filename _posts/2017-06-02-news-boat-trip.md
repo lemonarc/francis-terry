@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: A celebratory boat trip
 excerpt: "The team from Francis Terry and Associates celebrate the anniversary of the formation of the office"
 date: 2017-06-02

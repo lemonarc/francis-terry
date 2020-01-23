@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: New Country House granted Planning Permission under NPPF paragraph 55
 excerpt:  Francis Terry and Associates have been granted planning permission to build a new country house in Hampshire. This is the second proposal to gain planning permission within the last six months.
 date: 2018-04-05

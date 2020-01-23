@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Third Country House granted Planning Permission under NPPF paragraph 55
 excerpt:  Francis Terry and Associates have been granted planning permission to build a new country house in Wiltshire. This is the third proposal to gain planning permission within the last nine months.
 date: 2018-06-11

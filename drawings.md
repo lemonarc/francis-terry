@@ -419,4 +419,16 @@ social_image: /images/social/social-drawings.jpg
 </a>
 </li>
 
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/20190215.jpg" title="Proposed alterations to the Sutton Estate, Chelsea by Francis Terry, 2018.">
+<img class="lazy" src="/images/drawings/thumbs/20190215.jpg" alt="Proposed alterations to the Sutton Estate, Chelsea by Francis Terry, 2018." />
+</a>
+</li>
+
+<li class="quarter">
+<a class="fancybox" rel="group" href="/images/drawings/20190905.jpg" title="Elevations of a New House in Berkshire, Francis Terry 2019.">
+<img class="lazy" src="/images/drawings/thumbs/20190905.jpg" alt="Elevations of a New House in Berkshire, Francis Terry 2019." />
+</a>
+</li>
+
 </ul>

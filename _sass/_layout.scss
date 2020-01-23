@@ -185,6 +185,23 @@ header,
         }
     }
 }
+
+.news-post .post-content a {
+	text-decoration: underline;
+	
+	&:hover,
+	&:focus {
+		text-decoration: none;
+	}
+}
+.news-post .post-links a {
+	text-decoration: none;
+}
+.news-post .post-content .list a {
+	text-decoration: none;
+}
+
+
 ul.post-list li {
 	list-style: none;
 	float: none;

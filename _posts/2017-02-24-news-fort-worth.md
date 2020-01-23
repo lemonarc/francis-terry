@@ -1,5 +1,6 @@
 ---
 layout: post
+pageclass: news-post
 title: Francis Terry visit to Dallas and Fort Worth
 excerpt: "Francis Terry and Associates News: Francis Terry visit to Dallas and Fort Worth"
 date:   2017-02-24
