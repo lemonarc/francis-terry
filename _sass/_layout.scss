@@ -186,7 +186,9 @@ header,
     }
 }
 
+.blog-post a.post-link,
 .news-post .post-content a {
+    display: initial;
 	text-decoration: underline;
 	
 	&:hover,

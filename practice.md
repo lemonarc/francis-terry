@@ -82,10 +82,10 @@ article: article
 		</div>
 	</a>
 	
-	<a href="/practice/bethany-cheffins/" class="profile-promo">
+	<a href="/practice/bethany-couch/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-bc"></div>
 		<div class="profile-intro">
-			<h3>Bethany Cheffins</h3>
+			<h3>Bethany Couch</h3>
 			<h5>Architectural Technician</h5>
 			<small>Read more...</small>
 		</div>

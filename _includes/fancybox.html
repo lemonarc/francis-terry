@@ -1,5 +1,5 @@
-		{% if page.article or page.title == 'Drawings' or page.title == 'Projects Visual' or page.title == 'Projects' %}
-
+		{% if page.article or page.title == 'Drawings' or page.title == 'Full Size Rendered Drawings' or page.title == 'Miscellaneous Drawings' or page.title == 'Sketches' or page.title == 'Watercolours' or page.title == 'Projects Visual' or page.title == 'Projects' %}
+		<!-- Fancybox / Lazyload -->
 		<script type="text/javascript">
 			$(document).ready(function() {
 				$(".fancybox").fancybox();
@@ -20,8 +20,8 @@
 		
 		{% endif %}
 		
-		{% if page.title == 'Drawings' or page.title == 'Gallery' or page.title == 'Projects' %}
-		
+		{% if page.title == 'Gallery' or page.title == 'Projects' %}
+		<!-- Randomize -->
 		<script type="text/javascript">
 			$(function() {
 				$('.random').randomize('li');

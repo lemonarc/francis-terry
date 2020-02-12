@@ -20,7 +20,7 @@ wide_image: 2020/01/wide.jpg
 	</li>
 </ul>
 
-There will be an exhibition of Francis Terry's watercolours at the Art Workers' Guild from 21st to 24th April 2020.  The watercolours are of proposals which he has done in collaboration with <a href="http://www.createstreetsfoundation.org.uk/" rel="nofollow noopener noreferrer" target="_blank">Create Streets</a>, the social enterprise which encourages the building of traditional urban developments.
+There will be an exhibition of Francis Terry's watercolours at the Art Workers' Guild (6 Queen Square, Holborn, London WC1N 3AT) from 21st to 24th April 2020.  The watercolours are of proposals which he has done in collaboration with <a href="http://www.createstreets.com/" rel="nofollow noopener noreferrer" target="_blank">Create Streets</a>, the social enterprise which encourages the building of traditional urban developments.
 
 The watercolours are all for sale and 100% of the money raised will be given to <a href="https://www.cure-eb.org/" rel="nofollow noopener noreferrer" target="_blank">Cure EB</a> towards EB research. Epidermolysis Bullosa (EB) is a genetic skin condition that causes the skin to blister and tear at the slightest touch.  One of Francis's best friends suffers from this condition, and so it is a charity very close to his heart.
 
@@ -47,10 +47,12 @@ If you would like to buy a picture, or attend the private viewing, please contac
 	</li>
 	<li class="third">
 		<a class="fancybox" rel="group" href="/images/news/2020/01/03.jpg">
+			<div class="sold"><span>SOLD</span>
 			<img src="/images/news/2020/01/thumbs/03.jpg" alt="Portico Sketch" title="Portico Sketch" />
+			</div>
 			<p class="caption">Portico Sketch<br/>
 			12.5cm x 15cm, Watercolour<br/>
-			£500</p>
+			<strike>£500</strike></p>
 		</a>
 	</li>
 </ul>

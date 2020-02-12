@@ -406,6 +406,23 @@
 }
 
 
+/* News Posts
+==================== */
+.sold {
+	position: relative;
+	
+	span {
+		background: rgba(0,0,0,0.4);
+		bottom: 0;
+		color: white;
+		font-weight: 700;
+		padding: 10px 0;
+		position: absolute;
+		text-align: center;
+		width: 100%;
+	}
+}
+
 /* Practice Page
 ==================== */
 .practice-page {
@@ -550,7 +567,7 @@ a.profile-promo {
 	background-image: url(/images/practice/aaron-eagle-b.jpg), url(/images/practice/aaron-eagle-a.jpg);
 }
 .profile-thumb-bc {
-	background-image: url(/images/practice/bethany-cheffins-b.jpg), url(/images/practice/bethany-cheffins-a.jpg);
+	background-image: url(/images/practice/bethany-couch-b.jpg), url(/images/practice/bethany-couch-a.jpg);
 }
 .profile-thumb-cd {
 	background-image: url(/images/practice/colin-day-b.jpg), url(/images/practice/colin-day-a.jpg);
@@ -950,12 +967,21 @@ ul.publications p {
 }
 .contact-email {
 	font-size: $font-size*1.2;
-		&::before {
-			content: 'Email: ';
-		}
-		&::after {
-			font-weight: $font-weight-heavy;
-		}
+	&::before {
+		content: 'Email: ';
+	}
+	&::after {
+		font-weight: $font-weight-heavy;
+	}
+}
+
+/* Projects page
+==================== */
+
+.drawings-page {
+	p a {
+		font-size: 120%;
+	}
 }
 
 /* Projects page
