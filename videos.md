@@ -22,6 +22,34 @@ article: article
 			</p>
 		</div>
 	</li>
+
+	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/h2Of8pGvOzY?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video16.jpg" alt="An Introduction to Victorian and Edwardian Architecture" class="tall" />
+			<img src="/images/videos/wide/video16.jpg" alt="An Introduction to Victorian and Edwardian Architecture" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>An Introduction to Victorian and Edwardian Architecture</h2>
+			<h4>March 2020</h4>
+			<p>
+				Despite an ideological push for Gothic, Classicism persisted throughout the Victorian age on a scale never dreamed of by the Georgians and rivalling the great works of Ancient Rome. The Albert Hall, Leeds Town Hall and St George’s Hall, Liverpool are all evidence of this trend.
+			</p>
+		</div>
+	</li>
+
+	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/7ADD3lecPAM?rel=0&autoplay=1">
+			<img src="/images/videos/tall/video17.jpg" alt="An Introduction to British Architecture between the Wars" class="tall" />
+			<img src="/images/videos/wide/video17.jpg" alt="An Introduction to British Architecture between the Wars" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>An Introduction to British Architecture between the Wars</h2>
+			<h4>March 2020</h4>
+			<p>
+				A growing number of people started to feel that there was something terribly wrong with a civilisation which caused young boys from neighbouring countries to commit murder for a purpose that no one really knew or understood. Politics, religion and art were now seen as culpable. 
+			</p>
+		</div>
+	</li>
 	
 	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/LzwJhQL8K6Y?rel=0&autoplay=1">
