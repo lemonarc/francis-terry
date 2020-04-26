@@ -23,7 +23,7 @@ jobs:
           ${{ runner.os }}-gems-
 
     - name: Build Jekyll
-      uses: jerryjvl/jekyll-build-action@v1
+      uses: lemonarc/jekyll-action@1.0.0
 
     - name: Delete everything except contents of site folder
       run: |
