@@ -44,10 +44,11 @@ jobs:
         # Update origin with token
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
         # Checkout the branch so we can push back to it
+        git checkout -B deploy
         git add .
         # Only commit if we have changes
         git diff --quiet && git diff --staged --quiet || git commit -m "${COMMIT_MSG}"
-        git push origin master:deploy
+        git push origin deploy
  
     - name: Install doctl
       uses: digitalocean/action-doctl@v2
