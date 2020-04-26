@@ -14,14 +14,22 @@ jobs:
 
     - uses: actions/checkout@v2
       
+    - name: Cache gems
+      uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
     - name: Build Jekyll
       uses: jerryjvl/jekyll-build-action@v1
 
     - name: Delete everything except contents of site folder
       run: |
-        mv .git _site /tmp
+        sudo mv .git _site /tmp
         rm -r *
-        mv /tmp/.git /tmp/_site/** .
+        sudo mv /tmp/.git /tmp/_site/** .
 
     - name: Commit to repository
       env:
