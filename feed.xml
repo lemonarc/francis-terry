@@ -1,30 +1,1248 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Francis Terry and Associates</title>
+    <description>Francis Terry and Associates are designers of new-build and restorations of classical Georgian style architecture and country houses
+</description>
+    <link>https://ftanda.co.uk/</link>
+    <atom:link href="https://ftanda.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 26 Apr 2020 17:27:32 -0500</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2020 17:27:32 -0500</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>An Introduction to British Architecture from Queen Victoria to George VI</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/british-architecture-from-queen-victoria-to-george-vi/social.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/british-architecture-from-queen-victoria-to-george-vi/social.jpg&quot; alt=&quot;An Introduction to British Architecture from Queen Victoria to George VI&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My blog this month is two in-house lectures I have given to my office over the past few weeks. Originally, I intended to cover the period from Queen Victoria to World War II in one lecture. But unsurprisingly this proved impossible and so the first is Victorian and Edwardian Architecture and the second is English architecture between the Wars.&lt;/p&gt;
+
+&lt;h2 id=&quot;lecture-1-an-introduction-to-victorian-and-edwardian-architecture&quot;&gt;Lecture 1: An Introduction to Victorian and Edwardian Architecture&lt;/h2&gt;
+
+&lt;div class=&quot;videoWrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/h2Of8pGvOzY&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The Victorian age inherited the battle of styles which defined the end of the Georgian era, a battle which was not convincingly won by either side. Gothic, Classical and even Mughal style architecture were all available to patrons and architects. To the serious-minded Victorian this was all too whimsical and they searched for a style which would be appropriate for their times so that the others could be dismissed. The chosen style was Gothic, and theorists were not shy of giving this stylistic preference a moral dimension. Pugin was the first to do this in his book ‘Contrasts’ where he compares the morally bankrupt world of classical Georgian England with a romantic view of medieval England which he saw as a golden age both socially and architecturally. John Ruskin followed these ideas returning from Venice with seductive sketches of Gothic and Byzantine details which he contrasted with the repetitive and mechanical nature of Georgian speculative housing. Gothic began to be seen as ‘true’, morally upright and Christian, while Classicism was seen as false, immoral and pagan. William Morris took these same ideas and reproduced them in wallpaper, stained glass and furniture. Because of this many of the greatest and most ambitious buildings of the Victorian age, including The Houses of Parliament, Tower Bridge and the Natural History Museum were all designed in the gothic style.&lt;/p&gt;
+
+&lt;p&gt;Despite this ideological push for Gothic, Classicism persisted throughout the Victorian age on a scale never dreamed of by the Georgians and rivalling the great works of Ancient Rome. The Albert Hall, Leeds Town Hall and St George’s Hall, Liverpool are all evidence of this trend.&lt;/p&gt;
+
+&lt;p&gt;This classical undercurrent grew into the dominant and triumphant style of Edwardian Baroque during the early years of the 20th century. The confidence of classicism suited the times and as John Singer Sargent represented the glamour of the age in virtuoso brush strokes, Lutyens, Belcher and Bloomfield captured the times in brick, marble and stone.&lt;/p&gt;
+
+&lt;h2 id=&quot;lecture-2-an-introduction-to-british-architecture-between-the-wars&quot;&gt;Lecture 2 An Introduction to British Architecture between the Wars&lt;/h2&gt;
+
+&lt;div class=&quot;videoWrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/7ADD3lecPAM&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;It is hard to imagine the decimation caused by the First World War. Understandably, a growing number of people started to feel that there was something terribly wrong with a civilisation which caused young boys from neighbouring countries to commit murder for a purpose that no one really knew or understood. Politics, religion and art were now seen as culpable. A full-scale rejection of traditional values ensued, first by the Avant Garde and then slowly but surely by the population at large.&lt;/p&gt;
+
+&lt;p&gt;In art this started with the Italian Futurist Marinetti. His desire was to wipe away all forms of tradition and live in a brave new modern world of machines and speed.&lt;/p&gt;
+
+&lt;p&gt;‘Destroy the Museums. Crack syntax. Sabotage the adjective. Leave nothing but the verb.’&lt;/p&gt;
+
+&lt;p&gt;These ideas were taken up by Marcel Duchamp who in 1926 called a urinal a work of art, signing it R.Mutt, the French equivalent of Joe Bloggs. By titling it ‘fountain’ and placing this crude object in a refined art gallery in a position one would expect a Canova or Bernini he was deliberately mocking the great works of the past and in so doing attempting to free society from their hold. Le Corbusier and Gropius took these ideas into architecture&lt;/p&gt;
+
+&lt;p&gt;With these revolutionary views also came a disdain for ornament. The architect Adolf Loos published an essay titled ‘Ornament and Crime’ where he suggests that the amount of ornament a society uses is inversely proportion to its level of civilisation. Primitive tribes ornament everything, their canoes, oars and themselves with tattoos. As we progress, he argues, our need for ornament diminishes.&lt;/p&gt;
+
+&lt;p&gt;Despite all these ideas being in the air in mainland Europe, they made little impact on English architecture. Things continued as they were, although in a more chaste manner.&lt;/p&gt;
+
+&lt;p&gt;After the Second World War modernism came to dominate almost all British architecture. In Warsaw the damage caused by bombing was replaced by a faithful copy of what was there before but in London a different approach was used. Instead of replacing like for like, overtly modernist buildings were built and the taste for modernism was so strong that tower blocks were built out of choice instead of traditional terraces. The architectural establishment and successive political leaders saw modernism as the solution to the problems of the day. With the exception of a few cases like Clough Williams Ellis’s Port Meriam and Steven Dykes Bower’s Baldacchino at St Paul’s, Classical architecture was all but wiped out and would not return for several decades.&lt;/p&gt;
+
+&lt;h2 id=&quot;francis-terry&quot;&gt;Francis Terry&lt;/h2&gt;
+</description>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/thoughts/british-architecture-from-queen-victoria-to-george-vi/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/thoughts/british-architecture-from-queen-victoria-to-george-vi/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>theory</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>A Life in Sketchbooks</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/01.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/social.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I have a collection of my own sketch books going back forty years. These are like a visual diary and they chart my various artistic and architectural interests over the years. Architecture has always been a constant theme but interspersed with drawings of people on trains, ideas for illustrated books, stage sets, life drawings, preliminary sketches for paintings and the occasional shopping list.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/02.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/02.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My earliest sketch books were canvas bound bought from Senelier’s on Quai Voltaire, Paris. These were given to me by my father and I filled them with a variety of subjects ranging from still-lifes, to pop stars to surrealist compositions - I loved Salvador Dali in those days. There are quite a few watercolours of classical buildings in Italy. My father and I regularly sketched together, and I have written about this previously &lt;a href=&quot;/thoughts/sketching-with-my-father/&quot; class=&quot;post-link&quot; alt=&quot;Sketching with my Father&quot;&gt;which can be seen here&lt;/a&gt;. I had a technique for these watercolours starting with pencil, then ink then watercolour.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/03.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/03.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/05.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/05.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/06.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/06.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This was the time when I really learnt to draw, at the beginning of the ‘80 my drawings were perhaps charming if a little naive. Over the course of the decade this transformed into my mature style which is still how I draw – more or less. Some of my sketchbooks are partly diaries. They are unbearably self-conscious, but here I am writing a blog about it decades later - start as you mean to go on, I suppose.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/07.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/07.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/08.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/08.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/09.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/09.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/10.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/10.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the late ‘80 I had a sketchbook with a marbled cover, this I imagine was bought in Venice where shops full of marbled knickknacks are on every street corner. The first sketches in this book are watercolours - unsurprisingly of Venice. I was by now moving away from my tried and tested pen and ink with watercolour technique and starting to use watercolour by itself.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/11.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/11.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/12.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/12.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/13.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/13.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/14.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/14.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/15.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/15.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/16.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/16.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Later in this book there are pen and ink lecture notes from my first year at Cambridge. I must have written these before I had made any friends and happily this swottyness was soon abandoned. Despite the acres of hours wasted studying architecture, our first-year lecture course was excellent and gave me a basic knowledge of the whole history of European architecture.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/17.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/17.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/18.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/18.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/19.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/19.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/20.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/20.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In ‘91 I had a year off after my graduation and went to live in Rome for several months, staying at the British School. I spent days drawing sculpture and architecture which was a blissful existence. One of my preferred places was the Villa Borghese which was only a short walk from the British School, it was also very quiet and importantly - free, unlike a lot of galleries in Rome. I spent days or more like weeks sketching the amazing collection of Bernini’s sculpture. When not there, I wondered around Rome sketching and measuring details that caught my eye.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/21.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/21.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/22.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/22.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/23.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/23.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/24.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/24.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/25.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/25.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/26.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/26.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, when I lived in Rome a friend from Rhode Island School of Design made me two beautiful sketch books from scratch. They both had a Japanese binding so that each page was an independent sheet rather than having the pages folded in half like a conventional book. One of these books I promptly lost but the other I still have, and it went everywhere with me, including Sicily, India and Washington D.C.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/27.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/27.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/28.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/28.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/29jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/29.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/30.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/30.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/31.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/31.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/32.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/32.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/33.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/33.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/34.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/34.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the mid-90s I rented a studio which I used for painting in my spare time. At that time, I kept a sketch book in my studio and used it to try out ideas for paintings and compositions. Although these books contain some of the worst drawings, they were a means to an end, and this is probably the most authentic type of sketch book. This approach was probably influenced by an exhibition of Picasso’s sketch books at the Royal Academy which I saw many years ago. On his death, Picasso left some 175 sketchbooks spanning over 60 years, their pages filled with drawings of varying quality which were a testament to his extraordinary talent. It was fascinating seeing these sketches showing his working method and experiments from every period of his life. These drawings gave his work a validity that I felt I could not reasonably question and though I am not a fan, you could not deny his creative energy.&lt;/p&gt;
+
+&lt;p&gt;Since then I have come to feel that the whole notion of a spontaneous sketch book is a bit fake. Inspiration does not generally take you when you have your sketch book and art materials at hand - like taking a dog for a walk in a town and forgetting to bring poo bags - you never know when the clogs will start turning. Inspiration happens unpredictability and the cliched ‘back of a fag packet’ is a more likely place for an inspired sketch to be wrought.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/35.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/35.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/36.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/36.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/37.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/37.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/38.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/38.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/39.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/39.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/40.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/40.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;During the late ‘90s, for a few years I attended a life drawing class on a weekly basis. It was in a friend’s studio and a group of about five or six of us hired a model for a day. We did rapid sketches and long poses, it was intense but very enjoyable. I would come back with dozens of drawing or paintings each time, the drawings below are some quick poses all done on the same day.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/41.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/41.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/42.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/42.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/43.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/43.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/44.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/44.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;As a consequence of having children and reading them bedtime stories, I became fascinated by illustrated books. Doctor Seuss, Maurice Sendak and E.H.Shepard replaced Raphael, Velazquez and Caravaggio in my affections. I completed an illustrated book about the Pied Piper of Hamelin in which instead of stealing all the children, he negotiates a solution with the mayor. Though it was a well-intentioned idea, it was deadly dull. Children aren’t born woke, they have it thrust upon them. They love pain, injustice and horror. Therefore, this sanitized version of the story just didn’t cut it. Had the Piper tortured the children in his cave, I might have had a success on my hands!&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/45.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/45.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/46.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/46.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/47.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/47.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/48.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/48.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/49.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/49.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/50.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/50.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/51.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/51.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;quarter&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/52.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/52.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, around this time I drew some illustrations to nursery rhymes and other similar drawings.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/53.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/53.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/54.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/54.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/55.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/55.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/56.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/56.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the early 2000’s I had a sketch book in which I wanted to record the more memorable details I had worked on over the years. These included capitals, ornate ceilings, fireplaces and so on. I made a start but like most big plans that are not essential, they start well but never get finished.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/57.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/57.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/58.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/58.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/63.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/63.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/64.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/64.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/59.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/59.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/60.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/60.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/61.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/61.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/62.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/62.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My most recent sketch book is an A5 Moleskin notebook with quite thin cream coloured paper. This has all sorts of things in it, perhaps most significantly two sketches for the Chelsea Barrack counter proposal which successfully derailed Richard Roger’s hideous scheme for that site.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/65.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/65.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/66.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/66.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Also, sketches of the capitals at St Paul’s cathedral which I was fortunate to measure when the building was covered in scaffolding.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/67.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/67.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/68.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/68.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I took this book to Venice on an office trip in 2008.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/69.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/69.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/70.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/70.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/71.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/71.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/71a.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/71a.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/72.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/72.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;At this time I did many tours of Irish houses like Newbridge.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/73.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/73.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/74.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/74.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/projects/house-in-ireland/&quot; class=&quot;post-link&quot; alt=&quot;Projects: Kilboy&quot;&gt;These trips were to help us design Kilboy&lt;/a&gt; - there are also sketches of early ideas, including the staircase.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/75.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/75.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/76.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/76.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;That black sketch book is pretty much the last sketch book I have done, and it is about ten years old. Though I seem to spend more time sketching and painting than I have ever done, I prefer to use loose pieces of paper which are easier to handle, particularly for scanning and photocopying, and so now rarely use sketch books, if at all. As well as this, I find sketchbooks constraining and sometimes intimidating. How hard it is to draw spontaneously in the first page of an expensive book full of blank white pages. Also, if I do a really good sketch, I want to rip it out to give someone as a Christmas present or, conversely, if I do a poor drawing I want to rip it out so no one ever sees it.&lt;/p&gt;
+
+&lt;p&gt;The question is, should a sketch book be a bound collection of beautiful drawings, not quite worth framing but worth keeping for their group value or should they be experimental with the many failures kept alongside the few successes? I never really resolved this tension, and significantly nor has the ‘A’ level or GCSE syllabus. When studying art nowadays, instead of drawing still-lifes, pupils have to produce a ‘sketch book’ which tries to ride these opposing horses while fulfilling the criteria of a complex and prescriptive syllabus, a tough challenge for any aspiring artist.&lt;/p&gt;
+
+&lt;p&gt;Another problem with sketch books is they can also be easily lost, and it is so much worse losing a whole collection than a single drawing. In a sketch book which had a space marked out in the front for a name and address which I dutifully filled in, there was a further line that said ‘reward if lost’ and a figure with a ‘£’ sign next to it. To avoid friends and colleagues hiding the sketch book and then demanding the ransom, instead of writing a figure I pompously wrote ‘the satisfaction of doing the right thing’. As fate would have it, I did actually leave this sketch book on a train and proving my suspicion that most people are essentially good, I was contacted by a kind stranger a few days later who sent my book back and only wanted to be reimbursed for the postage. That was fortunate, but I did lose one sketch book on a country house tour in Derbyshire which I never found again.&lt;/p&gt;
+
+&lt;p&gt;Despite all the drawbacks of sketch books, they do have a compelling allure which is hard to underestimate. There is nothing quite like tactile sensation of leafing through an artist’s sketch book. Paintings in an exhibition can be enjoyed by many people at the same time, but with a sketch book, you, and only you, have the intimate pleasure of hearing the machinery of an artist’s mind whirring away from the comfort of an arm chair. And when the book is shut the music stops, until someone else opens it and the magic starts all over again.&lt;/p&gt;
+
+&lt;h2 id=&quot;francis-terry&quot;&gt;Francis Terry&lt;/h2&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/77.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/77.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/78.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/78.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/81.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/81.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/79.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/79.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/80.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/thumbs/80.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/a-life-in-sketchbooks/82.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/a-life-in-sketchbooks/82.jpg&quot; alt=&quot;A Life in Sketchbooks&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 01 Feb 2020 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/thoughts/a-life-in-sketchbooks/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/thoughts/a-life-in-sketchbooks/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>history</category>
+        
+      </item>
+    
+      <item>
+        <title>Sutton Estate – Saved!</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/drawings/20190215.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/22.jpg&quot; alt=&quot;Proposed alterations to the Sutton Estate, Chelsea by Francis Terry, 2018.&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Back in February we reported how Francis Terry had been working with Create Streets and Save the Sutton Estate on their campaign to stop the demolition of the estate in Chelsea.&lt;/p&gt;
+
+&lt;p&gt;This campaign was created in response to a planning application submitted by Affinity Sutton (now Clarion) in 2015 which looked to reduce both the number of social housing homes and the overall number of homes on the estate.&lt;/p&gt;
+
+&lt;p&gt;We are delighted to share the news that Clarion Housing have now decided to refurbish, rather than demolish, many of the flats and bring them back to life.&lt;/p&gt;
+
+&lt;p&gt;They made the following announcement:&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Clarion Housing Group, the UK’s largest affordable housing provider, has today committed to a £37 million investment package to improve the entire Sutton Estate and deliver at least 80 new social rented homes to Kensington and Chelsea.  The plans, which will be developed with residents, will see the 106 year-old homes in blocks A-D (currently empty as they do not meet decency standards for accommodation) undergo a full refurbishment. All of the new homes will be for social rent and priority will be given to residents currently living on the estate.  Residents in the remaining 303 flats on the estate, blocks E-K &amp;amp; N-O, will benefit from new kitchens and bathrooms and other upgrades. Clarion has also committed to improving the outdoor spaces. The new scheme has no homes for private sale.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/23.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/23.jpg&quot; alt=&quot;Sutton Estate – Saved!&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is a fantastic result for all who campaigned against the original plans, which included 
+demolishing 13 of the Sutton Estate’s 15 mansion blocks, reducing the amount of flats and selling over 100 to private buyers.  Local residents and supporters across London criticised the plan which would have seen the needless destruction of Edwardian buildings and a loss of 
+affordable housing.&lt;/p&gt;
+
+&lt;p&gt;Our congratulations go to SOS (Save Our Sutton), with whom we worked on feasibility studies for alternative approaches during and after co-design workshops.  We hope the strong sense of community they have already shown continues to thrive, and wish them all the best in the improvements to their homes and living spaces.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/24.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/24.jpg&quot; alt=&quot;Sutton Estate – Saved!&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/25.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/25.jpg&quot; alt=&quot;Sutton Estate – Saved!&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 29 Jan 2020 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/news/2020-01-29-news-sutton-estate-saved/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/news/2020-01-29-news-sutton-estate-saved/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Thu, 23 Jan 2020 05:03:12 -0600</pubDate>
+        <link>https://ftanda.co.uk/jekyll/update/2020/01/23/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/jekyll/update/2020/01/23/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Francis Terry Watercolour Exhibition</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/main.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/main.jpg&quot; alt=&quot;Francis Terry Watercolour Exhibition&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There will be an exhibition of Francis Terry’s watercolours at the Art Workers’ Guild (6 Queen Square, Holborn, London WC1N 3AT) from 21st to 24th April 2020.  The watercolours are of proposals which he has done in collaboration with &lt;a href=&quot;http://www.createstreets.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Create Streets&lt;/a&gt;, the social enterprise which encourages the building of traditional urban developments.&lt;/p&gt;
+
+&lt;p&gt;The watercolours are all for sale and 100% of the money raised will be given to &lt;a href=&quot;https://www.cure-eb.org/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Cure EB&lt;/a&gt; towards EB research. Epidermolysis Bullosa (EB) is a genetic skin condition that causes the skin to blister and tear at the slightest touch.  One of Francis’s best friends suffers from this condition, and so it is a charity very close to his heart.&lt;/p&gt;
+
+&lt;p&gt;All the work for this exhibition can be viewed on this page, with prices included.&lt;/p&gt;
+
+&lt;p&gt;If you would like to buy a picture, or attend the private viewing, please contact &lt;a href=&quot;mailto:leah@ftanda.co.uk?subject=Francis Terry Watercolour Exhibition&quot;&gt;leah@ftanda.co.uk&lt;/a&gt; for further information.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/01.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/01.jpg&quot; alt=&quot;Birds Eye View of Northampton Proposal&quot; title=&quot;Birds Eye View of Northampton Proposal&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Birds Eye View of Northampton Proposal&lt;br /&gt;
+			22cm x 27cm, Watercolour/photo montage&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/02.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/02.jpg&quot; alt=&quot;Proposal for Broadway, Wimbledon&quot; title=&quot;Proposal for Broadway, Wimbledon&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for Broadway, Wimbledon&lt;br /&gt;
+			26cm x 30cm, Watercolour&lt;br /&gt;
+			£800&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/03.jpg&quot;&gt;
+			&lt;div class=&quot;sold&quot;&gt;&lt;span&gt;SOLD&lt;/span&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/03.jpg&quot; alt=&quot;Portico Sketch&quot; title=&quot;Portico Sketch&quot; /&gt;
+			&lt;/div&gt;
+			&lt;p class=&quot;caption&quot;&gt;Portico Sketch&lt;br /&gt;
+			12.5cm x 15cm, Watercolour&lt;br /&gt;
+			&lt;strike&gt;£500&lt;/strike&gt;&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/04.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/04.jpg&quot; alt=&quot;Birds Eye View of Little Oval Proposal&quot; title=&quot;Birds Eye View of Little Oval Proposal&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Birds Eye View of Little Oval Proposal&lt;br /&gt;
+			30cm x 19cm, Watercolour/photo montage&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/05.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/05.jpg&quot; alt=&quot;Proposal for Mount Pleasant&quot; title=&quot;Proposal for Mount Pleasant&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for Mount Pleasant&lt;br /&gt;
+			39cm x 27cm, Watercolour&lt;br /&gt;
+			£3,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/06.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/06.jpg&quot; alt=&quot;Proposal for West End Lane, West Hampstead&quot; title=&quot;Proposal for West End Lane, West Hampstead&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for West End Lane, West Hampstead&lt;br /&gt;
+			39cm x 22cm, Watercolour&lt;br /&gt;
+			£1,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/08.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/08.jpg&quot; alt=&quot;Mount Pleasant Circus&quot; title=&quot;Mount Pleasant Circus&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Mount Pleasant Circus&lt;br /&gt;
+			40cm x 27cm, Watercolour&lt;br /&gt;
+			£2,300&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/09.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/09.jpg&quot; alt=&quot;Northampton Street Perspective&quot; title=&quot;Northampton Street Perspective&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Northampton Street Perspective&lt;br /&gt;
+			39cm x 20cm, Watercolour&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/10.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/10.jpg&quot; alt=&quot;Proposal for Euston Road&quot; title=&quot;Proposal for Euston Road&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for Euston Road&lt;br /&gt;
+			35cm x 24cm, Watercolour print&lt;br /&gt;
+			£800&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/11.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/11.jpg&quot; alt=&quot;Mount Pleasant Elevation&quot; title=&quot;Mount Pleasant Elevation&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Mount Pleasant Elevation&lt;br /&gt;
+			39cm x 23cm, Coloured pencil on paper&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/12.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/12.jpg&quot; alt=&quot;Red brick terraced house&quot; title=&quot;Red brick terraced house&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Red brick terraced house&lt;br /&gt;
+			24cm x 35cm, Watercolour&lt;br /&gt;
+			£1,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/13.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/13.jpg&quot; alt=&quot;London Stock brick terraced house&quot; title=&quot;London Stock brick terraced house&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;London Stock brick terraced house&lt;br /&gt;
+			19cm x 35cm, Watercolour&lt;br /&gt;
+			£1,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/14.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/14.jpg&quot; alt=&quot;Ionic Portico&quot; title=&quot;Ionic Portico&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Ionic Portico&lt;br /&gt;
+			18.5cm x 35cm, Watercolour&lt;br /&gt;
+			£1,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/15.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/15.jpg&quot; alt=&quot;Sketch for West End Lane, West Hampstead&quot; title=&quot;Sketch for West End Lane, West Hampstead&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Sketch for West End Lane, West Hampstead&lt;br /&gt;
+			38cm x 25cm, Watercolour&lt;br /&gt;
+			£1,300&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/16.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/16.jpg&quot; alt=&quot;Proposal for Empress Place&quot; title=&quot;Proposal for Empress Place&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for Empress Place&lt;br /&gt;
+			37cm x 24cm, Watercolour&lt;br /&gt;
+			£2,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/17.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/17.jpg&quot; alt=&quot;Proposal for the Sutton Estate&quot; title=&quot;Proposal for the Sutton Estate&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for the Sutton Estate&lt;br /&gt;
+			37cm x 25cm, Watercolour &amp;amp; pen and ink&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/19.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/19.jpg&quot; alt=&quot;Proposal for West Hampstead seen from Railway&quot; title=&quot;Proposal for West Hampstead seen from Railway&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Proposal for West Hampstead seen from Railway&lt;br /&gt;
+			37cm x 17cm, Watercolour&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/20.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/20.jpg&quot; alt=&quot;Street View, West London Proposal&quot; title=&quot;Street View, West London Proposal&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Street View, West London Proposal&lt;br /&gt;
+			28cm x 16cm, Watercolour&lt;br /&gt;
+			£1,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/21.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/21.jpg&quot; alt=&quot;Street Elevation, West London Proposal&quot; title=&quot;Street Elevation, West London Proposal&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Street Elevation, West London Proposal&lt;br /&gt;
+			37cm x 20cm, Watercolour&lt;br /&gt;
+			£1,000&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/07a.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/07a.jpg&quot; alt=&quot;Place Ile-de-Beaute, Nice&quot; title=&quot;Place Ile-de-Beaute, Nice&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Place Ile-de-Beaute, Nice&lt;br /&gt;
+			33cm x 21cm, Watercolour&lt;br /&gt;
+			£3,200&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2020/01/18a.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2020/01/thumbs/18a.jpg&quot; alt=&quot;Fantasy Bridge&quot; title=&quot;Fantasy Bridge&quot; /&gt;
+			&lt;p class=&quot;caption&quot;&gt;Fantasy Bridge&lt;br /&gt;
+			38cm x 24cm, Watercolour&lt;br /&gt;
+			4,300&lt;/p&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 13 Jan 2020 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/news/2020-01-13-news-francis-terry-watercolour-exhibition/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/news/2020-01-13-news-francis-terry-watercolour-exhibition/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>The Mistley Towers  - Piazza Navona in Essex</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/01.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/social.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Arriving too early to catch a train from Manningtree station, a friend and I used up the time looking at the Mistley towers, only a short distance away.&lt;/p&gt;
+
+&lt;p&gt;The Mistley Towers are the remaining east and west ends of a now demolished church which sat between them. Despite this, these fragments are perhaps the most important Georgian buildings in Essex designed by Robert Adam, one of the greatest neo-classical architects. The original church was part of a redevelopment of Mistley as a fashionable spa town which required the employment of a celebrity architect. These ambitious plans never took off and Mistley was to remain an obscure Essex town unknown to polite Georgian society.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/02.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/02.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/03.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/03.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/04.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/04.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 1870 when the main body of the church was destroyed the towers at each end were left - perhaps to be reused as a pair of family mausoleums. A Victorian gothic church was built to replace it about a hundred yards further up the road. This is larger and also an ambitious work, completely faced in stone. It would have been a huge effort and cost a fortune to bring the material hundreds of miles to the site which has no indigenous stone.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/05.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/05.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/06.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/06.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It’s a mystery why the Adam church was destroyed, perhaps it was too small, or it got subsidence being so near the estuary, but I’ve always believed that buildings that are loved don’t get pulled down. People find ways of keeping the most impractical buildings. I think it was the victim of a change in fashion, and a fashion that had idealogical zeal behind it .With the ascendency of Ruskin and Pugin, classical architecture fell from favour as they saw it as representative of all that is wrong with society; pagan in origin, mechanical in spirit, fake and to top it all - ‘foreign’. Gothic by contrast they saw as the authentic English and the true Christian style. It is hard to underestimate how deeply permeated this was into the minds of Victorians, so deeply they were prepared to spend fortunes on rectifying the situation.&lt;/p&gt;
+
+&lt;p&gt;The two towers look superb and I feel almost better than if there was a church between. This is probably because I love pairs of things and follies more than I love ecclesiastical architecture. You can get into one of these towers by fetching a key from The Mistley Thorn, a pub a short distance away down the high street, which we duly did. The inside is not particularly exciting, a handsome Georgian commandment board dominates the east wall, but that’s about it.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/07.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/07.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/08.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/08.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It would have been a highly unusual church, entered from the side with towers, I racked my brains for precedents. The only one I could think of is Sant’Agnese in Piazza Navona, Rome by Borromini, if you ignore the dome. This would be an unlikely source for an architect whose work is seen as a reaction to buildings like this designed in a florid baroque style. Surely the well-mannered neo-classicist would not allow himself to be influenced by the ‘licentious’ curves of Borromini. But Adam certainly would have known this church having lived in Rome from 1755 to 1757. Also, his mentor Piranesi depicted it in his Vedute de Roma.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/09.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/09.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I like to think of Adam as a secret baroque fan. Certainly, the exuberant use of colour and exotic marbles which Adam frequently used seems quite similar to the work of Bernini. A baroque side chapel and Adam’s Ante Room at Syon to the uninitiated could be by the same hand. Also, he knew and sketched the pumpkin dome at Hadrian’s Villa which had a profound influence on both him and Borromini who reproduce his interpretation at S. Ivo.&lt;/p&gt;
+
+&lt;p&gt;This made me wonder whether the neo-classicists were so opposed to the baroque as the neat chapters of history books suggest. The reality is that artistic movements overlap and re-emerge in ways that do not suit simple classification. The problem with writing about architectural history is that it is often presented as a coherent narrative, to be read sentence by sentence in which each paragraph builds the story heading towards an ultimate goal, but the goals of art history are hard to define, often multiple and shifting. It seems more about kicking the ball around the pitch and enjoying the beautiful game for its own sake. Coupled with this is, our understanding of art history is irretrievably damaged by Ruskin and Pugin where we cannot help but understand architecture in terms of goodies and baddies each fighting for dominance and smashing down the work of the previous generation. Truly great architects, like Adam, ignored stylistic differences, stealing from everyone whether pagan or catholic. His genius was to reimagine these influences in ways which were unimaginable to the original architects to reflect his own particular style of architecture for which he is famous throughout the world.&lt;/p&gt;
+
+&lt;h2 id=&quot;francis-terry&quot;&gt;Francis Terry&lt;/h2&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/10.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/10.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/11.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/11.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/the-mistley-towers/12.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/the-mistley-towers/thumbs/12.jpg&quot; alt=&quot;The Mistley Towers  - Piazza Navona in Essex&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 01 Jan 2020 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/thoughts/the-mistley-towers/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/thoughts/the-mistley-towers/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>places</category>
+        
+      </item>
+    
+      <item>
+        <title>The Architecture of the 18th Century: From Rococo to NeoClassicism</title>
+        <description>&lt;!--&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; data-fancybox-type=&quot;iframe&quot; href=&quot;https://www.youtube.com/embed/LzwJhQL8K6Y?rel=0&amp;autoplay=1&quot;&gt;
+			&lt;img src=&quot;/images/essays/from-rococo-to-neoclassicism/01-play.jpg&quot; alt=&quot;The Architecture of the 18th Century: From Rococo to NeoClassicism&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;--&gt;
+
+&lt;div class=&quot;videoWrapper&quot;&gt;
+	&lt;iframe src=&quot;https://www.youtube.com/embed/LzwJhQL8K6Y&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A few weeks ago I did a lecture on the architecture of the 18th century for my office and the video of it is posted above. This century is where I go routinely for inspiration. There is something magical about Georgian architecture which everyone seems to enjoy no matter who they are.&lt;/p&gt;
+
+&lt;p&gt;Historically I see the 18th century as the transition from traditional society to the modern world. As catholicism gradually lost its power, the Baroque style also began to lose its grip and evolved into the Rococo. Like the last moments of a dying star which produces the many and varied elements of the universe, the Rococo was Baroque in an explosive, dynamic and beautiful decline. With Rococo came new styles, Chinoiserie influenced by newly discovered decoration from China and Gothick (with a ‘k’) a style which looked back to medieval architecture yet void of the philosophy behind it. Architects and designers of all types enjoyed mixing these three different styles as can be seen most notably in the furniture of Chippendale. This new-found freedom to indulge in any style of choice seemed at odds with the spirit of the age. At this time, the Age of Enlightenment was in full swing, Sir Isaac Newton published his ‘Principia’ in 1687 and architects, perhaps jealous of the scientist’s ability to have ‘principles’ which were inherent and unchanging, searched around for their own principles which would have similar power and weight.&lt;/p&gt;
+
+&lt;p&gt;With these thoughts in mind, and influenced by the philosophy of Jean-Jacques Rousseau, Marc-Antoine Laugier argued for a more essential approach to architecture. He speculated on how the primitive man would build, unshackled by the dictates of culture and society. He developed an argument that all architectural elements should carry out the role they were originally designed for rather than being merely decorative confection. For example, columns should hold weight, pediments should be gables and neither should be whimsically applied to buildings because they looked ‘pretty’. This was the beginning of modernism, but these new radical ideas were always expressed within a neo-classical vocabulary. It took another two hundred years for architects to abandon Corinthian capitals, triglyphs and all the other elements of the style.&lt;/p&gt;
+
+&lt;p&gt;The adoption of Classicism direct from ancient Rome was seen as a way of going back to the essence of the style free from all the mistakes and inconsistencies of the Baroque and Rococo. It was a new style, albeit a revival, appropriate to a new, more enlightened age. Classicism has a way of meaning different things to different people and is often used to bolster the prevailing ideology. In England, it was seen as the rational style of the new Hanoverian monarch as a reaction to the catholic and Baroque of the Stuarts. For the French it was a style suitable for a new republic as they sought to echo ancient Rome, the paragon of all republics. As well as these political influences, at this time the Grand Tour was becoming the way for young aristocrats to show they were men of taste and sophistication.&lt;/p&gt;
+
+&lt;p&gt;Towards the end of the century, Greece opened up to these Grand Tourists which led to a fashion for Greek architecture. To some, Greece was seen as ‘true’ classical architecture from which the Romans were seen as a later, crude representation of the original.&lt;/p&gt;
+
+&lt;p&gt;Through out the 18th century the Gothic style was always in the background; initially a playfully and frivolous style which gradually evolved and became increasingly established and serious. To a certain extent neo-classicism was eclipsed by gothic during the 19th century, yet it still lived on, right though to the present day.&lt;/p&gt;
+
+&lt;p&gt;I hope you enjoy this video, it has been hard for me to condense a period which I love so much into one lecture. I have therefore needed to gloss over many architects and buildings which are important to maintain the melodic line. This is not a dry academic lecture, it is the musings of a practicing neo-classicism architect with a passion for the 18th century.&lt;/p&gt;
+
+&lt;h2 id=&quot;francis-terry&quot;&gt;Francis Terry&lt;/h2&gt;
+</description>
+        <pubDate>Sun, 15 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/thoughts/from-rococo-to-neoclassicism/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/thoughts/from-rococo-to-neoclassicism/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>theory</category>
+        
+      </item>
+    
+      <item>
+        <title>The Traditional Architecture Group Awards 2019</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2019/12/04.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2019/12/thumbs/04.jpg&quot; alt=&quot;&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The Traditional Architects Group (of which Francis is the Chairman) awards were held at the Art Workers’ Guild on Tuesday 22nd October, with prizes and certificates handed out by Lord Snowdon.&lt;/p&gt;
+
+&lt;p&gt;The prize for best classical or traditional scheme designed by a student studying architecture at a university in the UK went to Aleksandra Zenfa, for her Greek revival hotel in Inverness, Scotland.&lt;/p&gt;
+
+&lt;p&gt;Runner up was Michail Sarafidis, who transformed an abandoned house in Siracuse, Sicily, into a classical style restaurant and bar.
+Greg Oleniacz, Anthony Fitheoglou and Aurelio Miranda were all short listed.  The five finalists were all students of a course run by Timothy Smith and Jonathan Taylor at Kingston University.  This is the only course in the country which specialises in classical architecture.  It has been running for nearly a decade, and the quality of their students’ work is a testament to their excellent teaching.&lt;/p&gt;
+
+&lt;p&gt;The prize for best measured drawing of a historic building went to Jakub Ryng for his drawing of a façade by Boehmer &amp;amp; Gibbs at 65 Harley Street built in 1910.
+Runner up was Timothy Lewis, for his drawing of the Newcastle Pew, St George’s Church, Esher designed by Sir John Vanbrugh in 1725.&lt;/p&gt;
+
+&lt;p&gt;Overall the standard of entries was exceptionally high, and the Traditional Architects Group thanked everyone who entered either competition.&lt;/p&gt;
+
+&lt;p&gt;The Lifetime Achievement award was presented to HRH The Prince of Wales for his ongoing support of traditional architecture and his approach to learning from the past in order to inform how we shape the future.  Unfortunately, he was unable to attend in person, although he did send a statement of thanks which was read by Simon Hurst, TAG’s communication secretary.&lt;/p&gt;
+
+&lt;p&gt;As well as presenting the awards, Lord Snowdon gave a brief address about his experiences as a furniture designer and his huge dept to the classical style, which was very well received.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2019/12/02.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2019/12/thumbs/02.jpg&quot; alt=&quot;&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2019/12/03.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2019/12/thumbs/03.jpg&quot; alt=&quot;&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2019/12/01.jpg&quot;&gt;
+			&lt;img src=&quot;/images/news/2019/12/thumbs/01.jpg&quot; alt=&quot;&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 05 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/news/december-2019-tag-awards/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/news/december-2019-tag-awards/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>Could Francis Terry have the best kitchen in the country?</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/05.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/05.jpg&quot; alt=&quot;Could Francis Terry have the best kitchen in the country?&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dedham House has been short listed to the final three in Historic Houses’ new Kitchen Award, in association with Country Life.&lt;/p&gt;
+
+&lt;p&gt;The new award for 2019 “recognises the way our member houses evolve over the centuries to continue as family homes”.&lt;/p&gt;
+
+&lt;p&gt;Speaking of his place in the competition, Francis said: &lt;em&gt;“It was a bit of a surprise really, but any praise and recognition is great, so we are thrilled.”&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;To find out more about the kitchen, &lt;a href=&quot;/thoughts/designing-a-new-kitchen-in-our-regency-house/&quot; alt=&quot;Read the November blog&quot;&gt;please read the November blog&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The submissions for the award were pored over by a panel of expert judges; including Sarah Beeny, property guru and television presenter, Kate Earle, one half of design studio Todhunter Earle Interiors, Giles Kime, interiors editor of Country Life, and John Sims Hilditch, founder and CEO of furniture and kitchen makers Neptune.&lt;/p&gt;
+
+&lt;p&gt;The overall winner will be announced on Tuesday, November 12 on stage at the Historic Houses’ national AGM.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Nov 2019 00:00:00 -0600</pubDate>
+        <link>https://ftanda.co.uk/news/novembers-2019-best-kitchen-in-the-country/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/news/novembers-2019-best-kitchen-in-the-country/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
+    
+      <item>
+        <title>New Kitchen</title>
+        <description>&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/01.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/01.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Earlier this year, Country Life, Historic Houses and Neptune launched a competition to celebrate the best new kitchens in old spaces. Our recently completed kitchen fits this brief perfectly and we are thrilled to be shortlisted down to the last three.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/02.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/02.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;When we moved to our Georgian house, despite the excitement of owning such a magnificent property, the house did not actually seem to lend itself to modern family living. We found we were spending all our time in a small, dark, slightly cramped kitchen and the better larger rooms with good proportions, natural light and orientation stayed empty for months on end. When we did try to use these rooms, it was a slightly forced affair involving lighting fires and generally making the rooms cosy, ready for some moment when we ought to be sitting, being ‘grown up’. But somehow we would find ourselves sucked back in the old kitchen where life was actually going on.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/03.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/03.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/04.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/04.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Such is modern life, someone comes over, you offer them a cup of tea and you find yourself in the kitchen. When you cook a meal it seems pointless scurrying over to the dining room to eat it. Like it or loath it, the kitchen is the center of modern life. But how do you adapt an old house which was designed in a time when kitchens were not the dominant room?&lt;/p&gt;
+
+&lt;p&gt;“What we need is an ‘all in one’ kitchen” my daughter helpfully suggested.&lt;/p&gt;
+
+&lt;p&gt;To which my wife responded “If we had any guts we would just move the kitchen into the best room in the house”.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/06.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/06.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/07.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/07.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;third&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/08.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/08.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Initially it seemed iconoclastic to put a modern kitchen into a beautiful Georgian room, particularly in a house previously owned by Raymond Erith R.A. no less. His dining room, as my mother remembers it, was filled with antiques and a huge oil painting of Rome’s Via Panisperna dominating the end wall.&lt;/p&gt;
+
+&lt;p&gt;There was also the no less daunting technical issue of making this room function as a kitchen. It seemed an impossible task involving moving services and disturbing historic fabric. Initially tentative enquiries made it seem impossible. Boilers needed to be moved, pipe runs would need to be installed and it seemed too much of an effort.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/09.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/09.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+	&lt;li class=&quot;half&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/10.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/10.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But continuing as we were was no longer a possibility, the idea had taken hold and we could not stop querying and questioning ways we could make it happen. Eventually we found a helpful builder who pointed out that it would be possible to run the services externally and underground alleviating the need to disturb the original Georgian building materials.&lt;/p&gt;
+
+&lt;p&gt;The ‘kitchen in one’ is a relatively new architectural concept, Vitruvius can’t help you and neither can Palladio. When I put some images of this kitchen on instagram, a friend commented “Looking frighteningly Scandi-modern for a Terry kitchen”, and some readers of this blog may find the style of this room surprising with my taste for classicism. But I cannot take all the credit, initially I have to admit my wife’s modernist taste won the day but I got really into it, sourcing lights from the Conran Shop, cabinets from Heal’s and designing some modernist shelving and cupboards of my own.&lt;/p&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/05.jpg&quot;&gt;
+			&lt;img src=&quot;/images/essays/designing-a-new-kitchen-in-our-regency-house/thumbs/05.jpg&quot; alt=&quot;New Kitchen&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ironically this change, which appears dramatic has had hardly any effect on the historic fabric of the house. What it has done is dramatically change the way we use it. We now spend all our time in the principal room, albeit in a much more relaxed manner than how the original owners would have used it. By moving everything – including the kitchen sink – we have created a room that is truly ‘in sync’ with how we live.&lt;/p&gt;
+
+&lt;h2 id=&quot;francis-terry&quot;&gt;Francis Terry&lt;/h2&gt;
+</description>
+        <pubDate>Fri, 01 Nov 2019 00:00:00 -0500</pubDate>
+        <link>https://ftanda.co.uk/thoughts/designing-a-new-kitchen-in-our-regency-house/</link>
+        <guid isPermaLink="true">https://ftanda.co.uk/thoughts/designing-a-new-kitchen-in-our-regency-house/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>theory</category>
+        
+      </item>
+    
   </channel>
 </rss>
