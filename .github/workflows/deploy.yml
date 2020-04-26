@@ -28,7 +28,9 @@ jobs:
     - name: Delete everything except contents of site folder
       run: |
         sudo mv .git _site /tmp
-        rm -r *
+        rm -rf *
+        rm -rf .*
+        rm readme.md
         sudo mv /tmp/.git /tmp/_site/** .
 
     - name: Commit to repository
