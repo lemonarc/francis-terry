@@ -27,9 +27,9 @@ jobs:
 
     - name: Delete everything except contents of site folder
       run: |
-        sudo mv .git _site vendor /tmp
+        sudo mv _site vendor /tmp
         rm -r *
-        sudo mv /tmp/.git /tmp/vendor /tmp/_site/** .
+        sudo mv /tmp/_site/** .
 
     - name: Commit to repository
       env:
@@ -52,7 +52,10 @@ jobs:
         sudo git cherry-pick master --strategy=recursive -X theirs
         echo "Push to deploy branch."
         git push origin deploy
- 
+
+    - name: Put vendor folder back for caching
+      run: sudo mv /tmp/vendor .
+
     - name: Install doctl
       uses: digitalocean/action-doctl@v2
       with:
