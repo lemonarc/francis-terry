@@ -36,19 +36,23 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         COMMIT_MSG: Deploy to GitHub
       run: |
-        # Hard-code user configuration
+        echo "Setting committer information"
         git config user.email "contact@lemonarc.com"
         git config user.name "Lemon Arc Bot"
-        # Update origin with token
+        echo "Setting origin remote"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-        # Checkout the branch so we can push back to it
+        echo "Fetching from remote"
         git fetch origin
+        echo "Stashing changes from master"
         git stash
+        echo "Checkout deploy branch, create if it doesn't exist"
         sudo git checkout deploy || git checkout -b deploy
-        git stash show -p | sudo git apply
+        echo "Force apply stash contents"
+        sudo git stash show -p | git apply
+        echo "Add and commit if there are changes."
         git add .
-        # Only commit if we have changes
         git diff --quiet && git diff --staged --quiet || git commit -m "${COMMIT_MSG}"
+        echo "Push to deploy branch."
         git push origin deploy
  
     - name: Install doctl
