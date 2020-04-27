@@ -44,6 +44,7 @@ jobs:
         echo "Fetching from remote"
         git fetch origin
         echo "Committing changes to master"
+        git add .
         git commit -m "${COMMIT_MSG}"
         echo "Checkout deploy branch, create if it doesn't exist"
         git checkout deploy || git checkout -b deploy
