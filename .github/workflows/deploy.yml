@@ -44,7 +44,7 @@ jobs:
         echo "Fetching from remote"
         git fetch origin
         echo "Stashing changes from master"
-        git stash
+        sudo git stash
         echo "Checkout deploy branch, create if it doesn't exist"
         sudo git checkout deploy || git checkout -b deploy
         echo "Force apply stash contents"
