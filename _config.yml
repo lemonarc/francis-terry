@@ -44,7 +44,6 @@ app: 896521203738516 # Facebook app ID
 exclude: [node_modules]
 
 # Build settings
-
 markdown: kramdown
 encoding: utf-8
 
