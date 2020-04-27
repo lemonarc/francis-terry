@@ -46,7 +46,7 @@ jobs:
         echo "Stashing changes from master"
         sudo git stash
         echo "Checkout deploy branch, create if it doesn't exist"
-        sudo git checkout deploy || git checkout -b deploy
+        sudo git checkout -f deploy || git checkout -fb deploy
         echo "Force apply stash contents"
         sudo git stash show -p | git apply
         echo "Add and commit if there are changes."
