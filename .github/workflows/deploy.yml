@@ -44,8 +44,8 @@ jobs:
         # Checkout the branch so we can push back to it
         git fetch origin
         git stash
-        git checkout deploy || git checkout -b deploy
-        git stash show -p | git apply
+        sudo git checkout deploy || git checkout -b deploy
+        git stash show -p | sudo git apply
         git add .
         # Only commit if we have changes
         git diff --quiet && git diff --staged --quiet || git commit -m "${COMMIT_MSG}"
