@@ -47,9 +47,9 @@ jobs:
         git add .
         git commit -m "${COMMIT_MSG}"
         echo "Checkout deploy branch, create if it doesn't exist"
-        git checkout deploy || git checkout -b deploy
+        sudo git checkout deploy || git checkout -b deploy
         echo "Cherry pick commit from master"
-        git cherry-pick master
+        sudo git cherry-pick master
         echo "Push to deploy branch."
         git push origin deploy
  
