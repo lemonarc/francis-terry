@@ -49,7 +49,7 @@ jobs:
         echo "Checkout deploy branch, create if it doesn't exist"
         sudo git checkout deploy || git checkout -b deploy
         echo "Cherry pick commit from master"
-        sudo git cherry-pick master
+        sudo git cherry-pick master --strategy=recursive -X theirs
         echo "Push to deploy branch."
         git push origin deploy
  
