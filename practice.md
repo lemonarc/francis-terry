@@ -2,6 +2,8 @@
 layout: page
 pageclass: practice-page-new
 title: The team at Francis Terry and Associates Ltd
+subtitle: '"A leading light among the new generation of Classical architects"'
+subsubtitle: "- Country Life"
 excerpt: "The team at Francis Terry and Associates who are designers of new-build and restorations of classical Georgian style architecture and country houses"
 permalink: /practice/
 social_image: /images/social/social-office.jpg

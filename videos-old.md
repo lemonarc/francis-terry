@@ -2,7 +2,6 @@
 layout: page
 title: Videos
 excerpt: "Some videos of Francis Terry speaking at a TED talk at Bloomberg also drawing classical architecture at the RIBA and painting graffiti in Banksy's Tunnel"
-permalink: /videos-old/
 social_image: /images/social/social-video.jpg
 ---
 

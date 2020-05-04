@@ -10,7 +10,12 @@ layout: default
       <h2>{{ page.subtitle }}</h2>
     {% endif %}
     {% unless page.categories contains "projects" %}
-    <h4><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h4>
+      <h4>{% if page.title == "How to Draw like Raphael" %}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>
+      {% else %}
+        <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%B %Y" }}</time>
+      {% endif %}
+      {% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</h4>
     {% endunless %}
   </header>
 

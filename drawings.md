@@ -2,7 +2,7 @@
 layout: page
 pageclass: drawings-page
 title: Drawings
-excerpt: "Drawings by Francis Terry showing his classical buildings and architectural details, drawn by hand using pencil, pen and ink, watercolour and oil paint"
+excerpt: "Drawings by Francis Terry from Fancis Terry and Associates architects showing his classical buildings and architectural details, drawn by hand using pencil, pen and ink, watercolour and oil paint."
 permalink: /drawings/
 social_image: /images/social/social-drawings.jpg
 ---
@@ -11,14 +11,14 @@ social_image: /images/social/social-drawings.jpg
 <ul class="list">
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/house-in-oxfordshire.jpg" title="House in Oxfordshire. Watercolour by Francis Terry, 2018.">
-<img class="lazy" src="/images/drawings/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire. Watercolour by Francis Terry, 2018." />
+<a class="fancybox" rel="group" href="/images/drawings/place-de-la-bourse-bordeaux.jpg" title="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020.">
+<img class="lazy" src="/images/drawings/thumbs/place-de-la-bourse-bordeaux.jpg" alt="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020." />
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/mount_pleasant_2.jpg" title="Mount Pleasant street scene. Watercolour painted by Francis Terry, 2015.">
-<img class="lazy" src="/images/drawings/thumbs/mount_pleasant_2.jpg" alt="Mount Pleasant street scene. Watercolour painted by Francis Terry, 2015." />
+<a class="fancybox" rel="group" href="/images/drawings/house-in-oxfordshire.jpg" title="House in Oxfordshire. Watercolour by Francis Terry, 2018.">
+<img class="lazy" src="/images/drawings/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire. Watercolour by Francis Terry, 2018." />
 </a>
 </li>
 

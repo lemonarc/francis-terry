@@ -158,6 +158,13 @@ header,
     }
 }
 
+.no-title .post-header {
+	margin: 0;
+    opacity: 0;
+    height: 0;
+    width: 0;	
+}
+
 .post-content {
     margin-bottom: $unit;
 
@@ -196,10 +203,9 @@ header,
 		text-decoration: none;
 	}
 }
-.news-post .post-links a {
-	text-decoration: none;
-}
-.news-post .post-content .list a {
+.news-post .post-links a,
+.news-post .post-content .list a,
+.news-post .post-content a.button {
 	text-decoration: none;
 }
 
@@ -295,7 +301,18 @@ ul.blog {
 					display: none;
 				}
 			}
-		}	
+		}
+		iframe {
+			float: left;
+			width: 33%;
+			padding: 0 ($unit*2) ($unit*2) 0;
+		
+			@include media-query ($on-tablet) {
+				float: none;
+				width: 100%;
+				padding: 0 0 ($unit*2) 0;
+			}
+		}
 	}
 	.blog-text {
 		width: calc(100% - (33% + (#{$unit}*2)));

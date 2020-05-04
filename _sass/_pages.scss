@@ -317,6 +317,14 @@
     right: 0;
     text-align: center;
     text-shadow: 0 0 16px #000;
+	
+	a {
+		color: #fff;
+		&:hover,
+		&:focus {
+			color: $link-hover;	
+		}
+	}
 }
 .home-quote-static {
     display: none;
@@ -450,6 +458,11 @@
 				margin-bottom: $unit*2;
 			}
 		}
+	}
+}
+.practice-page-new {
+	.post-subtitle {
+		font-style: italic;
 	}
 }
 
