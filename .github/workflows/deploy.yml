@@ -1,0 +1,68 @@
+name: Deploy to Kubernetes
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+
+    - uses: actions/checkout@v2
+      
+    - name: Cache gems
+      uses: actions/cache@v1
+      with:
+        path: vendor/bundle
+        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+        restore-keys: |
+          ${{ runner.os }}-gems-
+
+    - name: Build Jekyll
+      uses: lemonarc/jekyll-action@1.0.0
+
+    - name: Delete everything except contents of site folder
+      run: |
+        sudo mv _site vendor /tmp
+        rm -r *
+        sudo mv /tmp/_site/** .
+
+    - name: Commit to repository
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        COMMIT_MSG: Deploy to GitHub
+      run: |
+        echo "Setting committer information"
+        git config user.email "contact@lemonarc.com"
+        git config user.name "Lemon Arc Bot"
+        echo "Setting origin remote"
+        git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
+        echo "Fetching from remote"
+        git fetch origin
+        echo "Committing changes to master"
+        git add .
+        git commit -m "${COMMIT_MSG}"
+        echo "Checkout deploy branch, create if it doesn't exist"
+        sudo git checkout deploy || git checkout -b deploy
+        echo "Cherry pick commit from master"
+        sudo git cherry-pick master --strategy=recursive -X theirs
+        echo "Push to deploy branch."
+        git push origin deploy
+
+    - name: Put vendor folder back for caching
+      run: sudo mv /tmp/vendor .
+
+    - name: Install doctl
+      uses: digitalocean/action-doctl@v2
+      with:
+        token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+    - name: Save DigitalOcean kubeconfig
+      run: doctl kubernetes cluster kubeconfig save shared-hosting
+
+    - name: Deploy new code
+      run: kubectl rollout restart deployment ${{ secrets.DEPLOYMENT_NAME }}
