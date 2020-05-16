@@ -50,7 +50,8 @@ jobs:
         sudo git checkout deploy || git checkout -b deploy
         echo "Copy commit from master"
         sudo git checkout master .
-        git commit -m "${COMMIT_MSG}"
+        echo "Make commit to deploy"
+        sudo git commit -m "${COMMIT_MSG}"
         echo "Push to deploy branch."
         git push origin deploy
 
