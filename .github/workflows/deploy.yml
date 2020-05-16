@@ -23,30 +23,41 @@ jobs:
           ${{ runner.os }}-gems-
 
     - name: Build Jekyll
-      uses: jerryjvl/jekyll-build-action@v1
+      uses: lemonarc/jekyll-action@1.0.0
 
     - name: Delete everything except contents of site folder
       run: |
-        sudo mv .git _site /tmp
+        sudo mv _site vendor /tmp
         rm -r *
-        sudo mv /tmp/.git /tmp/_site/** .
+        sudo mv /tmp/_site/** .
 
     - name: Commit to repository
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         COMMIT_MSG: Deploy to GitHub
       run: |
-        # Hard-code user configuration
+        echo "Setting committer information"
         git config user.email "contact@lemonarc.com"
         git config user.name "Lemon Arc Bot"
-        # Update origin with token
+        echo "Setting origin remote"
         git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
-        # Checkout the branch so we can push back to it
+        echo "Fetching from remote"
+        git fetch origin
+        echo "Committing changes to master"
         git add .
-        # Only commit if we have changes
-        git diff --quiet && git diff --staged --quiet || git commit -m "${COMMIT_MSG}"
-        git push origin master:deploy
- 
+        git commit -m "${COMMIT_MSG}"
+        echo "Checkout deploy branch, create if it doesn't exist"
+        sudo git checkout deploy || git checkout -b deploy
+        echo "Copy commit from master"
+        sudo git checkout master .
+        echo "Make commit to deploy"
+        sudo git commit -m "${COMMIT_MSG}"
+        echo "Push to deploy branch."
+        git push origin deploy
+
+    - name: Put vendor folder back for caching
+      run: sudo mv /tmp/vendor .
+
     - name: Install doctl
       uses: digitalocean/action-doctl@v2
       with:
