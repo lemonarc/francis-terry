@@ -20,12 +20,20 @@ comments: /thoughts/amor-fati/
 	</li>
 </ul>
 
-*‘You have power over your mind - not outside events. Realise this, and you will find strength’*<br/>
-									- Emperor Marcus Aurelius
+*‘You have power over your mind - not outside events. Realise this, and you will find strength’*<br> - Emperor Marcus Aurelius
 
 During this pandemic, with people dying by the thousands and the feared possibility of a global recession of elephantine proportions, I could be criticised for nonchalantly blogging about the finer points of classical architecture. So, I felt it is time to write something relevant to this crisis and from the heart. I have decided to write about how I get through hard times, at least in theory, which you might find useful. I am slightly nervous about posting this, in fact I wrote the first version a while ago, posted it for a couple of days and then took it down. It did not seem the right time, but now certainly is. You can rest assured this is a one off, next month I will go back to discussing triglyphs and metopes in the normal way. 
 
 It is at stressful times like now when many people take comfort in religion, which is fine, but religion has never really worked for me. I was bought up as an evangelical Christian with the belief that if you were not a Christian in a limited and very specific way, you would literally burn in the fires of hell for all eternity after you died. Unsurprisingly I could not reconcile that with a loving god and far from giving me comfort it made me scared and unhappy. Over time I freed myself from these unpleasant thoughts and have now adopted Stoicism which for many reasons suits me well. It is a very positive philosophy and like many things that appeal to me, it is classical in origin and was even espoused by the great roman emperor Marcus Aurelius. He was himself a man who incidentally lived through Antonine Plague of 165 to 180 AD, an ancient pandemic that wiped out a third of the population.
+
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/essays/amor-fati/04.jpg" title="La Peste, Rome by Thomas Blanchet c 1625. On loan to Auckland Castle">
+			<img src="/images/essays/amor-fati/thumbs/04.jpg" alt="La Peste, Rome by Thomas Blanchet c 1625. On loan to Auckland Castle" />
+		</a>
+		<p class="caption">La Peste, Rome by Thomas Blanchet c 1625. On loan to Auckland Castle</p>
+	</li>
+</ul>
 
 Stoicism is also deeply ingrained into the British psyche, it’s the blitz mentality, it’s Nelson giving orders while dying at Trafalgar and now it is the nurses, like my sister Sophie, who risk their lives while cheerfully caring for the sick. This ‘stiff upper lip’ and ‘no nonsense’ way of getting through life appeals to my repressed public school nature particularly at a time when people seem to get offended by anything and everything. 
 
