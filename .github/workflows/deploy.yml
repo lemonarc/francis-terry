@@ -48,8 +48,9 @@ jobs:
         git commit -m "${COMMIT_MSG}"
         echo "Checkout deploy branch, create if it doesn't exist"
         sudo git checkout deploy || git checkout -b deploy
-        echo "Cherry pick commit from master"
-        sudo git cherry-pick master --strategy=recursive -X theirs
+        echo "Copy commit from master"
+        sudo git checkout master .
+        git commit -m "${COMMIT_MSG}"
         echo "Push to deploy branch."
         git push origin deploy
 
