@@ -3,7 +3,6 @@ layout: post
 title: Summerhouse in Wiltshire
 excerpt: "In 2007, Quinlan and Francis Terry built an ambitious summer house in a secluded valley to the east of Ferne Park."
 preview: "In 2007, Quinlan and Francis Terry built an ambitious summer house in a secluded valley to the east of Ferne Park."
-post_date: 2000-02-02
 image_tall: /images/projects/ferne-park-summerhouse/tall.jpg
 image_wide: /images/projects/ferne-park-summerhouse/wide.jpg
 social_image: /images/projects/ferne-park-summerhouse/social.jpg

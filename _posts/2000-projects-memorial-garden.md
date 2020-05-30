@@ -4,7 +4,6 @@ categories: [projects]
 title: Memorial Garden
 excerpt: "This commission was unusual for the practice as it is their first built work in Asia. The brief was to design an English style garden as a memorial to the mother of the client."
 preview: "This commission was unusual for the practice as it is their first built work in Asia. The brief was to design an English style garden as a memorial to the mother of the client."
-post_date: 2000
 permalink: /projects/memorial-garden/
 image_tall: /images/projects/taipei/tall.jpg
 image_wide: /images/projects/taipei/wide.jpg

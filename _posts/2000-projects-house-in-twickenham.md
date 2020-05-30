@@ -4,7 +4,6 @@ categories: [projects]
 title: House in Twickenham
 excerpt: "Unusually in the career of Quinlan and Francis Terry, this was not a house commissioned by a private client for his own use but was a speculation by a property developer from South Africa."
 preview: "Unusually in the career of Quinlan and Francis Terry, this was not a house commissioned by a private client for his own use but was a speculation by a property developer from South Africa."
-post_date: 2000
 permalink: /projects/house-in-twickenham/
 image_tall: /images/projects/old-garden/tall.jpg
 image_wide: /images/projects/old-garden/wide.jpg
