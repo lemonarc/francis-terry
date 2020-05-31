@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: [projects]
 title: House in Surrey
 excerpt: "This house was designed for a client who wanted a house in the French classical manner. Though the practice has been asked to design a number of French style buildings, none have so far been built."
 preview: "This house was designed for a client who wanted a house in the French classical manner. Though the practice has been asked to design a number of French style buildings, none have so far been built."

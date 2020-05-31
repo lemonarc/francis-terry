@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: [projects]
 title: Hotel at Hampton Court Station
 excerpt: "The plan of the hotel by Quinlan and Francis Terry takes the form of a long rectangle which is a response to its site along the edge of the river Thames."
 preview: "The plan of the hotel by Quinlan and Francis Terry takes the form of a long rectangle which is a response to its site along the edge of the river Thames."

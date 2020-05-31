@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: [projects]
 title: Recovery Centre
 excerpt: "Turning  a former stately home like Tedworth House into a Personal Recovery Centre for wounded soldiers is a very untypical project for the office to be involved with and it came by a rather obscure route."
 preview: "Turning  a former stately home like Tedworth House into a Personal Recovery Centre for wounded soldiers is a very untypical project for the office to be involved with and it came by a rather obscure route."
