@@ -9,7 +9,7 @@ layout: default
     {% if page.subtitle %}
       <h2>{{ page.subtitle }}</h2>
     {% endif %}
-    {% unless page.categories contains "projects" %}
+    {% unless page.categories contains "projects" or page.categories contains "urbanism" %}
       <h4>{% if page.title == "How to Draw like Raphael" %}
         <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%-d %B %Y" }}</time>
       {% else %}
