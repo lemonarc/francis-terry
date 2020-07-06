@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [urbanism]
-title: "Wimbledon: What is it to be premier?"
+title: "Wimbledon: What is It to Be Premier?"
 excerpt: "Many members of the public seem resigned to the fact that new functional buildings must be ugly and de-sensitising. But this is a fallacy. In 2016 Create Streets worked up an alternative approach to a proposed new Premier Inn at 153 Broadway in Wimbledon, South West London."
 preview: "Many members of the public seem resigned to the fact that new functional buildings must be ugly and de-sensitising. But this is a fallacy. In 2016 Create Streets worked up an alternative approach to a proposed new Premier Inn at 153 Broadway in Wimbledon, South West London."
 post_date: March 2020

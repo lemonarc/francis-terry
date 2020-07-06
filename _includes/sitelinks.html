@@ -60,6 +60,14 @@
 
 		{% endfor %}
   
+	{% elsif page.categories contains "urbanism" %}
+		{% assign recentPosts = site.categories.urbanism | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:8 %}
+
+			{% include sitelinkcontent.html %}
+
+		{% endfor %}
+  
 	{% endif %}
 	
 	</ul>
