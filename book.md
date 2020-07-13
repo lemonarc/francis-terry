@@ -9,6 +9,17 @@ article: article
 <ul class="list publications">
 
 	<li>
+		<img src="/images/publications/designing-well-tempered-towns.jpg">
+		<h3>Designing Well-Tempered Towns</h3>
+		<h4>Nicholas Boys Smith and Francis Terry</h4>
+		<p>
+			This small book is about my collaborations with Nicholas Boys Smith, the founder of Create Streets. We had been introduced by a mutual friend who felt we would have a lot in common, sharing a love of historic towns and architecture. I first met Nicholas in Waterstone’s cafe in Piccadilly. He arrived brandishing various pamphlets filled with hard nosed research backing up ideas with which I agreed. Though I had an instinct that traditional urbanism with its terraced streets and town squares was a better way to build than high rise towers with indeterminate space between, I was unaware of the vast data which backed up this intuition.
+		</p><p>	
+			Worthy as this data undoubtedly is, I felt that it probably did not make a connection with many people apart from a few academically inclined specialists in the field. So I suggested doing a counter proposal for a live site to demonstrate these important ideas and so attract a larger audience, with the aim to influence architecture for the better.
+		</p>
+	</li>
+
+	<li>
 		<img src="/images/publications/recent-work-and-essays.jpg">
 		<h3>Recent Work and Essays</h3>
 		<h4>Francis Terry</h4>

@@ -80,8 +80,8 @@ Neighbourhoods can change and still remain true to themselves.
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/urbanism/04/07.jpg" title="Ironwork balconies in New Orleans.">
-			<img src="/images/urbanism/04/thumbs/07.jpg" alt="Ironwork balconies in New Orleans." />
+		<a class="fancybox" rel="group" href="/images/urbanism/03/07.jpg" title="Ironwork balconies in New Orleans.">
+			<img src="/images/urbanism/03/thumbs/07.jpg" alt="Ironwork balconies in New Orleans." />
 		</a>
 		<p class="caption">Ironwork balconies in New Orleans.</p>
 	</li>
