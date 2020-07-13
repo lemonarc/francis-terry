@@ -13,9 +13,14 @@ article: article
 		<h3>Designing Well-Tempered Towns</h3>
 		<h4>Nicholas Boys Smith and Francis Terry</h4>
 		<p>
-			This small book is about my collaborations with Nicholas Boys Smith, the founder of Create Streets. We had been introduced by a mutual friend who felt we would have a lot in common, sharing a love of historic towns and architecture. I first met Nicholas in Waterstone’s cafe in Piccadilly. He arrived brandishing various pamphlets filled with hard nosed research backing up ideas with which I agreed. Though I had an instinct that traditional urbanism with its terraced streets and town squares was a better way to build than high rise towers with indeterminate space between, I was unaware of the vast data which backed up this intuition.
-		</p><p>	
-			Worthy as this data undoubtedly is, I felt that it probably did not make a connection with many people apart from a few academically inclined specialists in the field. So I suggested doing a counter proposal for a live site to demonstrate these important ideas and so attract a larger audience, with the aim to influence architecture for the better.
+			<em>"If this is revolution, well and good. Let this be its little red book."</em><br />
+			- Sir Simon Jenkins
+		</p><p>
+			Designing Well-Tempered Towns is a small book recording eight urban developments designed by Francis Terry in collaboration with Create Streets. These schemes include their much publicised proposal for Mount Pleasant, which was praised by both Boris Johnson and Sadiq Khan during their tenures as Mayor of London. Other developments in London include West Hampstead, Oval, Wimbledon, Euston Road, Earls Court and Chelsea.
+		</p><p>
+			Throughout the book the designs are illustrated with Francis Terry’s watercolours and photos by Robert Kwolek. The text by Nicholas Boys Smith describes the schemes with reference to Create Streets ideas on urbanism, which have become ever more pressing as our cities increase in size and population density.
+		</p><p>
+			You can purchase this book from our office for £20.00 plus postage and packing.
 		</p>
 	</li>
 
