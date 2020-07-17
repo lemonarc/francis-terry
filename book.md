@@ -6,9 +6,11 @@ permalink: /book/
 social_image: /images/social/social-kilboy.jpg
 article: article
 ---
+<a href="#practice_of_classical_architecture"></a>
 <ul class="list publications">
 
 	<li>
+		<a name="designing-well-tempered-towns"></a>
 		<img src="/images/publications/designing-well-tempered-towns.jpg">
 		<h3>Designing Well-Tempered Towns</h3>
 		<h4>Nicholas Boys Smith and Francis Terry</h4>
@@ -25,6 +27,7 @@ article: article
 	</li>
 
 	<li>
+		<a name="recent-work-and-essays"></a>
 		<img src="/images/publications/recent-work-and-essays.jpg">
 		<h3>Recent Work and Essays</h3>
 		<h4>Francis Terry</h4>
@@ -38,6 +41,7 @@ article: article
 	</li>
 
 	<li>
+		<a name="greatest-building-in-the-world"></a>
 		<img src="/images/publications/greatest-building-in-the-world.jpg">
 		<h3>The Greatest Building in the World and other Essays</h3>
 		<h4>Francis Terry</h4>
@@ -49,6 +53,7 @@ article: article
 	</li>
 	
 	<li>
+		<a name="glad_to_be_pastiche"></a>
 		<img src="/images/publications/glad_to_be_pastiche.jpg">
 		<h3>Glad to be Pastiche and other Essays</h3>
 		<h4>Francis Terry</h4>
@@ -60,6 +65,7 @@ article: article
 	</li>
 
 	<li>
+		<a name="practice_of_classical_architecture"></a>
 		<img src="/images/publications/practice_of_classical_architecture.jpg">
 		<h3>The Practice of Classical Architecture: The Architecture of Quinlan and Francis Terry, 2005-2015</h3>
 		<h4>David Watkin</h4>
