@@ -53,7 +53,7 @@ header {
         }
     }
 
-    @include media-query($on-laptop) {
+    @include media-query($on-1100) {
         position: absolute;
         top: 9px;
         right: $unit / 2;
