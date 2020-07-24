@@ -85,6 +85,8 @@ For the garden elevation I propose adding a large central block to break the mon
 
 The astute observer will notice that these designs have a certain dept to Vanbrugh and Hawksmoor. It did make me speculate what would have happened had Louis XIV beaten the Duke of Marlborough at Blenheim. Perhaps he would have taken the first dukes' architects and asked them to remodel Versailles. My light-hearted scribblings are a guess at what they might have produced.
 
-For this article I am indebted to Tony Spawforth's book *Versailles: A Biography of a Palace* and *Love and Louis XIV: The Women in the Life of the Sun King* by Antonia Fraser. Both excellent books which I can thoroughly recommend.
+<p class="small">For this article I am indebted to Tony Spawforth's book *Versailles: A Biography of a Palace* and *Love and Louis XIV: The Women in the Life of the Sun King* by Antonia Fraser. Both excellent books which I can thoroughly recommend.</p>
 
-## Francis Terry
+## Francis Terry<br/><br/>
+
+These watercolours were entered into an RIBA competition. <a href="/news/2020-07-17-news-francis-terrys-versailles-redesigned-drawings/">Read the judges’ comments</a>.
