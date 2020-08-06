@@ -7,7 +7,7 @@ social_image: /images/social/social-surrey.jpg
 article: article
 ---
 
-<ul class="list thoughts">
+<ul class="list thoughts"><!--break fix-->
 
 <li>
 	<a href="/news/june-2017-permission/" alt="New house granted planning permission under NPPF paragraph 55">
