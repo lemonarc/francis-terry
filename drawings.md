@@ -11,20 +11,20 @@ social_image: /images/social/social-drawings.jpg
 <ul class="list">
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/place-de-la-bourse-bordeaux.jpg" title="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020.">
-<img class="lazy" src="/images/drawings/thumbs/place-de-la-bourse-bordeaux.jpg" alt="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020." />
-</a>
-</li>
-
-<li class="third">
 <a class="fancybox" rel="group" href="/images/drawings/house-in-oxfordshire.jpg" title="House in Oxfordshire. Watercolour by Francis Terry, 2018.">
 <img class="lazy" src="/images/drawings/thumbs/house-in-oxfordshire.jpg" alt="House in Oxfordshire. Watercolour by Francis Terry, 2018." />
 </a>
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/unnamedpainting1.jpg" title="House in Wiltshire, south perspective. Watercolour by Francis Terry, 2016.">
-<img class="lazy" src="/images/drawings/thumbs/unnamedpainting1.jpg" alt="House in Wiltshire, south perspective. Watercolour by Francis Terry, 2016." />
+<a class="fancybox" rel="group" href="/images/drawings/20190905.jpg" title="Elevations of a New House in Berkshire, Francis Terry 2019.">
+<img class="lazy" src="/images/drawings/thumbs/20190905.jpg" alt="Elevations of a New House in Berkshire, Francis Terry 2019." />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/2019-04-26-02.jpg">
+<img class="lazy" src="/images/drawings/thumbs/2019-04-26-02.jpg" alt="" />
 </a>
 </li>
 
