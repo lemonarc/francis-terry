@@ -4,7 +4,7 @@ categories: [blog, places]
 title: "Ornament Podcast"
 excerpt: "A few weeks ago I chaired the Traditional Architecture Group’s first round table discussion and we chose ornament as the subject. It was a fascinating discussion you can listen to as a podcast. You are in for a treat!"
 preview: "A few weeks ago I chaired the Traditional Architecture Group’s first round table discussion and we chose ornament as the subject. It was a fascinating discussion you can listen to as a podcast. You are in for a treat!"
-post_date: 24 August 2020
+post_date: 04 August 2020
 permalink: /thoughts/ornament-podcast/
 image_tall: /images/essays/ornament-podcast/tall.jpg
 image_wide: /images/essays/ornament-podcast/wide.jpg
