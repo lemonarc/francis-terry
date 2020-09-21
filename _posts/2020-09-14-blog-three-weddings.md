@@ -68,8 +68,7 @@ One rainy Saturday I was happily measuring and I heard some organ music wafting 
 
 Another time, in the same chapel, I was working quite late. A priest was completing some ceremonial hocus pocus over the alter, and when he saw me he rolled his eyes - perhaps thinking he would have to redo the complete ritual. A few minutes later he flicked the lights out and disappeared through a side door, which he angrily slammed behind him. I was now locked in an almost completely dark church with only the statues of Italian nobles and the relics of forgotten saints for company. I stumbled around trying to find a way out, crashing into pews and who knows what. Bearing in mind this was years before mobile phones existed and so I had neither the means to call anyone or the use of a torch.
  
-Eventually I found the front door.  Fortunately it was bolted from the inside, so I undid the bolts and escaped, leaving the church with priceless works of art ready for the taking. I saw a policeman 
-across the road and told him that the church was unlocked.
+Eventually I found the front door.  Fortunately it was bolted from the inside, so I undid the bolts and escaped, leaving the church with priceless works of art ready for the taking. I saw a carabiniere across the road and told him that the church was unlocked.
 
 Normally I would have tried to communicate using my hotel/restaurant level Italian, but I was so angry I just said *“The church over there is wide open, some priest locked me in.”* He looked confused….
 
