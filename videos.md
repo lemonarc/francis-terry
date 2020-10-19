@@ -69,6 +69,12 @@ article: article
 <ul class="list">
 
 <li class="third">
+	<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/QIxlxSUJ8F8?rel=0&autoplay=1">
+		<img src="/images/videos/video-19.jpg" alt="NPPF Paragraph 79e Explained" />
+	</a>
+</li>
+
+<li class="third">
 	<a class="fancybox" data-fancybox-type="iframe" href="https://youtube.com/embed/FgMOSVyjgQY?start=223&rel=0&autoplay=1">
 		<img src="/images/videos/video-5.jpg" alt="TEDx talk at Bloomberg Institute, London" />
 	</a>
