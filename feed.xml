@@ -6,8 +6,8 @@
 </description>
     <link>https://ftanda.co.uk/</link>
     <atom:link href="https://ftanda.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 20 Oct 2020 08:03:35 +0000</pubDate>
-    <lastBuildDate>Tue, 20 Oct 2020 08:03:35 +0000</lastBuildDate>
+    <pubDate>Tue, 20 Oct 2020 09:12:05 +0000</pubDate>
+    <lastBuildDate>Tue, 20 Oct 2020 09:12:05 +0000</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -60,7 +60,7 @@
     
       <item>
         <title>Three Weddings and a Lock In</title>
-        <description>&lt;ul class=&quot;list&quot;&gt;
+        <description>&lt;!--&lt;ul class=&quot;list&quot;&gt;
 
 	&lt;li class=&quot;half&quot;&gt;
 		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/01a.jpg&quot;&gt;
@@ -71,6 +71,16 @@
 	&lt;li class=&quot;half&quot;&gt;
 		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/02.jpg&quot;&gt;
 			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/thumbs/02.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
+		&lt;/a&gt;
+	&lt;/li&gt;
+
+&lt;/ul&gt;--&gt;
+
+&lt;ul class=&quot;list&quot;&gt;
+
+	&lt;li class=&quot;full&quot;&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/01E.jpg&quot;&gt;
+			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/01E.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
 		&lt;/a&gt;
 	&lt;/li&gt;
 
@@ -85,20 +95,20 @@
 &lt;ul class=&quot;list&quot;&gt;
 
 	&lt;li class=&quot;full&quot;&gt;
-		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/04.jpg&quot;&gt;
-			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/thumbs/04a.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/04E.jpg&quot;&gt;
+			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/04E.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
 		&lt;/a&gt;
 	&lt;/li&gt;
 
 	&lt;li class=&quot;full&quot;&gt;
-		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/03.jpg&quot;&gt;
-			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/thumbs/03a.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/03E.jpg&quot;&gt;
+			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/03E.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
 		&lt;/a&gt;
 	&lt;/li&gt;
 
 	&lt;li class=&quot;full&quot;&gt;
-		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/05.jpg&quot;&gt;
-			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/thumbs/05a.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
+		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/05E.jpg&quot;&gt;
+			&lt;img class=&quot;lazy&quot; src=&quot;/images/essays/three-weddings-and-a-lock-in/05E.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
 		&lt;/a&gt;
 	&lt;/li&gt;
 
@@ -106,13 +116,13 @@
 
 &lt;p&gt;One rainy Saturday I was happily measuring and I heard some organ music wafting in. Initially I thought it was just someone practicing, but when I peeped out I noticed that the church was packed with a wedding in full swing. I did not want to make a spectacle of myself so hid back in the chapel and carried on measuring. I then heard what I thought was the wedding ending so decided to make my move, but to my dismay it was the opening hymn for another wedding. It must have been peak season, because by the time I could get out tactfully I had witnessed three weddings!&lt;/p&gt;
 
-&lt;ul class=&quot;list&quot;&gt;
+&lt;!--&lt;ul class=&quot;list&quot;&gt;
 	&lt;li class=&quot;full&quot;&gt;
 		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/three-weddings-and-a-lock-in/06.jpg&quot;&gt;
 			&lt;img src=&quot;/images/essays/three-weddings-and-a-lock-in/social.jpg&quot; alt=&quot;Three Weddings and a Lock In&quot; /&gt;
 		&lt;/a&gt;
 	&lt;/li&gt;
-&lt;/ul&gt;
+&lt;/ul&gt;--&gt;
 
 &lt;p&gt;Another time, in the same chapel, I was working quite late. A priest was completing some ceremonial hocus pocus over the alter, and when he saw me he rolled his eyes - perhaps thinking he would have to redo the complete ritual. A few minutes later he flicked the lights out and disappeared through a side door, which he angrily slammed behind him. I was now locked in an almost completely dark church with only the statues of Italian nobles and the relics of forgotten saints for company. I stumbled around trying to find a way out, crashing into pews and who knows what. Bearing in mind this was years before mobile phones existed and so I had neither the means to call anyone or the use of a torch.&lt;/p&gt;
 
