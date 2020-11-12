@@ -10,23 +10,6 @@ article: article
 <ul class="list publications">
 
 	<li>
-		<a name="designing-well-tempered-towns"></a>
-		<img src="/images/publications/designing-well-tempered-towns.jpg">
-		<h3>Designing Well-Tempered Towns</h3>
-		<h4>Nicholas Boys Smith and Francis Terry</h4>
-		<p>
-			<em>"If this is revolution, well and good. Let this be its little red book."</em><br />
-			- Sir Simon Jenkins
-		</p><p>
-			Designing Well-Tempered Towns is a small book recording eight urban developments designed by Francis Terry in collaboration with Create Streets. These schemes include their much publicised proposal for Mount Pleasant, which was praised by both Boris Johnson and Sadiq Khan during their tenures as Mayor of London. Other developments in London include West Hampstead, Oval, Wimbledon, Euston Road, Earls Court and Chelsea.
-		</p><p>
-			Throughout the book the designs are illustrated with Francis Terry’s watercolours and photos by Robert Kwolek. The text by Nicholas Boys Smith describes the schemes with reference to Create Streets ideas on urbanism, which have become ever more pressing as our cities increase in size and population density.
-		</p><p>
-			You can purchase this book from our office for £20.00 plus postage and packing.
-		</p>
-	</li>
-
-	<li>
 		<a name="recent-work-and-essays"></a>
 		<img src="/images/publications/recent-work-and-essays.jpg">
 		<h3>Recent Work and Essays</h3>
@@ -73,6 +56,23 @@ article: article
 			Quinlan and Francis Terry are both architects who specialise in new classical architecture.  Together, they are at the heart of a resurgent interest in an architecture and design that is both liveable and inspiring.  Their work is a delightful expression-in plaster and marble, in brick and wood, in stone-of exuberant timelessness, where fluted columns rise beside doorways to explode in Corinthian capitals of exquisite craftsmanship and structural integrity.  Throughout the work, attention to detail, to craftsmanship, and to reasoned proportions is apparent.  They are at home in every traditional style, from Classical Greek and Roman to the many forms of Gothic and Renaissance.  Francis is recognised as a brilliant talent in his own right and is as highly regarded for his thoughtful design as for his breath taking architectural drawings.  This book showcases more than forty of his master drawings, renderings that are at once beautiful and expressive of one of the highest aims of architecture - they elevate the soul - much like the houses and spaces built by the duo.
 		</p><p>
 			You can purchase this book from the office signed by Francis Terry for £50.00, plus postage and packaging.
+		</p>
+	</li>
+
+	<li>
+		<a name="designing-well-tempered-towns"></a>
+		<img src="/images/publications/designing-well-tempered-towns.jpg">
+		<h3>Designing Well-Tempered Towns</h3>
+		<h4>Nicholas Boys Smith and Francis Terry</h4>
+		<p>
+			<em>"If this is revolution, well and good. Let this be its little red book."</em><br />
+			- Sir Simon Jenkins
+		</p><p>
+			Designing Well-Tempered Towns is a small book recording eight urban developments designed by Francis Terry in collaboration with Create Streets. These schemes include their much publicised proposal for Mount Pleasant, which was praised by both Boris Johnson and Sadiq Khan during their tenures as Mayor of London. Other developments in London include West Hampstead, Oval, Wimbledon, Euston Road, Earls Court and Chelsea.
+		</p><p>
+			Throughout the book the designs are illustrated with Francis Terry’s watercolours and photos by Robert Kwolek. The text by Nicholas Boys Smith describes the schemes with reference to Create Streets ideas on urbanism, which have become ever more pressing as our cities increase in size and population density.
+		</p><p>
+			You can purchase this book from our office for £20.00 plus postage and packing.
 		</p>
 	</li>
 
