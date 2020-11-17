@@ -628,7 +628,7 @@ ul.blog .blog-text { width: calc(100% - (33% + (1rem*2))); float: right; }
 
 @media screen and (max-width: 1000px) { ul.blog .blog-text { float: none; width: 100%; } }
 
-.article, article { max-width: 1280px; margin: 0 auto; }
+.article, article { max-width: 1200px; margin: 0 auto; }
 
 .article h2, .article h3, .article p, article h2, article h3, article p { margin-bottom: 1.5rem; }
 
