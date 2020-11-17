@@ -46,7 +46,7 @@ article: article
 				<h4>MA (Cantab), Dip Arch, MSc (Lon), RIBA <br />Director</h4>
 			</a>
 			<p>
-				Miranda studied architecture at Cambridge University qualifying in 1994 and has subsequently taken an MSc at King’s College in Construction Law. She now runs the part 3 course at the Faculty of Architecture, Cambridge University. Her recent experience has involved a number of listed properties and she is a Conservation Registrant.
+				Miranda studied architecture at Cambridge University qualifying in 1994 and has subsequently taken an MSc at King’s College in Construction Law. She now runs the part 3 course at the Faculty of Architecture, Cambridge University. Her recent experience has involved a number of listed properties.
 			</p><p>
 				<a href="/practice/miranda-terry/">Read full profile</a>
 			</p>
