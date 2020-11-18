@@ -120,7 +120,6 @@ One of the joys of visiting an unfamiliar city is that you inevitably come acros
 		</a>
 	</li>
 </ul>
-(Images ‘heathcote’ and E7884)
 
 Also by Heathcote is the former National Westminster Bank in Spring Gardens, built from red sandstone. This, like his Lloyds Bank, makes a virtue of the corner but with a bold arched entrance door framed by octagonal piers and topped with a dome supported by paired ionic columns as buttresses on each corner.
 
