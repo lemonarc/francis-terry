@@ -207,8 +207,8 @@ In this area there are a plethora of massive Baroque warehouses many of which we
 </ul>
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/edwardian-classical-architecture-in-manchester/28.jpg">
-			<img class="lazy" src="/images/essays/edwardian-classical-architecture-in-manchester/thumbs/28.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/edwardian-classical-architecture-in-manchester/28b.jpg">
+			<img class="lazy" src="/images/essays/edwardian-classical-architecture-in-manchester/thumbs/28b.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
