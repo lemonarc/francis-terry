@@ -274,8 +274,6 @@ The Edwardian spirit held on in Manchester right until the Second World War, dec
 
 Unfortunately, most of the post war and current architecture is a disaster. It is a pity that Manchester could not continue with the style of Harris, Heathcote, and Fairhurst. It is quite possible to design new Edwardian style buildings, we have the craftsman and the expertise. I designed one of my own a few years ago as a replacement to Knightsbridge Barracks, unfortunately the design never came to fruition, but if an ambitions developer or maybe Mayor Andy Burman reads this and wants to get in touch, I would be happy to oblige. I will even do the first sketch pro bono.
 
-## Francis Terry<br/><br/>
-
 <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/essays/edwardian-classical-architecture-in-manchester/37.jpg">
@@ -291,3 +289,5 @@ Unfortunately, most of the post war and current architecture is a disaster. It i
 		</a>
 	</li>
 </ul>
+
+## Francis Terry<br/><br/>
