@@ -2,7 +2,7 @@
 layout: post
 pageclass: news-post
 title: "Francis Terry and Martin Leay discuss NPPF paragraph 79e"
-excerpt: NPPF paragraph 79e is the clause states that the new house has to be an 'exceptional' work of architecture. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms.
+excerpt: NPPF paragraph 79e permits building exceptional new houses in the country. Francis Terry and Martin Leay discuss the NPPF paragraph 79e planning clause.
 preview: "Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 79e is the planning legislation which is specifically written to allow this to happen. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 79e' houses."
 date: 2020-10-19
 categories: [news]
