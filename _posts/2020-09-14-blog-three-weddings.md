@@ -2,8 +2,8 @@
 layout: post
 categories: [blog, places]
 title: "Three Weddings and a Lock In"
-excerpt: "One rainy Saturday I was happily measuring the Raimondi chapel and I heard some organ music wafting in, initially I thought it was just someone practicing, but when I peeped out I noticed that the church was full with a wedding going on!"
-preview: "One rainy Saturday I was happily measuring the Raimondi chapel and I heard some organ music wafting in, initially I thought it was just someone practicing, but when I peeped out I noticed that the church was full with a wedding going on!"
+excerpt: "In these days, when travel restrictions are foisted upon us, I have found myself reminiscing about adventures of days gone by.  Years ago, in my student days, I measured the Raimondi chapel, which is a side chapel dedicated to St Francis in San Pietro in Montori on the Janiculum hill in Rome. The chapel was designed by Bernini and filled with sculpture from his studio."
+preview: "In these days, when travel restrictions are foisted upon us, I have found myself reminiscing about adventures of days gone by.  Years ago, in my student days, I measured the Raimondi chapel, which is a side chapel dedicated to St Francis in San Pietro in Montori on the Janiculum hill in Rome. The chapel was designed by Bernini and filled with sculpture from his studio."
 post_date: 14 September 2020
 permalink: /thoughts/three-weddings-and-a-lock-in/
 image_tall: /images/essays/three-weddings-and-a-lock-in/tall-2.jpg

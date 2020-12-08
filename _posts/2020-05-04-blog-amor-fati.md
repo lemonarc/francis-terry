@@ -6,8 +6,8 @@ excerpt: "During this pandemic, I could be criticised for nonchalantly blogging 
 preview: "During this pandemic, I could be criticised for nonchalantly blogging about the finer points of classical architecture. So, I felt it is time to write something relevant to this crisis and from the heart."
 post_date: 4 May 2020
 permalink: /thoughts/amor-fati/
-image_tall: /images/essays/amor-fati/tall-2.jpg
-image_wide: /images/essays/amor-fati/wide-2.jpg
+image_tall: /images/essays/amor-fati/tall-3.jpg
+image_wide: /images/essays/amor-fati/wide-3.jpg
 social_image: /images/essays/amor-fati/social.jpg
 comments: /thoughts/amor-fati/
 ---
