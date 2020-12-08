@@ -14,12 +14,11 @@ comments: /thoughts/looking-for-spinoza/
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-A.jpg">
-			<img class="lazy" src="/images/essays/looking-for-spinoza/social.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-00.jpg">
+			<img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-00.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
-
 
 Years ago, before we were married, Miranda and I went on holiday to Italy and while traveling between cities on trains I started to write a novel in the back of my sketch book. The story was a mash up between the ‘The Godfather’ and ‘Day of the Jackal’ set in Italy and New England. After a day of writing I proudly read it to Miranda. She patiently listened to the whole thing and when had I finished, I asked her excitedly what she thought of it. She said, I quote
 
@@ -44,55 +43,54 @@ Generous praise indeed! He felt it deserved to be published and he put me in tou
 ## Francis Terry<br/><br/>
 
 <ul class="list">
-	<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-00.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-00.jpg" alt="{{ page.title }}" /></a></li>
-	<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-01.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-01.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-02.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-02.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-03.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-03.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-04.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-04.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-05.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-05.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-06.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-06.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-07.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-07.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-08.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-08.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-09.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-09.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-10.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-10.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-11.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-11.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-12.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-12.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-13.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-13.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-14.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-14.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-15.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-15.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-16.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-16.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-17.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-17.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-18.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-18.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-19.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-19.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-20.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-20.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-21.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-21.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-22.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-22.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-23.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-23.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-24.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-24.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-25.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-25.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-26.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-26.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-27.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-27.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-28.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-28.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-29.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-29.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-30.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-30.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-31.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-31.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-32.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-32.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-33.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-33.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-34.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-34.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-35.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-35.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-36.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-36.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-37.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-37.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-38.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-38.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-39.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-39.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-40.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-40.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-41.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-41.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-42.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-42.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-43.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-43.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-44.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-44.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-45.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-45.jpg" alt="{{ page.title }}" /></a></li>
-<li class="half"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-46.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/thumbs/LFS-46.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-02.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-02.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-03.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-03.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-04.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-04.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-05.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-05.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-06.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-06.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-07.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-07.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-08.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-08.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-09.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-09.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-10.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-10.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-11.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-11.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-12.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-12.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-13.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-13.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-14.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-14.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-15.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-15.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-16.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-16.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-17.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-17.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-18.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-18.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-19.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-19.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-20.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-20.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-21.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-21.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-22.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-22.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-23.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-23.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-24.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-24.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-25.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-25.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-26.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-26.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-27.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-27.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-28.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-28.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-29.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-29.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-30.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-30.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-31.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-31.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-32.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-32.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-33.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-33.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-34.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-34.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-35.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-35.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-36.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-36.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-37.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-37.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-38.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-38.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-39.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-39.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-40.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-40.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-41.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-41.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-42.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-42.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-43.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-43.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-44.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-44.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-45.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-45.jpg" alt="{{ page.title }}" /></a></li>
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-46.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-46.jpg" alt="{{ page.title }}" /></a></li>
 </ul>
 
-<a href="/images/essays/looking-for-spinoza/looking-for-spinoza.pdf" rel="nofollow noopener noreferrer" target="_blank">Download the Looking for Spinoza pdf</a>
+<p>Download the Looking for Spinoza pdf</p>
+<a href="/images/essays/looking-for-spinoza/looking-for-spinoza.pdf" rel="nofollow noopener noreferrer" target="_blank" class="button">Download</a>
 
 
