@@ -43,6 +43,7 @@ Generous praise indeed! He felt it deserved to be published and he put me in tou
 ## Francis Terry<br/><br/>
 
 <ul class="list">
+<li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-01.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-01.jpg" alt="{{ page.title }}" /></a></li>
 <li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-02.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-02.jpg" alt="{{ page.title }}" /></a></li>
 <li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-03.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-03.jpg" alt="{{ page.title }}" /></a></li>
 <li class="full"><a class="fancybox" rel="group" href="/images/essays/looking-for-spinoza/LFS-04.jpg"><img class="lazy" src="/images/essays/looking-for-spinoza/1250/LFS-04.jpg" alt="{{ page.title }}" /></a></li>
