@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, theory]
-title: "Looking for Spinoza"
+title: "My Graphic Novel"
 excerpt: "This latest offering is a comic I wrote many years ago. Not much to do with architecture but as it’s nearly Christmas I thought I’d post something lighthearted and I am sure we all need cheering up as it’s been a tough year for everyone. The plot follows my alter ego crossed with Tintin who falls into Italy’s dark criminal underbelly after finding his uncle murdered in a suburb of Milan..."
 preview: "This latest offering is a comic I wrote many years ago. Not much to do with architecture but as it’s nearly Christmas I thought I’d post something lighthearted and I am sure we all need cheering up as it’s been a tough year for everyone. The plot follows my alter ego crossed with Tintin who falls into Italy’s dark criminal underbelly after finding his uncle murdered in a suburb of Milan..."
 post_date: 07 December 2020
