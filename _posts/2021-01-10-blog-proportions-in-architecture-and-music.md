@@ -32,8 +32,8 @@ It is not just with strings that these ratios can be observed. The same patterns
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/proportions-in-architecture-and-music/02.jpg">
-			<img class="lazy" src="/images/essays/proportions-in-architecture-and-music/thumbs/02.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/proportions-in-architecture-and-music/02a.jpg">
+			<img class="lazy" src="/images/essays/proportions-in-architecture-and-music/02a.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -80,8 +80,8 @@ I am sure Palladio would have enjoyed someone post rationalising one for his bui
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/proportions-in-architecture-and-music/07.jpg">
-			<img class="lazy" src="/images/essays/proportions-in-architecture-and-music/thumbs/07.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/proportions-in-architecture-and-music/07a.jpg">
+			<img class="lazy" src="/images/essays/proportions-in-architecture-and-music/thumbs/07a.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 	<li class="half">
