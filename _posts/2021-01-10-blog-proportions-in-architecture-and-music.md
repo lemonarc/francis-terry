@@ -2,8 +2,8 @@
 layout: post
 categories: [blog, theory]
 title: "Proportions in Architecture and Music"
-excerpt: "Architects for millennia have sort to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?"
-preview: "Architects for millennia have sort to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?"
+excerpt: "Architects for millennia have sought to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?"
+preview: "Architects for millennia have sought to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?"
 post_date: 10 January 2021
 permalink: /thoughts/proportions-in-architecture-and-music/
 image_tall: /images/essays/proportions-in-architecture-and-music/tall.jpg
@@ -20,7 +20,7 @@ comments: /thoughts/proportions-in-architecture-and-music/
 	</li>
 </ul>
 
-Architects for millennia have sort to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions? Is there a ratio of height to width which is perfect? Many architects throughout time have felt there are mathematical formulae to achieve the right proportions. This was a particular interest of Renaissance theorists including the Florentine architect Alberti (1404-72) who saw an equivalence between musical and architectural proportions. 
+Architects for millennia have sought to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions? Is there a ratio of height to width which is perfect? Many architects throughout time have felt there are mathematical formulae to achieve the right proportions. This was a particular interest of Renaissance theorists including the Florentine architect Alberti (1404-72) who saw an equivalence between musical and architectural proportions. 
 
 *"I am every day more and more convinced of the truth of Pythagoras's saying, that nature is sure to act consistently and with constant analogy in all her operations: from whence I conclude, that the same numbers, by means of which the agreement of sound affects our ears with delight, are the very same which please our eyes and our minds."*
 
