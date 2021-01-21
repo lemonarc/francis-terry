@@ -3,7 +3,6 @@ layout: landing
 pageclass: taster-page
 title: Book a Taster Day with Francis Terry
 excerpt: "Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team."
-permalink: /taster-day-old/
 ---
 <div class="wrapper taster-day">
 
@@ -73,6 +72,7 @@ permalink: /taster-day-old/
 				<h4>Francis Terry & Associates offices</h4>
 				<p>Enjoy a productive session with Francis Terry & Associates developing your scheme, yet get away early.</p>
 				<p>10am - 1pm</p>
+				<p></p>
 				<lineout></lineout>
 				<p>£900</p>
 				<small>Includes VAT</small>
@@ -82,6 +82,7 @@ permalink: /taster-day-old/
 				<h4>at your home or office</h4>
 				<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
 				<p>10am - 4pm</p>
+				<p></p>
 				<lineout></lineout>
 				<p>£1800</p>
 				<small>Includes VAT</small>

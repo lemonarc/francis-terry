@@ -1118,12 +1118,20 @@ ul.list li.dorset-12 {
 		justify-content: space-between;
 		
 		@extend %clearfix;
-		@include media-query($on-600) {
+		@include media-query($on-700) {
 			display: block;
 		}
 		
 		&.price-list {
 			margin: $unit*3 0 $unit*2;
+
+			li.price {
+
+				@include media-query($on-700) {
+					margin-right: 0;
+					width: 100%;
+				}
+			}
 		}
 		lineout {
 			border-color: $white;
@@ -1139,11 +1147,11 @@ ul.list li.dorset-12 {
 				color: $white;
 				padding: $unit*2;
 				
-				@include media-query($on-600) {
+				@include media-query($on-700) {
 					margin-bottom: $unit*3;
 				}
 			}
-			@include media-query($on-600) {
+			@include media-query($on-700) {
 				img {
 					margin-bottom: $unit*2;
 				}
