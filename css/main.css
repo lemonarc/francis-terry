@@ -1122,9 +1122,11 @@ ul.list li.dorset-12 { margin-bottom: 5%; }
 
 .taster-20190701 ul.list { display: flex; align-items: stretch; justify-content: space-between; }
 
-@media screen and (max-width: 600px) { .taster-20190701 ul.list { display: block; } }
+@media screen and (max-width: 700px) { .taster-20190701 ul.list { display: block; } }
 
 .taster-20190701 ul.list.price-list { margin: 3rem 0 2rem; }
+
+@media screen and (max-width: 700px) { .taster-20190701 ul.list.price-list li.price { margin-right: 0; width: 100%; } }
 
 .taster-20190701 ul.list lineout { border-color: #fff; margin: 1rem 0; padding: 1rem 0; }
 
@@ -1132,9 +1134,9 @@ ul.list li.dorset-12 { margin-bottom: 5%; }
 
 .taster-20190701 ul.list li.third.price { background: #999999; color: #fff; padding: 2rem; }
 
-@media screen and (max-width: 600px) { .taster-20190701 ul.list li.third.price { margin-bottom: 3rem; } }
+@media screen and (max-width: 700px) { .taster-20190701 ul.list li.third.price { margin-bottom: 3rem; } }
 
-@media screen and (max-width: 600px) { .taster-20190701 ul.list li.third img { margin-bottom: 2rem; } }
+@media screen and (max-width: 700px) { .taster-20190701 ul.list li.third img { margin-bottom: 2rem; } }
 
 .taster-20190701 ul.list li.half .cta { padding: 2rem; position: absolute; bottom: 0; }
 

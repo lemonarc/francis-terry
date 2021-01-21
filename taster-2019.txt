@@ -20,8 +20,8 @@
 </script>
 
 
-  <title>Architect in Wonderland</title>
-  <meta name="description" content="When I was growing up I was unsure about whether I wanted to be an architect or an artist. Over a summer holiday, in my late teens, I painted my younger sist...">
+  <title>Taster Day</title>
+  <meta name="description" content="Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team.">
   <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
   
   <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
@@ -45,20 +45,20 @@
   <meta name="theme-color" content="#ffffff">
     <meta property="og:locale" content="en_GB">
   <meta property="og:type" content="website">
-  <meta property="og:title" content="Francis Terry and Associates | Architect in Wonderland">
-  <meta property="og:description" content="When I was growing up I was unsure about whether I wanted to be an architect or an artist. Over a summer holiday, in my late teens, I painted my younger sister’s bedroom with scenes from Alice in Wonderland.">
-  <meta property="og:url" content="https://ftanda.co.uk/thoughts/architect-in-wonderland/">
+  <meta property="og:title" content="Francis Terry and Associates | Taster Day">
+  <meta property="og:description" content="Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team.">
+  <meta property="og:url" content="https://ftanda.co.uk">
   <meta property="og:site_name" content="Francis Terry and Associates">
-  <meta property="og:image" content="https://ftanda.co.uk/images/essays/architect-in-wonderland/social.jpg">
+  <meta property="og:image" content="https://ftanda.co.uk/images/social/social-portico.jpg">
   <meta property="fb:app_id" content="896521203738516">
   <meta name="twitter:card" content="summary">
-  <meta name="twitter:description" content="When I was growing up I was unsure about whether I wanted to be an architect or an artist. Over a summer holiday, in my late teens, I painted my younger sister’s bedroom with scenes from Alice in Wonderland.">
-  <meta name="twitter:title" content="Francis Terry and Associates | Architect in Wonderland">
+  <meta name="twitter:description" content="Experience a day with Francis Terry & Associates, and discover what it would be like to bring a project to life working with our team.">
+  <meta name="twitter:title" content="Francis Terry and Associates | Taster Day">
   <meta name="twitter:site" content="@FTerryArchitect">
-  <meta name="twitter:image" content="https://ftanda.co.uk/images/essays/architect-in-wonderland/social.jpg">
+  <meta name="twitter:image" content="https://ftanda.co.uk/images/social/social-portico.jpg">
   <meta name="twitter:creator" content="@FTerryArchitect">
   <link rel="stylesheet" href="/css/main.css?1611238636702334248">
-  <link rel="canonical" href="https://ftanda.co.uk/thoughts/architect-in-wonderland/">
+  <link rel="canonical" href="https://ftanda.co.uk/taster-2019.txt">
   <link rel="alternate" type="application/rss+xml" title="Francis Terry and Associates" href="https://ftanda.co.uk/feed.xml">
   <link href='//fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
   <link href="https://fonts.googleapis.com/css?family=Cantata+One|Raleway" rel="stylesheet">
@@ -108,15 +108,6 @@
 	
     
   
-		    <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3&appId=896521203738516";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-  
 
   <header class="site-header">
 
@@ -159,214 +150,178 @@
 	
 	
 
-    <div class="page-content ">
+    <div class="page-content taster-page-2019">
 				<div class="wrapper">
-					<div class="wrapper ">
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+					<article class="post ">
 
   <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">Architect in Wonderland</h1>
+    <h1 class="post-title">Taster Day</h1>
     
-    
-      <h4>
-        <time datetime="2019-08-01T00:00:00+00:00" itemprop="datePublished">August 2019</time>
-      
-      </h4>
     
   </header>
 
-  <div class="post-content" itemprop="articleBody">
-    <ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/01.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/01.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
+  <div class="post-content">
+    <h2>Watch your project come to life in front of you</h2>
 
-<p>When I was growing up I was unsure about whether I wanted to be an architect or an artist. As a result, I was attracted to painting interior murals which seemed to link both disciplines; the artistic, through the use of paint and the architectural in the transformation of spaces.</p>
+<h4><strong>Struggling to find an architect?</strong></h4>
+<p>
+	Choosing the right architectural practice for your project can feel like an enormous decision. Meetings and telephone discussions can only tell you so much. We prefer to show you, during what we call a Taster Day.
+</p><p>
+	Your time is precious - and no doubt short. This is why the agenda for our Taster Day is modelled around the output you would  like from the day. You’ll have the opportunity to work with Francis Terry who will draw out your project in front of you - demonstrating his ability to develop a proposal that meets your wishes and needs.
+</p><p class="spacer">
+	As well as furthering your design, you will get an insight into our working method and the opportunity to meet the team and see if we are the right firm for you. Team communication and rapport with your architect is critical to the success of any project. The Taster Day will give you a glimpse into how your project would run - should you choose Francis Terry & Associates.
+</p>
 
-<p>Over a summer holiday, in my late teens, I painted my younger sister’s bedroom with scenes from Alice in Wonderland. Living in a small Suffolk village, miles from the nearest shop, without a driving licence, meant I had a lot of spare time.  We did not have a television at home and this was still a decade before the internet.  I was, therefore, able to dedicate myself entirely to painting her room (which I doubt I would have been completed had there been more distractions). My mother was very clear that I had to finish the project.  She understandably did not want a half-painted room.</p>
+<div class="video-taster-block spacer-large">
+			
+			<div class="video">
 
-<ul class="list">
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/02.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/02.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/03.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/03.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/04.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/04.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/05.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/05.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/06.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/06.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/07.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/07.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
+				<h2>Demonstrating the value of choosing Francis Terry & Associates as your architects</h2>
+				<script src="https://fast.wistia.com/embed/medias/uouaeq5z83.jsonp" async></script>
+				<script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+				<div>
+					<div class="wistia_responsive_padding taster-day-video" style="padding:56.25% 0 0 0;position:relative;">
+						<div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;bottom:0;width:100%;">
+							<div class="wistia_embed wistia_async_uouaeq5z83 videoFoam=true" style="height:100%;width:100%">&nbsp;
+							</div>
+						</div>
+					</div>
+				</div>
+			
+			</div>
+			
+</div>
 
-<p>To give the paintings the look of a fresco, I spent days stripping back generations of wallpaper from the walls to reveal the hidden Georgian white plaster. This was a beautifully smooth surface to paint on and slightly cracked which immediately gave the paintings an aged, almost medieval quality.</p>
+<h2>A Taster Day to fit your schedule</h2>
+<p>
+	We offer 3 options for the Taster Day and model the agenda around your desired output. Choose the type of day you would like and place your booking. Francis will get in touch to schedule the session at a time that fits best into your schedule *.
+</p>
 
-<p>Over that summer a houseguest, called Nicky Bryant from Australia, was staying. She was employed to look after my two younger sisters, but she seemed to be just a friend of my mother’s. She painted some highly detailed wildflowers from life which still decorate an area just above the skirting around the fireplace. Unfortunately, these are now hidden behind furniture. She had a huge influence on my artistic development, and I’m sorry we lost touch.  She introduced me to the PreRaphaelites, the Newlyn School and most importantly John Singer Sargent, who became my artist hero.</p>
-
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/08.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/08.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/11.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/11.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/12.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/12.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/13.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/13.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/09.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/09.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/10.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/10.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-
-<p>Not that Sargent influenced the painting of this nursery; I was using watercolour rather than oils which is a completely different technique and more akin to medieval wall paintings or renaissance frescos. In that tradition, a particular favourite of mine is Mantegna’s Camera degli Sposi. Though I had not been to Mantua at that point, I knew it well from reproductions. I must have subconsciously borrowed the use of massive figures in a relatively small room and the way the composition negotiates around fireplaces, doors and windows.</p>
-
-<p>Through the painting of this room, I got to appreciate the brilliance of John Tenniel whose illustrations of Alice in Wonderland I found more compelling than Lewis Carroll’s Victorian prose which seemed somewhat dry. As Alice herself quite rightly suggests ‘….what’s the point of a book without pictures’.</p>
-
-<ul class="list">
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/14.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/14.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/15.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/15.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="third">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/16.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/16.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/17.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/17.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/essays/architect-in-wonderland/18.jpg">
-			<img src="/images/essays/architect-in-wonderland/thumbs/18.jpg" alt="Architect in Wonderland" />
-		</a>
-	</li>
-</ul>
-
-<p>Though I have not attempted a painting on this scale for many years, if the situation arose I would leap at the chance to paint a grand scale fresco or mural of some sort. It seems a little absurd given I am a full-time architect now with my own office. But in years gone by architects were routinely artists; Giotto, Michelangelo and El Greco being three of the most celebrated examples. I do feel it is to the detriment of architecture that architects are no longer artists as the two disciplines complement each other so well. Buildings designed by artists, as they were during the renaissance, aim to transport you to another world, like a great story.</p>
-
-<h2 id="francis-terry">Francis Terry</h2>
-
-    
-    
-      <div class="post-links">
-
-	<h4>You might also like...</h4>
-
-	<ul class="list">
-
-	
-		
-		
-
-			        <li class="quarter">
-          <a href="/thoughts/proportions-in-architecture-and-music/" alt="Proportions in Architecture and Music">
-            <img src="/images/essays/proportions-in-architecture-and-music/social.jpg" alt="Proportions in Architecture and Music" />
-            <h4>Proportions in Architecture and Music</h4>
-          </a>
-        </li>
-
-		
-
-			        <li class="quarter">
-          <a href="/thoughts/looking-for-spinoza/" alt="My Graphic Novel">
-            <img src="/images/essays/looking-for-spinoza/social-2.jpg" alt="My Graphic Novel" />
-            <h4>My Graphic Novel</h4>
-          </a>
-        </li>
-
-		
-
-			        <li class="quarter">
-          <a href="/thoughts/nppf-paragraph-79e-explained/" alt="NPPF Paragraph 79e Explained">
-            <img src="/images/essays/nppf-paragraph-79e-explained/social.jpg" alt="NPPF Paragraph 79e Explained" />
-            <h4>NPPF Paragraph 79e Explained</h4>
-          </a>
-        </li>
-
-		
-
-			        <li class="quarter">
-          <a href="/thoughts/beautiful-homes/" alt="Can Beautiful Homes Be Built in a Factory?">
-            <img src="/images/essays/beautiful-homes/social.jpg" alt="Can Beautiful Homes Be Built in a Factory?" />
-            <h4>Can Beautiful Homes Be Built in a Factory?</h4>
-          </a>
-        </li>
-
-		
-  
-	
-	
+<div class="taster-20190701 spacer-large">
+	<ul class="list price-list">
+		<li class="third price">
+			<h3>FULL DAY</h3>
+			<h4>Francis Terry & Associates offices</h4>
+			<p>Enjoy a focussed day with Francis Terry & Associates in their offices, developing the bones of your scheme.</p>
+			<p>10am - 4pm</p>
+			<lineout></lineout>
+			<p>£1200</p>
+			<small>Including VAT and expenses</small>
+		</li>
+		<li class="third price">
+			<h3>PART DAY</h3>
+			<h4>Francis Terry & Associates offices</h4>
+			<p>Enjoy a productive session with Francis Terry & Associates developing your scheme, yet get away early.</p>
+			<p>10am - 1pm</p>
+			<lineout></lineout>
+			<p>£900</p>
+			<small>Including VAT and expenses</small>
+		</li>
+		<li class="third price">
+			<h3>FULL DAY</h3>
+			<h4>at your home or office</h4>
+			<p>Francis Terry will come to your home, office or site and start developing the bones of your  scheme with you.</p>
+			<p>10am - 4pm</p>
+			<lineout></lineout>
+			<p>£1800</p>
+			<small>Including VAT and expenses</small>
+		</li>
 	</ul>
+</div>
+
+<div class="drawing-block spacer-large">
+			<div class="drawing-block-01">
+			</div>
+			<div class="drawing-block-02">
+				<h2 class="promo-large-text">Take home your drawings</h2>
+				<p>
+					At the end of the Taster Day, the drawings will be yours to keep and you will be free to develop them into a building, with or without our further assistance. There is no further financial commitment.
+				</p>
+			</div>
+		</div>
+
+
+<div class="spacer-large">
+	<h2>The Value of the Francis Terry Taster Day </h2>
+	<p>
+		<em>“The taster day was a great way to get to know Francis and develop a scheme quickly without any ongoing financial commitment. Like most clients, our requirements are very particular and Francis’s ability to draw a design in front of us allowed us to ensure we developed a proposal which satisfied our needs.”</em><br /><strong>- Private Client</strong>
+	</p>
+</div>
+
+
+<div class="box taster-book">
+	
+	<div class="taster-book-content">
+		
+	<h2>Book a Taster Day</h2>
+	
+	<div class="booking-options">
+		<p>
+			Phone: <span>01206 580528</span>
+		</p><p>
+			Email: <a href="mailto:francis@ftanda.co.uk?subject=Book a Taster Day">francis@ftanda.co.uk</a>
+		</p>
+	</div>
+
+	<div class="form-201907">
+		<h3 class="post-title">Book Online</h3>
+		<form action="https://formzest.lemonarc.com/65a74398-0d44-4ef5-84af-f7b6f720f699" method="post" id="booking-form">
+			<label>Name</label>
+			<input class="required" id="contact-name" type="text" name="name">
+			<label>Email</label>
+			<input class="required" id="contact-email" name="email" type="email">
+			<label>Details</label>
+			<textarea id="contact-message" name="Message"></textarea>
+			<select id="product-selector" name="product">
+				<option value="Part Day">Part Day</option>
+				<option value="Full Day">Full Day</option>
+				<option value="Full Day at your home">Full Day at your home or office</option>
+			</select>
+			<div id="consent">
+				<input type="checkbox" class="required" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a>
+			</div>
+			<input type="hidden" name="_next" value="https://ftanda.co.uk/taster-day-thanks" />
+			<input type="submit" value="Book Now" id="submit-button" class="cta-button g-recaptcha" data-sitekey="6LezsrYZAAAAAKXed055B5eQA0e6kdHAQhl5GvB3" data-callback='onSubmit' data-action='submit'>
+		</form>
+	</div>
+
+	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<script>
+	  function onSubmit(token) {
+	    document.getElementById("contact-form").submit();
+	  }
+	</script>
+	
+	</div>
 	
 </div>
-    
+
+<div class="taster-form-2">
+	<img src="/images/feature/taster-hero.jpg" />
+</div>
+
+<br /><br /><p class="small">
+	* These prices assume the property is in the UK.  The office will happily take on work overseas – please contact us to discuss.
+</p>
+
+<!--<h3>Work with Francis Terry for a day and discover what it would be like to bring your project to life working with our team</h3>-->
+
+<script type="text/javascript">
+    var api_url = 'https://ftanda.co.uk/api';
+    var api_stripe_key = 'pk_live_T8bOQw3VkAaxtMuPCA1jMgjD';
+</script>
+<script src="https://checkout.stripe.com/checkout.js"></script>
+<script src="/js/taster-day/index.js?1611238636702334248" type="text/javascript"></script>
+
     
     <div class="wrapper social-sharing">
-	<a href="https://facebook.com/sharer.php?u=https://ftanda.co.uk/thoughts/architect-in-wonderland/" class="fb" rel="nofollow" target="_blank" title="Share on Facebook">
+	<a href="https://facebook.com/sharer.php?u=https://ftanda.co.uk/taster-2019.txt" class="fb" rel="nofollow" target="_blank" title="Share on Facebook">
 		<img src="/images/social/social-sharing-button-fb-share.png" alt="Share on Facebook" />
 	</a>
-	<a href="https://twitter.com/intent/tweet?text=Architect in Wonderland&url=https://ftanda.co.uk/thoughts/architect-in-wonderland/&via=FTerryArchitect&related=FTerryArchitect" class="tweet" rel="nofollow" target="_blank" title="Share on Twitter">
+	<a href="https://twitter.com/intent/tweet?text=Taster Day&url=https://ftanda.co.uk/taster-2019.txt&via=FTerryArchitect&related=FTerryArchitect" class="tweet" rel="nofollow" target="_blank" title="Share on Twitter">
 		<img src="/images/social/social-sharing-button-tweet.png" alt="Share on Twitter" />
 	</a>
-	<a href="https://plus.google.com/share?url=https://ftanda.co.uk/thoughts/architect-in-wonderland/" class="gplus" rel="nofollow" target="_blank" title="Share on Google+">
+	<a href="https://plus.google.com/share?url=https://ftanda.co.uk/taster-2019.txt" class="gplus" rel="nofollow" target="_blank" title="Share on Google+">
 		<img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" />
 	</a>
 </div>
@@ -374,7 +329,6 @@
   </div>
 
 </article>
-</div>
 
 				</div>
     </div>		
