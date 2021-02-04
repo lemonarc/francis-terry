@@ -184,6 +184,18 @@
 						margin: $unit*3 auto;
 					}
 				}
+				h3 {
+					margin: $unit*4 auto $unit*2;
+					text-align: center;
+					text-shadow: 0 0 16px $black;
+				}
+				a {
+					color: #fff;
+					&:hover,
+					&:focus {
+						color: $link-hover;	
+					}
+				}
 			}
 		}
 	}
@@ -273,6 +285,10 @@
 		background: linear-gradient(to bottom, rgba(0,0,0,0.33) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
 		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
 		height: 100vh;
+
+		@media only screen and (max-height: 600px) {
+			min-height: $unit*60;
+		}
 	}
 }
 
@@ -312,6 +328,8 @@
     bottom: 10px;
 	color: #fff;
 	font-weight: 400;
+	padding-left: 5%;
+    padding-right: 5%;
 	position: absolute;
     left: 0;
     right: 0;
@@ -1428,4 +1446,136 @@ h2.promo-large-text {
 
 #booking-details.has-error a {
 	color: #000000;
+}
+
+
+
+/* Home page Beta */
+
+.home-page-beta {
+	background: $black;
+
+	.projectBackground {
+		background-image: url('/images/home/201908ES.jpg');
+	}
+	
+	.fadeshade {
+		/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+100&0.33+0,0+100 */
+		background: -moz-linear-gradient(top, rgba(0,0,0,0.33) 0%, rgba(0,0,0,0) 100%); /* FF3.6-15 */
+		background: -webkit-linear-gradient(top, rgba(0,0,0,0.33) 0%,rgba(0,0,0,0) 100%); /* Chrome10-25,Safari5.1-6 */
+		background: linear-gradient(to bottom, rgba(0,0,0,0.33) 0%,rgba(0,0,0,0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+		height: auto;
+		min-height: 100vh;
+	}
+
+	.site-header {
+		z-index: 10;
+	}
+	
+	.full-page {
+		height: auto;
+		min-height: 100vh;
+		
+		// @media only screen and (max-height: 400px) {
+		// 	height: auto;
+		// }
+
+		.home {
+			margin: 0 auto;
+			max-width: calc(1809px - (#{$unit} * 6));
+			position: relative;
+			width: 100%;
+
+			.home-elements {
+				align-items: center;
+				display: flex;
+				flex-direction: column;
+				justify-content: space-between;
+				height: auto;
+				min-height: 100vh;
+			
+				.title-area {
+					max-width: calc(1200px - 40px);
+					padding-top: 60px;
+				
+					@include media-query($on-tablet) {
+						max-width: 90%;
+					}
+					@media only screen and (max-height: 400px) {
+						padding: 50px 0 1px;
+					}
+				}
+								
+				.logo {
+					margin-top: 20px;
+					max-width: 900px;
+				}
+				
+				h2 {
+					color: $white;
+					letter-spacing: 6px;
+					margin: 3rem auto;
+					padding-bottom: 2rem;
+					text-align: center;
+					text-shadow: 0 0 16px $black;
+					text-transform: uppercase;
+				
+					@include media-query($on-mobile) {
+						font-size: 1.2em;
+					}
+					@media only screen and (max-height: 400px) {
+						margin: $unit*3 auto;
+					}
+				}
+		
+				h3 {
+					font-weight: 300;
+					margin: 0 auto $unit/2;
+					text-align: center;
+					text-shadow: 0 0 8px $black;
+					
+					&:hover,
+					&:focus {
+						text-shadow: 0 0 8px $white;
+						text-shadow: none;
+					}
+
+					&.subsubheading {
+
+						@media only screen and (min-width: 600px) {
+							font-size: 1.6em;
+						}
+					}
+
+					&.noticeheading {
+
+						@media only screen and (min-width: 600px) {
+							font-size: 1.4em;
+						}
+					}
+				}
+				.promo-area {
+					padding-bottom: 12rem;
+				}
+				p {
+					margin: 0 auto;
+					padding-bottom: 2rem;
+					text-align: center;
+					text-shadow: 0 0 8px $black;
+				}
+		
+				a {
+					color: $white;
+
+					&:hover h3,
+					&:hover p,
+					&:focus h3,
+					&:focus p {
+						text-shadow: 0 0 5px $white;	
+					}
+				}
+			}
+		}
+	}
 }

@@ -1,37 +1,40 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+	{% include head.html %}
 
-  {% if page.bodyclass %}
-		<body class="{{ page.bodyclass }}">
+	{% if page.bodyclass %}
+	<body class="{{ page.bodyclass }}">
 	{% else %}
-		<body>
-	{% endif %}
+	<body>
+	{% endif %}     <div>
 		
 		<div class="full-page {{ page.splash-background }}">
 			
 			{% if page.splash-background == "projectBackground" %}
-				<div class="fadeshade">
+			<div class="fadeshade">
 			{% endif %}
 			
-
 			{% include header.html %}
 
 			<div>
-				{{ content }}
+			{{ content }}
 			</div>
+
+			{% if page.splash-background == "projectBackground" %}
+			</div>
+			{% endif %}
 			
 			{% if page.url == "/index20190810.html" %}
-				</div>
+			</div>
 			{% endif %}
 		
-		</div>
+		</div>       </div>
 		
 		{% if page.prefooter %}
-			<div class="wrapper {% if page.prefooter == 'mono' %}desaturate{% endif %}">
-				{% include prefooter.html %}				
-			</div>
+		<div class="wrapper {% if page.prefooter == 'mono' %}desaturate{% endif %}">
+			{% include prefooter.html %}				
+		</div>
 		{% endif %}
 		
 		{% include footer.html %}
