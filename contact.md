@@ -9,7 +9,7 @@ article: article
 
 <form action="https://formzest.lemonarc.com/773ffef4-d646-47df-94a8-69eeac026144" method="post" id="contact-form" onsubmit="if(document.getElementById('agree').checked) { return true; } else { alert('Please indicate that you have read and agree to the Privacy Policy'); return false; }">
 	<input type="text" name="_gotcha" style="display:none" />
-	<input type="hidden" name="_next" value="/contact-success">
+	<input type="hidden" name="_next" value="/contact-success/">
 	<input type="hidden" name="_subject" value="Francis Terry and Associates Contact Form" />
 	<input type="text" name="Name" placeholder="Your Name" required>
 	<input type="email" name="_replyto" placeholder="Your Email" required>
