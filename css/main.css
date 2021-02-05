@@ -1282,7 +1282,7 @@ h2.promo-large-text { font-size: 4rem; }
 
 .home-page-beta .full-page .home .home-elements .logo { margin-top: 20px; max-width: 900px; }
 
-.home-page-beta .full-page .home .home-elements h2 { color: #fff; letter-spacing: 6px; margin: 3rem auto; padding-bottom: 2rem; text-align: center; text-shadow: 0 0 16px #000; text-transform: uppercase; }
+.home-page-beta .full-page .home .home-elements h2 { color: #fff; letter-spacing: 6px; margin: 3rem auto; padding-bottom: 1rem; text-align: center; text-shadow: 0 0 16px #000; text-transform: uppercase; }
 
 @media screen and (max-width: 500px) { .home-page-beta .full-page .home .home-elements h2 { font-size: 1.2em; } }
 
