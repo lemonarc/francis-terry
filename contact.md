@@ -16,7 +16,7 @@ article: article
 	<textarea name="Message" placeholder="Your Message" required></textarea>
 	<p><input type="checkbox" name="checkbox" value="check" id="agree" required /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></p>
 	<div class="g-recaptcha" data-sitekey="6LcACVkaAAAAAIkw4UN1HXgwV0TQC-WU6ZQJsazw"></div>
-    <input type="submit" value="Send">
+    <input type="submit" value="Send" />
 </form>
 
 <script src="https://www.google.com/recaptcha/api.js" async defer>

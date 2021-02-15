@@ -109,7 +109,7 @@ permalink: /taster-day/
 
 	<div class="form-201907">
 		<h3 class="post-title">Book Online</h3>
-		<form action="https://formzest.lemonarc.com/65a74398-0d44-4ef5-84af-f7b6f720f699" method="post" id="booking-form">
+		<form action="https://formzest.lemonarc.com/65a74398-0d44-4ef5-84af-f7b6f720f699" method="post" id="booking-form" onsubmit="if(document.getElementById('agree').checked) { return true; } else { alert('Please indicate that you have read and agree to the Privacy Policy'); return false; }">
 			<label>Name</label>
 			<input class="required" id="contact-name" type="text" name="name">
 			<label>Email</label>
@@ -122,19 +122,23 @@ permalink: /taster-day/
 				<option value="Full Day at your home">Full Day at your home or office</option>
 			</select>
 			<div id="consent">
-				<input type="checkbox" class="required" id="agree" /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a>
+				<input type="checkbox" name="checkbox" class="required" id="agree" required /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a>
 			</div>
 			<input type="hidden" name="_next" value="{{ site.url }}/taster-day-thanks/" />
-			<input type="submit" value="Book Now" id="submit-button" class="cta-button g-recaptcha" data-sitekey="6LezsrYZAAAAAKXed055B5eQA0e6kdHAQhl5GvB3" data-callback='onSubmit' data-action='submit'>
+			<div class="g-recaptcha" data-sitekey="6LcACVkaAAAAAIkw4UN1HXgwV0TQC-WU6ZQJsazw"></div>
+			<input type="submit" value="Book Now" id="submit-button" class="cta-button" />
 		</form>
+
+		<script src="https://www.google.com/recaptcha/api.js" async defer>
+		</script>
 	</div>
 
-	<script src="https://www.google.com/recaptcha/api.js"></script>
+	<!--<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 	<script>
 	  function onSubmit(token) {
 	    document.getElementById("booking-form").submit();
 	  }
-	</script>
+	</script>-->
 	
 	</div>
 	
