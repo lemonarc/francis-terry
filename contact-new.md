@@ -14,14 +14,11 @@ article: article
 	<input type="email" name="_replyto" placeholder="Your Email" required>
 	<textarea name="Message" placeholder="Your Message" required></textarea>
 	<p><input type="checkbox" name="checkbox" value="check" id="agree" required /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></p>
-	<input type="submit" value="Send" class="g-recaptcha" data-sitekey="6LezsrYZAAAAAKXed055B5eQA0e6kdHAQhl5GvB3" data-callback='onSubmit' data-action='submit'>
+	<div class="g-recaptcha" data-sitekey="6LezsrYZAAAAAKXed055B5eQA0e6kdHAQhl5GvB3"></div>
+    <input type="submit" value="Send">
 </form>
 
-<script src="https://www.google.com/recaptcha/api.js"></script>
-<script>
-  function onSubmit(token) {
-    document.getElementById("contact-form").submit();
-  }
+<script src="https://www.google.com/recaptcha/api.js" async defer>
 </script>
 
 <ul class="contact-list">
