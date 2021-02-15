@@ -3,7 +3,6 @@ layout: page
 pageclass: contactpage
 title: Contact
 excerpt: "Contact the team at Francis Terry and Associates"
-permalink: /contact/
 article: article
 ---
 

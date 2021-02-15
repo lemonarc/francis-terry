@@ -1,8 +1,9 @@
 ---
 layout: page
 pageclass: contactpage
-title: Contact Current
+title: Contact
 excerpt: "Contact the team at Francis Terry and Associates"
+permalink: /contact/
 article: article
 ---
 
@@ -14,7 +15,7 @@ article: article
 	<input type="email" name="_replyto" placeholder="Your Email" required>
 	<textarea name="Message" placeholder="Your Message" required></textarea>
 	<p><input type="checkbox" name="checkbox" value="check" id="agree" required /> I have read and agree to the <a href="/privacy" alt="Privacy Policy" rel="noopener" target="_blank">Privacy Policy</a></p>
-	<div class="g-recaptcha" data-sitekey="6LezsrYZAAAAAKXed055B5eQA0e6kdHAQhl5GvB3"></div>
+	<div class="g-recaptcha" data-sitekey="6LcACVkaAAAAAIkw4UN1HXgwV0TQC-WU6ZQJsazw"></div>
     <input type="submit" value="Send">
 </form>
 
