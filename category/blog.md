@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Thoughts
-subtitle: Monthly articles about architecture by Francis Terry
+subtitle: Monthly musings by Francis Terry
 category: blog
 article: article
 redirect_from:
