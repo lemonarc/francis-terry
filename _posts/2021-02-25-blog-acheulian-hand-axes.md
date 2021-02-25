@@ -6,9 +6,9 @@ excerpt: "Quality is so important. It is the different between mass produced ble
 preview: "Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous."
 post_date: 25 February 2021
 permalink: /thoughts/acheulian-hand-axes/
-image_tall: /images/essays/acheulian-hand-axes/tall.jpg
-image_wide: /images/essays/acheulian-hand-axes/wide.jpg
-social_image: /images/essays/acheulian-hand-axes/social.jpg
+image_tall: /images/essays/acheulian-hand-axes/tall-2.jpg
+image_wide: /images/essays/acheulian-hand-axes/wide-2.jpg
+social_image: /images/essays/acheulian-hand-axes/social-2.jpg
 comments: /thoughts/acheulian-hand-axes/
 ---
 
