@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [blog, theory]
-title: "Acheulian Hand Axes"
+title: "Our Ancient Love of Quality"
 excerpt: "Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous."
 preview: "Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous."
 post_date: 25 February 2021
@@ -19,8 +19,6 @@ comments: /thoughts/acheulian-hand-axes/
 		</a>
 	</li>
 </ul>
-
-(Image of bread)
 
 Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous. Whether it is the pleasure of sinking your teeth into a perfect slice of bread or the sensation of turning a well-made door handle, we humans love quality in all its many forms. 
 
