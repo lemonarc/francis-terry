@@ -50,7 +50,7 @@ A while ago I was in a discussion with some architects whose taste was the polar
 	</li>
 </ul>
 
-It is the quality of the finished buildings which is the reason I take so much pleasure in designing country houses. My clients also share this passion, and we go to great lengths to satisfy this desire. For example, we recently completed an orangery in Norfolk designed in brick which demanded immense care and attention to detail to deliver the pristine finish required. We were using a strong coloured red brick with a white mortar which would really show up any slight mistakes and poor workmanship. This was extremely hard to do but everyone felt that the effort was worthwhile.
+It is the quality of the finished buildings which is the reason I take so much pleasure in designing country houses. My clients also share this passion, and we go to great lengths to satisfy this desire. For example, we recently completed an orangery in Norfolk designed in brick which demanded immense care and attention to detail and deliver the pristine finish required. We were using a strong coloured red brick with a white mortar which would really show up any slight mistakes and poor workmanship. This was extremely hard to do but everyone felt that the effort was worthwhile.
 
 <ul class="list">
 	<li class="half">
