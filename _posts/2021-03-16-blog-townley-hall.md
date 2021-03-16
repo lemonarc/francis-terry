@@ -13,14 +13,14 @@ comments: /thoughts/townley-hall/
 ---
 
 <ul class="list">
-	<li class="half">
+	<li class="townley-2-3">
 		<a class="fancybox" rel="group" href="/images/essays/townley-hall/01.jpg">
-			<img class="lazy" src="/images/essays/townley-hall/thumbs/01.jpg" alt="{{ page.title }}" />
+			<img class="lazy" src="/images/essays/townley-hall/01.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
-	<li class="half">
+	<li class="townley-1-3">
 		<a class="fancybox" rel="group" href="/images/essays/townley-hall/02.jpg">
-			<img class="lazy" src="/images/essays/townley-hall/thumbs/02.jpg" alt="{{ page.title }}" />
+			<img class="lazy" src="/images/essays/townley-hall/thumbs/02a.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
