@@ -8,6 +8,14 @@ social_image: /images/social/social-office.jpg
 article: article
 ---
 
+<div class="practice">
+<p>We are an architectural practice engaged in a broad range of projects both in the UK and overseas.  Our approach is to design buildings which satisfy the needs of our clients while simultaneously creating beautiful architecture.  The team has a wealth of experience in design and construction which is combined with a thorough understanding of the rules of classical architecture. </p>
+
+<p>For a client, the commissioning of a building can be a wonderful experience and we aim to make this process both enjoyable and stimulating.  We work in a variety of ways depending on the level of involvement required.  We are very happy to collaborate alongside a client's team or with professionals known to us.  For us, no two projects are alike and we enjoy the different challenges each one brings. </p>
+</div>
+
+<lineout></lineout>
+
 <ul class="list blog">
 	<li id="francis_terry">
 		<a href="/practice/francis-terry/">

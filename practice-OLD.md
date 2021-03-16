@@ -3,7 +3,6 @@ layout: page
 pageclass: practice-page
 title: Francis Terry and Associates Ltd
 excerpt: "The team at Francis Terry and Associates who are designers of new-build and restorations of classical Georgian style architecture and country houses"
-permalink: /practice-old-do-not-use/
 social_image: /images/social/social-office.jpg
 article: article
 ---
