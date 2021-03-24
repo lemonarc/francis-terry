@@ -193,3 +193,5 @@ The rooms that surround the rotunda continue the serene simplicity of the elevat
 Townley is the end of a long tradition of classical architecture stretching back in an unbroken line to the Renaissance. During the late 18th century this lineage was starting to fragment as gothic, chinoiserie and a myriad of other styles became fashionable. Eventually gothic dominated and Francis Johnson responded by becoming a master of this style too. It would be interesting to speculate how differently the modernist movement would have evolved if it were not for a hostile reaction to the sketchbook froofiness of the Victorians, and instead took off from where Townley landed. Perhaps the architecture of the 20th century would have more taste, charm and dignity.
 
 ## Francis Terry
+
+<p class="small">Exterior pictures by MVK Architects</p>
