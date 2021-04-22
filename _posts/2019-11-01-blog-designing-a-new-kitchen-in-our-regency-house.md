@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, buildings]
 title: "New Kitchen"
 excerpt: "Earlier this year, Country Life, Historic Houses and Neptune launched a competition to celebrate the best new kitchens in old spaces. Our recently completed kitchen fits this brief perfectly and we are thrilled to be shortlisted down to the last three."
 preview: "Earlier this year, Country Life, Historic Houses and Neptune launched a competition to celebrate the best new kitchens in old spaces. Our recently completed kitchen fits this brief perfectly and we are thrilled to be shortlisted down to the last three."

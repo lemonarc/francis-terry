@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history]
+categories: [blog, buildings]
 title: The Making of the Erechtheion Capital
 excerpt: "One of the most universally adored details of all classical architecture is the Ionic capital at the Erechtheion on the north side of the Acropolis..."
 preview: "One of the most universally adored details of all classical architecture is the Ionic capital at the Erechtheion on the north side of the Acropolis, built between 421 and 406 BC. Phidias was both sculptor and mason of the structure and was employed by Pericles..."

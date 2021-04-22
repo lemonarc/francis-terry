@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: "Edwardian Classical Architecture in Manchester"
 excerpt: "Until recently my knowledge of Manchester architecture was limited to the inside gatefold of ‘The Queen is Dead’ LP. This shows the Smith’s standing outside the Salford Lads Club, where a terracotta Scamozzi Ionic capital can be seen cheekily peaking our over Morissey’s shoulder. I imagined the rest of the city continued in this vein, which indeed it does but with a scale, grandeur and flamboyance I could have only dreamed of."
 preview: "Until recently my knowledge of Manchester architecture was limited to the inside gatefold of ‘The Queen is Dead’ LP. This shows the Smith’s standing outside the Salford Lads Club, where a terracotta Scamozzi Ionic capital can be seen cheekily peaking our over Morissey’s shoulder. I imagined the rest of the city continued in this vein, which indeed it does but with a scale, grandeur and flamboyance I could have only dreamed of."

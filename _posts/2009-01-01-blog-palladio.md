@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history, theory]
+categories: [blog, theory, buildings]
 title: 'Palladio: The One Trick Pony'
 excerpt: "An essay by Francis Terry about the great Italian classical architect Andrea Palladio discussing his achievements from the perspective of a modern designer"
 preview: "Palladio-mania is just going too far.  Last year I was invited to two Palladio parties on the same evening, one was at the RIBA and the other at the Italian Embassy.  Wherever I look I see articles, symposiums, exhibitions, publications, parties and even a church service..."

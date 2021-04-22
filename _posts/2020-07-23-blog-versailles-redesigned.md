@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: "Versailles Redesigned"
 excerpt: "When I walked up to the front of Versailles I was struck by how unimpressive it was despite all the money spent on it. When I returned home and aided by the extra time which the coronavirus lockdown has generated, I set myself the task of redesigning Versailles."
 preview: "When I walked up to the front of Versailles I was struck by how unimpressive it was despite all the money spent on it. When I returned home and aided by the extra time which the coronavirus lockdown has generated, I set myself the task of redesigning Versailles."

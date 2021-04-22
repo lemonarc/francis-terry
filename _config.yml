@@ -48,10 +48,15 @@ markdown: kramdown
 encoding: utf-8
 
 plugins:
+  - jekyll-paginate-v2
   - jekyll-redirect-from
   - jekyll-feed
 
 permalink: pretty
+
+pagination:
+  per_page: 10
+  permalink: '/category/blog/:num/'
 
 # Exclude from processing.
 # The following items will not be processed, by default.

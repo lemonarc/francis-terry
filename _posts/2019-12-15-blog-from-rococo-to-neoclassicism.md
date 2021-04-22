@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, buildings]
 title: "The Architecture of the 18th Century: From Rococo to NeoClassicism"
 excerpt: "A few weeks ago I did a lecture on the architecture of the 18th century. This century is where I go routinely for inspiration. There is something magical about Georgian architecture which everyone seems to enjoy no matter who they are."
 preview: "A few weeks ago I did a lecture on the architecture of the 18th century. This century is where I go routinely for inspiration. There is something magical about Georgian architecture which everyone seems to enjoy no matter who they are."

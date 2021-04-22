@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history, places]
+categories: [blog, buildings]
 pageclass: temple-of-ilissus-page
 title: The Temple of Ilissus
 excerpt: "When a client commissioned me to draw an ionic capital, I decided to render the capital at the Temple of Ilissus, the 'go-to' order for Greek Revival buildings."

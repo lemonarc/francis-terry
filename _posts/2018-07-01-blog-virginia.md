@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history]
+categories: [blog, buildings]
 title: Jefferson’s University of Virginia
 excerpt: "Jefferson was a great architect because he had an instinct for elegant phasing, which is the essence of all good architecture. His design of the University of Virginia in Charlottesville is an exceptional work of architecture."
 preview: "Jefferson was a great architect because he had an instinct for elegant phasing, which is the essence of all good architecture. His design of the University of Virginia in Charlottesville is an exceptional work of architecture."

@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Theory
+title: 'Thoughts: Theory'
 category: theory
 ---

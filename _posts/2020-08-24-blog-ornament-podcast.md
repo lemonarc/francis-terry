@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, theory]
 title: "Ornament Podcast"
 excerpt: "A few weeks ago I chaired the Traditional Architecture Group’s first round table discussion and we chose ornament as the subject. It was a fascinating discussion you can listen to as a podcast. You are in for a treat!"
 preview: "A few weeks ago I chaired the Traditional Architecture Group’s first round table discussion and we chose ornament as the subject. It was a fascinating discussion you can listen to as a podcast. You are in for a treat!"

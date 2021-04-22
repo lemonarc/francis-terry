@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history, places]
+categories: [blog, buildings, annecdotes]
 title: 'A Holiday in Venice'
 excerpt: "Francis Terry has taken on the chairmanship of the Traditional Architecture Group (TAG), and shares his thoughts on the society"
 preview: "This year we chose Venice for our family holiday. We stayed on the Lido so that we could achieve the right balance between beach and culture and keep everybody happy. I have not been to Venice for several years..."

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, annecdotes]
 title: "How to Draw like Raphael"
 excerpt: "The highest praise one can give an artist is to say he or she draws like Raphael. It comes in the same package as writing like Shakespeare or ‘bending it like Beckham’. As I can’t write poetry and don’t play football the latter two challenges are not open to me, but drawing like Raphael... how hard can it be?"
 preview: "The highest praise one can give an artist is to say he or she draws like Raphael. It comes in the same package as writing like Shakespeare or ‘bending it like Beckham’. As I can’t write poetry and don’t play football the latter two challenges are not open to me, but drawing like Raphael... how hard can it be?"

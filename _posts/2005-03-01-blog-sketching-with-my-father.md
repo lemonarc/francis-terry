@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history]
+categories: [blog, annecdotes]
 title: 'Sketching with my Father'
 excerpt: "An essay about Francis Terry's numerous sketching holidays in Italy and other European cities with this father the classical architect Quinlan Terry CBE."
 preview: "An essay about Francis Terry's numerous sketching holidays in Italy and other European cities with this father the classical architect Quinlan Terry CBE."

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, annecdotes]
 title: "Three Weddings and a Lock In"
 excerpt: "In these days, when travel restrictions are foisted upon us, I have found myself reminiscing about adventures of days gone by.  Years ago, in my student days, I measured the Raimondi chapel, which is a side chapel dedicated to St Francis in San Pietro in Montori on the Janiculum hill in Rome. The chapel was designed by Bernini and filled with sculpture from his studio."
 preview: "In these days, when travel restrictions are foisted upon us, I have found myself reminiscing about adventures of days gone by.  Years ago, in my student days, I measured the Raimondi chapel, which is a side chapel dedicated to St Francis in San Pietro in Montori on the Janiculum hill in Rome. The chapel was designed by Bernini and filled with sculpture from his studio."

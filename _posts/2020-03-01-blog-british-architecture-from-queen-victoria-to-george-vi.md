@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, buildings]
 title: "An Introduction to British Architecture from Queen Victoria to George VI"
 excerpt: "My blog this month is two in-house lectures I have given to my office over the past few weeks. The first is Victorian and Edwardian Architecture and the second is English architecture between the Wars."
 preview: "My blog this month is two in-house lectures I have given to my office over the past few weeks. The first is Victorian and Edwardian Architecture and the second is English architecture between the Wars."

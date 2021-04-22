@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: Stowe Revisited
 excerpt: "School reunions can be stressful, 'dress informal' says the invitation, but how informal? At least they didn’t demand 'smart casual' – whatever that is. After much indecision, I headed west to Stowe, my old school."
 preview: "School reunions can be stressful, 'dress informal' says the invitation, but how informal? At least they didn’t demand 'smart casual' – whatever that is. After much indecision, I headed west to Stowe, my old school."

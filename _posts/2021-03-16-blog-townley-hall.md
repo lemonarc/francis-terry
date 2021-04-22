@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: "Townley Hall - A Pantheon in Ireland"
 excerpt: "One of my favourite houses is Townley Hall in in County Louth, Ireland. It is not open to the public but the institution that owns it are happy for enthusiasts to look round, which I did a many years ago."
 preview: "One of my favourite houses is Townley Hall in in County Louth, Ireland. It is not open to the public but the institution that owns it are happy for enthusiasts to look round, which I did a many years ago."

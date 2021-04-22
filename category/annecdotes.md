@@ -1,5 +1,5 @@
 ---
 layout: category
-title: Annecdotes
+title: 'Thoughts: Annecdotes'
 category: annecdotes
 ---

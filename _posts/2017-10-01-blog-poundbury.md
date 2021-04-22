@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history, places]
+categories: [blog, buildings]
 title: Poundbury
 excerpt: "Poundbury in Dorset is a new town designed by a variety of architects under a master plan by Leon Krier. Earlier this month I was invited there, to guide a tour from the ICAA."
 preview: "Poundbury in Dorset is a new town designed by a variety of architects under a master plan by Leon Krier. Earlier this month I was invited there, to guide a tour from the ICAA."

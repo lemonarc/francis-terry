@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, annecdotes]
 title: "Architect in Wonderland"
 excerpt: "When I was growing up I was unsure about whether I wanted to be an architect or an artist. Over a summer holiday, in my late teens, I painted my younger sister’s bedroom with scenes from Alice in Wonderland."
 preview: "When I was growing up I was unsure about whether I wanted to be an architect or an artist. Over a summer holiday, in my late teens, I painted my younger sister’s bedroom with scenes from Alice in Wonderland."

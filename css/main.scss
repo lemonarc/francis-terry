@@ -25,12 +25,17 @@ $grey:       		#444444;
 $grey-light: 		lighten($grey, 20%);
 $grey-dark:  		darken($grey, 20%);
 $grey-pale: 		lighten($grey, 30%);
+$red:       		#AD0000;
+$red-light: 		#FF0000;
+$red-dark:  		#620000;
+$blue:              #007FCB;
+$blue-grey:         #66849E;
 
 $text-color:       	$grey;
 $background-color: 	$white;
 
 $link:              $grey-dark;
-$link-hover:        $grey-light;
+$link-hover:        $blue;
 
 // Width of the content area
 $content-width:    	100%;
@@ -71,6 +76,7 @@ $on-full:           100%;
 @import
         "base",
         "header",
+        "navigation",
         "footer",
         "layout",
         "pages",

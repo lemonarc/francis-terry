@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history, places]
+categories: [blog, buildings]
 title: Berlin and Potsdam
 excerpt: "Berlin is a great place to visit for a few days. The city is a manageable scale full of fascinating museums, superb architecture and hundreds of lovely and varied restaurants."
 preview: "Berlin is a great place to visit for a few days. The city is a manageable scale full of fascinating museums, superb architecture and hundreds of lovely and varied restaurants."

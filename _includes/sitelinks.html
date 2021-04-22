@@ -28,13 +28,21 @@
 
 		{% endfor %}
   
-	{% elsif page.categories contains "history" %}
-		{% assign recentPosts = site.categories.history | where_exp:"item", "item.url != page.url" %}
+	{% elsif page.categories contains "buildings" %}
+		{% assign recentPosts = site.categories.buildings | where_exp:"item", "item.url != page.url" %}
 		{% for post in recentPosts limit:4 %}
 
 			{% include sitelinkcontent.html %}
 
 		{% endfor %}
+  
+		{% elsif page.categories contains "history" %}
+			{% assign recentPosts = site.categories.history | where_exp:"item", "item.url != page.url" %}
+			{% for post in recentPosts limit:4 %}
+	
+				{% include sitelinkcontent.html %}
+	
+			{% endfor %}
  
 	{% elsif page.categories contains "places" %}
 		{% assign recentPosts = site.categories.places | where_exp:"item", "item.url != page.url" %}

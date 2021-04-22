@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: "The Mistley Towers  - Piazza Navona in Essex"
 excerpt: "Arriving too early to catch a train from Manningtree station, a friend and I used up the time looking at the Mistley towers, only a short distance away."
 preview: "Arriving too early to catch a train from Manningtree station, a friend and I used up the time looking at the Mistley towers, only a short distance away."

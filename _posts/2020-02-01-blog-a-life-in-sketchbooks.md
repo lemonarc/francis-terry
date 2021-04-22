@@ -1,7 +1,7 @@
 ---
 layout: post
 pageclass: blog-post
-categories: [blog, history]
+categories: [blog, annecdotes]
 title: "A Life in Sketchbooks"
 excerpt: "I have a collection of my own sketch books going back forty years. These are like a visual diary and they chart my various artistic and architectural interests over the years."
 preview: "I have a collection of my own sketch books going back forty years. These are like a visual diary and they chart my various artistic and architectural interests over the years."

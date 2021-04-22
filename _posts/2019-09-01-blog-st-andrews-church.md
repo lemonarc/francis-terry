@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: "St Andrew’s Felixstowe – The Last Wool Church"
 excerpt: "St Andrew’s, Felixstowe is an uncharacteristic early work by Erith designed between 1929 and 1930. He worked in collaboration with Hilda Mason, who, as the older architect was probably the dominant force in the project."
 preview: "St Andrew’s, Felixstowe is an uncharacteristic early work by Erith designed between 1929 and 1930. He worked in collaboration with Hilda Mason, who, as the older architect was probably the dominant force in the project."

@@ -1,8 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
-image_tall: 
-image_wide: 
+categories: [blog, buildings]
 title: 'My Kind of Town: Washington DC'
 excerpt: "An essay by Francis Terry about living in Washington DC in 1992, with a focus on the beautiful classical buildings of the city"
 preview: "In the early 1990s, Washington DC was not just the capital, but also the murder capital, of the United States. Despite this, I found it a surprisingly enjoyable place to live, when I spent the year out before my diploma there, working for the eminent classical architect Allan Greenberg..."

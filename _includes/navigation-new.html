@@ -10,7 +10,7 @@
             </span>
       </label>
 
-      <div class="trigger">
+      <!--<div class="trigger">
             <a class="page-link" href="/category/projects">Projects</a>
 		<a class="page-link" href="/practice/">Practice</a>
 		<a class="page-link" href="/category/urbanism">Urbanism</a>
@@ -18,7 +18,7 @@
 		<a class="page-link" href="/category/news">News</a>
 		<a class="page-link" href="/book/">Books</a>
 		<a class="page-link" href="/category/blog">Thoughts</a>
-		<!--<a class="page-link" href="/category/urbanism">Urbansim</a>-->
+		<a class="page-link" href="/category/urbanism">Urbansim</a>
             <div class="page-link sub-menu-trigger">
                   <span class="sub-menu-title">Videos
                   </span>
@@ -31,8 +31,23 @@
                         </li>
                   </ul>
             </div>
-		<!--<a class="page-link" href="/podcasts/">Podcasts</a>-->
+		<a class="page-link" href="/podcasts/">Podcasts</a>
       	<a class="page-link" href="/contact/">Contact</a>
 		<a class="page-link taster-link" href="/taster-day/">Taster Day</a>
+      </div>-->
+
+      <div class="trigger">
+            {% for entry in site.data.entries %}
+                  <h2>{{ entry.title }}</h2>
+                  {% for subcategory in entry.subcategories %}
+                  <h3>{{ subcategory.title }}</h3>
+                  <ul>
+                        {% for item in subcategory.items %}
+                        <li><a href="{{ item.href }}">{{ item.title }}</a></li>
+                        {% endfor %}
+                  </ul>
+                  {% endfor %}
+            {% endfor %}
       </div>
+
 </nav>

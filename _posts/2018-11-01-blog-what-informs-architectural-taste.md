@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, theory, annecdotes]
 title: "What Informs Architectural Taste?"
 excerpt: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."
 preview: "Taste is a curious thing and I have often wondered how it works. Things considered tasteful can stop being tasteful, seemingly for no apparent reason, but there must be more to it than that."

@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, annecdotes]
 title: "Amor Fati - A Classical Attitude to Covid-19"
 excerpt: "During this pandemic, I could be criticised for nonchalantly blogging about the finer points of classical architecture. So, I felt it is time to write something relevant to this crisis and from the heart."
 preview: "During this pandemic, I could be criticised for nonchalantly blogging about the finer points of classical architecture. So, I felt it is time to write something relevant to this crisis and from the heart."

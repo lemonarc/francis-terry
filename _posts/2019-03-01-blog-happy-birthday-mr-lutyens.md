@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, history]
+categories: [blog, buildings]
 title: Happy Birthday Mr Lutyens
 excerpt: "As everyone knows, the 29th March this year is a big day in European politics, but, if like me, you feel bored by the process and anxious by the result; might I suggest celebrating 150th Lutyens’s birthday, which coincidentally is on the same day?"
 preview: "As everyone knows, the 29th March this year is a big day in European politics, but, if like me, you feel bored by the process and anxious by the result; might I suggest celebrating 150th Lutyens’s birthday, which coincidentally is on the same day?"

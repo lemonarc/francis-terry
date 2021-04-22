@@ -187,6 +187,19 @@ a {
 		color: $link-hover;
     }
 }
+p a {
+    color: $link-hover;
+    text-decoration: none;
+
+    &:visited {
+    }
+
+    &:hover {
+        text-decoration: none;
+		color: $link;
+    }
+}
+
 
 /* Buttons
 ==================== */

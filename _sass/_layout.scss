@@ -193,22 +193,6 @@ header,
     }
 }
 
-.blog-post a.post-link,
-.news-post .post-content a {
-    display: initial;
-	text-decoration: underline;
-	
-	&:hover,
-	&:focus {
-		text-decoration: none;
-	}
-}
-.news-post .post-links a,
-.news-post .post-content .list a,
-.news-post .post-content a.button {
-	text-decoration: none;
-}
-
 
 ul.post-list li {
 	list-style: none;

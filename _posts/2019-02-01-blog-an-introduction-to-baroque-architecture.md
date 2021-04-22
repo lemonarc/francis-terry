@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, buildings]
 title: An Introduction to Baroque Architecture
 excerpt: "This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism."
 preview: "This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism."

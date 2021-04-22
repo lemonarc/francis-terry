@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [blog, buildings]
 title: "L'amour de l'Architecture Française"
 excerpt: "Over the years I have noticed that clients seem to favour French classicism over Italian.  Because of this, I have been sent on several trips to Paris to study and measure buildings – it’s a tough job but someone’s got to do it!"
 preview: "Over the years I have noticed that clients seem to favour French classicism over Italian.  Because of this, I have been sent on several trips to Paris to study and measure buildings – it’s a tough job but someone’s got to do it!"

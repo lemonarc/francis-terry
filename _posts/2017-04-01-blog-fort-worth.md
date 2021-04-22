@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, places]
+categories: [blog, buildings]
 title: 'Fort Worth, an Urban Renaissance'
 excerpt: "Francis Terry looks at some tremendous architectural work done in Forth Worth, a city in North Central Texas"
 preview: "Last February I went on a tour organised by the Institute of Classical Architecture & Art and saw the tremendous work done in Forth Worth, a city in North Central Texas. Over a long period, sound urban principles have had an astonishing effect on the town..."
