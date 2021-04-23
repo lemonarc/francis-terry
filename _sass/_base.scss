@@ -212,7 +212,7 @@ input.button,
 input[type=submit] {
     font-family: $font-family;
     color: $white;
-	background: $link;
+	background: $grey-light;
 	border: none;
 	width: initial;
     padding: ($unit * 1) ($unit * 2);
@@ -232,6 +232,7 @@ submitbutton:focus,
 input.button:focus,
 input[type=submit]:focus {
 	background: $link-hover;
+    color: $white;
 }
 
 a.cta-button,
