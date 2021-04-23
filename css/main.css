@@ -79,9 +79,9 @@ p a:hover { text-decoration: none; color: #111111; }
 
 /* Buttons
 ==================== */
-button, a.button, button.button, submit, submitbutton, input.button, input[type=submit] { font-family: "Muli", sans-serif; color: #fff; background: #111111; border: none; width: initial; padding: 1rem 2rem; }
+button, a.button, button.button, submit, submitbutton, input.button, input[type=submit] { font-family: "Muli", sans-serif; color: #fff; background: #777777; border: none; width: initial; padding: 1rem 2rem; }
 
-button:hover, a.button:hover, button.button:hover, submit:hover, submitbutton:hover, input.button:hover, input[type=submit]:hover, button:focus, a.button:focus, button.button:focus, submit:focus, submitbutton:focus, input.button:focus, input[type=submit]:focus { background: #007FCB; }
+button:hover, a.button:hover, button.button:hover, submit:hover, submitbutton:hover, input.button:hover, input[type=submit]:hover, button:focus, a.button:focus, button.button:focus, submit:focus, submitbutton:focus, input.button:focus, input[type=submit]:focus { background: #007FCB; color: #fff; }
 
 a.cta-button, input.cta-button { background: #177666; text-transform: uppercase; }
 
