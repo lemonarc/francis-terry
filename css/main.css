@@ -200,7 +200,7 @@ lineout { clear: both; display: block; width: 100%; border-bottom: 1px solid #44
 
 /* Clearfix
 ==================== */
-.taster-20190701 ul.list:after, .taster-day ul.list:after, ul.publications li:after, .projectflow .projectflow-images:after, .profile-head:after, ul.blog li:after, ul.post-list li:after, .footer-col:after, .footer-col-wrapper:after, ul.list:after, .wrapper:after { content: ""; display: table; clear: both; }
+.taster-20190701 ul.list:after, .taster-day ul.list:after, ul.publications li:after, .projectflow .projectflow-images:after, .profile-head:after, .banner-area:after, ul.blog li:after, ul.post-list li:after, .footer-col:after, .footer-col-wrapper:after, ul.list:after, .wrapper:after { content: ""; display: table; clear: both; }
 
 .clearfix { clear: both; }
 
@@ -528,6 +528,28 @@ ul.tiles li.sixth { width: 16.6666666666%; margin: 0; }
 @media screen and (max-width: 1000px) { ul.tiles li.sixth { width: 33.3333333333%; } }
 
 @media screen and (max-width: 500px) { ul.tiles li.sixth { width: 100%; } }
+
+/* Banner Area
+==================== */
+.banner-area { margin-bottom: 30px; }
+
+.banner-area div { float: left; position: relative; }
+
+.banner-area img { display: block; width: 100%; }
+
+.banner-area .banner-01 img { max-width: none; }
+
+.banner-area p { margin: 0; }
+
+.banner-01 { float: left; font-size: 32px; padding: 0 0.5% 0 0; width: calc(67% - 0.5%); }
+
+.banner-02, .banner-03 { float: left; font-size: 24px; padding: 0 0 1% 0.5%; width: calc(33% - 0.5%); }
+
+.banner-area .caption-wrap { bottom: 0; color: white; position: absolute; }
+
+.banner-area .caption { background: rgba(0, 28, 50, 0.9); font-family: 'Oswald', sans-serif; line-height: 1.4; opacity: 1; padding: 10px 20px; }
+
+@media only screen and (max-width: 800px) { .banner-area div.banner-01 { float: none; width: 100%; padding: 0 0 1% 0; } .banner-area div.banner-02 { float: left; padding: 0 0.5% 0 0; width: 49.5%; } .banner-area div.banner-03 { float: right; padding: 0 0 0.5% 0; width: 49.5%; } }
 
 /* Splash / Full Page - full background
 ==================== */
