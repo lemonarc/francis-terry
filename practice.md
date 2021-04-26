@@ -8,6 +8,25 @@ social_image: /images/social/social-office.jpg
 article: article
 ---
 
+<div class="banner-area">
+	
+	<!--Banner 01-->
+	<div class="banner-01">
+		<img src="/images/practice/office-01.jpg" alt="{{ page.title }}">
+	</div>
+	
+	<!--Banner 02-->
+	<div class="banner-02">
+		<img src="/images/practice/office-02.jpg" alt="{{ page.title }}">
+	</div>
+	
+	<!--Banner 03-->
+	<div class="banner-03">
+		<img src="/images/practice/office-03.jpg" alt="{{ page.title }}">
+	</div>
+
+</div>
+
 <div class="practice">
 <p>We are an architectural practice engaged in a broad range of projects both in the UK and overseas.  Our approach is to design buildings which satisfy the needs of our clients while simultaneously creating beautiful architecture.  The team has a wealth of experience in design and construction which is combined with a thorough understanding of the rules of classical architecture. </p>
 

@@ -366,3 +366,77 @@ ul.tiles {
 		}
 	}
 }
+
+/* Banner Area
+==================== */
+.banner-area {
+	margin-bottom: 30px;
+	@extend %clearfix;
+}
+.banner-area div {
+	float: left;
+	position: relative;
+}
+.banner-area img {
+	display: block;
+	width: 100%;
+}
+.banner-area .banner-01 img {
+	max-width: none;
+}
+.banner-area p {
+	margin: 0;
+}
+.banner-01{
+	float: left;
+	font-size: 32px;
+    padding: 0 0.5% 0 0;
+	width: calc(67% - 0.5%);
+}
+.banner-02, .banner-03 {
+	float:left;
+	font-size: 24px;
+    padding: 0 0 1% 0.5%;	
+    width: calc(33% - 0.5%);
+}
+.banner-area .caption-wrap {
+    bottom: 0;
+    color: white;
+    position: absolute;
+}
+.banner-area .caption {
+	background: rgba(0,28,50,0.9);
+	font-family: 'Oswald', sans-serif;
+    line-height: 1.4;
+	opacity: 1;
+	padding: 10px 20px;
+}
+@media only screen and (max-width: 800px) {
+	.banner-area div.banner-01{
+		float: none;
+		width: 100%;
+		padding: 0 0 1% 0;
+	}
+	.banner-area div.banner-02 {
+		float: left;
+		padding: 0 0.5% 0 0;
+		width: 49.5%;
+	}
+	.banner-area div.banner-03 {
+		float: right;
+		padding: 0 0 0.5% 0;
+		width: 49.5%;
+	}
+}
+// @media only screen and (max-width: 600px) {
+// 	.banner-02, .banner-03 {
+// 		width: 100%;
+// 	}
+// 	.practice-page-new .banner-02,
+// 	.practice-page-new .banner-03 {
+// 		width: 50%;
+// 	}
+// 	.banner-area .caption {
+// 		font-size: 21px;
+// 	}
+// }
