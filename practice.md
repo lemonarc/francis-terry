@@ -60,7 +60,7 @@ article: article
 		</div>
 	</li>
 
-<lineout></lineout>
+<!--<lineout></lineout>
 
 	<li id="miranda_terry">
 		<a href="/practice/miranda-terry/">
@@ -79,11 +79,20 @@ article: article
 			</p>
 		</div>
 	</li>
-</ul>
+</ul>-->
 
 <lineout></lineout>
 
 <div class="profile-promo-container">
+
+	<a href="/practice/miranda-terry/" class="profile-promo">
+		<div class="profile-thumb profile-thumb-mt"></div>
+		<div class="profile-intro">
+			<h3>Miranda Terry</h3>
+			<h5>Director</h5>
+			<small>Read more...</small>
+		</div>
+	</a>
 
 	<a href="/practice/les-canham/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-lc"></div>
@@ -148,14 +157,14 @@ article: article
 		</div>
 	</a>
 
-	<a href="/practice/marcin-branka/" class="profile-promo">
+	<!--<a href="/practice/marcin-branka/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-mb"></div>
 		<div class="profile-intro">
 			<h3>Marcin Branka</h3>
 			<h5>Architectural Technician</h5>
 			<small>Read more...</small>
 		</div>
-	</a>
+	</a>-->
 	
 	<a href="/practice/leah-roberts/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-lr2"></div>
