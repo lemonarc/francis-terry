@@ -230,6 +230,8 @@ header { max-width: 160rem; margin-left: auto; margin-right: auto; }
 
 .site-title img { max-width: 200px; }
 
+.site-title svg { fill: #444444; max-width: 200px; }
+
 .site-nav { align-items: center; color: #fff; float: right; display: flex; height: 100%; }
 
 .site-nav .nav-trigger { display: none; }
