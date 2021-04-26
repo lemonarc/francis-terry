@@ -5,7 +5,7 @@
 		{% if page.url == "/" or  page.url == "/indexvideo2/" %}
 			{% include navigation-short2.html %}
 		{% else %}
-			<a class="site-title" href="{{ site.baseurl }}/" alt="{{ site.title }} | {{ site.description }}"><img src="/images/fta-logo-full.png"></a>
+			<a class="site-title" href="{{ site.baseurl }}/" alt="{{ site.title }} | {{ site.description }}">{% include ft-logo.svg %}</a>
 			{% include navigation2.html %}
 		{% endif %}
 
