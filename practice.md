@@ -111,15 +111,6 @@ article: article
 			<small>Read more...</small>
 		</div>
 	</a>
-	
-	<a href="/practice/jo-bunch/" class="profile-promo">
-		<div class="profile-thumb profile-thumb-jb"></div>
-		<div class="profile-intro">
-			<h3>Jo Bunch</h3>
-			<h5>Office Manager</h5>
-			<small>Read more...</small>
-		</div>
-	</a>
 
 	<a href="/practice/colin-day/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-cd"></div>
@@ -156,15 +147,15 @@ article: article
 			<small>Read more...</small>
 		</div>
 	</a>
-
-	<!--<a href="/practice/marcin-branka/" class="profile-promo">
-		<div class="profile-thumb profile-thumb-mb"></div>
+	
+	<a href="/practice/jo-bunch/" class="profile-promo">
+		<div class="profile-thumb profile-thumb-jb"></div>
 		<div class="profile-intro">
-			<h3>Marcin Branka</h3>
-			<h5>Architectural Technician</h5>
+			<h3>Jo Bunch</h3>
+			<h5>Office Manager</h5>
 			<small>Read more...</small>
 		</div>
-	</a>-->
+	</a>
 	
 	<a href="/practice/leah-roberts/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-lr2"></div>
@@ -174,5 +165,14 @@ article: article
 			<small>Read more...</small>
 		</div>
 	</a>
+
+	<!--<a href="/practice/marcin-branka/" class="profile-promo">
+		<div class="profile-thumb profile-thumb-mb"></div>
+		<div class="profile-intro">
+			<h3>Marcin Branka</h3>
+			<h5>Architectural Technician</h5>
+			<small>Read more...</small>
+		</div>
+	</a>-->
 	
 </div>
