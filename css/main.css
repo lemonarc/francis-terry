@@ -746,6 +746,12 @@ img.main { float: left; margin: 0 3rem 3rem 0; width: 33%; }
 
 .profile-promo-container { display: flex; flex-wrap: wrap; justify-content: space-between; }
 
+.profile-promo { display: flex; align-items: stretch; margin-bottom: 3rem; min-width: 32%; }
+
+@media screen and (max-width: 1000px) { .profile-promo { display: none; } }
+
+.profile-promo .profile-fill { margin: 0 auto; }
+
 a.profile-promo { background: #444444; color: #fff; display: flex; align-items: stretch; margin-bottom: 3rem; min-width: 32%; }
 
 a.profile-promo:hover, a.profile-promo:focus { background: #66849e; }
