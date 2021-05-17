@@ -22,7 +22,7 @@ wide_image: 2020/01/wide.jpg
 
 There will be an exhibition of Francis Terry's watercolours at the Art Workers' Guild (6 Queen Square, Holborn, London WC1N 3AT) from 21st to 24th April 2020.  The watercolours are of proposals which he has done in collaboration with <a href="http://www.createstreets.com/" rel="nofollow noopener noreferrer" target="_blank">Create Streets</a>, the social enterprise which encourages the building of traditional urban developments.
 
-The watercolours are all for sale and 100% of the money raised will be given to <a href="https://www.cure-eb.org/" rel="nofollow noopener noreferrer" target="_blank">Cure EB</a> towards EB research. Epidermolysis Bullosa (EB) is a genetic skin condition that causes the skin to blister and tear at the slightest touch.  One of Francis's best friends suffers from this condition, and so it is a charity very close to his heart.
+The watercolours are all for sale and 100% of the money raised will be given to <a href="https://www.cure-eb.org/" rel="nofollow noopener noreferrer" target="_blank">Cure EB</a> towards EB research. Epidermolysis Bullosa (EB) is a genetic skin condition that causes the skin to blister and tear at the slightest touch. The child of one of Francis's best friends suffers from this condition, and so it is a charity very close to his heart.
 
 All the work for this exhibition can be viewed on this page, with prices included.
 

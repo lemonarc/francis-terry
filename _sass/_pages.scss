@@ -521,6 +521,20 @@ img.main {
 	flex-wrap: wrap;
 	justify-content: space-between;
 }
+.profile-promo {
+	display: flex;
+	align-items: stretch;
+	margin-bottom: $unit*3;
+	min-width: 32%;
+	
+	@include media-query($on-laptop) {
+		display: none;
+	}
+
+	.profile-fill {
+		margin: 0 auto;
+	}
+}
 a.profile-promo {
 	background: $text-color;
 	color: $white;
