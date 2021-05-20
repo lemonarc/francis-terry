@@ -542,6 +542,8 @@ a.profile-promo {
 	align-items: stretch;
 	margin-bottom: $unit*3;
 	min-width: 32%;
+	min-width: 48%;
+	min-height: 230px;
 	
 	&:hover,
 	&:focus {
