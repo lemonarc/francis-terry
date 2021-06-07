@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, buildings]
+categories: [blog, theory]
 title: "Discussion About Beauty and Architecture"
 excerpt: "A few days ago I did a short podcast with my son Alfie. We wrestled with the question that if architecture is 'frozen music', as Goethe suggests, what sort of music should architects play."
 preview: "A few days ago I did a short podcast with my son Alfie. We wrestled with the question that if architecture is 'frozen music', as Goethe suggests, what sort of music should architects play."
