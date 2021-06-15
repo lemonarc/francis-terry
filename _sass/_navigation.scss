@@ -176,6 +176,20 @@
       &:focus ul {
         display: contents;
       }
+
+      .sub-menu-title {
+        
+        &::before {
+          font-family: "FontAwesome";
+          content: "\f0d7";
+          padding-right: 10px;
+        }
+      }
+      
+      &:hover .sub-menu-title::before,
+      &:focus .sub-menu-title::before {
+        content: "\f0d8";
+      }
     }
   }
 
