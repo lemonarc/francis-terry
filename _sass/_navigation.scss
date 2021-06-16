@@ -140,12 +140,12 @@
     input:checked ~ .trigger {
       display: block;
       padding-bottom: 5px;
-      padding-top: 20px;
+      padding-top: 5px;
     }
     .page-link {
       display: block;
-      padding: 5px 10px;
-      margin-right: 0;
+      padding: 0 10px;
+      margin: 10px 0;
     }
     .trigger {
       background: rgba(255,255,255,0.9);
@@ -177,19 +177,20 @@
         display: contents;
       }
 
-      .sub-menu-title {
+      // .sub-menu-title {
         
-        &::before {
-          font-family: "FontAwesome";
-          content: "\f0d7";
-          padding-right: 10px;
-        }
-      }
+      //   &::before {
+      //     font-family: "FontAwesome";
+      //     content: "\f0d7";
+      //     padding-right: 10px;
+      //   }
+      // }
       
-      &:hover .sub-menu-title::before,
-      &:focus .sub-menu-title::before {
-        content: "\f0d8";
-      }
+      // &:hover .sub-menu-title::before,
+      // &:focus .sub-menu-title::before {
+      //   content: "";
+      //   padding-right: 0;
+      // }
     }
   }
 
