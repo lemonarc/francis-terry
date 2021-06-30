@@ -503,9 +503,9 @@ ul.blog .blog-text { width: calc(100% - (33% + (1rem*2))); float: right; }
 
 .article, article { max-width: 1200px; margin: 0 auto; }
 
-.article h2, .article h3, .article p, article h2, article h3, article p { margin-bottom: 1.5rem; }
+.article h2, .article h3, article h2, article h3 { margin-bottom: 1.5rem; }
 
-.article .bottom, article .bottom { margin-bottom: 3rem; }
+.article p, .article .bottom, article p, article .bottom { margin-bottom: 3rem; }
 
 .article .single-image, article .single-image { margin-top: 3rem; margin-bottom: 3rem; }
 
