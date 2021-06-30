@@ -314,10 +314,10 @@ article {
 	max-width: 1200px;
 	margin: 0 auto;
 	
-	h2, h3, p {
+	h2, h3 {
 		margin-bottom: $unit*1.5;
 	}
-	.bottom {
+	p, .bottom {
 		margin-bottom: $unit*3;
 	}
 	.single-image {
