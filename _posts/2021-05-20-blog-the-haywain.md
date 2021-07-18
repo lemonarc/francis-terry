@@ -2,7 +2,7 @@
 layout: post
 categories: [blog, annecdotes]
 title: "The Haywain by John Constable"
-excerpt: "The Haywain by John Constable, perhaps the most famous English painting, depicts Flatford in Suffolk which I know well as it is only a few miles from where I live and I often take my little West Highland Terrier out for walks in that direction."
+excerpt: "The Haywain by John Constable, perhaps the most famous English painting, depicts Flatford in Suffolk which I know well."
 preview: "The Haywain by John Constable, perhaps the most famous English painting, depicts Flatford in Suffolk which I know well as it is only a few miles from where I live and I often take my little West Highland Terrier out for walks in that direction."
 post_date: 20 May 2021
 permalink: /thoughts/the-haywain/

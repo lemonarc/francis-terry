@@ -2,9 +2,9 @@
 layout: post
 categories: [blog, annecdotes]
 title: "Drawing - Death Survival Revival"
-excerpt: "Drawing was, and still is, my passion and therefore I am saddened by the wholesale abandonment of drawing from art education in recent times. I’m not arguing against modern art, I just feel that as an accountant should be able to add and subtract, an artist should be able to draw fluently whatever style of art he or she later decides to employ. With Picasso, for example, whatever you think of him, his exceptional drawings which he did as a child give the rest of his work an authority it would not otherwise have."
+excerpt: "Drawing was, and still is, my passion and therefore I am saddened by the wholesale abandonment of drawing from art education in recent times."
 preview: "Drawing was, and still is, my passion and therefore I am saddened by the wholesale abandonment of drawing from art education in recent times. I’m not arguing against modern art, I just feel that as an accountant should be able to add and subtract, an artist should be able to draw fluently whatever style of art he or she later decides to employ. With Picasso, for example, whatever you think of him, his exceptional drawings which he did as a child give the rest of his work an authority it would not otherwise have."
-post_date: 20 May 2021
+post_date: 30 June 2021
 permalink: /thoughts/drawing-death-survival-revival/
 image_tall: /images/essays/drawing-death-survival-revival/tall.jpg
 image_wide: /images/essays/drawing-death-survival-revival/wide.jpg
@@ -148,7 +148,7 @@ All drawings and photos (apart from mine) are from The Florence Academy of Art
 
 
 To read more, follow these links:
-<br><a href="https://www.ftanda.co.uk/thoughts/a-life-in-sketchbooks/" alt="">A Life in Sketchbooks</a>
+<br><a href="https://www.ftanda.co.uk/thoughts/a-life-in-sketchbooks/" alt="A Life in Sketchbooks">A Life in Sketchbooks</a>
 <br><a href="https://www.ftanda.co.uk/news/2020-04-27-news-something-creative/" alt="Lockdown Mural">Lockdown Mural</a>
 <br><a href="https://www.ftanda.co.uk/thoughts/sketching-with-my-father/" alt="Sketching with my Father">Sketching with my Father</a>
 <br><a href="https://www.ftanda.co.uk/thoughts/architect-in-wonderland/" alt="Architect in Wonderland">Architect in Wonderland</a>
