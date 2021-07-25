@@ -129,6 +129,6 @@ What I have most enjoyed while working with Create Streets is using my talents t
 ## Francis Terry
 ### July 21
 
-Copies of the book, <strong>Designing Well-Tempered Towns</strong>, can be purchased from Francis Terry and Associates. 
+If you are interested in these ideas and own urban schemes, you might like to buy a copy of <strong>Designing Well-Tempered Towns</strong>, which can be purchased from Francis Terry and Associates. 
 
-<a href="/book/" alt="">For further details follow this link</a>.
+<a href="/book/" alt="Francis Terry books">For further details follow this link</a>.
