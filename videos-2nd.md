@@ -2,12 +2,28 @@
 layout: page
 pageclass: videos-page
 title: Videos
-excerpt: "Some videos of Francis Terry speaking at a TED talk at Bloomberg also drawing classical architecture at the RIBA and painting graffiti in Banksy's Tunnel"
-social_image: /images/videos/social.jpg
+excerpt: "Videos from Francis Terry and Associates on art and architecture featuring drawings, lectures and others. Includes The Leake Street Classicist, How to Draw like Raphael and more."
+permalink: /videos/2021/
+social_image: /images/social/social-video.jpg
 article: article
 ---
 
 <ul class="list blog">
+	<li>
+		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
+			<img src="/images/essays/nppf-paragraph-79e-explained/tall01.jpg" alt="NPPF Paragraph 79e Explained" class="tall" />
+			<img src="/images/essays/nppf-paragraph-79e-explained/wide01.jpg" alt="NPPF Paragraph 79e Explained" class="wide" />
+		</a>
+		<div class="blog-text">
+			<h2>NPPF Paragraph 79e Explained</h2>
+			<h4>October 2020</h4>
+			<p>
+				Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 79e is the planning legislation which is specifically written to allow this to happen. In this video Francis and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 79e' houses.
+			</p>
+			<p><a class="post-link" href="/thoughts/nppf-paragraph-79e-explained/">Read more</a></p>
+		</div>
+	</li>
+
 	<li>
 		<a class="fancybox" data-fancybox-type="iframe" href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
 			<img src="/images/videos/tall/video1.jpg" alt="Francis Terry - The Leake Street Classicist" class="tall" />
@@ -17,7 +33,7 @@ article: article
 			<h2>Francis Terry - The Leake Street Classicist</h2>
 			<h4>April 2011</h4>
 			<p>
-				Francis Terry spent 2011’s April Fool’s Day rendering a classical facade on the graffitied walls of ‘Banksy’s tunnel’ under Waterloo Station, London.
+				On the 1st of April 2011 Francis entered the unfamiliar territory of ‘Banksy’s Tunnel’ in London’s Leake Street to spend the whole day treating the graffitied walls as a classical facade.
 			</p>
 		</div>
 	</li>

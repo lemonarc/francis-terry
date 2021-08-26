@@ -4,7 +4,7 @@ categories: [blog, theory]
 title: "Discussion About Beauty and Architecture"
 excerpt: "A few days ago I did a short podcast with my son Alfie. We wrestled with the question that if architecture is 'frozen music', as Goethe suggests, what sort of music should architects play."
 preview: "A few days ago I did a short podcast with my son Alfie. We wrestled with the question that if architecture is 'frozen music', as Goethe suggests, what sort of music should architects play."
-post_date: 22 April 2020
+post_date: 22 April 2021
 permalink: /thoughts/discussion-about-beauty-and-architecture/
 image_tall: /images/essays/discussion-about-beauty-and-architecture/tall.jpg
 image_wide: /images/essays/discussion-about-beauty-and-architecture/wide.jpg

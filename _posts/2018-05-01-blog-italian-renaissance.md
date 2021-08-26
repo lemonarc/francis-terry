@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, buildings]
+categories: [blog, buildings, videos]
 title: An Introduction to the Architecture of the Italian Renaissance
 excerpt: "Instead of a blog this month, I have posted a video of my ‘in house’ office lecture about the Italian Renaissance. This lecture covers one of the greatest outbursts of creativity in the history of western art and architecture."
 preview: "Instead of a blog this month, I have posted a video of my ‘in house’ office lecture about the Italian Renaissance. This lecture covers one of the greatest outbursts of creativity in the history of western art and architecture."
