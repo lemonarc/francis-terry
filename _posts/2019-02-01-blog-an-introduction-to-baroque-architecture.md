@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, buildings]
+categories: [blog, buildings,videos]
 title: An Introduction to Baroque Architecture
 excerpt: "This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism."
 preview: "This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism."
@@ -12,9 +12,11 @@ social_image: /images/essays/an-introduction-to-baroque-architecture/social-1.jp
 comments: /thoughts/an-introduction-to-baroque-architecture/
 ---
 
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/DLuUuJahflE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
+
 <p>
-	Instead of a blog this month I am posting a ‘vlog’, as I believe it’s called.
-</p><p>
 	This is a lecture I gave to the office about the baroque movement in architecture. It follows on from a lecture I gave about the renaissance and is the precursor to a future lecture on neoclassicism.
 </p><p>
 	I have always been fascinated by the baroque movement. I love the emotional intensity and its figurative quality using curves that push and pull space in ways previously undreamed of by architects and sculptors. Sometimes ugly, sometimes gaudy but never dull. 
@@ -31,7 +33,3 @@ comments: /thoughts/an-introduction-to-baroque-architecture/
 <h2>
 	Francis Terry
 </h2>
-
-<div class="videoWrapper">
-	<iframe src="https://www.youtube.com/embed/DLuUuJahflE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>

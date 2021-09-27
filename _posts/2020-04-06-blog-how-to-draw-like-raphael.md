@@ -32,6 +32,6 @@ The video below shows my attempt and I admit it was harder than the spontaneous 
 	<iframe src="https://www.youtube.com/embed/6CeQcsVCFF8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-Happy drawing and stay safe!
+Happy drawing!
 
 ## Francis Terry

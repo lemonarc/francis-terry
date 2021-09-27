@@ -75,6 +75,14 @@
 			{% include sitelinkcontent.html %}
 
 		{% endfor %}
+
+	{% elsif page.categories contains "videos" %}
+		{% assign recentPosts = site.categories.videos | where_exp:"item", "item.url != page.url" %}
+		{% for post in recentPosts limit:4 %}
+
+			{% include sitelinkcontent.html %}
+
+		{% endfor %}
   
 	{% endif %}
 	

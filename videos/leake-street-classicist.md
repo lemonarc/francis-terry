@@ -3,14 +3,12 @@ layout: post
 categories: [videos]
 title: "The Leake Street Classicist"
 excerpt: "On the 1st of April 2011 Francis entered the unfamiliar territory of ‘Banksy’s Tunnel’ in London’s Leake Street to spend the whole day treating the graffitied walls as a classical facade."
-preview: "On the 1st of April 2011 Francis entered the unfamiliar territory of ‘Banksy’s Tunnel’ in London’s Leake Street to spend the whole day treating the graffitied walls as a classical facade.
-
-The whole process was filmed and is now available to view here."
+preview: "On the 1st of April 2011 Francis entered the unfamiliar territory of ‘Banksy’s Tunnel’ in London’s Leake Street to spend the whole day treating the graffitied walls as a classical facade. The whole process was filmed and is now available to view here."
 post_date: 11 April 2011
 permalink: /videos/leake-street-classicist/
-image_tall: /images/essays/nppf-paragraph-79e-explained/tall.jpg
-image_wide: /images/essays/nppf-paragraph-79e-explained/wide.jpg
-social_image: /images/essays/nppf-paragraph-79e-explained/social.jpg
+image_tall: /images/essays/leake-street-classicist/tall.jpg
+image_wide: /images/essays/leake-street-classicist/wide.jpg
+social_image: /images/essays/leake-street-classicist/social.jpg
 comments: /videos/leake-street-classicist/
 ---
 
