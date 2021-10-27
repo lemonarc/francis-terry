@@ -131,7 +131,7 @@ Memorial wall tombs of all periods pepper the walls.
 	</li>
 </ul>
 
-I’m always intrigued by the most recent layer of history, things just left around:- fire extinguishers,  postcards raising money for the church roof and the paraphernalia of the flower rota sit cheek by jowl with ancient fonts and tombs.
+I’m always intrigued by the most recent layer of history, things just left around:- fire extinguishers, postcards raising money for the church roof and the paraphernalia of the flower rota sit cheek by jowl with ancient fonts and tombs.
 
 <ul class="list">
 	<li class="half">
