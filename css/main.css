@@ -50,7 +50,11 @@ p.tiny { font-size: 1.2rem; }
 
 p.credit { font-size: 1.6rem; margin-top: 1rem; }
 
-p.quote-credit { margin-bottom: 3rem; text-indent: 2rem; }
+p.quote { margin-bottom: 0.5rem; }
+
+p.quote em { font-family: 'times new roman', serif; }
+
+p.quote-credit { font-size: 1.5rem; font-weight: 700; margin-bottom: 3rem; text-indent: 2rem; }
 
 /* New Font example */
 .newfont h1, .newfont h2, .newfont h3, .newfont h4, .newfont h5, .newfont h6, .newfont p, .newfont ul, .newfont ul.list, .newfont li { font-family: 'Cantata One', serif; }
@@ -510,6 +514,8 @@ ul.blog .blog-text { width: calc(100% - (33% + (1rem*2))); float: right; }
 .article .single-image, article .single-image { margin-top: 3rem; margin-bottom: 3rem; }
 
 .article .blog-text h2, .article .blog-text h3, .article .blog-text p, article .blog-text h2, article .blog-text h3, article .blog-text p { margin-bottom: 1rem; }
+
+.article p.quote, article p.quote { margin-bottom: 0.5rem; }
 
 /* Image captions
 ==================== */
