@@ -12,8 +12,11 @@ article: article
 
 <li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1" alt="NPPF Paragraph 79e Explained">
+		<div class="play-button">
 		<img src="/images/essays/nppf-paragraph-79e-explained/tall.jpg" alt="NPPF Paragraph 79e Explained" class="tall" />
 		<img src="/images/essays/nppf-paragraph-79e-explained/wide.jpg" alt="NPPF Paragraph 79e Explained" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>NPPF Paragraph 79e Explained</h2>
@@ -27,8 +30,11 @@ article: article
 
 <li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
+		<div class="play-button">
 		<img src="/images/videos/leake-street-classicist-tall.jpg" alt="Francis Terry - The Leake Street Classicist" class="tall" />
 		<img src="/images/videos/leake-street-classicist-wide.jpg" alt="Francis Terry - The Leake Street Classicist" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>Francis Terry - The Leake Street Classicist</h2>
@@ -42,8 +48,11 @@ article: article
 
 <li>
 	<a href="/thoughts/how-to-draw-like-raphael/">
+		<div class="play-button">
 		<img src="/images/essays/how-to-draw-like-raphael/tall.jpg" alt="How to Draw Like Raphael" class="tall" />
-		<img src="/images/essays/how-to-draw-like-raphael/wide.jpg" alt="How to Draw Like Raphael" class="wide" />
+		<img src="/images/essays/how-to-draw-like-raphael/wide-2.jpg" alt="How to Draw Like Raphael" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>How to Draw Like Raphael</h2>
@@ -57,8 +66,11 @@ article: article
 
 <li>
 	<a href="/thoughts/italian-renaissance/">
+		<div class="play-button">
 		<img src="/images/essays/italian-renaissance/tall-4.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
 		<img src="/images/essays/italian-renaissance/wide-4.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>An Introduction to the Architecture of the Italian Renaissance</h2>
@@ -72,8 +84,11 @@ article: article
 
 <li>
 	<a href="/thoughts/an-introduction-to-baroque-architecture/">
+		<div class="play-button">
 		<img src="/images/essays/an-introduction-to-baroque-architecture/tall-1.jpg" alt="An Introduction to Baroque Architecture" class="tall" />
 		<img src="/images/essays/an-introduction-to-baroque-architecture/wide-1.jpg" alt="An Introduction to Baroque Architecture" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>An Introduction to Baroque Architecture</h2>
@@ -87,8 +102,11 @@ article: article
 
 <li>
 	<a href="/thoughts/from-rococo-to-neoclassicism/">
+		<div class="play-button">
 		<img src="/images/essays/from-rococo-to-neoclassicism/tall.jpg" alt="An Introduction to 18th Century Architecture from Rococo to Neo Classicism" class="tall" />
 		<img src="/images/essays/from-rococo-to-neoclassicism/wide.jpg" alt="An Introduction to 18th Century Architecture from Rococo to Neo Classicism" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>An Introduction to 18th Century Architecture: From Rococo to Neo Classicism</h2>
@@ -102,8 +120,11 @@ article: article
 
 <li>
 	<a href="/videos/british-architecture-from-queen-victoria-to-george-vi/">
+		<div class="play-button">
 		<img src="/images/videos/from-queen-victoria-to-george-vi-tall.jpg" alt="" class="tall" />
 		<img src="/images/videos/from-queen-victoria-to-george-vi-wide.jpg" alt="" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>An Introduction to British Architecture from Queen Victoria to George VI</h2>
@@ -117,8 +138,11 @@ article: article
 
 <li>
 	<a href="/videos/english-architecture-between-the-wars/">
+		<div class="play-button">
 		<img src="/images/videos/english-architecture-between-the-wars-tall.jpg" alt="English Architecture Between the Wars" class="tall" />
 		<img src="/images/videos/english-architecture-between-the-wars-wide.jpg" alt="English Architecture Between the Wars" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>English Architecture Between the Wars</h2>
@@ -132,8 +156,11 @@ article: article
 
 <li>
 	<a href="/videos/three-classicists/">
+		<div class="play-button">
 		<img src="/images/videos/three-classicists-tall.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="tall" />
-		<img src="/images/videos/three-classicists-tall.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="wide" />
+		<img src="/images/videos/three-classicists-wide.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>Three Classicists drawing at the Mantownhuman Winter School</h2>
@@ -147,8 +174,11 @@ article: article
 
 <li>
 	<a href="/videos/classical-architecture-in-modern-times/">
+		<div class="play-button">
 		<img src="/images/videos/ft-ted-talk-tall.jpg" alt="" class="tall" />
 		<img src="/images/videos/ft-ted-talk-wide.jpg" alt="" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>Classical Architecture in Modern Times</h2>
@@ -162,8 +192,11 @@ article: article
 
 <li>
 	<a href="/videos/erechtheum-portico/">
+		<div class="play-button">
 		<img src="/images/videos/erechtheum-portico-tall.jpg" alt="The Erechtheum Portico, From Ancient Greece to Downing and Beyond" class="tall" />
 		<img src="/images/videos/erechtheum-portico-wide.jpg" alt="The Erechtheum Portico, From Ancient Greece to Downing and Beyond" class="wide" />
+		{% include icon-play.svg %}
+		</div>
 	</a>
 	<div class="blog-text">
 		<h2>The Erechtheum Portico, From Ancient Greece to Downing and Beyond</h2>
