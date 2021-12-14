@@ -8,7 +8,7 @@ permalink: /practice/francis-terry/
 social_image: /images/social/social-ft.jpg
 image: francis-terry-1
 ---
-<p>
+<p class="quote">
 	<em>'A master draughtsman with tremendous experience and empathy for the neo-Classical tradition'</em>
 </p><p class="quote-credit">
 	- Country Life

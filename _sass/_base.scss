@@ -124,8 +124,16 @@ p.credit {
 	font-size: $font-size-medium;
 	margin-top: $unit;
 }
-
+p.quote {
+	margin-bottom: $unit/2;
+	
+	em {
+		font-family: 'times new roman', serif;
+	}
+}
 p.quote-credit  {
+    font-size: 1.5rem;
+    font-weight: 700;
 	margin-bottom: $unit*3;
 	text-indent: $unit*2;
 }

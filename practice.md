@@ -46,7 +46,9 @@ article: article
 			<h2>Francis Terry</h2>
 			<h4>MA (Cantab), Dip Arch, RIBA <br />Director</h4>
 			</a>
-			<p>
+			<p class="quote"><em>'A master draughtsman with tremendous experience and empathy for the neo-Classical tradition'</em>
+			</p><p class="quote-credit">- Country Life
+			</p><p>
 				Francis is part of a new generation of classical architects who have recently gained a reputation for designing high quality works of architecture.  Francis's pursuit of architecture grew out of his passion for drawing and his love of historic buildings. He studied architecture at Cambridge University qualifying in 1994.  While at Cambridge, he used his architectural skills to design numerous stage sets for various dramatic societies including The Footlights, The Cambridge Opera Society and The European Theatre Group. 
 			</p><p>
 				After briefly working for Allan Greenburg Architects in Washington DC, Francis spent over 20 years working with his father the eminent classical architect Quinlan Terry with whom he became a partner in 2004. As a partner he developed his reputation as an independent architect, winning competitions and working on his own commissions. Consequently, he formed his own practice in 2016 in order to continue his own creative path. 
