@@ -11,6 +11,24 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/u1XGLJ6ouJI?rel=0&autoplay=1" alt="NPPF Paragraph 80e Explained">
+		<div class="play-button">
+		<img src="/images/essays/nppf-paragraph-80e-explained/tall.jpg" alt="NPPF Paragraph 80e Explained" class="tall" />
+		<img src="/images/essays/nppf-paragraph-80e-explained/wide.jpg" alt="NPPF Paragraph 80e Explained" class="wide" />
+		{% include icon-play.svg %}
+		</div>
+	</a>
+	<div class="blog-text">
+		<h2>NPPF Paragraph 80e Explained</h2>
+		<h4>November 2021</h4>
+		<p>
+			Many people, perhaps you, would love to build yourself a new house in the country where you could live with your family and work from home in rural tranquility. It is perhaps the English dream. The problem is getting planning permission. But don’t despair, NPPF paragraph 80e is the planning legislation which is specifically written to allow this to happen. The clause states that the new house has to be an ‘exceptional’ work of architecture and so it is not easy to get planning permission… but not impossible. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of ‘paragraph 80e’ houses.
+		</p>
+		<p><a class="post-link" href="/thoughts/nppf-paragraph-80e-explained/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1" alt="NPPF Paragraph 79e Explained">
 		<div class="play-button">
 		<img src="/images/essays/nppf-paragraph-79e-explained/tall.jpg" alt="NPPF Paragraph 79e Explained" class="tall" />
@@ -61,6 +79,24 @@ article: article
 			The highest praise one can give an artist is to say he or she draws like Raphael. It comes in the same package as writing like Shakespeare or ‘bending it like Beckham’. As I can’t write poetry and don’t play football the latter two challenges are not open to me, but drawing like Raphael... how hard can it be?
 		</p>
 		<p><a class="post-link" href="/thoughts/how-to-draw-like-raphael/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/AyaBwMKy9-A?rel=0&autoplay=1" alt="Commodity, Firmness, and Delight">
+		<div class="play-button">
+		<img src="/images/essays/commodity-firmness-and-delight/tall.jpg" alt="Commodity, Firmness, and Delight" class="tall" />
+		<img src="/images/essays/commodity-firmness-and-delight/wide.jpg" alt="Commodity, Firmness, and Delight" class="wide" />
+		{% include icon-play.svg %}
+		</div>
+	</a>
+	<div class="blog-text">
+		<h2>Commodity, Firmness, and Delight</h2>
+		<h4>January 2022</h4>
+		<p>
+			What makes good architecture? The Roman architect Vitruvius states that it is the combination of firmitas (firmness or structural strength), utilitas, (usefulness or function) and venustas (beauty). These three attributes have been translated in a variety of ways, most famously by the 17th century author and diplomat Sir Henry Wotton as ‘commodity, firmness, and delight’. In this video I attempt to understand what Vitruvius actually meant by analysing the original text with the help of my son Alfred who is a classics student at the University of Manchester.
+		</p>
+		<p><a class="post-link" href="/thoughts/commodity-firmness-and-delight/">Read more</a></p>
 	</div>
 </li>
 
