@@ -927,16 +927,6 @@ ul.publications p { text-align: justify; }
 
 /* Videos Page
 ==================== */
-.videos-page ul.blog li img { float: none; padding: 0; width: auto; height: auto; }
-
-.play-button { display: flex; float: left; justify-content: center; width: 33%; padding: 0 2rem 2rem 0; }
-
-.play-button svg { align-self: center; position: absolute; width: 40px; height: 40px; }
-
-.play-button svg path { fill: #fff; }
-
-@media screen and (max-width: 800px) { .play-button { float: none; width: 100%; padding: 0 0 2rem 0; } }
-
 .video1ext { display: block; }
 
 @media screen and (max-width: 500px) { .video1ext { display: none; } }
