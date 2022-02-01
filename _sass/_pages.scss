@@ -914,37 +914,37 @@ ul.publications p {
 
 /* Videos Page
 ==================== */
-.videos-page ul.blog li img {
-	float: none;
-	padding: 0;
-	width: auto;
-	height: auto;
-}
+// .videos-page ul.blog li img {
+// 	float: none;
+// 	padding: 0;
+// 	width: auto;
+// 	height: auto;
+// }
 
-.play-button {
-	display: flex;
-	float: left;
-    justify-content: center;
-    width: 33%;
-	padding: 0 ($unit*2) ($unit*2) 0;
+// .play-button {
+// 	display: flex;
+// 	float: left;
+//     justify-content: center;
+//     width: 33%;
+// 	padding: 0 ($unit*2) ($unit*2) 0;
 
-	svg {
-		align-self: center;
-		position: absolute;
-	    width: 40px;
-		height: 40px;
+// 	svg {
+// 		align-self: center;
+// 		position: absolute;
+// 	    width: 40px;
+// 		height: 40px;
 
-		path {
-			fill: $white;
-		}
-	}
+// 		path {
+// 			fill: $white;
+// 		}
+// 	}
 
-	@include media-query ($on-tablet) {
-		float: none;
-		width: 100%;
-		padding: 0 0 ($unit*2) 0;
-	}
-}
+// 	@include media-query ($on-tablet) {
+// 		float: none;
+// 		width: 100%;
+// 		padding: 0 0 ($unit*2) 0;
+// 	}
+// }
 .video1ext {
 	display: block;
 	
