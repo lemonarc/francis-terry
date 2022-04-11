@@ -26,21 +26,6 @@ article: article
 </li>
 
 <li>
-	<a href="https://www.youtube.com/embed/QIxlxSUJ8F8?rel=0&autoplay=1" alt="NPPF Paragraph 79e Explained">
-		<img src="/images/videos/V11-tall.jpg" alt="NPPF Paragraph 79e Explained" class="tall" />
-		<img src="/images/videos/V11-wide.jpg" alt="NPPF Paragraph 79e Explained" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>NPPF Paragraph 79e Explained</h2>
-		<h4>October 2020</h4>
-		<p>
-			Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 79e is the planning legislation which is specifically written to allow this to happen. In this video Francis and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 79e' houses.
-		</p>
-		<p><a class="post-link" href="/thoughts/nppf-paragraph-79e-explained/">Read more</a></p>
-	</div>
-</li>
-
-<li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
 		<img src="/images/videos/V09-tall.jpg" alt="Francis Terry - The Leake Street Classicist" class="tall" />
 		<img src="/images/videos/V09-wide.jpg" alt="Francis Terry - The Leake Street Classicist" class="wide" />
@@ -203,6 +188,21 @@ article: article
 			Part of 'Catalysized: Outcomes of Catalysis' at the Seventh Catalysis Conference, 24-26 March 2017, Downing College, Cambridge.
 		</p>
 		<p><a class="post-link" href="/videos/erechtheum-portico/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/QIxlxSUJ8F8?rel=0&autoplay=1" alt="NPPF Paragraph 79e Explained">
+		<img src="/images/videos/V11-tall.jpg" alt="NPPF Paragraph 79e Explained" class="tall" />
+		<img src="/images/videos/V11-wide.jpg" alt="NPPF Paragraph 79e Explained" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>NPPF Paragraph 79e Explained</h2>
+		<h4>October 2020</h4>
+		<p>
+			Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 79e is the planning legislation which is specifically written to allow this to happen. In this video Francis and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 79e' houses.
+		</p>
+		<p><a class="post-link" href="/thoughts/nppf-paragraph-79e-explained/">Read more</a></p>
 	</div>
 </li>
 
