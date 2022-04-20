@@ -26,6 +26,21 @@ article: article
 </li>
 
 <li>
+	<a href="https://www.youtube.com/embed/KBDhmRNmHFU?rel=0&autoplay=1" alt="A Life In Sketchbooks">
+		<img src="/images/videos/V14-tall.jpg" alt="A Life In Sketchbooks" class="tall" />
+		<img src="/images/videos/V14-wide.jpg" alt="A Life In Sketchbooks" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>A Life In Sketchbooks</h2>
+		<h4>April 2022</h4>
+		<p>
+			Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently. In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work.
+		</p>
+		<p><a class="post-link" href="/thoughts/a-life-in-sketchbooks-tac/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
 		<img src="/images/videos/V09-tall.jpg" alt="Francis Terry - The Leake Street Classicist" class="tall" />
 		<img src="/images/videos/V09-wide.jpg" alt="Francis Terry - The Leake Street Classicist" class="wide" />
