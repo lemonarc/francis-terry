@@ -5,11 +5,11 @@ title: "TAG Talk: A Life In Sketchbooks"
 excerpt: "Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently."
 preview: "Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently. In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work."
 post_date: 21 April 2022
-permalink: /thoughts/a-life-in-sketchbooks-tac/
-image_tall: /images/essays/a-life-in-sketchbooks-tac/tall.jpg
-image_wide: /images/essays/a-life-in-sketchbooks-tac/wide.jpg
-social_image: /images/essays/a-life-in-sketchbooks-tac/social.jpg
-comments: /thoughts/a-life-in-sketchbooks-tac/
+permalink: /thoughts/tag-a-life-in-sketchbooks/
+image_tall: /images/essays/tag-a-life-in-sketchbooks/tall.jpg
+image_wide: /images/essays/tag-a-life-in-sketchbooks/wide.jpg
+social_image: /images/essays/tag-a-life-in-sketchbooks/social.jpg
+comments: /thoughts/tag-a-life-in-sketchbooks/
 ---
 
 <div class="videoWrapper">

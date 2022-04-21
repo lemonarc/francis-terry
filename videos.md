@@ -36,7 +36,7 @@ article: article
 		<p>
 			Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently. In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work.
 		</p>
-		<p><a class="post-link" href="/thoughts/a-life-in-sketchbooks-tac/">Read more</a></p>
+		<p><a class="post-link" href="/thoughts/tag-a-life-in-sketchbooks/">Read more</a></p>
 	</div>
 </li>
 
