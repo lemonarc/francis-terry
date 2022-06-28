@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+	{% include head.html %}
+
+	{% if page.bodyclass == 'site-home' %}
+	<body class="{{ page.bodyclass }} crossfade">
+	{% elsif page.bodyclass %}
+	<body class="{{ page.bodyclass }}">
+	{% else %}
+	<body>
+	{% endif %}     <div>
+		
+		<div class="full-page {{ page.splash-background }}">
+			
+			{% if page.splash-background == "projectBackground" %}
+			<div class="fadeshade">
+				<div class="crossfade">
+					<figure></figure>
+  					<figure></figure>
+  					<figure></figure>
+					<figure></figure>
+					<figure></figure>
+			{% endif %}
+			
+			{% include header.html %}
+
+			<div>
+			{{ content }}
+			</div>
+
+			{% if page.splash-background == "projectBackground" %}
+				</div>
+			</div>
+			{% endif %}
+		
+		</div>       </div>
+		
+		{% if page.prefooter %}
+		<div class="wrapper {% if page.prefooter == 'mono' %}desaturate{% endif %}">
+			{% include prefooter.html %}				
+		</div>
+		{% endif %}
+		
+		{% include footer.html %}
+
+  </body>
+
+</html>
