@@ -1221,7 +1221,7 @@ h2.promo-large-text { font-size: 4rem; }
 
 .crossfade > figure { animation: imageAnimation 60s linear infinite 0s; backface-visibility: hidden; background-size: cover; background-position: center center; color: transparent; height: 100%; left: 0px; opacity: 0; position: absolute; top: 0px; width: 100%; z-index: 0; }
 
-.crossfade > figure:nth-child(1) { background-image: url("/images/home/wt4ac1e2-5.jpg"); }
+.crossfade > figure:nth-child(1) { background-image: url("/images/home/wt4ac1e2-5B.jpg"); }
 
 .crossfade > figure:nth-child(2) { animation-delay: 6s; background-image: url("/images/home/2022WP04shade.jpg"); }
 
