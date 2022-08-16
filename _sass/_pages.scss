@@ -1660,18 +1660,19 @@ h2.promo-large-text {
 	z-index: 0;
 }
 .crossfade > figure:nth-child(1) {
+	animation-delay: 10s;
 	background-image: url('/images/home/wt4ac1e2-5B.jpg');
 }
 .crossfade > figure:nth-child(2) {
-	animation-delay: 6s;
+	animation-delay: 20s;
 	background-image: url('/images/home/2022WP04shade.jpg');
 }
 .crossfade > figure:nth-child(3) {
-	animation-delay: 12s;
+	animation-delay: 30s;
 	background-image: url('/images/home/eastridge-summer-house-09.jpg');
 }
 .crossfade > figure:nth-child(4) {
-	animation-delay: 18s;
+	animation-delay: 40s;
 	background-image: url('/images/home/201908ESshade.jpg');
 }
 // .crossfade > figure:nth-child(5) {
@@ -1690,7 +1691,7 @@ h2.promo-large-text {
 	17% {
 		opacity: 1
 	}
-	25% {
+	50% {
 		opacity: 0
 	}
 	100% {
