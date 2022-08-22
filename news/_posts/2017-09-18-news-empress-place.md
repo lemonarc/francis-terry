@@ -4,7 +4,7 @@ pageclass: news-post
 title: Our popular alternative proposal for Empress Gate
 excerpt: In collaboration with Create Streets, Francis Terry and Associates have designed a proposal for Empress Gate which has an approval rating of 98%. See the report.
 date: 2017-09-18
-categories: [news]
+categories: [blog, news]
 permalink: /news/september-2017-empress-place/
 social_image: /images/news/sep-2017/sep-2017-social.jpg
 tall_image: sep-2017/sep-2017-tall.jpg

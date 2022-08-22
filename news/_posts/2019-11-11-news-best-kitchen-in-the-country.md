@@ -4,7 +4,7 @@ pageclass: news-post
 title: Could Francis Terry have the best kitchen in the country?
 excerpt: Dedham House has been short listed to the final three in Historic Houses’ new Kitchen Award, in association with Country Life.
 date: 2019-11-11
-categories: [news]
+categories: [blog, news]
 permalink: /news/novembers-2019-best-kitchen-in-the-country/
 social_image: /images/news/2019/11/social.jpg
 tall_image: 2019/11/tall.jpg

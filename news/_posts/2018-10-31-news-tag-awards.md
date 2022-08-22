@@ -4,7 +4,7 @@ pageclass: news-post
 title: The Traditional Architecture Group Awards
 excerpt: This year, the Traditional Architecture Group (TAG) held its first awards party on 31st October at the Art Workers’ Guild.
 date: 2018-10-31
-categories: [news]
+categories: [blog, news]
 permalink: /news/october-2018-tag-awards/
 social_image: /images/news/2018/10/social.jpg
 tall_image: 2018/10/tall.jpg

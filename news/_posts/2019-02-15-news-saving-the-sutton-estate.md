@@ -4,7 +4,7 @@ pageclass: news-post
 title: Our involvement with Saving the Sutton Estate, Chelsea
 excerpt: Francis Terry and Create Streets has been working with Save the Sutton Estate on their campaign to stop the demolition of their estate in Chelsea. 
 date: 2019-02-15
-categories: [news]
+categories: [blog, news]
 permalink: /news/february-2019-saving-the-sutton-estate/
 social_image: /images/news/2019/02/social-2.jpg
 tall_image: 2019/02/tall-2.jpg

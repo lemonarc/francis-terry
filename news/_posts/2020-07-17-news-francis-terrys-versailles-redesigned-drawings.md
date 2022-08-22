@@ -5,7 +5,7 @@ title: "Francis Terry's Versailles Redesigned drawings take practitioner commend
 excerpt: You have to love an entry that is titled 'Versailles Redesigned' and this, coupled with traditionalist architect Francis Terry's great skill in draughting and colour wash, meant that it scored highly with all the judges.
 preview: Francis Terry's Versailles Redesigned drawings mix 'bolshy arrogance' and spectacular images to take practitioner commended place in Eye Line 2020
 date: 2020-07-17
-categories: [news]
+categories: [blog, news]
 permalink: /news/2020-07-17-news-francis-terrys-versailles-redesigned-drawings/
 social_image: /images/news/2020/07/social-2.jpg
 tall_image: 2020/07/tall-2.jpg
