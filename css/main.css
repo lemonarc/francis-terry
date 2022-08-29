@@ -423,6 +423,8 @@ header, .page-content { max-width: 160rem; margin-left: auto; margin-right: auto
 ==================== */
 .page-content { margin: 0 auto 6rem; min-height: 56vh; width: 100%; }
 
+.page-content.full-width { max-width: 100vw; }
+
 .page-heading { font-size: 20px; }
 
 .post-list { margin-left: 0; list-style: none; }
@@ -516,6 +518,10 @@ ul.blog .blog-text { width: calc(100% - (33% + (1rem*2))); float: right; }
 .article .blog-text h2, .article .blog-text h3, .article .blog-text p, article .blog-text h2, article .blog-text h3, article .blog-text p { margin-bottom: 1rem; }
 
 .article p.quote, article p.quote { margin-bottom: 0.5rem; }
+
+.article.full-width, article.full-width { max-width: 100vw; }
+
+.article.full-width .wrapper, article.full-width .wrapper { max-width: 1200px; }
 
 /* Image captions
 ==================== */
