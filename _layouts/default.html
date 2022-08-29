@@ -17,12 +17,17 @@
 
   {% include header.html %}
 	
-	{% if page.featured_image %}<img src="{{ page.featured_image }}" class="page-hero" alt="{{ page.title }}" />{% endif %}
+	{% if page.featured_image %}<img src="{{ page.featured_image }}" class="page-hero" alt="{{ page.title }}" />{% endif %}			
 
     <div class="page-content {% if page.pageclass %}{{ page.pageclass }}{% endif %}">
-				<div class="wrapper">
-					{{ content }}
-				</div>
+		
+		{% if page.page_width == 'full-width' %}
+			{{ content }}
+		{% else %}
+			<div class="wrapper">
+				{{ content }}	
+			</div>
+		{% endif %}
     </div>		
 
 	{% if page.nofollow == 'example' %}
