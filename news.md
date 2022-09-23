@@ -22,7 +22,7 @@ article: article
         </h2>
 		<span class="post-meta">{{ post.date | date: "%B %Y" }}</span>
 		<p>{{ post.preview }}</p>
-		<p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>{% endif %}</p>
+		<p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>{% endif %}</p>
 		</div>
       </li>
     {% endfor %}
