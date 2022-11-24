@@ -1222,6 +1222,25 @@ ul.list li.dorset-12 {
 				}
 			}
 		}
+		li.half {
+			margin-bottom: 0;
+			max-width: fit-content;
+			
+			&.price {
+				background: $text-color;
+				color: $white;
+				padding: $unit*2;
+				
+				@include media-query($on-700) {
+					margin-bottom: $unit*3;
+				}
+			}
+			@include media-query($on-700) {
+				img {
+					margin-bottom: $unit*2;
+				}
+			}
+		}
 		li.half .cta {
 			padding: $unit*2;
 			position: absolute;
