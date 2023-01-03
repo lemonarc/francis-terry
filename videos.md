@@ -71,21 +71,6 @@ article: article
 </li>
 
 <li>
-	<a href="https://www.youtube.com/embed/AyaBwMKy9-A?rel=0&autoplay=1" alt="Commodity, Firmness, and Delight">
-		<img src="/images/videos/V06-tall.jpg" alt="Commodity, Firmness, and Delight" class="tall" />
-		<img src="/images/videos/V06-wide.jpg" alt="Commodity, Firmness, and Delight" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Commodity, Firmness, and Delight</h2>
-		<h4>January 2022</h4>
-		<p>
-			What makes good architecture? The Roman architect Vitruvius states that it is the combination of firmitas (firmness or structural strength), utilitas, (usefulness or function) and venustas (beauty). These three attributes have been translated in a variety of ways, most famously by the 17th century author and diplomat Sir Henry Wotton as ‘commodity, firmness, and delight’. In this video I attempt to understand what Vitruvius actually meant by analysing the original text with the help of my son Alfred who is a classics student at the University of Manchester.
-		</p>
-		<p><a class="post-link" href="/thoughts/commodity-firmness-and-delight/">Read more</a></p>
-	</div>
-</li>
-
-<li>
 	<a href="/thoughts/italian-renaissance/">
 		<img src="/images/videos/V02-tall.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="tall" />
 		<img src="/images/videos/V02-wide.jpg" alt="An Introduction to the Architecture of the Italian Renaissance" class="wide" />
