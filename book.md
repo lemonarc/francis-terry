@@ -11,6 +11,22 @@ article: article
 
 	<li>
 		<a name="recent-work-and-essays"></a>
+		<img src="/images/publications/why-does-my-puppy-like-mozart-book.jpg">
+		<h3>Why Does My Puppy Like Mozart? and other Thoughts about Architecture</h3>
+		<h4>Francis Terry</h4>
+		<p>
+			<strong>Why Does My Puppy Like Mozart?</strong> is a collection of short essays about architecture by Francis Terry, originally published on his blog.
+		</p><p>
+			Written between 2019 and 2022 the stories include a peek into his personal life, with stories about his puppy and travels, through to redesigning his own Georgian house, Buckingham Palace and Versailles!
+		</p><p>
+			The book’s illustrations include sketches and watercolours by Francis.
+		</p><p>
+			You can purchase this book from our office for £15.00 plus postage and packaging.
+		</p>
+	</li>
+
+	<li>
+		<a name="recent-work-and-essays"></a>
 		<img src="/images/publications/recent-work-and-essays.jpg">
 		<h3>Recent Work and Essays</h3>
 		<h4>Francis Terry</h4>
