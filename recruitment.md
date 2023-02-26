@@ -27,6 +27,6 @@ We are always on the look out for people with the following:
 </ol>
 </p>
 <p>
-You do not need to be an architect or have a degree to work with us.</p>
+You <u>do not</u> need to be an architect or have a degree to work with us.</p>
 <p>
 If you have all five of these requirements, please contact us at <a href="mailto:info@ftanda.co.uk?subject=Recruitment">info@ftanda.co.uk</a>.</p>
