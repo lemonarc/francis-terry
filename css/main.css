@@ -1033,6 +1033,10 @@ ul.list li.dorset-12 { margin-bottom: 5%; }
 
 .taster-day ul.list li.half .cta h3 { margin-bottom: 2rem; }
 
+.taster-day ul.list li.full .cta { padding: 2rem; position: absolute; bottom: 0; }
+
+.taster-day ul.list li.full .cta h3 { margin-bottom: 2rem; }
+
 .taster-day a.cta-button, .taster-day input.cta-button { background: #0e143c; }
 
 .taster-day a.cta-button:hover, .taster-day a.cta-button:focus, .taster-day input.cta-button:hover, .taster-day input.cta-button:focus { background: #222a5c; }
@@ -1070,6 +1074,18 @@ ul.list li.dorset-12 { margin-bottom: 5%; }
 .taster-20190701 ul.list li.half .cta { padding: 2rem; position: absolute; bottom: 0; }
 
 .taster-20190701 ul.list li.half .cta h3 { margin-bottom: 2rem; }
+
+.taster-20190701 ul.list li.full { margin-bottom: 0; max-width: 100%; margin-right: 0; width: 100%; }
+
+.taster-20190701 ul.list li.full.price { background: #444444; color: #fff; padding: 2rem; }
+
+@media screen and (max-width: 700px) { .taster-20190701 ul.list li.full.price { margin-bottom: 3rem; } }
+
+@media screen and (max-width: 700px) { .taster-20190701 ul.list li.full img { margin-bottom: 2rem; } }
+
+.taster-20190701 ul.list li.full .cta { padding: 2rem; position: absolute; bottom: 0; }
+
+.taster-20190701 ul.list li.full .cta h3 { margin-bottom: 2rem; }
 
 .taster-form, .taster-form-2 { background: #66849e; }
 
