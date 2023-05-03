@@ -1156,6 +1156,15 @@ ul.list li.dorset-12 {
 				margin-bottom: $unit*2;
 			}
 		}
+		li.full .cta {
+			padding: $unit*2;
+			position: absolute;
+			bottom: 0;
+			
+			h3 {
+				margin-bottom: $unit*2;
+			}
+		}
 	}
 	a.cta-button,
 	input.cta-button {
@@ -1242,6 +1251,36 @@ ul.list li.dorset-12 {
 			}
 		}
 		li.half .cta {
+			padding: $unit*2;
+			position: absolute;
+			bottom: 0;
+			
+			h3 {
+				margin-bottom: $unit*2;
+			}
+		}
+		li.full {
+			margin-bottom: 0;
+			max-width: 100%;
+			margin-right: 0;
+			width: 100%;
+			
+			&.price {
+				background: $text-color;
+				color: $white;
+				padding: $unit*2;
+				
+				@include media-query($on-700) {
+					margin-bottom: $unit*3;
+				}
+			}
+			@include media-query($on-700) {
+				img {
+					margin-bottom: $unit*2;
+				}
+			}
+		}
+		li.full .cta {
 			padding: $unit*2;
 			position: absolute;
 			bottom: 0;
