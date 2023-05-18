@@ -4,7 +4,6 @@ pageclass: news-post
 title: Proposal for Mount Pleasant, London wins INTBAU Award
 excerpt: "Francis Terry and Associates News: Proposal for Mount Pleasant, London wins INTBAU Award"
 date: 2016-11-14
-categories: [blog, news]
 permalink: /news/november-2016-mount-pleasant/
 social_image: /images/news/news-nov-16-social.jpg
 tall_image: news-nov-16-tall.jpg

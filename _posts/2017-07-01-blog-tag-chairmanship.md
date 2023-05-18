@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory]
+categories: [theory]
 title: 'The RIBA’s Traditional Architecture Group'
 excerpt: "Francis Terry has taken on the chairmanship of the Traditional Architecture Group (TAG), and shares his thoughts on the society"
 preview: "I have recently taken on the chairmanship of the Traditional Architecture Group (TAG). This society was formed fifteen years ago, as a linked group to the Royal Institute of British Architects (RIBA)..."

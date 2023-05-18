@@ -5,7 +5,7 @@ title: Francis Terry Watercolour Exhibition
 excerpt: There will be an exhibition of Francis Terry's watercolours at the Art Workers' Guild from 21st to 24th April 2020. The watercolours are all for sale and 100% of the money raised will be given to Cure EB towards EB research.
 preview: There will be an exhibition of Francis Terry's watercolours at the Art Workers' Guild from 21st to 24th April 2020. The watercolours are all for sale and 100% of the money raised will be given to Cure EB towards EB research.
 date: 2020-01-13
-categories: [blog, news]
+categories: [news]
 permalink: /news/2020-01-13-news-francis-terry-watercolour-exhibition/
 social_image: /images/news/2020/01/social.jpg
 tall_image: 2020/01/tall.jpg

@@ -4,7 +4,6 @@ pageclass: news-post
 title: Francis Terry visit to Dallas and Fort Worth
 excerpt: "Francis Terry and Associates News: Francis Terry visit to Dallas and Fort Worth"
 date:   2017-02-24
-categories: [blog, news]
 permalink: /news/february-2017-fort-worth/
 social_image: /images/news/news-feb-17-social.jpg
 tall_image: news-feb-17-tall.jpg

@@ -5,7 +5,7 @@ title: "Sutton Estate – Saved!"
 excerpt: We are delighted to share the news that Clarion Housing have now decided to refurbish, rather than demolish, many of the flats and bring them back to life.
 preview: We are delighted to share the news that Clarion Housing have now decided to refurbish, rather than demolish, many of the flats and bring them back to life.
 date: 2020-01-29
-categories: [blog, news]
+categories: [news]
 permalink: /news/2020-01-29-news-sutton-estate-saved/
 social_image: /images/news/2019/02/social-2.jpg
 tall_image: 2019/02/tall-2.jpg

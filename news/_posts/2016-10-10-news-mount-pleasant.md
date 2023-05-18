@@ -4,7 +4,6 @@ pageclass: news-post
 title: Mount Pleasant Community Right to Build Order submitted to Camden Council
 excerpt: "Francis Terry and Associates News: Mount Pleasant Community Right to Build Order submitted to Camden Council"
 date: 2016-10-10
-categories: [blog, news]
 permalink: /news/october-2016-mount-pleasant/
 social_image: /images/social/social-drawings.jpg
 tall_image: news-oct-16-tall.jpg

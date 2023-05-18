@@ -4,7 +4,7 @@ pageclass: news-post
 title: Francis Terry serves as visiting critic for student final projects at Notre Dame University, Indiana
 excerpt: "Francis Terry serves as visiting critic for student final projects at Notre Dame University, Indiana"
 date:   2017-05-22
-categories: [blog, news]
+categories: [news]
 permalink: /news/may-2017-notre-dame/
 social_image: /images/news/news-may-17-social.jpg
 tall_image: news-may-17-tall.jpg

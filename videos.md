@@ -179,7 +179,6 @@ article: article
 	<a href="/videos/erechtheum-portico/">
 		<img src="/images/videos/V08-tall.jpg" alt="The Erechtheum Portico, From Ancient Greece to Downing and Beyond" class="tall" />
 		<img src="/images/videos/V08-wide.jpg" alt="The Erechtheum Portico, From Ancient Greece to Downing and Beyond" class="wide" />
-		</div>
 	</a>
 	<div class="blog-text">
 		<h2>The Erechtheum Portico, From Ancient Greece to Downing and Beyond</h2>

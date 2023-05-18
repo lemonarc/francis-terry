@@ -5,7 +5,7 @@ title: "New Country House in Northamptonshire"
 excerpt: Francis Terry and Associates are pleased that planning permission has been granted for a new country house in Northamptonshire. This is great news and shows that amongst all the confusion of the past few months things are moving forward.
 preview: Francis Terry and Associates are pleased that planning permission has been granted for a new country house in Northamptonshire. This is great news and shows that amongst all the confusion of the past few months things are moving forward.
 date: 2020-07-03
-categories: [blog, news]
+categories: [news]
 permalink: /news/2020-07-03-news-new-country-house/
 social_image: /images/news/2020/07/social.jpg
 tall_image: 2020/07/tall.jpg

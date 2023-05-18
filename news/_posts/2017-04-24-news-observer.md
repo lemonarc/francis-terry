@@ -4,7 +4,6 @@ pageclass: news-post
 title: Francis Terry interview in the Observer
 excerpt: "Francis Terry is striking out on his own. He tells Rowan Moore of the Observer why pastiche is no bad thing."
 date:   2017-04-24
-categories: [blog, news]
 permalink: /news/april-2017-observer/
 linkout: https://www.theguardian.com/artanddesign/2017/apr/23/francis-terry-architects-quinlan-neoclassical-pastiche
 social_image: /images/news/news-apr-17-social.jpg

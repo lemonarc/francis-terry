@@ -4,7 +4,7 @@ pageclass: news-post
 title: Francis Terry helping at a community design workshop
 excerpt: Francis sat with the residents, a sustainability consultant and master planners. This workshop generated schemes which reflected the community ideas and knowledge of the site, helping to fully visualise their aspirations for the neighbourhood.
 date: 2019-09-09
-categories: [blog, news]
+categories: [news]
 permalink: /news/september-2019-francis-terry-collaborates-with-create-streets/
 social_image: /images/news/2019/09/social.jpg
 tall_image: 2019/09/tall.jpg

@@ -4,7 +4,7 @@ pageclass: news-post
 title: Francis Terry teaches drawing to Students of Buckingham University
 excerpt: As part of Buckingham University’s Summer Schools for students of architecture, Francis spent a day in the casts room at the Victoria and Albert Museum teaching drawing. 
 date: 2019-07-05
-categories: [blog, news]
+categories: [news]
 permalink: /news/july-2019-students-of-buckingham-university/
 social_image: /images/news/2019/07/social.jpg
 tall_image: 2019/07/tall.jpg

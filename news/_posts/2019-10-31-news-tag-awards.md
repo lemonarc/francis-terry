@@ -4,7 +4,7 @@ pageclass: news-post
 title: The Traditional Architecture Group Awards 2019
 excerpt: The Traditional Architects Group (of which Francis is the Chairman) awards were held at the Art Workers’ Guild on Tuesday 22nd October, with prizes and certificates handed out by Lord Snowdon.
 date: 2019-12-05
-categories: [blog, news]
+categories: [news]
 permalink: /news/december-2019-tag-awards/
 social_image: /images/news/2019/12/social-2.jpg
 tall_image: 2019/12/tall-2.jpg
