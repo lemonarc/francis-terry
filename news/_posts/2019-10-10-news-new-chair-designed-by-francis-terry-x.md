@@ -4,7 +4,7 @@ pageclass: news-post
 title: New Chair designed by Francis Terry
 excerpt: Like many architects before him, Francis Terry has applied his training, experience and taste to the challenging task of designing a chair. This has been a very personal project for Francis, based on a real need.
 date: 2019-10-10
-categories: [blog, news]
+categories: [news]
 permalink: /news/october-2019-new-chair-designed-by-francis-terry/
 social_image: /images/news/2019/10/social.jpg
 tall_image: 2019/10/tall.jpg

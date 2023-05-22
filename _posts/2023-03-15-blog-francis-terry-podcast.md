@@ -1,11 +1,10 @@
 ---
 layout: post
-pageclass: news-post
 title: "Francis Terry Podcast"
 excerpt: Francis Terry has uploaded his first podcast, in which he is interviewed by his son. Francis hopes to create more podcasts to entertain himself – and hopefully you – over the coming months.
 preview: Francis Terry has uploaded his first podcast, in which he is interviewed by his son. Francis hopes to create more podcasts to entertain himself – and hopefully you – over the coming months.
-date: 2020-04-09
-categories: [blog, news]
+post_date: April 2020
+categories: [blog]
 permalink: /news/2020-04-09-news-francis-terry-podcast/
 social_image: /images/news/2020/04/social.jpg
 tall_image: 2020/04/tall.jpg

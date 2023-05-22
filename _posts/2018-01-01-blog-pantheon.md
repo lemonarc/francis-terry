@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, buildings]
+categories: [buildings]
 title: 'The Pantheon - The Greatest Building in the World'
 excerpt: "When asked what I view as the greatest building in the world, I say 'The Pantheon' - without a shadow of a doubt. It is an amazing survivor from the ancient world."
 preview: "When asked what I view as the greatest building in the world, I say 'The Pantheon' - without a shadow of a doubt. It is an amazing survivor from the ancient world, which still has the power to move almost everyone who stands under its 'most majestic canopy.'"
