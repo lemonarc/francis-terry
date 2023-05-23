@@ -11,6 +11,21 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/j5rwe2DSB-w?rel=0&autoplay=1" alt="What is Sustainable Architecture With Joey and Francis Terry">
+		<img src="/images/essays/what-is-sustainable-architecture/v-tall.jpg" alt="What is Sustainable Architecture With Joey and Francis Terry" class="tall" />
+		<img src="/images/essays/what-is-sustainable-architecture/v-wide.jpg" alt="What is Sustainable Architecture With Joey and Francis Terry" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>What is Sustainable Architecture With Joey and Francis Terry</h2>
+		<h4>May 2023</h4>
+		<p>
+			In this video Francis Terry discusses with his son Joey what ways architects can address these pressing issues, and how traditional construction methods and materials can contribute to the debate.
+		</p>
+		<p><a class="post-link" href="/thoughts/what-is-sustainable-architecture/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/u1XGLJ6ouJI?rel=0&autoplay=1" alt="NPPF Paragraph 80e Explained">
 		<img src="/images/videos/V12-tall.jpg" alt="NPPF Paragraph 80e Explained" class="tall" />
 		<img src="/images/videos/V12-wide.jpg" alt="NPPF Paragraph 80e Explained" class="wide" />

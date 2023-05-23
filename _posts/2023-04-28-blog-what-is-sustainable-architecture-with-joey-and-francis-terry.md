@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory, videos]
+categories: [blog, theory]
 title: "What is Sustainable Architecture With Joey and Francis Terry"
 excerpt: "In this video Francis Terry discusses with his son Joey what ways architects can address these pressing issues, and how traditional construction methods and materials can contribute to the debate."
 preview: "In this video Francis Terry discusses with his son Joey what ways architects can address these pressing issues, and how traditional construction methods and materials can contribute to the debate."
