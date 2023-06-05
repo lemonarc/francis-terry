@@ -7,16 +7,16 @@ excerpt: "We recently bought a puppy and discovered that he much prefers classic
 preview: "We recently bought a puppy and discovered that he much prefers classical music to pop. It seems that dogs are born with discernible musical tastes which effects their moods and this seems to be consistent throughout the species."
 post_date: October 2019
 permalink: /thoughts/why-does-my-puppy-like-mozart/
-image_tall: /images/essays/why-does-my-puppy-like-mozart/tall.jpg
-image_wide: /images/essays/why-does-my-puppy-like-mozart/wide.jpg
-social_image: /images/essays/why-does-my-puppy-like-mozart/social.jpg
+image_tall: /images/essays/why-does-my-puppy-like-mozart/talla.jpg
+image_wide: /images/essays/why-does-my-puppy-like-mozart/widea.jpg
+social_image: /images/essays/why-does-my-puppy-like-mozart/sociala.jpg
 comments: /thoughts/why-does-my-puppy-like-mozart/
 ---
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/why-does-my-puppy-like-mozart/01.jpg">
-			<img src="/images/essays/why-does-my-puppy-like-mozart/thumbs/01.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/why-does-my-puppy-like-mozart/01a.jpg">
+			<img src="/images/essays/why-does-my-puppy-like-mozart/sociala.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
