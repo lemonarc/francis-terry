@@ -14,8 +14,8 @@ comments: /thoughts/chicken/
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/chicken/mika.jpg" title="Where does your chicken cross the road?">
-			<img src="/images/essays/chicken/mika.jpg" alt="Where does your chicken cross the road?" />
+		<a class="fancybox" rel="group" href="/images/essays/chicken/chicken.jpg" title="Where does your chicken cross the road?">
+			<img src="/images/essays/chicken/chicken.jpg" alt="Where does your chicken cross the road?" />
 		</a>
 	</li>
 </ul>
