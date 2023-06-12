@@ -28,9 +28,9 @@ comments: /thoughts/natural-architecture/
 	Nylon fabrics, as used in sports clothing, seems to be the 'go-to' fabric for many nowadays and natural materials, like cotton, wool, tweed and corduroy, seem to be less used unless you are a bearded hipster... or a reactionary architect, who peddles nostalgia - like me.
 </p>
 
-<a class="fancybox" rel="group" href="/images/essays/natural-architecture/natural-architecture-02.jpg">
+<!--<a class="fancybox" rel="group" href="/images/essays/natural-architecture/natural-architecture-02.jpg">
 	<img src="/images/essays/natural-architecture/natural-architecture-02.jpg" alt="Prince Charles" class="half-inset" />
-</a>
+</a>-->
 
 <p>
 	I was heartened to see Prince Charles recently making this exact point during his tour of Australia, where, in an interview with the Australian Financial Review, he said that he was delighted that there is a, “growing awareness of the urgent need to get away from ‘throwaway society’,” when it comes to fashion sustainability."  His Royal Highness went on to say, “I have always believed in trying to keep as many of my clothes and shoes going for as long as possible (some go back to 1971 and one jacket to 1969) – through patches and repairs – and in this way I tend to be in fashion once every 25 years…”

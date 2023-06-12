@@ -41,21 +41,6 @@ article: article
 </li>
 
 <li>
-	<a href="https://www.youtube.com/embed/KBDhmRNmHFU?rel=0&autoplay=1" alt="A Life In Sketchbooks">
-		<img src="/images/videos/V14-tall.jpg" alt="A Life In Sketchbooks" class="tall" />
-		<img src="/images/videos/V14-wide.jpg" alt="A Life In Sketchbooks" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>A Life In Sketchbooks</h2>
-		<h4>April 2022</h4>
-		<p>
-			Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently. In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work.
-		</p>
-		<p><a class="post-link" href="/thoughts/tag-a-life-in-sketchbooks/">Read more</a></p>
-	</div>
-</li>
-
-<li>
 	<a href="https://www.youtube.com/embed/btm6Zq2E9OI?rel=0&autoplay=1">
 		<img src="/images/videos/V09-tall.jpg" alt="Francis Terry - The Leake Street Classicist" class="tall" />
 		<img src="/images/videos/V09-wide.jpg" alt="Francis Terry - The Leake Street Classicist" class="wide" />
@@ -82,6 +67,21 @@ article: article
 			The highest praise one can give an artist is to say he or she draws like Raphael. It comes in the same package as writing like Shakespeare or ‘bending it like Beckham’. As I can’t write poetry and don’t play football the latter two challenges are not open to me, but drawing like Raphael... how hard can it be?
 		</p>
 		<p><a class="post-link" href="/thoughts/how-to-draw-like-raphael/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="/videos/three-classicists/">
+		<img src="/images/videos/V13-tall.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="tall" />
+		<img src="/images/videos/V13-wide.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Three Classicists drawing at the Mantownhuman Winter School</h2>
+		<h4>November 2010</h4>
+		<p>
+			For the Mantownhuman Winter School, the Three Classicists - Francis Terry, Ben Pentreath and George Saumarez Smith - spent a day drawing a classical scheme which was immediately rubbed out on completion.
+		</p>
+		<p><a class="post-link" href="/videos/three-classicists/">Read more</a></p>
 	</div>
 </li>
 
@@ -161,17 +161,17 @@ article: article
 </li>
 
 <li>
-	<a href="/videos/three-classicists/">
-		<img src="/images/videos/V13-tall.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="tall" />
-		<img src="/images/videos/V13-wide.jpg" alt="Three Classicists drawing at the Mantownhuman Winter School" class="wide" />
+	<a href="https://www.youtube.com/embed/KBDhmRNmHFU?rel=0&autoplay=1" alt="A Life In Sketchbooks">
+		<img src="/images/videos/V14-tall.jpg" alt="A Life In Sketchbooks" class="tall" />
+		<img src="/images/videos/V14-wide.jpg" alt="A Life In Sketchbooks" class="wide" />
 	</a>
 	<div class="blog-text">
-		<h2>Three Classicists drawing at the Mantownhuman Winter School</h2>
-		<h4>November 2010</h4>
+		<h2>A Life In Sketchbooks</h2>
+		<h4>April 2022</h4>
 		<p>
-			For the Mantownhuman Winter School, the Three Classicists - Francis Terry, Ben Pentreath and George Saumarez Smith - spent a day drawing a classical scheme which was immediately rubbed out on completion.
+			Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently. In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work.
 		</p>
-		<p><a class="post-link" href="/videos/three-classicists/">Read more</a></p>
+		<p><a class="post-link" href="/thoughts/tag-a-life-in-sketchbooks/">Read more</a></p>
 	</div>
 </li>
 
