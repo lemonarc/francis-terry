@@ -6,8 +6,8 @@
 </description>
     <link>https://ftanda.co.uk/</link>
     <atom:link href="https://ftanda.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Jun 2023 06:56:48 +0000</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2023 06:56:48 +0000</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 07:04:30 +0000</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 07:04:30 +0000</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -483,9 +483,9 @@ For me this is the point of sketching.  It forces you to go slowly and see thing
 	Nylon fabrics, as used in sports clothing, seems to be the 'go-to' fabric for many nowadays and natural materials, like cotton, wool, tweed and corduroy, seem to be less used unless you are a bearded hipster... or a reactionary architect, who peddles nostalgia - like me.
 &lt;/p&gt;
 
-&lt;p&gt;&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/natural-architecture/natural-architecture-02.jpg&quot;&gt;
+&lt;!--&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/essays/natural-architecture/natural-architecture-02.jpg&quot;&gt;
 	&lt;img src=&quot;/images/essays/natural-architecture/natural-architecture-02.jpg&quot; alt=&quot;Prince Charles&quot; class=&quot;half-inset&quot; /&gt;
-&lt;/a&gt;&lt;/p&gt;
+&lt;/a&gt;--&gt;
 
 &lt;p&gt;
 	I was heartened to see Prince Charles recently making this exact point during his tour of Australia, where, in an interview with the Australian Financial Review, he said that he was delighted that there is a, “growing awareness of the urgent need to get away from ‘throwaway society’,” when it comes to fashion sustainability.&quot;  His Royal Highness went on to say, “I have always believed in trying to keep as many of my clothes and shoes going for as long as possible (some go back to 1971 and one jacket to 1969) – through patches and repairs – and in this way I tend to be in fashion once every 25 years…”
