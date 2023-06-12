@@ -7,6 +7,8 @@ excerpt: "I have a collection of my own sketch books going back forty years. The
 preview: "I have a collection of my own sketch books going back forty years. These are like a visual diary and they chart my various artistic and architectural interests over the years."
 post_date: February 2020
 permalink: /thoughts/a-life-in-sketchbooks/
+redirect_from:
+  - /thoughts/tag-a-life-in-sketchbooks/
 image_tall: /images/essays/a-life-in-sketchbooks/tall.jpg
 image_wide: /images/essays/a-life-in-sketchbooks/wide.jpg
 social_image: /images/essays/a-life-in-sketchbooks/social.jpg
@@ -533,3 +535,13 @@ Despite all the drawbacks of sketch books, they do have a compelling allure whic
 		</a>
 	</li>
 </ul>
+
+Francis gave a zoom talk on his sketching through the decades to the Traditional Architects Group recently.
+
+Sketchbooks have always been a critical part of an architect’s work. Francis Terry has a collection of sketchbooks going back forty years to his childhood holidays in Italy sketching architecture with his father, Quinlan Terry. Over the decades he has used sketchbooks as a source of inspiration for his architecture and other artistic ventures ranging from paintings to book illustrations and stage set designs.
+
+In this talk, Francis discusses his work from his various sketchbooks and focus on how these drawings inspired his work.
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/KBDhmRNmHFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
