@@ -1704,7 +1704,7 @@ h2.promo-large-text {
 }
 
 .crossfade > figure {
-	animation: imageAnimation 60s linear infinite 0s;
+	animation: imageAnimation 80s linear infinite 0s;
 	backface-visibility: hidden;
 	background-size: cover;
 	background-position: center center;
@@ -1718,25 +1718,25 @@ h2.promo-large-text {
 	z-index: 0;
 }
 .crossfade > figure:nth-child(1) {
-	animation-delay: 10s;
+	animation-delay: 8s;
 	background-image: url('/images/home/home-extension.jpg');
 }
 .crossfade > figure:nth-child(2) {
-	animation-delay: 20s;
+	animation-delay: 16s;
 	background-image: url('/images/home/home-wield-park.jpg');
 }
 .crossfade > figure:nth-child(3) {
-	animation-delay: 30s;
+	animation-delay: 24s;
 	background-image: url('/images/home/home-eastridge.jpg');
 }
 .crossfade > figure:nth-child(4) {
-	animation-delay: 40s;
+	animation-delay: 32s;
 	background-image: url('/images/home/home-country-house.jpg');
 }
-// .crossfade > figure:nth-child(5) {
-// 	animation-delay: 24s;
-// 	background-image: url('/images/home/201908ESshade.jpg');
-// }
+.crossfade > figure:nth-child(5) {
+	animation-delay: 40s;
+	background-image: url('/images/home/4K4A4171_EDIT.jpg');
+}
 @keyframes imageAnimation {
 	0% {
  		animation-timing-function: ease-in;
