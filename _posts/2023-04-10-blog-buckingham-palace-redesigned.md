@@ -16,8 +16,8 @@ page_width: full-width
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/buckingham-palace-redesigned/01.jpg">
-			<img src="/images/essays/buckingham-palace-redesigned/thumbs/01.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/essays/buckingham-palace-redesigned/02.jpg">
+			<img src="/images/essays/buckingham-palace-redesigned/thumbs/02.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -42,11 +42,3 @@ page_width: full-width
 <h2 id="francis-terry">Francis Terry<br/><br/></h2>
 
 </div>
-
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/essays/buckingham-palace-redesigned/02.jpg">
-			<img src="/images/essays/buckingham-palace-redesigned/thumbs/02.jpg" alt="{{ page.title }}" />
-		</a>
-	</li>
-</ul>
