@@ -16,8 +16,8 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/20190905.jpg" title="Elevations of a New House in Berkshire, Francis Terry 2019.">
-<img class="lazy" src="/images/drawings/thumbs/20190905.jpg" alt="Elevations of a New House in Berkshire, Francis Terry 2019." />
+<a class="fancybox" rel="group" href="/images/drawings/231123_front_perspective.jpg" title="Front Perspective, Francis Terry 2023.">
+<img class="lazy" src="/images/drawings/thumbs/231123_front_perspective.jpg" alt="Front Perspective, Francis Terry 2023." />
 </a>
 </li>
 
@@ -44,6 +44,22 @@ social_image: /images/social/social-drawings-watercolours.jpg
 <img class="lazy" src="/images/drawings/thumbs/unnamedpainting1.jpg" alt="House in Wiltshire, south perspective. Watercolour by Francis Terry, 2016." />
 </a>
 </li>
+
+</ul><ul class="list">
+
+<li class="full">
+<a class="fancybox" rel="group" href="/images/drawings/231123-north-elevation.jpg" title="North Elevation, Francis Terry, 2023.">
+<img class="lazy" src="/images/drawings/thumbs/231123-north-elevation-B.jpg" alt="North Elevation, Francis Terry, 2023." />
+</a>
+</li>
+
+<li class="full">
+<a class="fancybox" rel="group" href="/images/drawings/231123-south-elevation.jpg" title="South Elevation, Francis Terry, 2023.">
+<img class="lazy" src="/images/drawings/thumbs/231123-south-elevation.jpg" alt="South Elevation, Francis Terry, 2023." />
+</a>
+</li>
+
+</ul><ul class="list">
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/drawings/house-in-norfolk-00.jpg" title="Front elevation of proposed home in Norfolk, watercolour by Francis Terry, 2016.">
@@ -102,6 +118,12 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </ul><ul class="list">
 
 <li class="full">
+<a class="fancybox" rel="group" href="/images/drawings/buckingham-palace-2022.jpg" title="Buckingham Palace, Francis Terry, 2022.">
+<img class="lazy" src="/images/drawings/thumbs/buckingham-palace-2022.jpg" alt="Buckingham Palace, Francis Terry, 2022." />
+</a>
+</li>
+
+<li class="full">
 <a class="fancybox" rel="group" href="/images/drawings/v05.jpg">
 <img class="lazy" src="/images/drawings/thumbs/v05.jpg" alt="Versailles - Front Elevation." />
 </a>
@@ -151,7 +173,7 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </a>
 </li>
 
-<li class="third">
+<!--<li class="third">
 <a class="fancybox" rel="group" href="/images/news/2020/01/12.jpg" title="Red brick terraced house">
 <img class="lazy" src="/images/news/2020/01/thumbs/12d.jpg" alt="Red brick terraced house" title="Red brick terraced house" />
 </a>
@@ -181,11 +203,11 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </a>
 </li>
 
-<!--<li class="third">
+<li class="third">
 <a class="fancybox" rel="group" href="/images/news/2020/01/02.jpg" title="Proposal for Broadway, Wimbledon">
 <img class="lazy" src="/images/news/2020/01/thumbs/02d.jpg" alt="Proposal for Broadway, Wimbledon" title="Proposal for Broadway, Wimbledon" />
 </a>
-</li>-->
+</li>
 
 <li class="third">
 <a class="fancybox" rel="group" href="/images/news/2020/01/11.jpg" title="Mount Pleasant Elevation">
@@ -193,7 +215,7 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </a>
 </li>
 
-<!--<li class="third">
+<li class="third">
 <a class="fancybox" rel="group" href="/images/news/2020/01/19.jpg" title="Proposal for West Hampstead seen from Railway">
 <img class="lazy" src="/images/news/2020/01/thumbs/19d.jpg" alt="Proposal for West Hampstead seen from Railway" title="Proposal for West Hampstead seen from Railway" />
 </a>

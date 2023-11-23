@@ -135,6 +135,18 @@ social_image: /images/social/social-drawings-miscellaneous.jpg
 </a>
 </li>
 
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/20190905.jpg" title="Elevations of a New House in Berkshire, Francis Terry 2019.">
+<img class="lazy" src="/images/drawings/thumbs/20190905.jpg" alt="Elevations of a New House in Berkshire, Francis Terry 2019." />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/231123-wildlife-tower-wield-house.jpg" title="Wildlife Tower Wield House, Francis Terry.">
+<img class="lazy" src="/images/drawings/thumbs/231123-wildlife-tower-wield-house.jpg" alt="Wildlife Tower Wield House, Francis Terry." />
+</a>
+</li>
+
 </ul>
 
 <p><a href="/drawings/" class="button" alt="Sketches">Back to Drawings</a></p>

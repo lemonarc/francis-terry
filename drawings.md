@@ -17,8 +17,8 @@ social_image: /images/social/social-drawings.jpg
 </li>
 
 <li class="third">
-<a class="fancybox" rel="group" href="/images/drawings/20190905.jpg" title="Elevations of a New House in Berkshire, Francis Terry 2019.">
-<img class="lazy" src="/images/drawings/thumbs/20190905.jpg" alt="Elevations of a New House in Berkshire, Francis Terry 2019." />
+<a class="fancybox" rel="group" href="/images/drawings/231123_front_perspective.jpg" title="Front Perspective, Francis Terry 2023.">
+<img class="lazy" src="/images/drawings/thumbs/231123_front_perspective.jpg" alt="Front Perspective, Francis Terry 2023." />
 </a>
 </li>
 
