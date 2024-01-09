@@ -148,14 +148,23 @@ article: article
 		</div>
 	</a>
 	
-	<!--<a href="/practice/jo-bunch/" class="profile-promo">
-		<div class="profile-thumb profile-thumb-jb"></div>
+	<a href="/practice/jack-rayner/" class="profile-promo">
+		<div class="profile-thumb profile-thumb-jr"></div>
 		<div class="profile-intro">
-			<h3>Jo Bunch</h3>
-			<h5>Office Manager</h5>
+			<h3>Jack Rayner</h3>
+			<h5>Architectural Technician</h5>
 			<small>Read more...</small>
 		</div>
-	</a>-->
+	</a>
+	
+	<a href="/practice/austen-redman/" class="profile-promo">
+		<div class="profile-thumb profile-thumb-ar"></div>
+		<div class="profile-intro">
+			<h3>Austen Redman</h3>
+			<h5>Architectural Technician</h5>
+			<small>Read more...</small>
+		</div>
+	</a>
 	
 	<a href="/practice/leah-roberts/" class="profile-promo">
 		<div class="profile-thumb profile-thumb-lr2"></div>
