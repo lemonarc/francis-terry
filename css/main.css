@@ -810,6 +810,10 @@ a.profile-promo .profile-intro small:hover { text-decoration: underline; }
 
 .profile-thumb-lr2 { background-image: url(/images/practice/leah-roberts-b.jpg), url(/images/practice/leah-roberts-a.jpg); }
 
+.profile-thumb-ar { background-image: url(/images/practice/austen-redman-b.jpg), url(/images/practice/austen-redman-a.jpg); }
+
+.profile-thumb-jr { background-image: url(/images/practice/jack-rayner-b.jpg), url(/images/practice/jack-rayner-a.jpg); }
+
 /* Profile pages */
 .staffprofile em { font-family: 'times new roman', serif; font-style: italic; }
 
