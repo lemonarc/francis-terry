@@ -164,4 +164,16 @@ For me this is the point of sketching.  It forces you to go slowly and see thing
 (This essay was first published for the catalogue of the Driehaus Prize - 2005)
 </p>
 
+<br />
+
+<ul class="list">
+    <li class="third">
+		<a href="/book/#a_life_in_sketchbooks">
+		    <img src="/images/publications/a_life_in_sketchbooks.jpg">
+        </a>
+	</li>
+</ul>
+
+<p><a href="/book/#a_life_in_sketchbooks">See more in <strong>A Life in Sketchbooks</strong> by Francis Terry.</a></p>
+
 <!--<div class="fb-comments" data-href="http://ftanda.co.uk/thoughts/sketching-with-my-father/" data-width="100%" data-numposts="12"></div>-->

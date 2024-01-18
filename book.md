@@ -6,8 +6,22 @@ permalink: /book/
 social_image: /images/social/social-kilboy.jpg
 article: article
 ---
-<a href="#practice_of_classical_architecture"></a>
+
 <ul class="list publications">
+
+	<li>
+		<a name="a_life_in_sketchbooks"></a>
+		<img src="/images/publications/a_life_in_sketchbooks.jpg">
+		<h3>A Life in Sketchbooks</h3>
+		<h4>Francis Terry</h4>
+		<p>
+			Francis Terry is a classical architect with a great love of drawing.
+		</p><p>
+			From childhood to the present day, he has drawn almost obsessively. This small book is an illustrated catalogue of his sketches going back to the early 80's. These drawings are brought to life with anecdotes and stories which shed light onto the context and time when they were created.
+		</p><p>
+			You can purchase this book from our office for £50.00 plus postage and packaging.
+		</p>
+	</li>
 
 	<li>
 		<a name="recent-work-and-essays"></a>

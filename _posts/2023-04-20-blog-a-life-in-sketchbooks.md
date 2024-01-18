@@ -545,3 +545,15 @@ In this talk, Francis discusses his work from his various sketchbooks and focus 
 <div class="videoWrapper">
 	<iframe src="https://www.youtube.com/embed/KBDhmRNmHFU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
+
+<br /><br />
+
+<ul class="list">
+    <li class="third">
+		<a href="/book/#a_life_in_sketchbooks">
+		    <img src="/images/publications/a_life_in_sketchbooks.jpg">
+        </a>
+	</li>
+</ul>
+
+<p><a href="/book/#a_life_in_sketchbooks">See more in <strong>A Life in Sketchbooks</strong> by Francis Terry.</a></p>
