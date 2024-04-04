@@ -97,6 +97,16 @@ social_image: /images/social/social-drawings-watercolours.jpg
 </a>
 </li>
 
+</ul><ul class="list">
+
+<li class="full">
+<a class="fancybox" rel="group" href="/images/drawings/240403-finchatton.jpg" title="New house for Finchatton, Francis Terry, 2019.">
+<img class="lazy" src="/images/drawings/thumbs/240403-finchatton.jpg" alt="New house for Finchatton, Francis Terry, 2019." />
+</a>
+</li>
+
+</ul><ul class="list">
+
 <li class="third">
 <a class="fancybox" rel="group" href="/images/drawings/place-de-la-bourse-bordeaux.jpg" title="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020.">
 <img class="lazy" src="/images/drawings/thumbs/place-de-la-bourse-bordeaux.jpg" alt="Place de la Bourse, Bordeaux. Watercolour painted by Francis Terry, 2020." />
