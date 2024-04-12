@@ -10,6 +10,21 @@ article: article
 
 <ul class="list blog">
 
+
+<li>
+	<a href="https://www.youtube.com/embed/e1OGitGRWj0?rel=0&autoplay=1" alt="NPPF Paragraph 84e Explained">
+		<img src="/images/videos/V15-tall.jpg" alt="NPPF Paragraph 84e Explained" class="tall" />
+		<img src="/images/videos/V15-wide.jpg" alt="NPPF Paragraph 84e Explained" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>NPPF Paragraph 84e Explained</h2>
+		<h4>March 2024</h4>
+		<p>
+			Many people, perhaps you, would love to build yourself a new house in the country where you could live with your family and work from home in rural tranquility. It is perhaps the English dream. The problem is getting planning permission. But don’t despair, NPPF paragraph 84e is the planning legislation which is specifically written to allow this to happen. The clause states that the new house has to be an ‘exceptional’ work of architecture and so it is not easy to get planning permission… but not impossible. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of ‘paragraph 84e’ houses.
+		</p>
+	</div>
+</li>
+
 <li>
 	<a href="https://www.youtube.com/embed/j5rwe2DSB-w?rel=0&autoplay=1" alt="What is Sustainable Architecture With Joey and Francis Terry">
 		<img src="/images/essays/what-is-sustainable-architecture/v-tall.jpg" alt="What is Sustainable Architecture With Joey and Francis Terry" class="tall" />
@@ -22,21 +37,6 @@ article: article
 			In this video Francis Terry discusses with his son Joey what ways architects can address these pressing issues, and how traditional construction methods and materials can contribute to the debate.
 		</p>
 		<p><a class="post-link" href="/thoughts/what-is-sustainable-architecture/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/u1XGLJ6ouJI?rel=0&autoplay=1" alt="NPPF Paragraph 80e Explained">
-		<img src="/images/videos/V12-tall.jpg" alt="NPPF Paragraph 80e Explained" class="tall" />
-		<img src="/images/videos/V12-wide.jpg" alt="NPPF Paragraph 80e Explained" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>NPPF Paragraph 80e Explained</h2>
-		<h4>November 2021</h4>
-		<p>
-			Many people, perhaps you, would love to build yourself a new house in the country where you could live with your family and work from home in rural tranquility. It is perhaps the English dream. The problem is getting planning permission. But don’t despair, NPPF paragraph 80e is the planning legislation which is specifically written to allow this to happen. The clause states that the new house has to be an ‘exceptional’ work of architecture and so it is not easy to get planning permission… but not impossible. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of ‘paragraph 80e’ houses.
-		</p>
-		<p><a class="post-link" href="/thoughts/nppf-paragraph-80e-explained/">Read more</a></p>
 	</div>
 </li>
 
@@ -217,6 +217,21 @@ article: article
 			Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 79e is the planning legislation which is specifically written to allow this to happen. In this video Francis and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 79e' houses.
 		</p>
 		<p><a class="post-link" href="/thoughts/nppf-paragraph-79e-explained/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/u1XGLJ6ouJI?rel=0&autoplay=1" alt="NPPF Paragraph 80e Explained">
+		<img src="/images/videos/V12-tall.jpg" alt="NPPF Paragraph 80e Explained" class="tall" />
+		<img src="/images/videos/V12-wide.jpg" alt="NPPF Paragraph 80e Explained" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>NPPF Paragraph 80e Explained</h2>
+		<h4>November 2021</h4>
+		<p>
+			Many people, perhaps you, would love to build yourself a new house in the country where you could live with your family and work from home in rural tranquility. It is perhaps the English dream. The problem is getting planning permission. But don’t despair, NPPF paragraph 80e is the planning legislation which is specifically written to allow this to happen. The clause states that the new house has to be an ‘exceptional’ work of architecture and so it is not easy to get planning permission… but not impossible. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of ‘paragraph 80e’ houses.
+		</p>
+		<p><a class="post-link" href="/thoughts/nppf-paragraph-80e-explained/">Read more</a></p>
 	</div>
 </li>
 
