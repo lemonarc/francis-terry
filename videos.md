@@ -10,7 +10,6 @@ article: article
 
 <ul class="list blog">
 
-
 <li>
 	<a href="https://www.youtube.com/embed/e1OGitGRWj0?rel=0&autoplay=1" alt="NPPF Paragraph 84e Explained">
 		<img src="/images/videos/V15-tall.jpg" alt="NPPF Paragraph 84e Explained" class="tall" />
