@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [blog, theory, videos]
+categories: [theory, videos]
 title: "NPPF Paragraph 80e Explained"
 excerpt: "Francis Terry and Martin Leay discuss the NPPF paragraph 80e planning legislation clause. NPPF paragraph 80e permits exceptional new houses in the country."
 preview: "Many people, would love to build a new house in the country. The problem is getting planning permission. But don't despair, NPPF paragraph 80e is the planning legislation which is specifically written to allow this to happen. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of 'paragraph 80e' houses."

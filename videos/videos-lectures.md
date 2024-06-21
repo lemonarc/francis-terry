@@ -87,4 +87,4 @@ article: article
 
 </ul>
 
-<p><a href="/videos-new/" class="button" alt="Back to Videos">Back to Videos</a></p>
+<p><a href="/videos/" class="button" alt="Back to Videos">Back to Videos</a></p>
