@@ -39,6 +39,24 @@ social_image: /images/social/social-drawings.jpg
 <ul class="list">
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_01.jpg" title="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_01.jpg" alt="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_02.jpg" title="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_02.jpg" alt="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_03.jpg" title="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_03.jpg" alt="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<!--<li class="third">
 <a class="fancybox" rel="group" href="/images/drawings/00s_image1.jpg" title="Full size working drawing of Ionic Capital. Drawn by Francis Terry. Exhibited at the RA, 2004.">
 <img class="lazy" src="/images/drawings/thumbs/00s_image1.jpg" alt="Full size working drawing of Ionic Capital. Drawn by Francis Terry. Exhibited at the RA, 2004." />
 </a>
@@ -54,7 +72,7 @@ social_image: /images/social/social-drawings.jpg
 <a class="fancybox" rel="group" href="/images/drawings/00s_image3.jpg" title="Corinthian capital. Drawn by Francis Terry, pencil on tracing paper. Exhibited at the RA in 2002.">
 <img class="lazy" src="/images/drawings/thumbs/00s_image3.jpg" alt="Corinthian capital. Drawn by Francis Terry, pencil on tracing paper. Exhibited at the RA in 2002." />
 </a>
-</li>
+</li>-->
 
 </ul>
 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g id="FACEBOOK" transform="matrix(1,0,0,1,-28.0498,8.60423e-16)">
+        <g transform="matrix(0.466133,0,0,1.45621,28.1369,0.208333)">
+            <path d="M64.172,10.158C64.172,15.843 49.753,20.458 31.993,20.458C14.232,20.458 -0.187,15.843 -0.187,10.158C-0.187,4.473 14.232,-0.143 31.993,-0.143C49.753,-0.143 64.172,4.473 64.172,10.158Z" style="fill:rgb(24,119,242);"/>
+        </g>
+        <g transform="matrix(0.2,0,0,0.2,44.5884,5)">
+            <path d="M0,100L-20.69,100L-20.69,50.005L-31.028,50.005L-31.028,32.762L-20.69,32.762L-20.69,22.419C-20.69,8.37 -14.839,0 1.74,0L15.541,0L15.541,17.233L6.922,17.233C0.469,17.233 0.033,19.638 0.033,24.135L0,32.762L15.642,32.762L13.813,50.005L0,50.005L0,100Z" style="fill:white;fill-rule:nonzero;"/>
+        </g>
+    </g>
+</svg>

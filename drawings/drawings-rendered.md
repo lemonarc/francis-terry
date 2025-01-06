@@ -28,6 +28,24 @@ social_image: /images/social/social-drawings-rendered.jpg
 </li>
 
 <li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_01.jpg" title="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_01.jpg" alt="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_02.jpg" title="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_02.jpg" alt="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<li class="third">
+<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_03.jpg" title="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023">
+<img class="lazy" src="/images/drawings/thumbs/cabinet_room_03.jpg" alt="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023" />
+</a>
+</li>
+
+<li class="third">
 <a class="fancybox" rel="group" href="/images/drawings/00s_image3.jpg" title="Corinthian capital. Drawn by Francis Terry, pencil on tracing paper. Exhibited at the RA in 2002.">
 <img class="lazy" src="/images/drawings/thumbs/00s_image3.jpg" alt="Corinthian capital. Drawn by Francis Terry, pencil on tracing paper. Exhibited at the RA in 2002." />
 </a>
