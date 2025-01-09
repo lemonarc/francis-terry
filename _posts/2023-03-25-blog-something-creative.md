@@ -4,7 +4,7 @@ title: "Lockdown Mural"
 excerpt: For Francis Terry and his family the lockdown has meant a project which was started in February has become a real focus for quality time together... it was picked up by Architectural Digest who ran the story.
 preview: For Francis Terry and his family the lockdown has meant a project which was started in February has become a real focus for quality time together... it was picked up by Architectural Digest who ran the story.
 post_date: April 2020
-categories: [blog, news]
+categories: [blog]
 permalink: /news/2020-04-27-news-something-creative/
 social_image: /images/news/2020/04/social-2.jpg
 tall_image: 2020/04/tall-2.jpg
