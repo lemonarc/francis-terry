@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Planning Permission for a New Pair of Houses in Hans Place, Knightsbridge has been granted
+title: Planning Permission for a New Pair of Houses in Hans Place, Knightsbridge Has Been Granted
 excerpt: We are thrilled to be part of a team which have been granted planning consent for a pair of new houses in Hans Place, Knightsbridge.
 post_date: December 2024
 categories: [news]
