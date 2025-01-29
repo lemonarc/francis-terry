@@ -4,7 +4,7 @@ categories: [projects, urbanism]
 title: "Queen Mother Square, Poundbury, Dorset"
 excerpt: "The Duchy of Cornwall began the creation of Poundbury in 1993 following a master plan commissioned by the Prince of Wales from Leon Krier. Quinlan and Francis Terry were commissioned in 2004 to design the main central space of Poundbury, Queen Mother Square."
 preview: "The Duchy of Cornwall began the creation of Poundbury in 1993 following a master plan commissioned by the Prince of Wales from Leon Krier. Quinlan and Francis Terry were commissioned in 2004 to design the main central space of Poundbury, Queen Mother Square."
-post_date: 2024-02-07
+post_date: 2000-02-03
 permalink: /projects/queen-mother-square/
 image_tall: /images/projects/poundbury/tall-2.jpg
 image_wide: /images/projects/poundbury/wide-2.jpg
