@@ -6,9 +6,9 @@ excerpt: "This magnificent new mansion, built in 2003-10 from designs by Quinlan
 preview: "This magnificent new mansion, built in 2003-10 from designs by Quinlan and Francis Terry, began as a simple classical villa built by Decimus Burton in 1827 as part of John Nash’s plans for his Picturesque layout of Regent’s Park."
 post_date: 2000-02-05
 permalink: /projects/house-in-regents-park/
-image_tall: /images/projects/house-in-regents-park/tall.jpg
-image_wide: /images/projects/house-in-regents-park/wide.jpg
-social_image: /images/projects/house-in-regents-park/social.jpg
+image_tall: /images/projects/house-in-regents-park/tall-25.jpg
+image_wide: /images/projects/house-in-regents-park/wide-25.jpg
+social_image: /images/projects/house-in-regents-park/social-25.jpg
 ---
 
 <ul class="list">
@@ -172,6 +172,14 @@ social_image: /images/projects/house-in-regents-park/social.jpg
 <p> 
 	The majority of the decoration is on the cove and ceiling which are enriched with rinceaux, shells, cartouches, and arabesques, while the soffit to the gallery is also ornamented with fret patterns, framed rosettes, and rich consoles. The result is one of the most imposing and lavishly ornamented interiors that has been created for a hundred years. The subtle colouring is basically a soft white for the walls and ceiling with light  grey in the cove against which the palms and rinceaux are picked out in gold and off white. The columns, cornice, dado, and skirting, are also off white with the addition of twenty-five percent gilding.
 </p>
+
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/projects/house-in-regents-park/francis-terry.jpg">
+			<img src="/images/projects/house-in-regents-park/thumbs/francis-terry.jpg" alt="{{ page.title }}" />
+		</a>
+	</li>
+</ul>
 
 <ul class="list">
 	<li class="half">
