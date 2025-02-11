@@ -24,7 +24,17 @@ social_image: /images/projects/tedworth-house/social.jpg
 	Turning  a former stately home like Tedworth House into a Personal Recovery Centre for wounded soldiers is a very untypical project for the office to be involved with and it came by a rather obscure route. Francis’s best friend from school, now Major Mark Goodwin-Hudson was an officer serving at Tidworth Barracks. His officer’s mess was Tedworth House which was going to be mothballed as part of government cuts to the defence budget. This depressed Mark as he had a great interest in classical architecture from his time at Stowe and later his degree in Art History at the University of East Anglia. He hated to see this wonderful building not being used. At the same time Bryn and Emma Parry,  the founders of Help for Heroes, who lived locally were having the same thoughts and dreamed of turning it into a recovery centre for wounded soldiers. Mark and the Parrys worked together to allow Help for Heroes to take over the house. When it came to choosing an architect, they felt it was important to choose an architect who was sympathetic to the classicism of the original building. It was then that Mark contacted Francis and the office was pleased to work for such a worthy cause.
 </p><p>
 	Tedworth House was originally built in c.1829-32 to a restrained Greek Revival design, apparently by the owner, Thomas Assheton Smith, but extremely close to Spetchley Park, Worcestershire, of 1811 by John  Tasker. It was remodelled in 1878-80 for Sir John Kelk, a building contractor, by John Johnson who faced the original building with Portland stone façades in a Roman Baroque manner like that of Thomas Archer’s Heythrop House, Oxfordshire, of 1707-10.
-</p><p>
+</p>
+
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/projects/tedworth-house/14.jpg">
+			<img src="/images/projects/tedworth-house/thumbs/14.jpg" alt="{{ page.title }}" />
+		</a>
+	</li>
+</ul>
+
+<p>
 	The extensive contribution of Quinlan and Francis Terry to this project include the restoration and extension of Tedworth House to which they have added a new building, known as Jimi’s Wing, to the north of the existing house where it forms the new north entrance. The centre of the principal north façade of Jimi’s Wing is inspired by the powerful entrance front of the Villa Giulia, Rome, of 1550-55, by Vignola, robust master of the orders. The choice of this precedent came from Francis who felt that the conventional office proposal for a pedimented, four-columned portico as at the Royal Hospital, Chelsea, would not hold together such a long low elevation or relate to the nineteenth century classical language of Tedworth House.
 </p>
 
@@ -40,6 +50,12 @@ social_image: /images/projects/tedworth-house/social.jpg
 		</a>
 	</li>
 </ul>
+
+<p>
+	Vignola had provided the three central bays of its seven-bay long façade at the Villa Giulia with an entrance archway which has vigorous voussoirs and is flanked by massive Doric columns with heavily banded rustication. On each side is a narrow bay flanked by Doric pilasters with banded rustication and containing a round-headed niche, also with voussoirs. This composition forms the ground floor of Vignola’s two-storeyed façade so that the columns and pilasters are one-storeyed, but Quinlan and Francis Terry have inventively turned these into a giant Tuscan order rising through two storeys so that the great central arch is now lifted to the upper floor where it surrounds a Diocletian window. They have also widened the bays on either side of Vignola’s central  archway to allow for generous rounded-headed windows set in reveals, to take the place of the small blank niches. As a result of this extension, the pilasters at each end are now doubled.
+</p><p>
+	One reason for this enlargement of Vignola’s composition is that the building at Tedworth is four bays longer than the Villa Giulia. The imposing centrepiece at Tedworth, built in a combination of Whitbed and Roachbed Portland stone, is flanked by two-storeyed four-bay wings of yellow brick, lit by sash windows and terminating in powerful stone quoins. The building contains bedrooms for fifty wounded soldiers with additional accommodation in the basement. It  is a tribute to the endless vitality of the classical language as well as to the imagination of Quinlan and Francis Terry that a building which began as a pleasure villa in Rome for a Renaissance pope should provide inspiration nearly six hundred years later for a hospital for wounded soldiers. As T.S. Eliot said in ‘Little Gidding’, ‘the end of all our exploring will be to arrive where we started and know the place for the first time.’
+</p>
 
 <ul class="list">
 	<li class="third">
@@ -60,10 +76,6 @@ social_image: /images/projects/tedworth-house/social.jpg
 </ul>
 
 <p>
-	Vignola had provided the three central bays of its seven-bay long façade at the Villa Giulia with an entrance archway which has vigorous voussoirs and is flanked by massive Doric columns with heavily banded rustication. On each side is a narrow bay flanked by Doric pilasters with banded rustication and containing a round-headed niche, also with voussoirs. This composition forms the ground floor of Vignola’s two-storeyed façade so that the columns and pilasters are one-storeyed, but Quinlan and Francis Terry have inventively turned these into a giant Tuscan order rising through two storeys so that the great central arch is now lifted to the upper floor where it surrounds a Diocletian window. They have also widened the bays on either side of Vignola’s central  archway to allow for generous rounded-headed windows set in reveals, to take the place of the small blank niches. As a result of this extension, the pilasters at each end are now doubled.
-</p><p>
-	One reason for this enlargement of Vignola’s composition is that the building at Tedworth is four bays longer than the Villa Giulia. The imposing centrepiece at Tedworth, built in a combination of Whitbed and Roachbed Portland stone, is flanked by two-storeyed four-bay wings of yellow brick, lit by sash windows and terminating in powerful stone quoins. The building contains bedrooms for fifty wounded soldiers with additional accommodation in the basement. It  is a tribute to the endless vitality of the classical language as well as to the imagination of Quinlan and Francis Terry that a building which began as a pleasure villa in Rome for a Renaissance pope should provide inspiration nearly six hundred years later for a hospital for wounded soldiers. As T.S. Eliot said in ‘Little Gidding’, ‘the end of all our exploring will be to arrive where we started and know the place for the first time.’
-</p><p>
 	A further major addition by the Terrys is the long range which runs east from the north front of the old house and overlooks the east lawn. Containing a conservatory and coffee shop with a fully glazed south front divided by Doric pilasters, this draws some hints from the Palm House on the south front of the old house. It terminates in a pavilion which has a Doric pedimented portico on its south and east fronts and is crowned by a cupola and weather-vane. This building forms a new social centre for the occupants and has steps leading down from its south portico to the large east garden, laid out by the Terrys with a central fountain and twelve yew obelisks.
 </p><p>
 	They have also added four sets of ornamental gateways of which the most important is in axis with the existing south front of Tedworth House at the end of the drive. In carefully crafted ironwork of high quality, this is a tripartite composition with ornamental overthrows crowning each part, that in the centre incorporating the legend H 4 H, that is Help for Heroes, 2012. In the context of the pedimented façade of Tedworth House, which can be seen through it, the gateway is appropriately inspired by eighteenth century gates to Gray’s Inn Gardens, London, sketched and measured by Quinlan Terry in 1980.
