@@ -4,7 +4,7 @@ title: Planning Permission Granted for a New House in Hampshire
 excerpt: We are delighted that our design for a new house in Hampshire has been given planning permission by South Downs National Park Authority (SDNPA).
 post_date: November 2024
 categories: [news]
-permalink: /news/planning-permission-house-hampshire/
+permalink: /news/planning-permission-house-hampshire-2024/
 social_image: /images/news/2024/house-hampshire-11-24-social.jpg
 tall_image: 2024/house-hampshire-11-24-tall.jpg
 wide_image: 2024/house-hampshire-11-24-wide.jpg
