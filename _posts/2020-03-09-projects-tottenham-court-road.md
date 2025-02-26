@@ -11,10 +11,17 @@ image_wide: /images/projects/tottenham-court-road/wide.jpg
 social_image: /images/projects/tottenham-court-road/social.jpg
 ---
 
-<ul class="list">
+<!-- <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/projects/tottenham-court-road/TCR_5.jpg">
 			<img src="/images/projects/tottenham-court-road/thumbs/TCR_5.jpg" alt="{{ post.title }}" />
+		</a>
+	</li>
+</ul> -->
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/projects/tottenham-court-road/TCR_3.jpg">
+			<img src="/images/projects/tottenham-court-road/thumbs/TCR_3.jpg" alt="{{ post.title }}" />
 		</a>
 	</li>
 </ul>
@@ -30,13 +37,6 @@ social_image: /images/projects/tottenham-court-road/social.jpg
 	<li class="half">
 		<a class="fancybox" rel="group" href="/images/projects/tottenham-court-road/TCR_4.jpg">
 			<img src="/images/projects/tottenham-court-road/thumbs/TCR_4.jpg" alt="{{ post.title }}" />
-		</a>
-	</li>
-</ul>
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/projects/tottenham-court-road/TCR_3.jpg">
-			<img src="/images/projects/tottenham-court-road/thumbs/TCR_3.jpg" alt="{{ post.title }}" />
 		</a>
 	</li>
 </ul>
