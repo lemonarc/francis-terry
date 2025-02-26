@@ -2,7 +2,7 @@
 layout: post
 title: M&S Flagship Store Demolition Alternative Proposal
 excerpt: Francis Terry in collaboration with Create Streets have designed an alternative proposal to the Marks & Spencer’s proposed total demolition of their historic store in Oxford Street. Robert Kwolek has written about it in The Sunday Times here.
-post_date: February 2025
+post_date: June 2024
 categories: [news]
 permalink: /news/m-and-s-flagship-store-demolition-alternative-proposal/
 social_image: /images/news/2025/02-m-and-s-social.jpg
