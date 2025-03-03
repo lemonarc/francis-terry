@@ -40,18 +40,45 @@
 		
 		{% if page.title == 'Drawings' or page.title == 'Full Size Rendered Drawings' or page.title == 'Miscellaneous Drawings' or page.title == 'Sketches' or page.title == 'Watercolours' or page.title == 'Gallery' or page.title == 'Projects' or page.title == 'The Making of the Erechtheion Capital' or page.title == 'Videos' or page.title == 'A Life in Sketchbooks' %}
 		
-		<script>
-			$(function(){
-				$.oPageLoader({
-					backgroundColor: '#fff',
-					progressBarColor: '#a1a1a1',
-					fadeLevel: 0.9,
-					percentageColor: '#a1a1a1'
+			<script>
+				$(function(){
+					$.oPageLoader({
+						backgroundColor: '#fff',
+						progressBarColor: '#a1a1a1',
+						fadeLevel: 0.9,
+						percentageColor: '#a1a1a1'
+					});
 				});
-			});
-		</script>
+			</script>
     
-    {% endif %}
+    	{% endif %}
+
+		{% if page.category == "blog" %}
+
+			<script>
+				document.addEventListener("DOMContentLoaded", function () {
+    				let container = document.getElementById("blog-posts");
+    				if (!container) return;
+  
+    				let posts = Array.from(container.children);
+    
+    				// Fisher-Yates Shuffle Algorithm
+    				function shuffle(array) {
+        				for (let i = array.length - 1; i > 0; i--) {
+            				let j = Math.floor(Math.random() * (i + 1));
+            				[array[i], array[j]] = [array[j], array[i]];
+        				}
+    				}
+  
+    				shuffle(posts);
+  
+    				// Clear the existing list and re-append shuffled items
+    				container.innerHTML = "";
+    				posts.forEach(post => container.appendChild(post));
+				});
+			</script>
+
+		{% endif %}
 
   </body>
 

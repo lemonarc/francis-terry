@@ -7,7 +7,11 @@ article: article
 {% include recent-projects.html %}
 {% endif %}
 
+{% if page.category == "blog" %}
+<ul class="list blog" id="blog-posts">
+{% else %}
 <ul class="list blog">
+{% endif %}
   {% for post in site.categories[page.category] %}
     <li>
       <a href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>
