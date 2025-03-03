@@ -130,3 +130,5 @@ social_image: /images/projects/royal-hospital-chelsea/social.jpg
 <p>
 	Quinlan and Francis Terry produced a traditional urban scheme consisting of a series of squares of different sizes and one crescent, all composed of buildings inspired by the eighteenth and early nineteenth century terraced houses of London. Matching their infirmary in scale and character, none of these buildings was more than four stories high, showing that the required density could be achieved without high-rise buildings, which would be out of scale in this part of London. Their plans gained the strong support of the Prince of Wales, though the architectural press, never a supporter of him, absurdly criticized him for expressing any opinion at all. As a result, Richard Rogers was dismissed and in 2011 consent was given to plans by a group of architects who had avoided high-rise buildings in this context. 
 </p>
+
+{{ site.author-credit }}

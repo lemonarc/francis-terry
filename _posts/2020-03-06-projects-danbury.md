@@ -70,6 +70,8 @@ social_image: /images/projects/danbury/social.jpg
 	Known as Quinlan Court the building was commissioned by a private client closely associated with the Mission church in Danbury, to which they owned adjacent land and on which they wished to erect a number of retirement homes. An inscription carved in the frieze of the portico is taken from Psalm 36, YOUR LOVE, O LORD REACHES TO THE HEAVENS, YOUR FAITHFULNESS TO THE SKIES.
 </p>
 
+{{ site.author-credit }}
+
 <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/projects/danbury/danbury4.jpg">

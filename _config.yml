@@ -33,7 +33,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ftanda.co.uk" # the base hostname & protocol for your site
 categories: [blog, latest, places, theory, history, annecdotes, sustainability, news]
-author-credit: <p class="small">Taken from <strong>The Practice Of Classical Architecture</strong> by Professor David Watkin, Published by Rizolli</p>
+author-credit: <p class="small">Taken from <strong>The Practice Of Classical Architecture</strong> by Professor David Watkin, Published by Rizolli, 2015</p>
 social_image: /images/social/social-portico.jpg
 facebook_username: ftanda.co.uk
 twitter_username: FTerryArchitect

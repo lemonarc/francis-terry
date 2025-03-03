@@ -141,6 +141,8 @@ South of Queen Mother Square, Quinlan and Francis Terry have built Newborough Ho
 
 Escalus House is an imposingly tall building of four stories in red brick with shops and offices on the ground and first floors and flats above. On the north front is a five bay Palladian shop front with a Doric triglyph frieze and a portico with Doric columns. The building has a simple Venetian cornice with stone corbels at centres of about three feet that support a plain stone slab and gutter. This derives from a pediment at the Duomo of Santa Maria Assunta at Chioggia in the Venetian Lagoon by Baldassare Longhena of 1624-47, a masterpiece of High Baroque classicism in a superb revival of Palladian models.
 
+{{ site.author-credit }}
+
 <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/projects/poundbury/05.jpg">

@@ -74,3 +74,5 @@ The building has a ground floor of rusticated arches that have the vigour of tho
 </ul>
 
 The use of successive tiers of columns framing windows goes back to the tradition established by Sansovino at the Palazzo Corner and reaches a climax at Longhena’s Ca’Rezzonico, Venice, begun in 1667. Those Venetian palaces, which take the form of large sculptural masses with almost continuous fenestration between fully articulated orders, were to inspire the American Beaux-Arts masters McKim, Mead & White, who combined giant orders with large bronze windows. Characteristic is the Buckingham Building, in Waterbury, Connecticut (1903), with rusticated arches on the top floor. Another parallel is the monumental City Hall on La Salle Street, Chicago, by Holabird and Roche of 1911.
+
+{{ site.author-credit }}
