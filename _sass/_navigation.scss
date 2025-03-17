@@ -11,6 +11,19 @@
   .menu-icon {
     display: none;
   }
+
+  .sub-menu-trigger ul {
+    border-radius: 6px;
+    // margin-left: 154px;
+    margin-left: 0;
+    margin-top: 8px;
+    min-width: auto;
+    
+    &.sub-menu-2 {
+      margin-left: 68px;
+    }
+  }
+
   .page-link {
     color: $link;
     line-height: $line-height;
@@ -22,7 +35,13 @@
       color: $link-hover;
       text-decoration: none;
     }
+
+    &.sub-menu-trigger:hover,
+    &.sub-menu-trigger:focus {
+      color: $link;
+    }
   }
+
 }
 
 /* Submenu */
@@ -34,7 +53,8 @@
 
   ul {
     background: rgba(255,255,255,0.9);
-    margin-left: 478px;
+    // margin-left: 478px;
+    margin-left: 0;
     min-width: 200px;
     padding: 10px 20px;
     position: absolute;
@@ -91,10 +111,6 @@
     }
     .sub-menu-trigger ul {
       background: rgba(102,132,158,0.95);
-      border-radius: 6px;
-      margin-left: 154px;
-      margin-top: 8px;
-      min-width: auto;
     }
   }
 }
@@ -152,45 +168,25 @@
       border-radius: 6px;
       box-shadow: 0px 0px 10px rgba(0,0,0,0.22);
     }
-    // .sub-menu-trigger {
-
-    //   ul {
-    //     background: none;
-    //     margin-left: 0;
-    //     margin-bottom: 0;
-    //     min-width: 0;
-
-    //     .page-link {
-    //       line-height: 1;
-    //     }
-    //   }
-    //   .sub-menu {  
-    //     display: block;
-    //     padding: 0;
-    //     position: initial;
-    //   }
-    // }
     .sub-menu-trigger {
 
-      &:hover ul,
-      &:focus ul {
-        display: contents;
-      }
-
-      // .sub-menu-title {
+      ul {
+        // background: rgba(102,132,158,0.95);
+        background: none;
+        border-radius: 6px;
+        // margin-left: 154px;
+        margin-left: 0;
+        margin-top: 8px;
+        min-width: auto;
         
-      //   &::before {
-      //     font-family: "FontAwesome";
-      //     content: "\f0d7";
-      //     padding-right: 10px;
-      //   }
-      // }
-      
-      // &:hover .sub-menu-title::before,
-      // &:focus .sub-menu-title::before {
-      //   content: "";
-      //   padding-right: 0;
-      // }
+        &.sub-menu,
+        &.sub-menu-2 {
+          display: block;
+          position: initial;
+          margin: 0;
+          padding: 0;
+        }
+      }
     }
   }
 
