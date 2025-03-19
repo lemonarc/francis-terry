@@ -246,14 +246,20 @@ header { max-width: 160rem; margin-left: auto; margin-right: auto; }
 
 .site-nav .menu-icon { display: none; }
 
+.site-nav .sub-menu-trigger ul { border-radius: 6px; margin-left: 0; margin-top: 8px; min-width: auto; }
+
+.site-nav .sub-menu-trigger ul.sub-menu-2 { margin-left: 68px; }
+
 .site-nav .page-link { color: #111111; line-height: 1.5; margin-left: 10px; margin-right: 10px; }
 
 .site-nav .page-link:hover, .site-nav .page-link:focus { color: #007FCB; text-decoration: none; }
 
+.site-nav .page-link.sub-menu-trigger:hover, .site-nav .page-link.sub-menu-trigger:focus { color: #111111; }
+
 /* Submenu */
 .sub-menu-trigger { cursor: default; padding-bottom: 2rem; position: relative; }
 
-.sub-menu-trigger ul { background: rgba(255, 255, 255, 0.9); margin-left: 478px; min-width: 200px; padding: 10px 20px; position: absolute; z-index: 2; }
+.sub-menu-trigger ul { background: rgba(255, 255, 255, 0.9); margin-left: 0; min-width: 200px; padding: 10px 20px; position: absolute; z-index: 2; }
 
 .sub-menu-trigger ul li { font-size: 90%; line-height: initial; list-style: none; }
 
@@ -273,9 +279,9 @@ header { max-width: 160rem; margin-left: auto; margin-right: auto; }
 
 .site-home .full-page .site-nav .page-link:hover, .site-home .full-page .site-nav .page-link:focus { color: #E0CFB3; }
 
-.site-home .full-page .site-nav .sub-menu-trigger ul { background: rgba(102, 132, 158, 0.95); border-radius: 6px; margin-left: 154px; margin-top: 8px; min-width: auto; }
+.site-home .full-page .site-nav .sub-menu-trigger ul { background: rgba(102, 132, 158, 0.95); }
 
-@media screen and (max-width: 1200px) { .site-nav { display: block; height: auto; position: absolute; top: 33px; right: 1rem; text-align: right; z-index: 2; } .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-divider { display: none; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg { fill: #111111; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; padding-top: 5px; } .site-nav .page-link { display: block; padding: 0 10px; margin: 10px 0; } .site-nav .trigger { background: rgba(255, 255, 255, 0.9); border-radius: 6px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.22); } .site-nav .sub-menu-trigger:hover ul, .site-nav .sub-menu-trigger:focus ul { display: contents; } .site-home .full-page .site-nav { background: none; box-shadow: none; } .site-home .full-page .site-nav:hover, .site-home .full-page .site-nav:focus { background: none; } .site-home .full-page .site-nav .trigger { background-color: rgba(102, 132, 158, 0.95); border-radius: 6px; } .site-home .full-page .site-nav .sub-menu-trigger ul { background: none; margin-left: 0; } }
+@media screen and (max-width: 1200px) { .site-nav { display: block; height: auto; position: absolute; top: 33px; right: 1rem; text-align: right; z-index: 2; } .site-nav label[for="nav-trigger"] { display: block; float: right; width: 36px; height: 36px; z-index: 2; cursor: pointer; } .site-nav .menu-divider { display: none; } .site-nav .menu-icon { display: block; float: right; width: 36px; height: 26px; line-height: 0; padding-top: 10px; text-align: center; } .site-nav .menu-icon > svg { fill: #111111; } .site-nav input ~ .trigger { clear: both; display: none; } .site-nav input:checked ~ .trigger { display: block; padding-bottom: 5px; padding-top: 5px; } .site-nav .page-link { display: block; padding: 0 10px; margin: 10px 0; } .site-nav .trigger { background: rgba(255, 255, 255, 0.9); border-radius: 6px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.22); } .site-nav .sub-menu-trigger ul { background: none; border-radius: 6px; margin-left: 0; margin-top: 8px; min-width: auto; } .site-nav .sub-menu-trigger ul.sub-menu, .site-nav .sub-menu-trigger ul.sub-menu-2 { display: block; position: initial; margin: 0; padding: 0; } .site-home .full-page .site-nav { background: none; box-shadow: none; } .site-home .full-page .site-nav:hover, .site-home .full-page .site-nav:focus { background: none; } .site-home .full-page .site-nav .trigger { background-color: rgba(102, 132, 158, 0.95); border-radius: 6px; } .site-home .full-page .site-nav .sub-menu-trigger ul { background: none; margin-left: 0; } }
 
 /* Site prefooter
 ==================== */
