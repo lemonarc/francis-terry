@@ -73,10 +73,6 @@
 		@include media-query($on-laptop) {
 			background: none;
 			z-index: 1;
-		
-			&:hover {
-				background: $grey;
-			}
 
 			.menu-icon {
 			    > svg {

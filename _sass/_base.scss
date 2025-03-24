@@ -13,6 +13,7 @@ dl, dd, ol, ul, figure {
 ==================== */
 html {
 	font-size: 62.5%; /* Changes default font size to 10px = 1rem */
+	overflow-x: hidden; // 🔒 Prevents sideways scrolling
 }
 
 body {

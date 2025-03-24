@@ -1,0 +1,205 @@
+.site-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-left: auto;
+    position: relative;
+    z-index: 1050;
+  
+    .hamburger {
+      display: none;
+      font-size: 24px;
+      background: none;
+      border: none;
+      color: $white;
+      cursor: pointer;
+      padding: 0;
+      z-index: 1100;
+  
+      svg {
+        fill: $link;
+  
+        &:hover,
+        &:focus {
+          fill: $link-hover;
+        }
+      }
+    }
+  
+    .menu {
+      display: flex;
+      flex-direction: row;
+      gap: $unit * 2;
+      align-items: center;
+      background: transparent;
+      font-size: $font-size-medium;
+  
+        .page-link,
+        .dropdown-toggle {
+            color: $link;
+            text-decoration: none;
+            font-weight: normal;
+            margin-left: $unit;
+            margin-right: $unit;
+            background: none;
+            border: none;
+            cursor: pointer;
+            line-height: $line-height;
+            font-size: $font-size-medium; // ✅ Ensure same size
+            padding: 0; // ✅ Prevent button default padding
+            font-family: inherit; // ✅ Match link font
+            appearance: none; // ✅ Normalize across browsers
+
+            &:hover,
+            &:focus {
+                color: $link-hover;
+                text-decoration: none;
+            }
+        }
+  
+      .dropdown {
+        position: relative;
+  
+        .sub-menu {
+          display: none;
+          position: absolute;
+          top: 100%;
+          left: 0;
+          background: rgba(255, 255, 255, 0.95);
+          padding: 0 $unit;
+          border-radius: 6px;
+          min-width: 200px;
+          box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+          z-index: 1000;
+  
+          a {
+            display: block;
+            color: $link;
+            padding: $unit 0;
+  
+            &:hover,
+            &:focus {
+              color: $link-hover;
+            }
+          }
+        }
+  
+        &.show .sub-menu {
+          display: flex;
+          flex-direction: column;
+        }
+      }
+    }
+  
+    // Mobile menu styles
+    @include media-query($on-1200) {
+      align-items: flex-end;
+  
+      .hamburger {
+        color: $black;
+        display: block;
+      }
+  
+      .menu {
+        display: none;
+        position: absolute;
+        top: 100%;
+        right: 0;
+        background: rgba(255, 255, 255, 0.95);
+        flex-direction: column;
+        align-items: flex-end; // ✅ Aligns text right
+        width: 100%;
+        min-width: $unit*20;
+        max-width: $unit*30;
+        padding: $unit $unit * 2;
+        border-radius: 6px;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        text-align: right; // ✅ Ensures text is right-aligned
+      
+        &.show {
+          display: flex;
+        }
+      
+        .page-link,
+        .dropdown-toggle {
+          display: block;
+          width: 100%; // ✅ Each link fills the menu width
+          margin: 0.4rem 0;
+          padding: 0;
+          text-align: right; // ✅ Aligns text inside link
+          white-space: nowrap; // ✅ Prevents wrapping
+        }
+      
+        .dropdown .sub-menu {
+          position: static;
+          background: none;
+          box-shadow: none;
+          padding: 0;
+          text-align: right;
+          align-items: flex-end;
+        }
+      
+        .dropdown.show .sub-menu {
+          display: flex;
+          flex-direction: column;
+        }
+      }
+    }
+  }
+
+body.site-home {
+  .site-nav {
+    .menu {
+      background-color: transparent; // Remove full background
+
+      .dropdown .sub-menu {
+        background-color: rgba(102, 132, 158, 0.95); // ✅ Blue background just for dropdowns
+      }
+
+      .page-link,
+      .dropdown-toggle {
+        color: $white;
+
+        &:hover,
+        &:focus,
+        &.active {
+          color: #E0CFB3;
+        }
+      }
+
+      .dropdown .sub-menu a {
+        color: $white;
+
+        &:hover,
+        &:focus {
+          color: #E0CFB3;
+        }
+      }
+    }
+
+    .hamburger {
+      color: $white;
+
+      svg {
+        fill: $white;
+
+        &:hover,
+        &:focus {
+          fill: #E0CFB3;
+        }
+      }
+    }
+    
+    // Mobile menu styles
+    @include media-query($on-1200) {
+      .menu {
+        background-color: rgba(102, 132, 158, 0.95);
+  
+        .dropdown .sub-menu {
+          background-color: transparent;
+        }
+  }
+}
+}}
+
+  

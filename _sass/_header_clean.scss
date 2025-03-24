@@ -1,0 +1,64 @@
+/* Site header
+==================== */
+body > header {
+    z-index: 1000;
+    position: relative;
+  }
+
+header {
+    max-width: $unit * 160;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .videoIndex header {
+    z-index: 2000; // Extra stacking for video pages
+  }
+  
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: $unit * 3 $unit * 4;
+    position: relative;
+  }
+  
+  /* Site Title / Logo */
+  .site-title {
+    font-size: 26px;
+    font-weight: 300;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: $text-color;
+    z-index: 1100;
+  
+    &:visited {
+      color: $text-color;
+    }
+  
+    img,
+    svg {
+      max-width: 200px;
+      height: auto;
+      display: block;
+      fill: $text-color;
+    }
+  }
+
+  body.site-home .site-title {
+    display: none;
+  }
+  
+  /* Navigation Container */
+  .site-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-left: auto;
+    position: relative;
+    z-index: 1050;
+  }
+
+  
