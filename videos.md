@@ -11,6 +11,21 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/Zr9Z1rpsfek?rel=0&autoplay=1" alt="Quinlan Terry's Life in Architecture">
+		<img src="/images/videos/V2503-tall.jpg" alt="Quinlan Terry's Life in Architecture" class="tall" />
+		<img src="/images/videos/V2503-wide.jpg" alt="Quinlan Terry's Life in Architecture" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Quinlan Terry's Life in Architecture</h2>
+		<h4>March 2025</h4>
+		<p>
+			This video is an interview between Francis and his father Quinlan Terry CBE, discussing the many unforgettable moments in his highly successful sixty-year career. His life has seen classical and traditional architecture change from being derided as a joke and even immoral in the ‘50s and ‘60s, to its adoption by Prince Charles and the Post-Modern movement in the ‘80s, and now its total acceptance. With a broad variety of topics discussed, this interview will interest architects and non-architects alike.
+		</p>
+		<p><a class="post-link" href="/thoughts/quinlan-terrys-life-in-architecture/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/e1OGitGRWj0?rel=0&autoplay=1" alt="NPPF Paragraph 84e Explained">
 		<img src="/images/videos/V15-tall.jpg" alt="NPPF Paragraph 84e Explained" class="tall" />
 		<img src="/images/videos/V15-wide.jpg" alt="NPPF Paragraph 84e Explained" class="wide" />
