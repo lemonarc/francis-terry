@@ -12,17 +12,17 @@ article: article
 	
 	<!--Banner 01-->
 	<div class="banner-01">
-		<img src="/images/practice/office-01.jpg" alt="{{ page.title }}">
+		<img src="/images/practice/office-04.jpg" alt="{{ page.title }}">
 	</div>
 	
 	<!--Banner 02-->
 	<div class="banner-02">
-		<img src="/images/practice/office-02.jpg" alt="{{ page.title }}">
+		<img src="/images/practice/office-05.jpg" alt="{{ page.title }}">
 	</div>
 	
 	<!--Banner 03-->
 	<div class="banner-03">
-		<img src="/images/practice/office-03.jpg" alt="{{ page.title }}">
+		<img src="/images/practice/office-06.jpg" alt="{{ page.title }}">
 	</div>
 
 </div>
