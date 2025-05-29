@@ -1,14 +1,14 @@
 ---
 layout: post
 title: The New Tapestry Drawing Room, Castle Howard is Completed
-excerpt: We are thrilled to be part of a team which have been granted planning consent for a new seven unit apartment scheme in Hans Place, Knightsbridge.
+excerpt: The new Tapestry Drawing Room at Castle Howard is a completely new architectural treatment to a room which was destroyed by fire in 1940.
 post_date: April 2025
 categories: [news]
 permalink: /news/new-tapestry-drawing-room-castle-howard/
 social_image: /images/news/2025/CHDR-01-social.jpg
 tall_image: 2025/CHDR-01-tall.jpg
 wide_image: 2025/CHDR-01-wide.jpg
-preview: We are thrilled to be part of a team which have been granted planning consent for a new seven unit apartment scheme in Hans Place, Knightsbridge.
+preview: The new Tapestry Drawing Room at Castle Howard is a completely new architectural treatment to a room which was destroyed by fire in 1940.
 ---
 
 <ul class="list">
