@@ -11,6 +11,21 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/tKX4l6F2i5U?rel=0&autoplay=1" alt="The Five Classical Orders">
+		<img src="/images/videos/V2505-tall.jpg" alt="The Five Classical Orders" class="tall" />
+		<img src="/images/videos/V2505-wide.jpg" alt="The Five Classical Orders" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>The Five Classical Orders</h2>
+		<h4>May 2025</h4>
+		<p>
+			The proportions and defining features of the five orders of columns are a fundamental part of classical architecture. In this video, Francis and his father Quinlan Terry CBE delve deep into this cornerstone of the profession. From the rustic undecorated Tuscan order to the detailed and ornate Composite, they reflect on their usage over the years, their rich symbolism as well as the mysterious question of their distant origins.
+		</p>
+		<p><a class="post-link" href="/thoughts/the-five-classical-orders/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/Zr9Z1rpsfek?rel=0&autoplay=1" alt="Quinlan Terry's Life in Architecture">
 		<img src="/images/videos/V2503-tall.jpg" alt="Quinlan Terry's Life in Architecture" class="tall" />
 		<img src="/images/videos/V2503-wide.jpg" alt="Quinlan Terry's Life in Architecture" class="wide" />
