@@ -1,7 +1,14 @@
 /* == Social Buttons == */
 
 .social-sharing {
-	max-width: 1280px;
+	/* max-width: 1280px; */
+    /* width: fit-content; */
+    justify-content: flex-start;
+    /* flex-direction: row; */
+    /* align-items: anchor-center; */
+    /* margin: 0; */
+    padding-left: 0;
+    gap: 5px;
 }
 .social-sharing img {
 	height: 20px;

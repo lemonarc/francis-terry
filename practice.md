@@ -1,37 +1,41 @@
 ---
 layout: page
 pageclass: practice-page-new
-title: The team at Francis Terry and Associates Ltd
+title: The Team at Francis Terry and Associates Ltd
 excerpt: "The team at Francis Terry and Associates who are designers of new-build and restorations of classical Georgian style architecture and country houses"
 permalink: /practice/
 social_image: /images/social/social-office.jpg
 article: article
 ---
 
-<div class="banner-area">
-	
-	<!--Banner 01-->
-	<div class="banner-01">
-		<img src="/images/practice/office-04.jpg" alt="{{ page.title }}">
-	</div>
-	
-	<!--Banner 02-->
-	<div class="banner-02">
-		<img src="/images/practice/office-05.jpg" alt="{{ page.title }}">
-	</div>
-	
-	<!--Banner 03-->
-	<div class="banner-03">
-		<img src="/images/practice/office-06.jpg" alt="{{ page.title }}">
-	</div>
-
-</div>
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/practice/office-xl1.jpg" title="{{ page.title }}">
+			<img src="/images/practice/office-xl1.jpg" alt="{{ page.title }}">
+		</a>
+	</li>
+</ul>
 
 <div class="practice">
 <p>We are an architectural practice engaged in a broad range of projects both in the UK and overseas.  Our approach is to design buildings which satisfy the needs of our clients while simultaneously creating beautiful architecture.  The team has a wealth of experience in design and construction which is combined with a thorough understanding of the rules of classical architecture. </p>
 
 <p>For a client, the commissioning of a building can be a wonderful experience and we aim to make this process both enjoyable and stimulating.  We work in a variety of ways depending on the level of involvement required.  We are very happy to collaborate alongside a client's team or with professionals known to us.  For us, no two projects are alike and we enjoy the different challenges each one brings. </p>
 </div>
+
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/practice/office-xl2.jpg" title="{{ page.title }}">
+			<img src="/images/practice/office-xl2.jpg" alt="{{ page.title }}">
+		</a>
+	</li>
+</ul>
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/practice/office-xl3.jpg" title="{{ page.title }}">
+			<img src="/images/practice/office-xl3.jpg" alt="{{ page.title }}">
+		</a>
+	</li>
+</ul>
 
 <lineout></lineout>
 
