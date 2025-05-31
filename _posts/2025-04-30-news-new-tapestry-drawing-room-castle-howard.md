@@ -5,20 +5,20 @@ excerpt: The new Tapestry Drawing Room at Castle Howard is a completely new arch
 post_date: April 2025
 categories: [news]
 permalink: /news/new-tapestry-drawing-room-castle-howard/
-social_image: /images/news/2025/CHDR-01-social.jpg
-tall_image: 2025/CHDR-01-tall.jpg
-wide_image: 2025/CHDR-01-wide.jpg
+social_image: /images/news/2025/CHDR-01-social-2.jpg
+tall_image: 2025/CHDR-01-tall-2.jpg
+wide_image: 2025/CHDR-01-wide-2.jpg
 preview: The new Tapestry Drawing Room at Castle Howard is a completely new architectural treatment to a room which was destroyed by fire in 1940.
 ---
 
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-01.jpg" title="{{ page.title }}">
-			<img src="/images/news/2025/thumbs/CHDR-01.jpg" alt="{{ page.title }}">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-02.jpg" title="{{ page.title }}">
+			<img src="/images/news/2025/CHDR-02.jpg" alt="{{ page.title }}">
 		</a>
 	</li>
 </ul>
-<ul class="list">
+<!--<ul class="list">
 	<li class="half">
 		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-02.jpg" title="{{ page.title }}">
 			<img src="/images/news/2025/thumbs/CHDR-02.jpg" alt="{{ page.title }}" />
@@ -27,6 +27,13 @@ preview: The new Tapestry Drawing Room at Castle Howard is a completely new arch
 	<li class="half">
 		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03.jpg"  title="{{ page.title }}">
 			<img src="/images/news/2025/thumbs/CHDR-03.jpg" alt="{{ page.title }}" />
+		</a>
+	</li>
+</ul>-->
+<ul class="list">
+	<li class="full">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03.jpg"  title="{{ page.title }}">
+			<img src="/images/news/2025/CHDR-03.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
@@ -75,6 +82,23 @@ Care has been taken to use traditional materials and techniques where possible. 
 		</a>
 	</li>
 </ul>
+<ul class="list">
+	<li class="third">
+		<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_03.jpg" title="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023">
+			<img class="lazy" src="/images/drawings/thumbs/cabinet_room_03.jpg" alt="Full size Cartouche. Tapestry Drawing Room, Castle Howard. Drawn by Francis Terry 2023" />
+		</a>
+	</li>
+	<li class="third">
+		<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_01.jpg" title="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+			<img class="lazy" src="/images/drawings/thumbs/cabinet_room_01.jpg" alt="Full size Entablature. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+		</a>
+	</li>
+	<li class="third">
+		<a class="fancybox" rel="group" href="/images/drawings/cabinet_room_02.jpg" title="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023">
+			<img class="lazy" src="/images/drawings/thumbs/cabinet_room_02.jpg" alt="Full size Swag. Tapestry Drawing Room, Castle Howard.  Drawn by Francis Terry 2023" />
+		</a>
+	</li>
+</ul>
 
 Everything in the room, apart from the antiques, paintings, and tapestries, was made in the UK within the past eighteen months. The crafts used for this room include: - hand carved timber classical ornament, traditional run plasterwork, scagliola manufacture and gilding. The craftsmanship is truly outstanding, and it is a joy to see that the UK is still world leaders in these fields.
 
@@ -104,6 +128,30 @@ Everything in the room, apart from the antiques, paintings, and tapestries, was 
 	<li class="third">
 		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-14.jpg"  title="{{ page.title }}">
 			<img src="/images/news/2025/thumbs/CHDR-14.jpg" alt="{{ page.title }}" />
+		</a>
+	</li>
+</ul>
+<ul class="list">
+	<li class="half">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-15.jpg" title="Castle Howard Watercolour North Elevation Amended">
+			<img src="/images/news/2025/thumbs/CHDR-15.jpg" alt="Castle Howard Watercolour North Elevation Amended" />
+		</a>
+	</li>
+	<li class="half">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-16.jpg"  title="Castle Howard Watercolour South Elevation Amended">
+			<img src="/images/news/2025/thumbs/CHDR-16.jpg" alt="Castle Howard Watercolour South Elevation Amended" />
+		</a>
+	</li>
+</ul>
+<ul class="list">
+	<li class="half">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-17.jpg" title="Castle Howard Watercolour East Elevation Amended">
+			<img src="/images/news/2025/thumbs/CHDR-17.jpg" alt="Castle Howard Watercolour East Elevation Amended" />
+		</a>
+	</li>
+	<li class="half">
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-18.jpg"  title="Castle Howard Watercolour West Elevation Amended">
+			<img src="/images/news/2025/thumbs/CHDR-18.jpg" alt="Castle Howard Watercolour West Elevation Amended" />
 		</a>
 	</li>
 </ul>
