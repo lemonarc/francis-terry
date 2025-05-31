@@ -515,6 +515,18 @@ pre {
     }
 }
 
+.video-wrapper {
+  max-width: 1200px;
+  margin: 0 auto $unit*4;   /* centers the video */
+}
+
+.video-wrapper video {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+
 /* Breaks & Boxes
 ==================== */
 lineout {

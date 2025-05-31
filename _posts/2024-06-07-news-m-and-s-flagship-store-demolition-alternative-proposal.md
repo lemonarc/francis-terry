@@ -11,13 +11,14 @@ wide_image: 2025/02-m-and-s-wide.jpg
 preview: Francis Terry in collaboration with Create Streets have designed an alternative proposal to the Marks & Spencer’s proposed total demolition of their historic store in Oxford Street. Robert Kwolek has written about it in The Sunday Times here.
 ---
 
-<ul class="list">
-	<li class="full">
-		<a class="fancybox" rel="group" href="/images/news/2025/02-m-and-s-01.jpg" title="{{ page.title }}">
-			<img src="/images/news/2025/thumbs/02-m-and-s-01.jpg" alt="{{ page.title }}">
-		</a>
-	</li>
-</ul>
+<div class="video-wrapper">
+	<video autoplay muted loop playsinline>
+    	<source src="/media/FT-Walking-Painting.mp4" type="video/mp4" />
+    	Your browser does not support the video tag.
+	</video>
+</div>
+
+
 
 Francis Terry in collaboration with Create Streets have designed an alternative proposal to the Marks & Spencer’s proposed total demolition of their historic store in Oxford Street. Robert Kwolek has written about it in The Sunday Times here.
 
