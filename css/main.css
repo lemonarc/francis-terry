@@ -196,6 +196,10 @@ pre > code { border: 0; padding-right: 0; padding-left: 0; }
 
 @media screen and (max-width: 1000px) { .wrapper-no-clear { max-width: -webkit-calc(100% - (1rem * 3)); max-width: calc(100% - (1rem * 3)); padding-right: 0.5rem; padding-left: 0.5rem; } }
 
+.video-wrapper { max-width: 1200px; margin: 0 auto 4rem; /* centers the video */ }
+
+.video-wrapper video { width: 100%; height: auto; display: block; }
+
 /* Breaks & Boxes
 ==================== */
 lineout { clear: both; display: block; width: 100%; border-bottom: 1px solid #444444; margin: 6rem 0; }

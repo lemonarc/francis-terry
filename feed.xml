@@ -6,8 +6,8 @@
 </description>
     <link>https://ftanda.co.uk/</link>
     <atom:link href="https://ftanda.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 31 May 2025 14:46:01 +0000</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 14:46:01 +0000</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 15:24:15 +0000</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 15:24:15 +0000</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -332,13 +332,12 @@
     
       <item>
         <title>M&amp;S Flagship Store Demolition Alternative Proposal</title>
-        <description>&lt;ul class=&quot;list&quot;&gt;
-	&lt;li class=&quot;full&quot;&gt;
-		&lt;a class=&quot;fancybox&quot; rel=&quot;group&quot; href=&quot;/images/news/2025/02-m-and-s-01.jpg&quot; title=&quot;M&amp;amp;S Flagship Store Demolition Alternative Proposal&quot;&gt;
-			&lt;img src=&quot;/images/news/2025/thumbs/02-m-and-s-01.jpg&quot; alt=&quot;M&amp;amp;S Flagship Store Demolition Alternative Proposal&quot; /&gt;
-		&lt;/a&gt;
-	&lt;/li&gt;
-&lt;/ul&gt;
+        <description>&lt;div class=&quot;video-wrapper&quot;&gt;
+	&lt;video autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; playsinline=&quot;&quot;&gt;
+    	&lt;source src=&quot;/media/FT-Walking-Painting.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+    	Your browser does not support the video tag.
+	&lt;/video&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Francis Terry in collaboration with Create Streets have designed an alternative proposal to the Marks &amp;amp; Spencer’s proposed total demolition of their historic store in Oxford Street. Robert Kwolek has written about it in The Sunday Times here.&lt;/p&gt;
 
