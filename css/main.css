@@ -1320,16 +1320,17 @@ h2.promo-large-text { font-size: 4rem; }
 
 @keyframes imageAnimation { 0% { background-image: url("/images/home/home-country-house.jpg"); }
   8% { background-image: url("/images/home/home-country-house.jpg"); }
-  16% { background-image: url("/images/home/buttermere_33.jpg"); }
-  24% { background-image: url("/images/home/buttermere_33.jpg"); }
+  16% { background-image: url("/images/home/castle-howard-ft.jpg"); }
+  24% { background-image: url("/images/home/castle-howard-ft.jpg"); }
   32% { background-image: url("/images/home/home-extension.jpg"); }
   40% { background-image: url("/images/home/home-extension.jpg"); }
   48% { background-image: url("/images/home/home-wield-park.jpg"); }
   56% { background-image: url("/images/home/home-wield-park.jpg"); }
   64% { background-image: url("/images/home/home-eastridge.jpg"); }
   72% { background-image: url("/images/home/home-eastridge.jpg"); }
-  80% { background-image: url("/images/home/4K4A4171_EDIT.jpg"); }
-  88% { background-image: url("/images/home/4K4A4171_EDIT.jpg"); }
+  80% { background-image: url("/images/home/buttermere_33.jpg");
+    /* moved here */ }
+  88% { background-image: url("/images/home/buttermere_33.jpg"); }
   96% { background-image: url("/images/home/home-country-house.jpg"); }
   100% { background-image: url("/images/home/home-country-house.jpg"); } }
 
