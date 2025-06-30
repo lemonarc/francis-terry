@@ -42,8 +42,8 @@ article: article
 <ul class="list blog">
 	<li id="francis_terry">
 		<a href="/practice/francis-terry/">
-			<img src="/images/practice/francis-terry-5.jpg" alt="Francis Terry" class="tall" />
-			<img src="/images/practice/francis-terry-5-b.jpg" alt="Francis Terry" class="wide" />
+			<img src="/images/practice/francis-terry-6a.jpg" alt="Francis Terry" class="tall" />
+			<img src="/images/practice/francis-terry-6b.jpg" alt="Francis Terry" class="wide" />
 		</a>
 		<div class="blog-text">
 			<a href="/practice/francis-terry/">
