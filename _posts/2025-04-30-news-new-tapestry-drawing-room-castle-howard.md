@@ -32,8 +32,8 @@ preview: The new Tapestry Drawing Room at Castle Howard is a completely new arch
 </div>
 <ul class="list">
 	<li class="full">
-		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03.jpg"  title="{{ page.title }}">
-			<img src="/images/news/2025/CHDR-03.jpg" alt="{{ page.title }}" />
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03b.jpg"  title="{{ page.title }}">
+			<img src="/images/news/2025/CHDR-03b.jpg" alt="{{ page.title }}" />
 		</a>
 	</li>
 </ul>
