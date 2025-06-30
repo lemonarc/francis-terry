@@ -18,18 +18,18 @@ preview: The new Tapestry Drawing Room at Castle Howard is a completely new arch
 		</a>
 	</li>
 </ul>
-<!--<ul class="list">
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-02.jpg" title="{{ page.title }}">
-			<img src="/images/news/2025/thumbs/CHDR-02.jpg" alt="{{ page.title }}" />
+<div class="gallery">
+	<div>
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-19.jpg" title="{{ page.title }}">
+			<img src="/images/news/2025/thumbs/CHDR-19.jpg" alt="{{ page.title }}" />
 		</a>
-	</li>
-	<li class="half">
-		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03.jpg"  title="{{ page.title }}">
-			<img src="/images/news/2025/thumbs/CHDR-03.jpg" alt="{{ page.title }}" />
+	</div>
+	<div>
+		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-20.jpg"  title="{{ page.title }}">
+			<img src="/images/news/2025/thumbs/CHDR-20.jpg" alt="{{ page.title }}" />
 		</a>
-	</li>
-</ul>-->
+	</div>
+</div>
 <ul class="list">
 	<li class="full">
 		<a class="fancybox" rel="group" href="/images/news/2025/CHDR-03.jpg"  title="{{ page.title }}">
