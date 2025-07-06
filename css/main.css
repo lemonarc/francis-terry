@@ -1216,17 +1216,25 @@ a.booking-link-2 { border: none; font-size: initial; padding: 0; }
 
 .taster-book { border: 2px solid #999999; margin: 100px auto; padding: 60px; }
 
+.taster-book p, .taster-book hr { margin-bottom: 1rem; }
+
+.taster-book p.ft-p { font-size: 120%; }
+
+.taster-book hr { border: none; /* Remove default styling */ height: 0.5px; /* Set desired height */ background-color: #66849e; /* Set your desired color */ }
+
 .taster-book h2, .taster-book h3 { color: #999999; text-align: center; }
 
-.taster-book small { display: block; text-align: center; }
+.taster-book small { font-size: 80%; display: block; }
 
-.taster-book .taster-book-content { margin: 0 auto; max-width: 66%; }
+.taster-book .taster-book-content { margin: 0 auto; }
 
-@media screen and (max-width: 500px) { .taster-book .taster-book-content { max-width: 100%; } }
+.taster-book .price, .taster-book .booking-options { margin: 0 auto 2rem; }
 
-.taster-book .booking-options { margin: 20px auto; text-align: center; }
+.taster-book .price span, .taster-book .price a, .taster-book .price a:hover, .taster-book .price a:focus, .taster-book .booking-options span, .taster-book .booking-options a, .taster-book .booking-options a:hover, .taster-book .booking-options a:focus { color: #66849e; }
 
-.taster-book .booking-options span, .taster-book .booking-options a, .taster-book .booking-options a:hover, .taster-book .booking-options a:focus { color: #66849e; }
+.taster-book .price p { margin-bottom: 0.5rem; }
+
+@media screen and (max-width: 500px) { .taster-book span { display: block; } }
 
 .form-201907 input, .form-201907 textarea { border: none; border-bottom: 1px solid #999999; }
 
