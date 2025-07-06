@@ -79,11 +79,13 @@ p.quote-credit { font-size: 1.5rem; font-weight: 700; margin-bottom: 3rem; text-
 ==================== */
 a { color: #111111; text-decoration: none; }
 
-a:visited { color: #007FCB; }
+a:visited { color: #111111; }
 
 a:hover { text-decoration: none; color: #007FCB; }
 
 p a { color: #007FCB; text-decoration: none; }
+
+p a:visited { color: #007FCB; }
 
 p a:hover { text-decoration: none; color: #111111; }
 
