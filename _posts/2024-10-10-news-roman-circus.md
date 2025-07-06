@@ -65,3 +65,11 @@ This idea has attached much press attention as can be seen by the following link
 <a href="https://www.gazette-news.co.uk/news/24513968.colchesters-roman-circus-gates-rebuilt-1-4m/" rel="nofollower noopener noreferrer" target="_blank" alt="Colchester's Roman circus gates could be rebuilt for £1.4m" title="Colchester's Roman circus gates could be rebuilt for £1.4m">Colchester's Roman circus gates could be rebuilt for £1.4m</a> <em>(Gazette)</em>
 
 <a href="https://www.gazette-news.co.uk/news/24652020.colchester-council-will-debate-housing-roman-circus-site/" rel="nofollower noopener noreferrer" target="_blank" alt="Colchester Council will debate housing on Roman Circus site" title="Colchester Council will debate housing on Roman Circus site">Colchester Council will debate housing on Roman Circus site</a> <em>(Gazette)</em>
+
+<div class="partner-container">
+	<a href="https://www.createstreets.com/" rel="nofollower noopener noreferrer" target="_blank" class="logo-link" alt="Create Streets" title="Create Streets"><img src="/images/create_streets_logo.png" alt="Create Streets"></a>
+	<div class="partner-copy">As the scheme has developed, we have involved <a href="https://www.createstreets.com/" rel="nofollower noopener noreferrer" target="_blank" alt="Create Streets" title="Create Streets">Create Streets</a> to support the urbanism and placemaking aspects of the design.</div>
+</div>
+
+
+

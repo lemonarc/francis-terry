@@ -454,3 +454,25 @@ ul.tiles {
 // 		font-size: 21px;
 // 	}
 // }
+
+.partner-container {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	gap: 2rem;
+	
+	a {
+		width: 160px;
+		min-width: 160px;
+
+		@include media-query($on-700) {
+			width: 120px;
+			min-width: 120px;
+		}
+	}
+
+	@include media-query($on-500) {
+		flex-direction: column;
+		align-items: baseline;
+	}
+}
