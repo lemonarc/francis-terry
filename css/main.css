@@ -1276,10 +1276,6 @@ h2.promo-large-text { font-size: 4rem; }
 #booking-details.has-error a { color: #000000; }
 
 /* Home page Beta */
-.site-home { background: #000; }
-
-.site-home .fadeshade { /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#000000+0,000000+100&0.33+0,0+100 */ background: -moz-linear-gradient(top, rgba(0, 0, 0, 0.33) 0%, rgba(0, 0, 0, 0) 100%); /* FF3.6-15 */ background: -webkit-linear-gradient(top, rgba(0, 0, 0, 0.33) 0%, rgba(0, 0, 0, 0) 100%); /* Chrome10-25,Safari5.1-6 */ background: linear-gradient(to bottom, rgba(0, 0, 0, 0.33) 0%, rgba(0, 0, 0, 0) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */ height: auto; min-height: 100vh; }
-
 .site-home .site-header { z-index: 10; }
 
 .site-home .full-page { height: auto; min-height: 100vh; }
@@ -1326,25 +1322,31 @@ h2.promo-large-text { font-size: 4rem; }
 
 .site-home .full-page .home .home-elements a:hover h3, .site-home .full-page .home .home-elements a:hover p, .site-home .full-page .home .home-elements a:focus h3, .site-home .full-page .home .home-elements a:focus p { text-shadow: 0 0 5px #fff; }
 
-.crossfade::after { position: absolute; width: 0; height: 0; overflow: hidden; z-index: -1; content: url(/images/home/home-country-house.jpg) url(/images/home/buttermere_33.jpg) url(/images/home/home-extension.jpg) url(/images/home/home-wield-park.jpg) url(/images/home/home-eastridge.jpg) url(/images/home/4K4A4171_EDIT.jpg); }
+.rbg-wrapper { background-image: url("/images/home/home-country-house.jpg"); background-position: center; background-repeat: no-repeat; background-size: cover; position: absolute; top: 0; left: 0; height: 100vh; width: 100%; overflow: hidden; z-index: 0; }
 
-.crossfade > figure { animation-name: imageAnimation; animation-duration: 50s; animation-iteration-count: infinite; animation-direction: normal; animation-timing-function: linear; backface-visibility: hidden; background-size: cover; background-position: center center; color: transparent; height: 100%; left: 0px; position: absolute; top: 0px; width: 100%; z-index: 0; }
+.rbg-slide { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; opacity: 0; animation: fadeCycle 64s infinite ease-in-out; animation-fill-mode: both; }
 
-@keyframes imageAnimation { 0% { background-image: url("/images/home/home-country-house.jpg"); }
-  8% { background-image: url("/images/home/home-country-house.jpg"); }
-  16% { background-image: url("/images/home/castle-howard-ft.jpg"); }
-  24% { background-image: url("/images/home/castle-howard-ft.jpg"); }
-  32% { background-image: url("/images/home/home-extension.jpg"); }
-  40% { background-image: url("/images/home/home-extension.jpg"); }
-  48% { background-image: url("/images/home/home-wield-park.jpg"); }
-  56% { background-image: url("/images/home/home-wield-park.jpg"); }
-  64% { background-image: url("/images/home/home-eastridge.jpg"); }
-  72% { background-image: url("/images/home/home-eastridge.jpg"); }
-  80% { background-image: url("/images/home/buttermere_33.jpg");
-    /* moved here */ }
-  88% { background-image: url("/images/home/buttermere_33.jpg"); }
-  96% { background-image: url("/images/home/home-country-house.jpg"); }
-  100% { background-image: url("/images/home/home-country-house.jpg"); } }
+.rbg-slide:nth-child(1) { animation-delay: 0s; }
+
+.rbg-slide:nth-child(2) { animation-delay: 8s; }
+
+.rbg-slide:nth-child(3) { animation-delay: 16s; }
+
+.rbg-slide:nth-child(4) { animation-delay: 24s; }
+
+.rbg-slide:nth-child(5) { animation-delay: 32s; }
+
+.rbg-slide:nth-child(6) { animation-delay: 40s; }
+
+.rbg-slide:nth-child(7) { animation-delay: 48s; }
+
+.rbg-slide:nth-child(8) { animation-delay: 56s; }
+
+@keyframes fadeCycle { 0% { opacity: 0; }
+  5% { opacity: 1; }
+  20% { opacity: 1; }
+  25% { opacity: 0; }
+  100% { opacity: 0; } }
 
 /* == Landing Pages == */
 .landing-content .landing-hero { margin-bottom: 4rem; min-width: 100%; }
