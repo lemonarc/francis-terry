@@ -79,6 +79,8 @@ p.quote-credit { font-size: 1.5rem; font-weight: 700; margin-bottom: 3rem; text-
 ==================== */
 a { color: #111111; text-decoration: none; }
 
+a:visited { color: #007FCB; }
+
 a:hover { text-decoration: none; color: #007FCB; }
 
 p a { color: #007FCB; text-decoration: none; }
@@ -627,6 +629,14 @@ ul.tiles li.sixth { width: 16.6666666666%; margin: 0; }
 .banner-area .caption { background: rgba(0, 28, 50, 0.9); font-family: 'Oswald', sans-serif; line-height: 1.4; opacity: 1; padding: 10px 20px; }
 
 @media only screen and (max-width: 800px) { .banner-area div.banner-01 { float: none; width: 100%; padding: 0 0 1% 0; } .banner-area div.banner-02 { float: left; padding: 0 0.5% 0 0; width: 49.5%; } .banner-area div.banner-03 { float: right; padding: 0 0 0.5% 0; width: 49.5%; } }
+
+.partner-container { display: flex; flex-direction: row; align-items: center; gap: 2rem; }
+
+.partner-container a { width: 160px; min-width: 160px; }
+
+@media screen and (max-width: 700px) { .partner-container a { width: 120px; min-width: 120px; } }
+
+@media screen and (max-width: 500px) { .partner-container { flex-direction: column; align-items: baseline; } }
 
 /* Splash / Full Page - full background
 ==================== */
