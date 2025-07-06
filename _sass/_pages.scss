@@ -1416,28 +1416,42 @@ a.booking-link-2 {
 	margin: 100px auto;
 	padding: 60px;
 	
+	p, hr {
+		margin-bottom: 1rem;
+	}
+	p.ft-p {
+		font-size: 120%;
+	}
+	hr {
+  		border: none;          /* Remove default styling */
+  		height: 0.5px;           /* Set desired height */
+  		background-color: #66849e; /* Set your desired color */
+	}
 	h2,h3 {
 		color: #999999;
 		text-align: center;
 	}
 	small {
+		font-size: 80%;
 		display: block;
-		text-align: center;		
 	}
 	.taster-book-content {
 		margin: 0 auto;
-		max-width: 66%;
-		
-		@include media-query($on-mobile) {
-			max-width: 100%;
-		}
 	}
+	.price,
 	.booking-options {
-		margin: 20px auto;
-		text-align: center;
+		margin: 0 auto 2rem;
 		
 		span, a, a:hover, a:focus {
 			color: #66849e;
+		}
+	}
+	.price p {
+		margin-bottom: 0.5rem;
+	}
+	@include media-query ($on-500) {
+		span {
+			display: block;
 		}
 	}
 }
