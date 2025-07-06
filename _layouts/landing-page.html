@@ -9,32 +9,37 @@
 	<body class="{{ page.bodyclass }}">
 	{% else %}
 	<body>
-	{% endif %}     <div>
+	{% endif %}
+	
+		<div>
 		
-		<div class="full-page {{ page.splash-background }}">
+			<div class="full-page {{ page.splash-background }}">
 			
-			{% if page.splash-background == "projectBackground" %}
-			<div class="fadeshade">
-				<div class="crossfade">
-					<figure></figure>
-					<figure></figure>
-  					<figure></figure>
-  					<figure></figure>
-					<figure></figure>
-			{% endif %}
+				{% if page.splash-background == "projectBackground" %}
+				<div class="rbg-wrapper">
+					<div class="rbg-slide" style="background-image: url('/images/home/home-country-house.jpg');"></div>
+					<div class="rbg-slide" style="background-image: url('/images/home/castle-howard-ft.jpg');"></div>
+  					<div class="rbg-slide" style="background-image: url('/images/home/home-higham-park-06.jpg');"></div>
+  					<div class="rbg-slide" style="background-image: url('/images/home/home-4K4A4171.jpg');"></div>
+  					<div class="rbg-slide" style="background-image: url('/images/home/home-extension.jpg');"></div>
+  					<div class="rbg-slide" style="background-image: url('/images/home/home-wield-park.jpg');"></div>
+	  				<div class="rbg-slide" style="background-image: url('/images/home/home-eastridge.jpg');"></div>
+  					<div class="rbg-slide" style="background-image: url('/images/home/buttermere_33.jpg');"></div>
+				{% endif %}
 			
-			{% include header.html %}
+				{% include header.html %}
 
-			<div>
-			{{ content }}
-			</div>
-
-			{% if page.splash-background == "projectBackground" %}
+				<div>
+					{{ content }}
 				</div>
-			</div>
-			{% endif %}
+
+				{% if page.splash-background == "projectBackground" %}
+				</div>
+				{% endif %}
 		
-		</div>       </div>
+			</div>
+		
+		</div>
 		
 		{% if page.prefooter %}
 		<div class="wrapper {% if page.prefooter == 'mono' %}desaturate{% endif %}">
