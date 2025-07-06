@@ -196,7 +196,7 @@ a {
     text-decoration: none;
 
     &:visited {
-		color: $link-hover;
+		color: $link;
     }
 
     &:hover {
@@ -209,6 +209,7 @@ p a {
     text-decoration: none;
 
     &:visited {
+		color: $link-hover;
     }
 
     &:hover {
