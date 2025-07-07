@@ -5,9 +5,9 @@ excerpt: The new Tapestry Drawing Room at Castle Howard is a completely new arch
 post_date: April 2025
 categories: [news]
 permalink: /news/new-tapestry-drawing-room-castle-howard/
-social_image: /images/news/2025/CHDR-01-social-2.jpg
-tall_image: 2025/CHDR-01-tall-2.jpg
-wide_image: 2025/CHDR-01-wide-2.jpg
+social_image: /images/news/2025/CHDR-social.jpg
+tall_image: 2025/CHDR-tall.jpg
+wide_image: 2025/CHDR-wide.jpg
 preview: The new Tapestry Drawing Room at Castle Howard is a completely new architectural treatment to a room which was destroyed by fire in 1940.
 ---
 

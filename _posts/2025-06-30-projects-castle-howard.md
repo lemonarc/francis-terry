@@ -6,9 +6,9 @@ excerpt: "The new Tapestry Drawing Room at Castle Howard is a completely new arc
 preview: "The new Tapestry Drawing Room at Castle Howard is a completely new architectural treatment to a room which was destroyed by fire in 1940. The brief was to restore the room to what Vanbrugh would have done and incorporate the four Vanderbank tapestries which were designed and woven for the room in 1706."
 permalink: /projects/castle-howard/
 post_date: 2025-06-30
-social_image: /images/news/2025/CHDR-01-social-2.jpg
-tall_image: 2025/CHDR-01-tall-2.jpg
-wide_image: 2025/CHDR-01-wide-2.jpg
+social_image: /images/news/2025/CHDR-social.jpg
+tall_image: 2025/CHDR-tall.jpg
+wide_image: 2025/CHDR-wide.jpg
 ---
 
 <ul class="list">
