@@ -59,3 +59,9 @@ comments: /thoughts/should-architects-just-do-as-they-are-told/
 <h2>
 	Francis Terry
 </h2>
+
+<br/><br/>
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/_3Z8lBtfO9k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div> 

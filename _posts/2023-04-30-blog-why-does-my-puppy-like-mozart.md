@@ -60,3 +60,9 @@ comments: /thoughts/why-does-my-puppy-like-mozart/
 		<p class="caption">Villa Lante. Photo: Nick Carter</p>
 	</li>
 </ul>
+
+<br/><br/>
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/BrythUV6goo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div> 

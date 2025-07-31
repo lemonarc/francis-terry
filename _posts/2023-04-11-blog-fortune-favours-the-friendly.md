@@ -105,3 +105,9 @@ Francis Terry
 <p>
 (This essay was first published in The Art of Classical Details II, An Ideal Collaboration by Phillip James Dodd.  Published by The Images Publishing Group Pty Ltd, 2015)
 </p>
+
+<br/><br/>
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/ASrQVQmTonw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div> 

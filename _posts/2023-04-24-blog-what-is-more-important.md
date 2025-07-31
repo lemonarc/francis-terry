@@ -113,3 +113,9 @@ comments: /thoughts/rotonda-in-cheese/
 <h2>
 	Francis Terry
 </h2>
+
+<br/><br/>
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/dSNfo8ZI7Rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div> 

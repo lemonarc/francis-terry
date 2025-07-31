@@ -80,3 +80,9 @@ comments: /thoughts/chicken/
 		</a>
 	</li>
 </ul>
+
+<br/><br/>
+
+<div class="videoWrapper">
+	<iframe src="https://www.youtube.com/embed/VPyNILXsx7w" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div> 
