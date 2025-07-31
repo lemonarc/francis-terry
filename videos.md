@@ -11,6 +11,144 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/BrythUV6goo?rel=0&autoplay=1" alt="Why does my Puppy like Mozart?">
+		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-tall.jpg" alt="Why does my Puppy like Mozart?" class="tall" />
+		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-wide.jpg" alt="Why does my Puppy like Mozart?" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Why does my Puppy like Mozart?</h2>
+		<h4>July 2025</h4>
+		<p>
+			...and what does this tell us about classical architecture?
+		</p><p>
+			We recently bought a puppy and discovered that he much prefers classical music to pop. It seems that dogs are born with discernible musical tastes which effects their moods and this seems to be consistent throughout the species.
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/why-does-my-puppy-like-mozart/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/VPyNILXsx7w?rel=0&autoplay=1" alt="Where Does Your Chicken Cross the Road">
+		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-tall.jpg" alt="Where Does Your Chicken Cross the Road" class="tall" />
+		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-wide.jpg" alt="Where Does Your Chicken Cross the Road" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Where Does Your Chicken Cross the Road</h2>
+		<h4>July 2025</h4>
+		<p>
+			“Why did the chicken cross the road?” is not a great joke. What interests me more is where the chicken crosses the road in people’s minds. When asked the question, what do you imagine?
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/chicken/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/dSNfo8ZI7Rs?rel=0&autoplay=1" alt="What is More Important, Materials or Form">
+		<img src="/images/videos/ss-what-is-more-important-materials-or-form-tall.jpg" alt="What is More Important, Materials or Form" class="tall" />
+		<img src="/images/videos/ss-what-is-more-important-materials-or-form-wide.jpg" alt="What is More Important, Materials or Form" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>What is More Important, Materials or Form</h2>
+		<h4>July 2025</h4>
+		<p>
+			Palladio's villas in the Veneto are made from render which is a cheaper alternative to stone, but it looks similar from a distance ... I think even if the Villa Rotonda was made of cheese, it would still look splendid from afar.
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/rotonda-in-cheese/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/_3Z8lBtfO9k?rel=0&autoplay=1" alt="Should Architects Do as They're Told">
+		<img src="/images/videos/ss-should-architects-do-as-theyre-told-tall.jpg" alt="Should Architects Do as They're Told" class="tall" />
+		<img src="/images/videos/ss-should-architects-do-as-theyre-told-wide.jpg" alt="Should Architects Do as They're Told" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Should Architects Do as They're Told</h2>
+		<h4>July 2025</h4>
+		<p>
+			How much should I, as an architect, push my opinions? Should I simply take instructions from clients and blindly obey, or should I insist on buildings being a particular way?
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/should-architects-just-do-as-they-are-told/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/YjJbpwKswxc?rel=0&autoplay=1" alt="Proportions in Architecture and Music">
+		<img src="/images/videos/ss-proportions-in-architecture-and-music-tall.jpg" alt="Proportions in Architecture and Music" class="tall" />
+		<img src="/images/videos/ss-proportions-in-architecture-and-music-wide.jpg" alt="Proportions in Architecture and Music" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Proportions in Architecture and Music</h2>
+		<h4>July 2025</h4>
+		<p>
+			Architects for millennia have sought to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/proportions-in-architecture-and-music/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/yuM7zw1dVhE?rel=0&autoplay=1" alt="Our Ancient Love of Quality">
+		<img src="/images/videos/ss-our-ancient-love-of-quality-tall.jpg" alt="Our Ancient Love of Quality" class="tall" />
+		<img src="/images/videos/ss-our-ancient-love-of-quality-wide.jpg" alt="Our Ancient Love of Quality" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Our Ancient Love of Quality</h2>
+		<h4>July 2025</h4>
+		<p>
+			Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous.
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/acheulian-hand-axes/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/3nqBaQYuVWE?rel=0&autoplay=1" alt="Glad to Be Pastiche">
+		<img src="/images/videos/ss-glad-to-be-pastiche-tall.jpg" alt="Glad to Be Pastiche" class="tall" />
+		<img src="/images/videos/ss-glad-to-be-pastiche-wide.jpg" alt="Glad to Be Pastiche" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Glad to Be Pastiche</h2>
+		<h4>July 2025</h4>
+		<p>
+			The definition of Pastiche is 'an artistic work in a style that imitates that of another work, artist, or period.' I imitate historic buildings, rather than inventing new styles, and with this in mind, it may seem fair game to direct the word at my work...
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/glad-to-be-pastiche/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/ASrQVQmTonw?rel=0&autoplay=1" alt="Fortune Favours the Friendly">
+		<img src="/images/videos/ss-fortune-favours-the-friendly-tall.jpg" alt="Fortune Favours the Friendly" class="tall" />
+		<img src="/images/videos/ss-fortune-favours-the-friendly-wide.jpg" alt="Fortune Favours the Friendly" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Fortune Favours the Friendly</h2>
+		<h4>July 2025</h4>
+		<p>
+			On occasions I meet architects who think that they are, or more often should be, 'in charge' of every aspect of their buildings. These people are either very naive or deluded. They harp back to a golden age when architects were taken seriously like doctors or lawyers...
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/fortune-favours-the-friendly/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/tKX4l6F2i5U?rel=0&autoplay=1" alt="The Five Classical Orders">
 		<img src="/images/videos/V2505-tall.jpg" alt="The Five Classical Orders" class="tall" />
 		<img src="/images/videos/V2505-wide.jpg" alt="The Five Classical Orders" class="wide" />
@@ -262,152 +400,6 @@ article: article
 			Many people, perhaps you, would love to build yourself a new house in the country where you could live with your family and work from home in rural tranquility. It is perhaps the English dream. The problem is getting planning permission. But don’t despair, NPPF paragraph 80e is the planning legislation which is specifically written to allow this to happen. The clause states that the new house has to be an ‘exceptional’ work of architecture and so it is not easy to get planning permission… but not impossible. In this video architect Francis Terry and planning specialist Martin Leay discuss how this can be done in practical terms using examples of their many past successes of ‘paragraph 80e’ houses.
 		</p>
 		<p><a class="post-link" href="/thoughts/nppf-paragraph-80e-explained/">Read more</a></p>
-	</div>
-</li>
-
-</ul>
-
-<lineout></lineout>
-
-<h2>Discussion</h2>
-
-<ul class="list blog">
-
-<li>
-	<a href="https://www.youtube.com/embed/BrythUV6goo?rel=0&autoplay=1" alt="Why does my Puppy like Mozart?">
-		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-tall.jpg" alt="Why does my Puppy like Mozart?" class="tall" />
-		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-wide.jpg" alt="Why does my Puppy like Mozart?" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Why does my Puppy like Mozart?</h2>
-		<h4>July 2025</h4>
-		<p>
-			...and what does this tell us about classical architecture?
-		</p><p>
-			We recently bought a puppy and discovered that he much prefers classical music to pop. It seems that dogs are born with discernible musical tastes which effects their moods and this seems to be consistent throughout the species.
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/why-does-my-puppy-like-mozart/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/VPyNILXsx7w?rel=0&autoplay=1" alt="Where Does Your Chicken Cross the Road">
-		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-tall.jpg" alt="Where Does Your Chicken Cross the Road" class="tall" />
-		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-wide.jpg" alt="Where Does Your Chicken Cross the Road" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Where Does Your Chicken Cross the Road</h2>
-		<h4>July 2025</h4>
-		<p>
-			“Why did the chicken cross the road?” is not a great joke. What interests me more is where the chicken crosses the road in people’s minds. When asked the question, what do you imagine?
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/chicken/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/dSNfo8ZI7Rs?rel=0&autoplay=1" alt="What is More Important, Materials or Form">
-		<img src="/images/videos/ss-what-is-more-important-materials-or-form-tall.jpg" alt="What is More Important, Materials or Form" class="tall" />
-		<img src="/images/videos/ss-what-is-more-important-materials-or-form-wide.jpg" alt="What is More Important, Materials or Form" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>What is More Important, Materials or Form</h2>
-		<h4>July 2025</h4>
-		<p>
-			Palladio's villas in the Veneto are made from render which is a cheaper alternative to stone, but it looks similar from a distance ... I think even if the Villa Rotonda was made of cheese, it would still look splendid from afar.
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/rotonda-in-cheese/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/_3Z8lBtfO9k?rel=0&autoplay=1" alt="Should Architects Do as They're Told">
-		<img src="/images/videos/ss-should-architects-do-as-theyre-told-tall.jpg" alt="Should Architects Do as They're Told" class="tall" />
-		<img src="/images/videos/ss-should-architects-do-as-theyre-told-wide.jpg" alt="Should Architects Do as They're Told" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Should Architects Do as They're Told</h2>
-		<h4>July 2025</h4>
-		<p>
-			How much should I, as an architect, push my opinions? Should I simply take instructions from clients and blindly obey, or should I insist on buildings being a particular way?
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/should-architects-just-do-as-they-are-told/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/YjJbpwKswxc?rel=0&autoplay=1" alt="Proportions in Architecture and Music">
-		<img src="/images/videos/ss-proportions-in-architecture-and-music-tall.jpg" alt="Proportions in Architecture and Music" class="tall" />
-		<img src="/images/videos/ss-proportions-in-architecture-and-music-wide.jpg" alt="Proportions in Architecture and Music" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Proportions in Architecture and Music</h2>
-		<h4>July 2025</h4>
-		<p>
-			Architects for millennia have sought to find rules to determine the proportions of every aspect of a building. A window, for example, can look too narrow and thin or conversely it can look squat and fat. How can we work out the right proportions?
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/proportions-in-architecture-and-music/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/yuM7zw1dVhE?rel=0&autoplay=1" alt="Our Ancient Love of Quality">
-		<img src="/images/videos/ss-our-ancient-love-of-quality-tall.jpg" alt="Our Ancient Love of Quality" class="tall" />
-		<img src="/images/videos/ss-our-ancient-love-of-quality-wide.jpg" alt="Our Ancient Love of Quality" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Our Ancient Love of Quality</h2>
-		<h4>July 2025</h4>
-		<p>
-			Quality is so important. It is the different between mass produced bleached white sliced bread assembled in a factory and bread lovingly made in small batches by a baker who really cares. The ingredients are much the same, but the differences are enormous.
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/acheulian-hand-axes/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/3nqBaQYuVWE?rel=0&autoplay=1" alt="Glad to Be Pastiche">
-		<img src="/images/videos/ss-glad-to-be-pastiche-tall.jpg" alt="Glad to Be Pastiche" class="tall" />
-		<img src="/images/videos/ss-glad-to-be-pastiche-wide.jpg" alt="Glad to Be Pastiche" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Glad to Be Pastiche</h2>
-		<h4>July 2025</h4>
-		<p>
-			The definition of Pastiche is 'an artistic work in a style that imitates that of another work, artist, or period.' I imitate historic buildings, rather than inventing new styles, and with this in mind, it may seem fair game to direct the word at my work...
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/glad-to-be-pastiche/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/ASrQVQmTonw?rel=0&autoplay=1" alt="Fortune Favours the Friendly">
-		<img src="/images/videos/ss-fortune-favours-the-friendly-tall.jpg" alt="Fortune Favours the Friendly" class="tall" />
-		<img src="/images/videos/ss-fortune-favours-the-friendly-wide.jpg" alt="Fortune Favours the Friendly" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Fortune Favours the Friendly</h2>
-		<h4>July 2025</h4>
-		<p>
-			On occasions I meet architects who think that they are, or more often should be, 'in charge' of every aspect of their buildings. These people are either very naive or deluded. They harp back to a golden age when architects were taken seriously like doctors or lawyers...
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/fortune-favours-the-friendly/">Read more</a></p>
 	</div>
 </li>
 
