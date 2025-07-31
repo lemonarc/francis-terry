@@ -11,6 +11,23 @@ article: article
 <ul class="list blog">
 
 <li>
+	<a href="https://www.youtube.com/embed/3nqBaQYuVWE?rel=0&autoplay=1" alt="Glad to Be Pastiche">
+		<img src="/images/videos/ss-glad-to-be-pastiche-tall.jpg" alt="Glad to Be Pastiche" class="tall" />
+		<img src="/images/videos/ss-glad-to-be-pastiche-wide.jpg" alt="Glad to Be Pastiche" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Glad to Be Pastiche</h2>
+		<h4>July 2025</h4>
+		<p>
+			The definition of Pastiche is 'an artistic work in a style that imitates that of another work, artist, or period.' I imitate historic buildings, rather than inventing new styles, and with this in mind, it may seem fair game to direct the word at my work...
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/glad-to-be-pastiche/">Read more</a></p>
+	</div>
+</li>
+
+<li>
 	<a href="https://www.youtube.com/embed/BrythUV6goo?rel=0&autoplay=1" alt="Why does my Puppy like Mozart?">
 		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-tall.jpg" alt="Why does my Puppy like Mozart?" class="tall" />
 		<img src="/images/videos/ss-why-does-my-puppy-like-mozart-wide.jpg" alt="Why does my Puppy like Mozart?" class="wide" />
@@ -26,23 +43,6 @@ article: article
 			A discussion with Alfie and Francis Terry.
 		</p>
 		<p><a class="post-link" href="/thoughts/why-does-my-puppy-like-mozart/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/VPyNILXsx7w?rel=0&autoplay=1" alt="Where Does Your Chicken Cross the Road">
-		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-tall.jpg" alt="Where Does Your Chicken Cross the Road" class="tall" />
-		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-wide.jpg" alt="Where Does Your Chicken Cross the Road" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Where Does Your Chicken Cross the Road</h2>
-		<h4>July 2025</h4>
-		<p>
-			“Why did the chicken cross the road?” is not a great joke. What interests me more is where the chicken crosses the road in people’s minds. When asked the question, what do you imagine?
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/chicken/">Read more</a></p>
 	</div>
 </li>
 
@@ -64,23 +64,6 @@ article: article
 </li>
 
 <li>
-	<a href="https://www.youtube.com/embed/_3Z8lBtfO9k?rel=0&autoplay=1" alt="Should Architects Do as They're Told">
-		<img src="/images/videos/ss-should-architects-do-as-theyre-told-tall.jpg" alt="Should Architects Do as They're Told" class="tall" />
-		<img src="/images/videos/ss-should-architects-do-as-theyre-told-wide.jpg" alt="Should Architects Do as They're Told" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Should Architects Do as They're Told</h2>
-		<h4>July 2025</h4>
-		<p>
-			How much should I, as an architect, push my opinions? Should I simply take instructions from clients and blindly obey, or should I insist on buildings being a particular way?
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/should-architects-just-do-as-they-are-told/">Read more</a></p>
-	</div>
-</li>
-
-<li>
 	<a href="https://www.youtube.com/embed/YjJbpwKswxc?rel=0&autoplay=1" alt="Proportions in Architecture and Music">
 		<img src="/images/videos/ss-proportions-in-architecture-and-music-tall.jpg" alt="Proportions in Architecture and Music" class="tall" />
 		<img src="/images/videos/ss-proportions-in-architecture-and-music-wide.jpg" alt="Proportions in Architecture and Music" class="wide" />
@@ -94,6 +77,40 @@ article: article
 			A discussion with Alfie and Francis Terry.
 		</p>
 		<p><a class="post-link" href="/thoughts/proportions-in-architecture-and-music/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/ASrQVQmTonw?rel=0&autoplay=1" alt="Fortune Favours the Friendly">
+		<img src="/images/videos/ss-fortune-favours-the-friendly-tall.jpg" alt="Fortune Favours the Friendly" class="tall" />
+		<img src="/images/videos/ss-fortune-favours-the-friendly-wide.jpg" alt="Fortune Favours the Friendly" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Fortune Favours the Friendly</h2>
+		<h4>July 2025</h4>
+		<p>
+			On occasions I meet architects who think that they are, or more often should be, 'in charge' of every aspect of their buildings. These people are either very naive or deluded. They harp back to a golden age when architects were taken seriously like doctors or lawyers...
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/fortune-favours-the-friendly/">Read more</a></p>
+	</div>
+</li>
+
+<li>
+	<a href="https://www.youtube.com/embed/_3Z8lBtfO9k?rel=0&autoplay=1" alt="Should Architects Do as They're Told">
+		<img src="/images/videos/ss-should-architects-do-as-theyre-told-tall.jpg" alt="Should Architects Do as They're Told" class="tall" />
+		<img src="/images/videos/ss-should-architects-do-as-theyre-told-wide.jpg" alt="Should Architects Do as They're Told" class="wide" />
+	</a>
+	<div class="blog-text">
+		<h2>Should Architects Do as They're Told</h2>
+		<h4>July 2025</h4>
+		<p>
+			How much should I, as an architect, push my opinions? Should I simply take instructions from clients and blindly obey, or should I insist on buildings being a particular way?
+		</p><p>
+			A discussion with Alfie and Francis Terry.
+		</p>
+		<p><a class="post-link" href="/thoughts/should-architects-just-do-as-they-are-told/">Read more</a></p>
 	</div>
 </li>
 
@@ -115,36 +132,19 @@ article: article
 </li>
 
 <li>
-	<a href="https://www.youtube.com/embed/3nqBaQYuVWE?rel=0&autoplay=1" alt="Glad to Be Pastiche">
-		<img src="/images/videos/ss-glad-to-be-pastiche-tall.jpg" alt="Glad to Be Pastiche" class="tall" />
-		<img src="/images/videos/ss-glad-to-be-pastiche-wide.jpg" alt="Glad to Be Pastiche" class="wide" />
+	<a href="https://www.youtube.com/embed/VPyNILXsx7w?rel=0&autoplay=1" alt="Where Does Your Chicken Cross the Road">
+		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-tall.jpg" alt="Where Does Your Chicken Cross the Road" class="tall" />
+		<img src="/images/videos/ss-where-does-your-chicken-cross-the-road-wide.jpg" alt="Where Does Your Chicken Cross the Road" class="wide" />
 	</a>
 	<div class="blog-text">
-		<h2>Glad to Be Pastiche</h2>
+		<h2>Where Does Your Chicken Cross the Road</h2>
 		<h4>July 2025</h4>
 		<p>
-			The definition of Pastiche is 'an artistic work in a style that imitates that of another work, artist, or period.' I imitate historic buildings, rather than inventing new styles, and with this in mind, it may seem fair game to direct the word at my work...
+			“Why did the chicken cross the road?” is not a great joke. What interests me more is where the chicken crosses the road in people’s minds. When asked the question, what do you imagine?
 		</p><p>
 			A discussion with Alfie and Francis Terry.
 		</p>
-		<p><a class="post-link" href="/thoughts/glad-to-be-pastiche/">Read more</a></p>
-	</div>
-</li>
-
-<li>
-	<a href="https://www.youtube.com/embed/ASrQVQmTonw?rel=0&autoplay=1" alt="Fortune Favours the Friendly">
-		<img src="/images/videos/ss-fortune-favours-the-friendly-tall.jpg" alt="Fortune Favours the Friendly" class="tall" />
-		<img src="/images/videos/ss-fortune-favours-the-friendly-wide.jpg" alt="Fortune Favours the Friendly" class="wide" />
-	</a>
-	<div class="blog-text">
-		<h2>Fortune Favours the Friendly</h2>
-		<h4>July 2025</h4>
-		<p>
-			On occasions I meet architects who think that they are, or more often should be, 'in charge' of every aspect of their buildings. These people are either very naive or deluded. They harp back to a golden age when architects were taken seriously like doctors or lawyers...
-		</p><p>
-			A discussion with Alfie and Francis Terry.
-		</p>
-		<p><a class="post-link" href="/thoughts/fortune-favours-the-friendly/">Read more</a></p>
+		<p><a class="post-link" href="/thoughts/chicken/">Read more</a></p>
 	</div>
 </li>
 
