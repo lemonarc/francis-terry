@@ -14,7 +14,7 @@ image: francis-terry-6
 	- Country Life
 </p>
 
-Francis Terry has carved a unique place in twenty-first British architecture, with a working knowledge of classical architecture and a genuine desire to mould this to his clients many and varied requirements. He was described recently in Country Life, as “A leading light among the new generation of Classical architects”. 
+Francis Terry has carved a unique place in twenty-first British architecture, with a vast knowledge of classical architecture and a genuine desire to mould this to his clients many and varied requirements. He was described recently in Country Life, as “A leading light among the new generation of Classical architects”. 
 
 Francis' pursuit of architecture grew out of his passion for drawing and his love of historic buildings. As a child he would go on sketching holidays with his father, the eminent classicist Quinlan Terry, which formed the foundation of his ability to draw and appreciate classical architecture.
 
