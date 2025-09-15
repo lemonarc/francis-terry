@@ -2,12 +2,12 @@
 
   <div class="wrapper">
 
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+
     <h2 class="footer-heading">
 			<a href="/" alt="{{ site-title }}">{{ site.title }}</a>
 		</h2>
-
-    <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>{{ site.address }}</li>
         </ul>
@@ -17,18 +17,18 @@
         <ul class="social-media-list">
 					<li>{{ site.telephone }}</li>
           <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-					<p>Follow us on...</p>
+					<!--<p>Follow us on...</p>
           {% if site.facebook_username %}
           <li class="social-icon">
             {% include icon-facebook.html username=site.facebook_username %}
           </li>
           {% endif %}
 					
-					<!--{% if site.twitter_username %}
+					{% if site.twitter_username %}
           <li class="social-icon">
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
-          {% endif %}-->
+          {% endif %}
 
           {% if site.instagram_username %}
           <li class="social-icon">
@@ -40,7 +40,7 @@
           <li class="social-icon">
             {% include icon-pinterest.html username=site.pinterest_username %}
           </li>
-          {% endif %}
+          {% endif %}-->
         </ul>
       </div>
 
@@ -48,7 +48,7 @@
         <p>Francis Terry and Associates are designers of new-build and restorations of classical Georgian style architecture and country houses.</p>
 				<p><a href="/terms-and-conditions/" alt="Terms and Conditions">Terms and Conditions</a> | <a href="/privacy/" alt="Privacy Policy">Privacy Policy</a></p>
 				<div class="footer-credit">
-					<p><i class="fa fa-copyright" aria-hidden="true"></i>
+					<p class="tiny"><i class="fa fa-copyright" aria-hidden="true"></i>
 					<script type="text/javascript">
 						document.write(new Date().getFullYear());
 					</script>

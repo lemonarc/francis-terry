@@ -48,12 +48,6 @@ header,
   margin-left: auto;
   margin-right: auto;
 }
-.site-footer .wrapper {
-  max-width: $unit*160;
-  margin-left: auto;
-  margin-right: auto;
-  width: calc(#{$content-width} - (#{$unit} * 6));
-}
 
 /* Columns
 ==================== */
