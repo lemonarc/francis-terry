@@ -1,6 +1,7 @@
 ---
 layout: post
-# categories: [projects]
+categories: [projects, featured-projects]
+order: 4
 title: House in Wiltshire
 excerpt: "This new house in Wiltshire, completed in 2018, is a contemporary demonstration of new houses that on one level feel like sketches of old organic houses, but with all the advantages of better building systems, resulting in a finely modelled house, a two-story, five-bay classical block with low two-storey wings, mansard roofs and an additional eastern range that faces a walled garden."
 preview: "This new house in Wiltshire, completed in 2018, is a contemporary demonstration of new houses that on one level feel like sketches of old organic houses, but with all the advantages of better building systems, resulting in a finely modelled house, a two-story, five-bay classical block with low two-storey wings, mansard roofs and an additional eastern range that faces a walled garden."

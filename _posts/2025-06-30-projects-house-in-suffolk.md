@@ -1,6 +1,7 @@
 ---
 layout: post
-# categories: [projects]
+categories: [projects, featured-projects]
+order: 2
 title: House in Suffolk
 excerpt: "The house in Suffolk was an alteration and extension to a modern classical house. In 2017, Francis Terry was appointed by a new client to extend and improve the property. This presented a rare opportunity to revisit the earlier design, elevate the architecture, and create a more resolved and site-responsive composition."
 preview: "The house in Suffolk was an alteration and extension to a modern classical house. In 2017, Francis Terry was appointed by a new client to extend and improve the property. This presented a rare opportunity to revisit the earlier design, elevate the architecture, and create a more resolved and site-responsive composition."

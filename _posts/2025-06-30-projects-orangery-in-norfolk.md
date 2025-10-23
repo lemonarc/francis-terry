@@ -1,6 +1,7 @@
 ---
 layout: post
-# categories: [projects]
+categories: [projects, featured-projects]
+order: 5
 title: Orangery in Norfolk
 excerpt: "The new orangery at a house in Norfolk, completed in 2017, was conceived as a sensitive yet striking extension to the existing home. The goal was not only to increase the footprint of the property but also to enhance the quality of light, flow, and connection to the surrounding garden."
 preview: "The new orangery at a house in Norfolk, completed in 2017, was conceived as a sensitive yet striking extension to the existing home. The goal was not only to increase the footprint of the property but also to enhance the quality of light, flow, and connection to the surrounding garden."

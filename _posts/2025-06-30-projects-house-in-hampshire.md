@@ -1,6 +1,7 @@
 ---
 layout: post
-# categories: [projects]
+categories: [projects, featured-projects]
+order: 3
 title: House in Hampshire
 excerpt: "The success of a new country house depends, in large part, on how it reads within its landscape setting, and Wield Park, near Alresford in Hampshire, designed by Francis Terry and completed in 2020, is an inspiring example of a house rooted in the history and character of its surroundings."
 preview: "The success of a new country house depends, in large part, on how it reads within its landscape setting, and Wield Park, near Alresford in Hampshire, designed by Francis Terry and completed in 2020, is an inspiring example of a house rooted in the history and character of its surroundings."

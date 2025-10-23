@@ -3,40 +3,72 @@ layout: page
 article: article
 ---
 
-{% if page.category == "projects" %}
-{% include recent-projects.html %}
-{% endif %}
+{% assign current_cat = page.category %}
 
-{% if page.category == "blog" %}
-<ul class="list blog" id="blog-posts">
-{% else %}
-<ul class="list blog">
-{% endif %}
-  {% for post in site.categories[page.category] %}
-    <li>
-      <a href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>
-        <img src="{% if post.tall_image %}/images/news/{{ post.tall_image }}{% else %}{{ post.image_tall }}{% endif %}" alt="{{ post.title }}" class="tall" />
-        <img src="{% if post.wide_image %}/images/news/{{ post.wide_image }}{% else %}{{ post.image_wide }}{% endif %}" alt="{{ post.title }}" class="wide" />
-      </a>
-      <div class="blog-text">
-        <h2>
-          <a class="post-link" href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>{{ post.title }}</a>
-        </h2>
-        {% if post.subtitle %}<h3>{{ post.subtitle }}</h3>{% endif %}
-        {% if page.url contains "news"  %}
-        <h4>{% if post.date %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.post_date }}{% endif %}</h4>
-        {% endif %}
-        <p>{{ post.preview }}</p>
-        <p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>{% endif %}</p>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+{% if current_cat == "projects" %}
+  {%- comment -%} 1) Recent projects include {%- endcomment -%}
+  {% include recent-projects.html %}
 
-<!-- % if page.category == "projects" %
-% include cgi.html %
-% endif % -->
+  {%- comment -%} 2) Featured Projects section (hidden title + manual ordering) {%- endcomment -%}
+  {% assign featured = site.categories['featured-projects'] | default: empty %}
+  {% if featured and featured.size > 0 %}
+    {% assign featured = featured | sort: "order" %}
+    <ul class="list blog featured-projects">
+      {% for post in featured %}
+        <li>
+          <a href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>
+            <img src="{% if post.tall_image %}/images/news/{{ post.tall_image }}{% else %}{{ post.image_tall }}{% endif %}" alt="{{ post.title }}" class="tall" />
+            <img src="{% if post.wide_image %}/images/news/{{ post.wide_image }}{% else %}{{ post.image_wide }}{% endif %}" alt="{{ post.title }}" class="wide" />
+          </a>
+          <div class="blog-text">
+            <h2>
+              <a class="post-link" href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>{{ post.title }}</a>
+            </h2>
+            {% if post.subtitle %}<h3>{{ post.subtitle }}</h3>{% endif %}
+            {% if page.url contains "news" %}
+              <h4>{% if post.date %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.post_date }}{% endif %}</h4>
+            {% endif %}
+            <p>{{ post.preview }}</p>
+            <p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>{% endif %}</p>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  {%- comment -%} 2.5) Your Past Projects header (inserted AFTER featured, BEFORE main list) {%- endcomment -%}
+  <hr><br/><br/>
+  <div class="projects-head">
+    <h2>Past Projects</h2>
+    <p>Francis spent over 20 years working with his father the eminent classical architect Quinlan Terry. The projects below were designed under that partnership.</p>
+  </div>
+
+  {%- comment -%} 3) Projects list, excluding any that are also featured {%- endcomment -%}
+  <ul class="list blog">
+    {% for post in site.categories['projects'] %}
+      {% unless post.categories contains 'featured-projects' %}
+        <li>
+          <a href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>
+            <img src="{% if post.tall_image %}/images/news/{{ post.tall_image }}{% else %}{{ post.image_tall }}{% endif %}" alt="{{ post.title }}" class="tall" />
+            <img src="{% if post.wide_image %}/images/news/{{ post.wide_image }}{% else %}{{ post.image_wide }}{% endif %}" alt="{{ post.title }}" class="wide" />
+          </a>
+          <div class="blog-text">
+            <h2>
+              <a class="post-link" href="{% if post.linkout %}{{ post.linkout }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" alt="{{ post.title }}" {% if post.linkout %}target="_blank"{% endif %}>{{ post.title }}</a>
+            </h2>
+            {% if post.subtitle %}<h3>{{ post.subtitle }}</h3>{% endif %}
+            {% if page.url contains "news" %}
+              <h4>{% if post.date %}{{ post.date | date: "%B %Y" }}{% else %}{{ post.post_date }}{% endif %}</h4>
+            {% endif %}
+            <p>{{ post.preview }}</p>
+            <p>{% if post.linkout %}<a class="post-link" href="{{ post.linkout }}" target="_blank">Read the full article</a>{% else %}<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read more</a>{% endif %}</p>
+          </div>
+        </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+{% endif %}
 
 {% if page.url == "/category/urbanism/" %}
-{% include urbanism-additional.html %}
+  {% include urbanism-additional.html %}
 {% endif %}
