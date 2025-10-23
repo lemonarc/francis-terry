@@ -57,7 +57,7 @@
   <meta name="twitter:site" content="@FTerryArchitect">
   <meta name="twitter:image" content="https://ftanda.co.uk/images/projects/ferne-park-summerhouse/social.jpg">
   <meta name="twitter:creator" content="@FTerryArchitect">
-  <link rel="stylesheet" href="/css/main.css?1761217274310639596">
+  <link rel="stylesheet" href="/css/main.css?1761230825072887025">
   <link rel="canonical" href="https://ftanda.co.uk/2020/03/12/projects-summerhouse-in-wiltshire/">
   <link rel="alternate" type="application/rss+xml" title="Francis Terry and Associates" href="https://ftanda.co.uk/feed.xml">
   <link href='//fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
@@ -67,7 +67,7 @@
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
   <script type="text/javascript" src="//code.jquery.com/jquery-latest.min.js"></script>
   <script type="text/javascript" src="/js/fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
-  <link rel="stylesheet" href="/js/fancybox/source/jquery.fancybox.css?v=2.1.5?1761217274310639596" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/js/fancybox/source/jquery.fancybox.css?v=2.1.5?1761230825072887025" type="text/css" media="screen" />
   
   <script type="text/javascript" src="/js/fancybox/source/jquery.fancybox.pack.edit.js?v=2.1.5"></script>
   <script type="text/javascript" async defer src="//assets.pinterest.com/js/pinit.js"></script>
@@ -343,57 +343,34 @@
 	
 
 		
-				
 		
-		
-		
-		
-		
-		<script type="text/javascript">
-			$(document).ready(function() {
-				$(".fancybox")
-				.attr('rel', 'gallery')
-				.fancybox({
-					beforeShow: function () {
-						if (this.title) {
-							// New line
-							this.title += '<br />';
-						} else {
-							this.title = '';
-						}
-                
-							//Add Social div
-							this.title += '<li class="social-overlay">';
-							
-							// Add FaceBook button
-							this.title += '<a href="https://facebook.com/sharer.php?u=' + window.location.origin + this.href + '" class="sharing-image-fancybox fb" rel="nofollow" target="_blank" title="Share on Facebook"><img src="/images/social/f-share.svg" alt="Share on Facebook" class="social-icon social-wide" /><img src="/images/social/f-share-s.svg" alt="Share on Facebook" class="social-icon social-narrow" /></a>';
-							
-							// Add tweet button
-							this.title += '<a href="https://twitter.com/intent/tweet?url=' + encodeURI(window.location.origin + this.href) + '" class="sharing-image-fancybox tweet" data-count="none"><img src="/images/social/x-share.svg" alt="Share on Twitter" class="social-icon social-wide" /><img src="/images/social/x-share-s.svg" alt="Share on Twitter" class="social-icon social-narrow" /></a>';
-							
-							// Add Google+ button
-							// this.title += '<a href="https://plus.google.com/share?url=' + window.location.origin + this.href + '" class="sharing-image-fancybox gplus" rel="nofollow" target="_blank" title="Share on Google+"><img src="/images/social/social-sharing-button-plus.png" alt="Share on Google+" class="social-icon social-wide" /><img src="/images/social/social-sharing-icon-plus.png" alt="Share on Google+" class="social-icon social-narrow" /></a>';
-							
-							// Add Pinterest button
-							//<a href="https://www.pinterest.com/pin/create/button/" data-pin-do="buttonBookmark"></a>
-							this.title += '<a href="http://pinterest.com/pin/create/button/?url=' + window.location.origin + this.href + '" class="sharing-image-fancybox pin last" rel="nofollow" target="_blank" title="Share on Pinterest"><img src="/images/social/p-share.svg" alt="Share on Pinterest" class="social-icon social-wide" /><img src="/images/social/p-share-s.svg" alt="Share on Pinterest" class="social-icon social-narrow" /></a>';
-							
-							//Close social-overlay div and fancybox-title div
-							this.title += '</li></ul></div><div class="clearfix"></div>';
-      
-					},
-					helpers : {
-						title : {
-                type: 'inside'
-            }
-					}  
-				});
-			});
-		</script>
-		
-		
-		
-		
+
+
+
+
+<!-- Fancybox (no social links) -->
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".fancybox")
+      .attr('rel', 'gallery')
+      .fancybox({
+        beforeShow: function () {
+          // Retain existing title behaviour but remove social share elements
+          if (this.title) {
+            this.title += '<br />';
+          } else {
+            this.title = '';
+          }
+        },
+        helpers : {
+          title : {
+            type: 'inside'
+          }
+        }
+      });
+  });
+</script>
+
 
 		
 		
