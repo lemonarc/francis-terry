@@ -6,8 +6,8 @@
 </description>
     <link>https://ftanda.co.uk/</link>
     <atom:link href="https://ftanda.co.uk/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Oct 2025 14:00:00 +0000</pubDate>
-    <lastBuildDate>Tue, 21 Oct 2025 14:00:00 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Oct 2025 11:01:14 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Oct 2025 11:01:14 +0000</lastBuildDate>
     <generator>Jekyll v4.0.1</generator>
     
       <item>
@@ -62,6 +62,10 @@
         <link>https://ftanda.co.uk/projects/orangery-in-norfolk/</link>
         <guid isPermaLink="true">https://ftanda.co.uk/projects/orangery-in-norfolk/</guid>
         
+        
+        <category>projects</category>
+        
+        <category>featured-projects</category>
         
       </item>
     
@@ -203,6 +207,10 @@ full curtains at the windows and good quality upholstered furniture with touches
         <guid isPermaLink="true">https://ftanda.co.uk/projects/house-in-wiltshire/</guid>
         
         
+        <category>projects</category>
+        
+        <category>featured-projects</category>
+        
       </item>
     
       <item>
@@ -308,6 +316,10 @@ full curtains at the windows and good quality upholstered furniture with touches
         <link>https://ftanda.co.uk/projects/house-in-suffolk/</link>
         <guid isPermaLink="true">https://ftanda.co.uk/projects/house-in-suffolk/</guid>
         
+        
+        <category>projects</category>
+        
+        <category>featured-projects</category>
         
       </item>
     
@@ -420,6 +432,10 @@ full curtains at the windows and good quality upholstered furniture with touches
         <link>https://ftanda.co.uk/projects/house-in-hampshire/</link>
         <guid isPermaLink="true">https://ftanda.co.uk/projects/house-in-hampshire/</guid>
         
+        
+        <category>projects</category>
+        
+        <category>featured-projects</category>
         
       </item>
     
@@ -574,6 +590,10 @@ full curtains at the windows and good quality upholstered furniture with touches
         <link>https://ftanda.co.uk/projects/castle-howard/</link>
         <guid isPermaLink="true">https://ftanda.co.uk/projects/castle-howard/</guid>
         
+        
+        <category>projects</category>
+        
+        <category>featured-projects</category>
         
       </item>
     
