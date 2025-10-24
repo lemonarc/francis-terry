@@ -504,6 +504,8 @@ header, .page-content { max-width: 160rem; margin-left: auto; margin-right: auto
 
 /* Posts
 ==================== */
+.post-page { margin: 0 auto; }
+
 .post-header { margin-bottom: 3rem; }
 
 .post-title { font-size: 42px; letter-spacing: -1px; }
