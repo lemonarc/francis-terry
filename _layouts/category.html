@@ -6,8 +6,8 @@ article: article
 {% assign current_cat = page.category %}
 
 {% if current_cat == "projects" %}
-  {%- comment -%} 1) Recent projects include {%- endcomment -%}
-  {%- comment -%} include recent-projects.html {%- endcomment -%}
+  {%- comment -%} 1) Recent projects include
+  include recent-projects.html {%- endcomment -%}
 
   {%- comment -%} 2) Featured Projects section (hidden title + manual ordering) {%- endcomment -%}
   {% assign featured = site.categories['featured-projects'] | default: empty %}
@@ -36,12 +36,12 @@ article: article
     </ul>
   {% endif %}
 
-  {%- comment -%} 2.5) Past Projects header (AFTER featured, BEFORE main list) {%- endcomment -%}
+  {%- comment -%} 2.5) Past Projects header (AFTER featured, BEFORE main list)
   <hr><br/><br/>
   <div class="projects-head">
     <h2>Past Projects</h2>
     <p>Francis spent over 20 years working with his father the eminent classical architect Quinlan Terry. The projects below were designed under that partnership.</p>
-  </div>
+  </div> {%- endcomment -%}
 
   {%- comment -%} 3) Projects list, excluding any that are also featured {%- endcomment -%}
   <ul class="list blog">
