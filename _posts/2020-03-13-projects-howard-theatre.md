@@ -1,11 +1,11 @@
 ---
 layout: post
-categories: [projects]
+# categories: [projects]
 title: Howard Theatre
 excerpt: "Howard Theatre, built in 2009-10 of Ketton stone, completes Howard Court of which Quinlan and Francis Terry built the north and west sides in 1986 and 1994 respectively."
 preview: "Howard Theatre, built in 2009-10 of Ketton stone, completes Howard Court of which Quinlan and Francis Terry built the north and west sides in 1986 and 1994 respectively."
 post_date: 2000-02-04
-permalink: /projects/howard-theatre/
+# permalink: /projects/howard-theatre/
 image_tall: /images/projects/howard-theatre/tall.jpg
 image_wide: /images/projects/howard-theatre/wide.jpg
 social_image: /images/projects/howard-theatre/social.jpg

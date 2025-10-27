@@ -1,10 +1,10 @@
 ---
 layout: post
-categories: [projects]
+# categories: [projects]
 title: Retirement Homes
 excerpt: "Completed in 2010 this startling curved façade, thirty-one bays long, takes the form of a crescent that was suggested by Francis Terry as a way of solving the problem posed by the tight site with treas."
 preview: "Completed in 2010 this startling curved façade, thirty-one bays long, takes the form of a crescent that was suggested by Francis Terry as a way of solving the problem posed by the tight site with treas."
-permalink: /projects/danbury/
+# permalink: /projects/danbury/
 post_date: 2010-06-06
 image_tall: /images/projects/danbury/tall.jpg
 image_wide: /images/projects/danbury/wide.jpg

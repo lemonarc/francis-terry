@@ -1,10 +1,10 @@
 ---
 layout: post
-categories: [projects]
+# categories: [projects]
 title: The Oratory
 excerpt: "The Oratory, which is the first religious building at Poundbury, is a modest but elegant chapel of yellow stock brick with an entrance front defined by four stone pilasters."
 preview: "The Oratory, which is the first religious building at Poundbury, is a modest but elegant chapel of yellow stock brick with an entrance front defined by four stone pilasters."
-permalink: /projects/the-oratory/
+# permalink: /projects/the-oratory/
 post_date: 2006-08-08
 image_tall: /images/projects/the-oratory/tall.jpg
 image_wide: /images/projects/the-oratory/wide.jpg

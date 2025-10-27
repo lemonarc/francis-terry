@@ -1,11 +1,11 @@
 ---
 layout: post
-categories: [projects, urbanism]
+# categories: [projects, urbanism]
 title: "264-267 Tottenham Court Road, London"
 excerpt: "The London Borough of Camden was wise enough to suggest that the replacement for this Victorian Gothic building should be in harmony with these two classical neighbours. The original proposal was designed by Quinlan Terry following the first meeting, and the final scheme varied little from this."
 preview: "The London Borough of Camden was wise enough to suggest that the replacement for this Victorian Gothic building should be in harmony with these two classical neighbours. The original proposal was designed by Quinlan Terry following the first meeting, and the final scheme varied little from this."
 post_date: 2000-02-03
-permalink: /projects/tottenham-court-road/
+# permalink: /projects/tottenham-court-road/
 image_tall: /images/projects/tottenham-court-road/tall.jpg
 image_wide: /images/projects/tottenham-court-road/wide.jpg
 social_image: /images/projects/tottenham-court-road/social.jpg
