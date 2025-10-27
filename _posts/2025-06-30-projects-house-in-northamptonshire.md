@@ -68,13 +68,13 @@ The north side has fewer windows altogether, but a centrally placed door, and, w
 
 <ul class="list">
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/house-in-northamptonshire/02.jpg" title="{{ page.title }}">
-			<img src="/images/projects/house-in-northamptonshire/thumbs/02.jpg" alt="{{ page.title }}">
+		<a class="fancybox" rel="group" href="/images/projects/house-in-northamptonshire/05.jpg" title="{{ page.title }}">
+			<img src="/images/projects/house-in-northamptonshire/thumbs/05.jpg" alt="{{ page.title }}">
 		</a>
 	</li>
 	<li class="half">
-		<a class="fancybox" rel="group" href="/images/projects/house-in-northamptonshire/02.jpg" title="{{ page.title }}">
-			<img src="/images/projects/house-in-northamptonshire/thumbs/02.jpg" alt="{{ page.title }}">
+		<a class="fancybox" rel="group" href="/images/projects/house-in-northamptonshire/06.jpg" title="{{ page.title }}">
+			<img src="/images/projects/house-in-northamptonshire/thumbs/06.jpg" alt="{{ page.title }}">
 		</a>
 	</li>
 </ul>
