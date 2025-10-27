@@ -7,7 +7,7 @@ article: article
 
 {% if current_cat == "projects" %}
   {%- comment -%} 1) Recent projects include {%- endcomment -%}
-  {% include recent-projects.html %}
+  {%- comment -%} include recent-projects.html {%- endcomment -%}
 
   {%- comment -%} 2) Featured Projects section (hidden title + manual ordering) {%- endcomment -%}
   {% assign featured = site.categories['featured-projects'] | default: empty %}
