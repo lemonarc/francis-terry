@@ -1017,6 +1017,8 @@ ul.publications p { text-align: justify; }
 
 .videoWrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
+.videoWrapper-fallback { margin-top: 1rem; text-align: center; }
+
 .erechtheion-video { background: #000; text-align: center; width: 100%; }
 
 .erechtheion-video iframe { margin: 0 auto; height: 360px; width: 640px; }
