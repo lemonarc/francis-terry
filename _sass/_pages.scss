@@ -957,19 +957,32 @@ ul.publications p {
 	}
 }
 /* Erechtheion essay */
+.videos-page .wrapper {
+        max-width: 1200px;
+        width: 100%;
+
+        @include media-query($on-laptop) {
+                padding-right: $unit / 2;
+                padding-left: $unit / 2;
+        }
+}
 .videoWrapper {
-	margin-bottom: $unit*2;
-	position: relative;
-	padding-bottom: 56.25%; /* 16:9 */
-	padding-top: 25px;
-	height: 0;
+        margin-bottom: $unit*2;
+        position: relative;
+        padding-bottom: 56.25%; /* 16:9 */
+        padding-top: 25px;
+        height: 0;
 }
 .videoWrapper iframe {
-	position: absolute;
-	top: 0;
-	left: 0;
-	width: 100%;
-	height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+}
+.videoWrapper-fallback {
+        margin-top: $unit;
+        text-align: center;
 }
 .erechtheion-video {
 	background: $black;
