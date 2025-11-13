@@ -7,8 +7,19 @@ permalink: /taster-day/
 ---
 
 <div class="videoWrapper">
-	<iframe src="https://www.youtube.com/embed/GDSTglIKgUU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen alt="The NPPF paragraph 84e planning legislation clause explained by Francis Terry and Martin Leay discuss. The clause permits exceptional new houses in the country."></iframe>
+	<iframe
+		src="https://www.youtube-nocookie.com/embed/GDSTglIKgUU?rel=0&modestbranding=1"
+		title="Francis Terry explains what happens during a Taster Day"
+		loading="lazy"
+		frameborder="0"
+		allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+		allowfullscreen
+		referrerpolicy="strict-origin-when-cross-origin"
+	></iframe>
 </div>
+<p class="videoWrapper-fallback">
+	Can't see the video? <a href="https://www.youtube.com/watch?v=GDSTglIKgUU" rel="noopener" target="_blank">Watch it on YouTube</a>.
+</p>
 
 ## How do you get an architect to design the house of your dreams?
 
